@@ -1,0 +1,919 @@
+SOCIOLOGIE ET HISTOIRE: LA CONTRIBUTION DE DURKHEIM
+Author(s): MASSIMO BORLANDI
+Source: Revue européenne des sciences sociales, T. 55, No. 2, ÉMILE DURKHEIM 1917-2017
+(2017), pp. 83-104
+Published by: Librairie Droz
+Stable URL: https://www.jstor.org/stable/26624229
+Accessed: 20-04-2021 13:59 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Librairie Droz is collaborating with JSTOR to digitize, preserve and extend access to Revue
+européenne des sciences sociales
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+SOCIOLOGIE ET HISTOIRE:
+LA CONTRIBUTION DE DÜRKHEIM
+MASSIMO BORLANDI
+Université de Turin - DCPS
+mgb.borlandi@gmail.com
+
+Résumé. Selon Dürkheim, un phénomène social n'est expliqué que si l'on remonte
+
+à ses origines. Cela met en lumière la façon dont il conçoit les relations entre la
+sociologie et l'histoire. Une attention particulière vise à cerner ce que Dürkheim
+comprend par « méthode comparative ».
+Mots-dés: Emile Dürkheim, histoire, méthode comparative, sociologie.
+
+Abstract. According to Dürkheim, a social phenomenon cannot be explained
+without going back to its origins. This sheds light on the way he perceives the rela
+tionships between sociology and history. This article aims in particular at clarifying
+what Dürkheim means by "comparative method".
+Keywords: comparative method, Émile Dürkheim, history, sociology.
+
+REVUE EUROPÉENNE DES SCIENCES SOCIALES N°55-2 - p. 83-104
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+84
+
+Dossier: Émile Dürkheim 1917-2017
+
+Les relations entre la sociologie et l'histoire, si controversées depuis qu'on
+en parle, sont réglées par les deux sens que le mot « histoire » prend dans les
+principales langues. Ce terme désigne tant le passé, c'est-à-dire l'accumulation
+des faits qui nous précèdent (les res gestae des Latins), que le récit de ces mêmes
+faits, c'est-à-dire la discipline qui les étudie (l'historia rerum gestarum, l'histoire
+profession des historiens). Si on met en rapport la sociologie avec l'histoire au
+sens du passé, on est amené à se demander quelle est la part qui revient au passé
+dans l'explication des phénomènes sociaux. Un phénomène social, tel qu'on le
+connaît aujourd'hui, est-il l'aboutissement de ce qu'il était hier ? Faut-il, pour
+en rendre compte, se renseigner sur ses états antérieurs ? Par contre, si on met
+
+en rapport la sociologie avec l'histoire au sens de la discipline qui étudie le
+passé, ce rapprochement consiste à montrer sous quels aspects les deux savoirs
+diffèrent. Qu'est-ce qui sépare les métiers de sociologue et d'historien ?
+Émile Dürkheim discute ces deux manières de relier la sociologie à l'histoire,
+qu'il mélange somme toute moins que d'autres savants, dans une trentaine de
+textes et à différentes occasions. Ses certitudes sont les suivantes. La part qu'il faut
+faire au passé dans l'explication sociologique est grande, d'autant plus grande
+que les phénomènes à expliquer sont des institutions, i.e. des normes de compor
+tement et des croyances constituées par les collectivités. «Science des institu
+tions» (Dürkheim, 1947 [189s], p.xxii), la sociologie ne les aura pas vraiment
+comprises tant qu'elle n'aura pas établi d'où elles viennent, comment elles sont
+nées. Une «méthode comparative» (sans conteste le chapitre le plus complexe
+de l'œuvre de Dürkheim) permettra au sociologue de traduire en procédés véri
+fiables l'étude de la genèse des institutions ainsi envisagée. Quant aux différences,
+ou aux ressemblances, entre la sociologie et l'histoire récit, Dürkheim distingue
+l'objet et la méthode de cette dernière. L'objet, ce sont des événements particu
+liers, propres à un endroit ou à une époque donnés, ou bien des faits généraux,
+i.e. répandus. La méthode est l'érudition. Un fait général étant une institution,
+l'originalité de la sociologie par rapport à l'histoire est destinée à se réduire à
+mesure que l'histoire s'intéresse aux faits généraux et délaisse les événements
+particuliers. De plus, c'est seulement grâce à l'érudition des historiens que les
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+85
+
+sociologues comparatistes peuvent espérer atteindre des résultats - cas non rare
+d une méthode qui en implique une autre.
+Je présenterai les thèses de Dürkheim sur l'explication sociologique conçue
+comme recours au passé dans les sections 1-3 et celles sur les convergences de
+la sociologie et de l'histoire dans la section 4.
+
+I. EXPLIQUER, EN SOCIOLOGIE, C'EST REMONTER AU PASSÉ
+C'est dans la leçon d'ouverture du cours de 1888-1889 sur la famille, deuxième
+cours public de Dürkheim à Bordeaux, que l'idée que le passé éclaire le présent
+(aussi ancienne que l'idée contraire, selon laquelle le présent est la clé du passé)
+prend la valeur d'un axiome fondateur. Dürkheim informe que le recensement
+des types de famille auquel il va se consacrer, pour la plupart disparus, n'est pas
+une fin en soi. Bien au contraire, « de cette étude du passé se dégagera une expli
+cation du présent qui deviendra de plus en plus complète, à mesure que nous
+avancerons dans nos recherches.» (1888b, p. 15). En effet, «la famille moderne
+contient en elle-même, comme en raccourci, tout le développement historique
+de la famille », de sorte que, pour chaque espèce familiale identifiée, on essaiera
+d'établir «ce qu'elle peut avoir de commun avec la famille d'aujourd'hui et ce
+quelle en explique.» (ibid.). «Si loin que nous remontions dans le passé nous ne
+perdons jamais le présent de vue. » (ibid., p. 16).
+De même, la préface du volume 2 de L'Année sociologique énonce que « Pour
+comprendre le présent, il faut en sortir. » (1899, P- !39) et Ie cours de 1904-1905
+sur l'Histoire de l'enseignement secondaire en France maintient que «c'est dans le passé
+
+que l'on trouve les éléments dont est formé le présent» (1969b [1938], p. 2i)'.
+Séparés d'une dizaine d'années, le mémoire sur « La prohibition de l'inceste »
+et l'article « Sociologie religieuse et théorie de la connaissance » (qui finira en
+partie dans l'introduction des Formes élémentaires de la vie religieuse) assurent que
+la détermination du «point de départ» est la condition de toute explication
+sociologique réussie, sachant qu'à défaut de saisir ce point, il va de soi qu'il
+s'agira au moins de tâcher de s'en approcher.
+I Voir également 1906b, p. 125-127; 1906c, p.258; 1914b, p. 315.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+86
+
+Dossier: Emile Dürkheim 1917-2017
+
+[P]our bien comprendre une pratique ou une institution, une règle juridique
+ou morale, il est nécessaire de remonter aussi près que possible de ses origines
+premières ; car il y a, entre ce qu'elle est actuellement et ce qu'elle a été, une
+étroite solidarité. Sans doute comme elle s'est transformée chemin faisant, les
+
+causes dont elle dépendait dans le principe ont elles-mêmes varié ; mais ces
+transformations, à leur tour, dépendent de ce qu'était le point de départ. Il en
+
+est des phénomènes sociaux comme des phénomènes organiques ; si le sens
+dans lequel ils doivent se développer n'est pas fatalement prédéterminé par les
+propriétés qui les caractérisent à leur naissance, celles-ci ne laissent pas d'avoir
+une influence profonde sur toute la suite de leur développement. (1898b, p. 37).
+
+Toutes les fois [...] qu'on entreprend d'expliquer une chose humaine, prise
+à un moment déterminé du temps - qu'il s'agisse d'une croyance religieuse,
+d'une règle morale, d'un précepte juridique, d'une technique esthétique,
+d'un régime économique - il faut commencer par remonter jusqu'à sa forme
+la plus primitive et la plus simple, chercher à rendre compte des caractères
+par lesquels elle se définit à cette période de son existence, puis faire voir
+comment elle s'est peu à peu développée et compliquée, comment elle est
+devenue ce qu'elle est au moment considéré. Or, on conçoit sans peine de
+quelle importance est, pour cette série d'explications progressives, la déter
+mination du point de départ auquel elles sont suspendues. C'était un principe
+cartésien que, dans la chaîne des vérités scientifiques, le premier anneau joue
+
+un rôle prépondérant. (1909b, p. 735-736; 1912, p. 4-5).
+Comment se conformer à cette recommandation ? Comme suit.
+Tout phénomène social d une certaine étendue et durée découle d'un proces
+sus de composition qui consiste dans le fait que des éléments nouveaux se sont
+progressivement ajoutés à des éléments préexistants. La première chose à faire
+est de décomposer le tout ainsi formé pour qu'il soit possible d'en considérer
+les éléments séparément l'un de l'autre, c'est-à-dire les dater et évaluer l'apport
+de chacun d'eux à la modification de l'ensemble, leur importance, et avant tout
+leur taille, pouvant avoir augmenté ou diminué au fil du temps. Cela signifie que,
+pour chaque composante du phénomène à expliquer, il faut identifier la cause
+qui en a provoqué l'apparition et voir si cette cause a continué d'agir depuis, ou
+si elle perdu de sa vigueur. Au début, l'identification d'une cause prend la forme
+
+d'une concurrence entre des conjectures jusqu'à ce que l'on voie que la mise
+en rapport de l'élément concerné avec une cause présumée précise (cet antécé
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+87
+
+dent-là et aucun autre) donne des résultats : le premier change comme la seconde
+
+et au même moment qu'elle, ce qui prouve qu'il en est une conséquence. La
+cause recherchée est alors identifiée. On répète l'opération pour chaque élément
+du phénomène social en question. L'élément originaire sera évidemment le plus
+ancien rencontré et on désignera comme cause du phénomène la résultante de la
+façon dont se combinent les causes de ses composantes.
+Dira-t-on, à ce point, que le phénomène est expliqué ? Absolument pas, car
+les liaisons causales établies pourraient être fortuites et doivent être vérifiées
+en élargissant l'observation à la marche du même phénomène dans d'autres
+sociétés. Plus ce phénomène persiste depuis longtemps - et c'est bien le cas des
+normes juridiques, des mœurs et des croyances majeures qui disciplinent notre
+vie et qui sont toutes des legs de civilisations antérieures révolues -, plus il est
+opportun que l'observation soit menée sur des sociétés à la fois nombreuses et
+hétérogènes, c'est-à-dire appartenant à différents types (ou «espèces»), et qui, de
+préférence, se soient succédé. C'est seulement après quelle aura été corroborée
+par de tels rapprochements qu'une explication pourra être considérée comme
+valide. Des raccourcissements de ce procédé sont admis. On peut se borner à
+analyser des sociétés homogènes (du même type) si on est sûr que le phénomène
+à expliquer leur est contemporain (i.e., est né avec elles ou aussitôt après leur
+formation), alors que toute conclusion tirée de l'observation d'une seule société
+n'est acceptable que lorsque le phénomène visé est relativement simple et irrégu
+lièrement distribué sur la surface d'un pays, de sorte que sa mise en rapport avec
+des données agrégées locales (des variables « écologiques » dans le vocabulaire de
+la sociologie post-durkheimienne) serait tout de même explicative2.
+Rangé sous le nom de « méthode comparative », exposé dans le chapitre VI
+des Règles touchant à l'administration de la preuve (1947 [1895], p. 134-138),
+repris dans l'article «Sociologie et sciences sociales» (1909a, p. 15-6) et rappelé
+ici ou là (1898a, p. 32 et 35 ; 1901, p. 294-295 ; 1903, p. 196), ce précis des opéra
+tions à accomplir pour parvenir à la meilleure des explications sociologiques
+
+2 C'est le cas de phénomènes moraux tels la natalité, la nuptialité et le crime, qui relèvent de
+l'intensité de certains «courants d'opinion» et varient selon les villes ou les campagnes, les
+professions, l'âge et l'état civil.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+88
+
+Dossier: Émile Dürkheim 1917-2017
+
+possibles - explication axée sur la détermination du premier anneau de la
+chaîne - est esquissé encore dans la première leçon du cours sur la famille de
+1888-1889. La famille, décomposée dans ses éléments (consanguinité, mariage,
+descendance, etc.), est, en effet, l'institution à l'étude de laquelle Dürkheim
+
+s'applique le plus (Davy, 1925; Lamanna, 2002), avec les «règles de conduite
+sanctionnées», sujet du cours maintes fois réitéré sur la «physique» ou la
+«physiologie» des mœurs et du droit (1969c [1950])3. Ce n'est cependant pas
+à l'occasion de la leçon d'ouverture de décembre 1888 que les mots «méthode
+comparative» font leur apparition dans l'œuvre de Dürkheim (1888b, p. 31). Il
+les a déjà employés au début de l'année scolaire précédente : décembre 1887.
+«Chargé d'enseigner une science née d'hier et qui ne compte encore qu'un petit
+nombre de principes définitivement établis» (1888a, p. 77), Dürkheim n'hésite
+pas à inclure parmi ces principes «l'expérimentation indirecte, en d'autres termes
+la méthode comparative » (ibid., p. 100 - c'est moi qui souligne), montrant qu'il a
+dès le début les idées claires sur ce point. Même au sujet des idées de Dürkheim,
+l'on peut dire qu'on les comprend d'autant mieux qu'on en connaît les sources.
+
+2. LA MÉTHODE COMPARATIVE
+«Expérimentation indirecte» figure dans le Cours de philosophie positive, leçons
+
+40 et 48. Auguste Comte caractérise ainsi 1«analyse pathologique» ou étude
+des maladies, aussi bien des organismes vivants que des sociétés (les crises poli
+tiques), qu'il conçoit comme une façon de remédier aux difficultés de l'expéri
+mentation respectivement en biologie et en sociologie (Comte, 197s [1830-1842],
+vol. 1, p. 696-698, 741 ; vol. 2, p. 142-144). Dans les sciences, l'expérimentation
+proprement dite n'est que directe et signifie que les faits dont la répétition sert à
+tester une hypothèse sont provoqués. Mais comment les provoquer dès lors qu'il
+s'agit d'intervenir sur l'organisme individuel et l'organisme social ? Dürkheim,
+qui en décembre 1887 semble suivre Comte - lequel est convoqué 18 fois avant le
+passage que je viens de citer -, donne l'air d'inventer, lui, l'expression «expéri
+mentation indirecte» dans sa leçon d'ouverture de décembre 1888 (1888b, p. 14)
+
+3 Publié àtitre posthume d'après sa version de 1898-1900.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+89
+
+où il s'appuie sur les vues de Claude Bernard en matière d'expérience (ibid., p. 13),
+alors que, huit ans après, dans Les Règles, c'est le John Stuart Mill du System of Logic
+
+qu'il sollicite sur le même sujet. Mill, en assurant à son tour que l'expérimen
+tation est impossible dans la science sociale, exclut que ses quatre méthodes
+d'investigation expérimentale, dont celle des variations concomitantes, y soient
+applicables. La limite à la transposabilité de cette dernière méthode résiderait
+notamment dans le fait qu'un phénomène social est toujours l'effet d'une plura
+lité de causes (Mill, 1974 [1843], P- 881-8844).
+Dürkheim objecte qu'en sociologie les faits permettant de tester des hypo
+thèses s'offrent à l'observation - il suffit de savoir les repérer et les grouper
+(c'est bien en ce sens que les expériences du sociologue peuvent être qualifiées
+d'indirectes) - et que, soit le principe de causalité n'est pas univoque, soit la
+règle qui pose qu'à un même effet correspond toujours une même cause doit
+valoir également en sociologie. Après quoi, plus rien ne l'empêche de présenter
+
+sa méthode comparative comme étant le procédé qui consiste à établir que
+deux phénomènes évoluent parallèlement (parallélisme vérifié par l'étude de
+leurs variations concomitantes mise ainsi à l'abri de la remarque de manquer
+de caractère expérimental) et que leur relation (leur liaison causale) revient
+dans de nombreux contextes la plupart du temps (1947 [1895], p. 124-132). «On
+cherchera d'abord, à l'aide de la déduction, comment l'un des deux termes a pu
+produire l'autre ; puis on s'efforcera de vérifier le résultat de cette déduction à
+l'aide d'expériences, c'est-à-dire de comparaisons nouvelles.» (ibid., p. 130-131).
+Finalement, chez Dürkheim, comparer veut dire deux choses : rapprocher
+
+un effet de sa cause conjecturée (un sens des mots «comparer» et «compa
+raison» somme toute inusité et qui est on ne saurait plus périmé) ; rapprocher
+la relation (Dürkheim écrit plutôt, avec Mill, la «variation») ainsi obtenue à
+d'autres relations (variations).
+
+4 Dürkheim utilise la 3e édition (Alcan, 1889) de la traduction de Louis Peisse (Ladrange, 1866).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Dossier: Emile Dürkheim 1917-2017
+
+90
+
+Même l'expression «méthode comparative» - donc l'appellation de ce par
+quoi se traduit l'expérimentation indirecte - est d'origine comtienne et figure
+dans les leçons 40 et 48 du Cours d'ailleurs. Comte fait de la comparaison un
+troisième mode de l'exploration scientifique, après l'observation et l'expérimen
+tation. La comparaison convient d'abord à la biologie. Retenu par la sociologie,
+ce procédé change de peau et devient la « méthode historique » par laquelle le
+sociologue rapproche, marginalement, les « divers états co-existants de la société
+humaine sur [...] la surface terrestre» (Comte, 1975 [1830-1842], vol. 2, p. 146),
+et, principalement, «les divers états consécutifs de l'humanité» reliés entre eux
+par des rapports de «filiation» (ibid., p. 148-15-4, 172). Cette fois, dans les Règles,
+Dürkheim cite Comte. Il lui est impératif, comme je vais le montrer, de prendre
+ses distances avec un tel procédé, en sorte que, s'il reconnaît avoir emprunté
+au fondateur du positivisme l'expression «méthode comparative»5, c'est pour
+mieux se défendre d'en avoir adopté la méthode6. On est cependant fondé à
+
+suggérer qu'en 1887-1888 Inexpérience comparative» et 1«expérimentation
+comparative» de Claude Bernard (1984 [1865], p. 181-185, 2S3_2SÇ) ont pesé
+dans la décision de Dürkheim de se doter d'une méthode comparative7.
+Pour résumer, remonter au passé d'un phénomène social afin d'en éclairer
+le présent, c'est reconstruire l'enchaînement des causes (i.e. des antécédents
+concomitants) dont les changements résultent à chaque fois d'effets non acci
+dentels. La multiplication, théoriquement illimitée, des comparaisons que le
+procédé de Dürkheim requiert vise à démontrer le caractère régulier, et en ce
+sens nécessaire, des liaisons causales que la sociologie découvre.
+
+5 «Puisque, d'autre part, les phénomènes sociaux échappent évidemment à l'action de l'opé
+rateur [allusion à l'impossibilité de l'expérimentation directe], la méthode comparative est la
+seule qui convienne à la sociologie. Comte, il est vrai, ne l'a pas jugée suffisante; il a trouvé
+nécessaire de la compléter par ce qu'il nomme la méthode historique. » ( 1947 [ 1895], p. 124).
+
+6 À remarquer que le Lalande ne retient que la méthode comparative de Dürkheim.
+7 II est question de la comparaison comme biais permettant de surmonter l'impossibilité de
+la méthode expérimentale (experimentalis methodus) en sociologie dans la thèse latine de
+Dürkheim également (1892, p. 96).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+91
+
+3. DEUX ARGUMENTS DES RÈGLES
+Dürkheim qualifie aussi sa méthode de «génétique» (1947 [1895], p. 137 ;
+1901, p. 29s), et, plus tard, d'«historique et comparative» (1906b, p. 126) et
+d'«historique et objective» (1908b, p. 59s). A trois reprises, «histoire comparée»
+
+relaie «méthode comparative» (1900a, p. 126; 1901, p.295; 1909a,p. 153).
+L'incitation de Dürkheim à comparer n'en demeure pas moins parfois assez
+vague dans la mesure où il ne détaille pas toujours l'ensemble des opérations,
+laborieuses, qu'il souhaite voir accomplies ; sans compter que, à la fin, il est le
+premier à transgresser ses propres prescriptions, comme dans les Formes élémen
+taires où il compare en profondeur mais non pas en extension, puisque son
+analyse se borne à l'étude de quelques sociétés australiennes9. Ces hésitations
+ne portent pas préjudice à la place que la méthode comparative occupe dans
+la hiérarchie des règles durkheimiennes de la méthode. Elle en est fermement
+au sommet : « La sociologie comparée n'est pas une branche particulière de
+la sociologie ; c'est la sociologie même, en tant qu'elle cesse d'être purement
+
+descriptive et aspire à rendre compte des faits.» (1947 [1895], p. 137); «On
+n'explique qu'en comparant. » (1897a, p. 1) ; « La méthode comparative est [...]
+l'instrument, par excellence, de la méthode sociologique. » (1909a, p. 156).
+La prééminence que Dürkheim assigne à la méthode comparative soulève
+le problème de la compatibilité des énoncés par lesquels il la défend avec deux
+arguments dont il fait état, notamment dans les Règles. Le premier est que le
+passé est pour peu de choses dans le cours de l'histoire. Dürkheim est-il donc en
+contradiction avec ses propres propos ? Le second argument est que les phéno
+mènes sociaux remplissent le plus souvent des fonctions, i.e. des fins utiles, qu'on
+ne saurait négliger dans l'analyse. La fonction concurrence-t-elle donc la cause
+dans l'explication sociologique ? Ces deux arguments sont de différente valeur.
+Le premier fait difficulté depuis toujours (voir Davy, 1949, p. 346-349). Sa consis
+tance est objective de même que ses implications : il amène à interroger les sens
+
+8 Ce petit texte, réponse à une enquête dirigée par Rodolphe Broda, se compose pour la
+plupart d'extraits de 1909a, à paraître.
+
+9 Et nord-américaines évoquées «à titre complémentaire» (1912, p. 138).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+92
+
+Dossier: Émile Dürkheim 1917-2017
+
+dans lesquels Dürkheim emploie les termes de la division passé-présent, qui est
+l'axe de son raisonnement. Le second argument est une découverte tardive des
+spécialistes. On n'en parlait pas avant la lecture fonctionnaliste de Dürkheim et il
+est vite devenu l'objet d'une surestimation. Néanmoins son appréciation est loin
+d'être vaine. Commençons par le premier argument, le passé délaissable.
+
+Ce passé est celui des philosophies de l'histoire. Elles le comprennent
+comme une force, une vis a tergo, écrit Dürkheim en adaptant un passage de sa
+thèse latine, qui pousse les sociétés vers une direction certaine. C'est à cette
+occasion que Dürkheim blâme la méthode historique de Comte et l'idée de ce
+dernier selon laquelle la civilisation est une succession prédéterminée d'états
+ou stades. Si l'on s'en tient à cette conception, le passé est lié au présent par
+un rapport purement chronologique. Des faits se succèdent sans qu'on en voie
+l'origine, tandis qu'on ne rend compte d'un fait qu'à condition de le rattacher
+
+à un autre fait (1947 [1895], p. 116-117; 1906a, p. 198). Pas d'impasses alors
+dans la démarche de Dürkheim, car, bien qu'il lui arrive, on l'a vu, d'évoquer
+le passé (et le présent) en général, Dürkheim ne s'intéresse qu'au passé (et au
+
+présent) de phénomènes sociaux donnés, un à la fois. Voici comment il se
+résume lors d'un débat de juin 1914 à la Société française de philosophie : «Je
+crois et j'ai dit bien souvent que les nouveautés qui se sont produites au cours de
+l'évolution sociale ne sont pas un legs du passé. Le passé ne crée pas ; il ne peut
+que transmettre ce qui a été créé. Ses créations ne peuvent être l'œuvre que
+des vivants associés et coopérant, partant des contemporains.» (1914a, p. 69).
+
+Comment les contemporains - associés et coopérant - suscitent-ils les
+changements sociaux ? Par quelles causes, enfin, la sociologie explique-t-elle ?
+S'il est question de la singularité de ces mêmes causes, cas par cas, il va de soi
+qu'on ne les connaîtra jamais à l'avance. Par contre, s'il s'agit de leur nature, on
+
+sait - Dürkheim sait - où les chercher. Les causes des innovations qui s'opè
+rent au cours de l'histoire résident sans exception dans la structure morpho
+
+logique ou «milieu interne» des sociétés, c'est-à-dire dans la façon dont les
+groupes et, au sein des groupes, les individus se disposent réciproquement,
+les groupes pouvant s'entremêler jusqu'à fusionner et les individus, plus ou
+
+moins nombreux, se rapprocher jusqu'à la contiguïté. Dürkheim assimilant
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+93
+
+les groupes à des segments, selon une métaphore usitée, la fusion des groupes
+
+est aussi désignée par lui comme «coalescence» des segments sociaux. Cela
+d'après la «loi de gravitation du monde social», formulée dans De la Division du
+travail social, qui assure que les sociétés changent d'autant plus vite qu'elles sont
+volumineuses et densifiées (1902a [1893], p. 330, n.i). Faute de cet ancrage au
+milieu interne, la sociologie n'est pas en mesure de constituer des rapports de
+causalité : « [...] cet ordre de causes écarté, il n'y a pas de conditions concomi
+tantes dont puissent dépendre les phénomènes sociaux» (1947 [1895], p. 115;
+voir 1897b, p. 250; 1899, p. 136). Le cheminement d'un phénomène social se
+dessine alors de la façon suivante : après qu'un mouvement du milieu interne
+l'a engendré, une nouvelle modification de ce milieu en change un aspect ou y
+ajoute quelque chose jusqu'à ce qu'une autre modification intervienne pour l'af
+fermir ou le transformer, etc. C'est ainsi que Dürkheim ne prescrit pas au hasard
+de comparer en tenant compte des types (ou espèces) de sociétés (comme je l'ai
+rappelé plus haut). Les types sociaux sont en effet identifiés par le nombre et le
+degré de coalescence de leurs segments (1947 [1895], p. 80-81, 85-86).
+
+À l'idée du passé comme contrainte et à celle, corrélative, du présent
+comme transition vers l'avenir («gros de l'avenir»), Dürkheim oppose l'idée
+du passé et du présent comme fractions du temps linéaire pendant lesquelles
+ont lieu des événements. Cela n'est pas explicite mais la logique n'admet pas de
+solution de remplacement. À l'instar de la plupart des utilisateurs de la dichoto
+mie passé-présent, Dürkheim ne définit pas les termes par lesquels il indique les
+deux notions que cette polarité confronte (voir, par exemple, 1898b, p. 37-38 ;
+1911, p. 436; 1969b [1938], p. 21). Le principe de cohérence peut suppléer ces
+lacunes, suppléance d'autant plus facile que la pensée de Dürkheim est systé
+matique. Il n'y a pas une seule ligne dans l'œuvre de Dürkheim qui aille contre
+
+l'évidence que tout présent est déjà passé. Le présent s'écoule au moment
+même où on l'observe. En revanche, tout, dans les pages de Dürkheim sur la
+méthode de la sociologie, mène à la conclusion que le présent ne peut être un
+objet autonome d'étude : si l'explication des faits qui s'y produisent demande
+que l'on remonte à leur passé, même le plus éloigné (à leurs causes premières),
+une connaissance du présent séparée de celle du passé est impossible.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Dossier: Émile Dürkheim 1917-2017
+
+94
+
+Pour ce qui est du second argument de Dürkheim justiciable d'un jugement
+
+d'incompatibilité avec les présupposés de sa méthode comparative, à savoir
+que la sociologie doit s'intéresser aux fonctions des phénomènes sociaux, le
+contraste résiderait dans le fait que l'explication par les causes et l'explication
+par les fonctions sont deux contraires. Les textes de Dürkheim sont toutefois
+exempts d'ambiguïtés. Sa thèse de doctorat démarre par la question de savoir
+quelle est «la fonction» de la division du travail et, encore en 1909, il écrit
+
+que «les principaux problèmes de la sociologie consistent à rechercher de
+quelle manière s'est constituée une institution [...], quelles causes l'ont susci
+
+tée, à quelles fins utiles elle répond.» (1909a, 153). Mais la détermination
+des causes est prioritaire et suffit. La genèse et les progrès de la division du
+travail relèvent en effet de causes bien précises dont Dürkheim dresse la liste
+(1902a [1893], Livre II). «Faire voir à quoi un fait est utile n'est pas expliquer
+comment il est né ni comment il est ce qu'il est. Car les emplois auxquels il
+sert supposent les propriétés spécifiques qui le caractérisent, mais ne le créent
+
+pas.» (1947 [1895], p. 90; voir aussi 1895b, p. 85]). Ce que la fonction d'un
+phénomène peut contribuer à élucider, une fois qu'on l'a séparée de «la cause
+efficiente qui le produit» (1947 [1895], p. 97), c'est la vitalité ou la durée de
+ce même phénomène : «En effet, si l'utilité du fait n'est pas ce qui le fait être,
+il faut généralement qu'il soit utile pour pouvoir se maintenir. » (ibid., p. 96).
+C'est ainsi que dans les Formes élémentaires la fonction des rites est de renforcer la
+
+cause des croyances religieuses dont ils sont la manifestation, cette cause étant
+le resserrement moral des groupes. Rien mieux que le désaccord de Dürkheim
+avec l'explication par les fonctions (le mot fonctionnalisme ne s'est pas encore
+propagé, mais la chose est là10) prouve combien, d'après lui, un phénomène
+social est d'abord expliqué par son histoire.
+
+10 « La plupart des sociologues croient avoir rendu compte des phénomènes une fois qu'ils
+ont fait voir à quoi ils servent, quel rôle ils jouent. On raisonne comme s'ils n'existaient
+qu'en vue de ce rôle et n'avaient d'autre cause déterminante que le sentiment, clair ou
+confus, des services qu'ils sont appelés à rendre. » (1947 [1895], p. 89). La formulation est
+presque identique in 1895b, p. 85.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+95
+
+4.«L'HISTOIRE SCIENTIFIQUE OU SOCIOLOGIE»
+Dürkheim plaide pour ce qui semble une alliance paritaire (mais ne l'est
+pas) entre la sociologie et l'histoire dès ses premiers écrits (1888a, p. 108). La
+coopération qu'il envisage est apte à déboucher sur une unification, après une
+fédération temporaire.
+Aucune de ces deux sciences n'aurait [...] à exercer de suprématie sur l'autre,
+
+mais il y aurait entre elles une suite d'actions et de réactions jusqu'à ce que
+l'équilibre, c'est-à-dire l'entente, finît par s'établir. (1888b, p. 31).
+
+Ainsi, bien loin qu'elles soient en antagonisme, ces deux disciplines tendent
+naturellement l'une vers l'autre, et tout fait prévoir qu'elles sont appelées à se
+confondre en une discipline commune où les éléments de l'une et de l'autre se
+retrouveront combinés et unifiés. (1898a, p. 33).
+[E]ntre l'histoire et la sociologie il n'y a pas de cloison étanche (1904, p. 242).
+[HJistoire et sociologie sont deux disciplines étroitement parentes et destinées
+à se confondre de plus en plus. (1907, p. 244).
+Nous n'avons pas à nous expliquer ici sur ce que seront dans l'avenir les rapports
+de la sociologie et de l'histoire ; nous sommes convaincu qu'ils sont destinés à
+devenir toujours plus intimes et qu'un jour viendra où l'esprit historique et l'es
+prit sociologique ne différeront plus que par des nuances. (1909a, p. 157, n. 1).
+
+Tout ce qui rentre sous le nom d'histoire ne se prête pourtant pas à l'alliance
+avec la sociologie. Dürkheim ne prend qu'une partie des connaissances fournies
+par les historiens et laisse le reste. Pourvus d'une formation littéraire (et non pas
+scientifique), enclins à décrire (et non pas à expliquer), les historiens, producteurs
+de monographies et biographies, s'attachent à rapporter des faits particuliers et
+singuliers (guerres, luttes politiques, exploits de grands et petits personnages) mais
+ignorent ceux qui sont généraux et similaires, c'est-à-dire ce qu'il y a de stable et
+d'uniforme sous la multiplicité des situations humaines. Ils s'arrêtent à la surface,
+aux «incidents extérieurs» qui revêtent, cachent la constitution des sociétés; et
+comme ces faits, de par leur hétérogénéité et intermittence, ne sont pas suscep
+tibles d'entrer dans des comparaisons, la sociologie n'a aucun intérêt à les retenir
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+96
+
+Dossier: Emile Dürkheim 1917-2017
+
+(1885, p. 348 ; 1887, p. 340-342 ; 1947 ['89S], P- 77-78 ; 1898a, passim ; 1900b, p. 33 ;
+
+1909a, p. 155-156; Dürkheim et Fauconnet, 1903, p. 146-147). Le 28 mai 1908,
+intervenant suite à une communication de Charles Seignobos à la Société fran
+çaise de philosophie, Dürkheim taxe de «poussière d'événements désordonnés»
+le domaine habituel de l'histoire. Celui de la sociologie, composé des «manières
+de penser ou d'agir fixées et organisées», s'en écarte nettement (1908a, p. 212).
+Mais les choses bougent même chez les adeptes de Clio. Les comparatistes
+y ont fait leur apparition. C'est d'abord le cas d'Albert Hermann Post, fonda
+teur de l'histoire comparée du droit dont Dürkheim a rencontré l'œuvre en
+Allemagne, en 1886. Ce dernier y ajoute Henry Sumner Maine, Josef Köhler,
+
+Sebald R. Steinmetz et, un peu à part, Numa-Denis Fustel de Coulanges.
+Appartiennent au même groupe Friedrich Ratzel, qui a élevé la géographie
+politique au niveau d'une science comparative et explicative, des anthropo
+logues (de Johann J. Bachofen à John F. McLennan) et des spécialistes des
+religions (de Max Müller - et sa mythologie comparée - à James G. Frazer).
+
+Ce qui réunit ces savants, c'est qu'ils ont tous repéré des similitudes inat
+tendues dans l'organisation sociale de peuples éloignés les uns des autres
+(1887, p. 339-340; 1900b, p. 32-33; i9°2b. P- 355 i 1905. P- '99: Dürkheim
+et Fauconnet, 1903, p. 146-152). En effet, une transformation est en cours
+dans les sciences humaines et l'histoire en est partie prenante : le XIXe siècle
+
+a découvert les institutions, ces phénomènes bien généraux qui demeurent
+quand tout passe, qui «tout en évaluant, conservent leurs traits essentiels
+pendant de longues périodes» (Dürkheim et Fauconnet, 1903, p. 147). Or,
+des phénomènes généraux ne peuvent qu'attester de l'existence de causes
+générales. Ces dernières, «partout où elles sont présentes, produisent leurs
+effets, toujours les mêmes, avec une nécessité égale à celle des autres causes
+naturelles. » (ibid., p. 152). Il en découle que, par le seul fait de s'intéresser
+
+aux institutions, «l'histoire cesse d'être une étude narrative, pour s'ouvrir
+à l'analyse scientifique» (ibid., p. 146). La précision apportée par Dürkheim
+selon laquelle général et particulier signifient (aussi), respectivement, social
+
+et individuel date de sa polémique avec Gabriel Tarde. Un phénomène est
+général parce qu'il est social, c'est-à-dire parce qu'il s'impose aux individus,
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+97
+
+le contraire n'étant pas vrai, c'est-à-dire qu'il est social parce qu'il se généra
+lise par des répétitions d'actions individuelles (1947 [1895], p. 12, n. 1).
+Dürkheim s'adresse aux historiens voulant imiter les pionniers de la recherche
+comparative - prêts à souscrire à son énoncé de 1887 selon lequel «il n'y a pas de
+science du particulier» (1888a, p. 81)" - et leur propose l'échange de services que
+voici : dans un premier temps, ils se chargeront de la collecte des faits et les trans
+mettront aux sociologues qui les passeront au crible et sépareront les faits inutiles
+des faits importants ; les sociologues, quant à eux, enseigneront aux historiens
+par quels critères opérer directement la sélection des faits, ce qui fera gagner du
+temps. Parmi ces critères, on retiendra l'idée que les phénomènes sociaux sont
+assujettis à des lois (même si on ne les connaît pas encore toutes) et que leur
+variabilité (si l'on entreprend de les classer) est limitée. A la fin, les historiens
+seront devenus des sociologues et les sociologues, le cas échéant, ne dédaigne
+ront pas de s'essayer à des travaux érudits (1888a, p. 107-108 ; 1888b, p. 30 ; 1947
+[1895], p. 76-77, 133 ; 1898 a, p. 33 ; 1909a, p. 157, n. 1 ; 1910, p. 398). C'est dans le
+contexte de cette invitation au voyage que Dürkheim formule quelques-unes de
+ses sentences les plus percutantes : « [...] dès qu'elle compare, l'histoire devient
+indistincte de la sociologie. » (1898a, 32) ; «Fustel de Coulanges aimait à répéter
+que la véritable sociologie, c'est l'histoire ; rien n'est plus incontestable, pourvu
+que l'histoire soit faite sociologiquement.» (ibid., p. 3312) ; «L'histoire scienti
+fique ou sociologie ne peut se passer de l'observation directe des faits concrets. »
+(1903, p. 197); «La sociologie est donc, en grand partie, une sorte d'histoire
+entendue d'une certaine manière.» (1909a, p. 155). Et ainsi de suite.
+L'entente entre la sociologie et l'histoire que Dürkheim souhaite est cepen
+dant bien loin de préfigurer un accord paritaire, tout en ne se traduisant pas par
+une annexion ou par une annexion seulement. Dans le plan de LXnnée sociologique,
+la sociologie s'annexe la démographie, l'économie politique, la géographie, les
+
+11 Ce rappel d'une maxime fameuse du Livre VI (chap. 2) de la Métaphysique d'Aristote n'a
+pas eu, en sociologie, la même fortune que la variante qu'il est usuel d'attribuer à François
+Simiand: «Il n'y a de science que du général».
+12 Voir les dernières lignes de l'introduction de Fustel de Coulanges à L'Alleu et le domaine rural
+pendant l'époque mérovingienne (Paris, Hachette, 1889, p. iv-v).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Dossier: Émile Dürkheim 1917-2017
+
+98
+
+sciences de l'art, du droit, du langage, de la morale et de la religion qui deviennent
+toutes des sociologies spéciales. L'histoire subit-elle le même sort ? Malgré le fait
+que Dürkheim la qualifie le plus souvent de science ou discipline - et en dépit de
+l'hommage qu'il lui rend dans la préface du premier volume de llAmée en affirmant
+
+que la revue vise à rapprocher de la sociologie les trop nombreuses sciences qui
+s'en tiennent encore à l'écart, dont, en premier lieu, l'histoire («C'est surtout à
+l'histoire que nous pensons en parlant ainsi», 1898a, p. 32) -, l'histoire n'est qu'en
+partie une science sociale comme les autres. Assurément la sociologie fait valoir ses
+créances sur cette partie. Qu'y a-t-il de plus impérialiste et de plus dévastateur que
+l'exhortation adressée aux historiens pour qu'ils se détournent de l'étude du parti
+culier et embrassent uniquement celle du général ? « [T]out ce qui est biographie
+soit des individus, soit des collectivités'3 est, actuellement, sans utilité pour le socio
+
+logue. » (ibid., p. 35) ; «l'histoire ne peut être une science qu'à condition de s'élever
+au-dessus de l'individuel ; il est vrai qu'alors elle cesse d'être elle-même pour deve
+nir une branche de la sociologie.» (1903, p. 196). Que reste-t-il de l'histoire après
+de telles directives ? Autant demander aux historiens de changer de profession'4.
+
+Mais l'histoire est aussi, voire principalement pour Dürkheim, une «tech
+nique», une «science auxiliaire» - des appellations également réitérées - et c'est
+sous cet aspect quelle interfère avec la sociologie. Trois disciplines auxiliaires sont
+considérées par Dürkheim : l'histoire, l'ethnographie et la statistique, « sans lesquelles
+
+la sociologie ne peut rien» (1897a, p.vii; voir aussi 1928, p. 348). L'histoire prime
+l'ethnographie'5. La sociologie les sollicite quand elle veut savoir quelle est l'origine
+des normes et des croyances, c'est-à-dire quelle les sollicite tout le temps puisque
+la plupart des manifestations de la vie sociale rentrent dans l'ordre du droit, de la
+morale et de la religion. Par contre, s'il est question d'apprécier le respect de ces
+normes, l'autorité dont jouissent ces mêmes croyances, alors la sociologie se tourne
+vers la statistique, du moins dans les temps modernes et relativement aux pays qui
+recensent des données. (1901, p. 294-295 ; 1909a, p. 157 ; 1969c [1950], p. 42-43).
+
+13 Allusion à l'histoire des nations et des peuples.
+14 C'est, grosso modo, l'une des remarques que Henri Berr (1953 [1911], p. 135, 165-168) adresse
+à Dürkheim, qui en prend acte (1913).
+
+15 «[LJhistoire apporte à l'ethnographie plus de lumière qu'elle n'en reçoit» (1895a, p.74).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales
+
+99
+
+L'histoire entendue comme technique est ainsi l'érudition mise au service
+
+de la sociologie. C'est le recours à l'histoire «technique» qui fait de la socio
+logie la science historique que Dürkheim défend encore contre Seignobos : « il
+n'y a pas à ma connaissance de sociologie qui mérite ce nom qui n'ait pas un
+
+caractère historique. » (1908a, p. 199)'6. Dans un passage-clé de la contribu
+tion de Dürkheim à De la méthode dans les sciences - passage qui résume comment
+se combinent chez lui les deux façons dont on peut mettre la sociologie en
+rapport avec l'histoire - l'histoire est un « instrument d'analyse », analogue à
+un outil optique largement employé dans les sciences naturelles.
+[R]ien n'indique en [une institution] où commencent et où finissent les éléments
+divers dont elle est formée [...]. Il faut un instrument d'analyse pour les faire appa
+raître. C'est l'histoire qui joue ce rôle. [LJ'histoire joue, dans l'ordre des réalités
+sociales, un rôle analogue à celui du microscope dans l'ordre des réalités physiques.
+
+/De plus, elle seule permet d'expliquer. En effet, expliquer une institution,
+c'est rendre compte [de ses] éléments [...], c'est montrer leurs causes [...]. Mais
+comment découvrir ces causes, sinon en se reportant au moment où elles ont été
+opérantes, c'est-à-dire où elles ont suscité les faits que l'on cherche à comprendre ?
+Car c'est à ce moment seulement qu'il est possible de saisir la manière dont elles
+ont agi et engendré leur effet. Or, ce moment est derrière nous. Le seul moyen d'ar
+river à savoir comment chacun de ces éléments est né, c'est de l'observer à l'instant
+même où il est né et d'assister à sa genèse : or cette genèse a eu lieu dans le passé
+et, par conséquent, ne peut être connue que par l'histoire. (1909a, p. 1J4-15J17).
+
+Comment séparer la sociologie de l'histoire? La réponse de Dürkheim,
+ou, plutôt, l'apport de Dürkheim à la réponse à cette question, est qu'il n'y a
+aucune raison de dissocier les deux disciplines et que si l'on veut vraiment s'y
+essayer, la voie du rapprochement de leurs objets est la plus déconseillée. À la
+16 On peut considérer l'analyse de l'ouvrage de Seignobos, La Méthode historique appliquée aux sciences
+sociales (1902b), et l'intervention du 28 mai 1908 suite à l'exposé du même Seignobos sur«Linconnu
+et l'inconscient en histoire» comme les moments notables de la (petite) participation de Dürkheim
+au débat entre les historiens et les sociologues qui a lieu en France au tournant du XIXe siècle (Pro
+chasson, 1997; Leroux, 1998; Mucchielli, 1998, chap.12; Foumier, 2007, p.545-547, p.665-667),
+débat ouvert en 1894 par Paul Lacombe, avec son De l'Histoire considérée comme science et la
+distinction qui y est tracée entre l'étude des événements et l'étude des institutions. Ce livre ainsi
+que la discussion subséquente n'ont pas d'influence sensible sur les vues de Dürkheim en matière
+d'histoire, lesquelles sont déjà bien arrêtées dès les années 1880 (Borlandi, 2012, p. 261-262).
+
+17 Voir ce même passage, à de petites variations près, in 1908b, p. 59.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Dossier: Émile Dürkheim 1917-2017
+
+100
+
+sociologie l'étude du présent et à l'histoire celle du passé ? Mais Dürkheim a
+argumenté que, en admettant que le présent soit observable, sa connaissance
+comporte celle du passé, passe par le passé. Les faits généraux de la sociologie vs
+les faits particuliers de l'histoire ? L'histoire a pourtant su s'occuper du général bien
+
+avant l'appel de Dürkheim et a continué de le faire amplement après (dans une
+perspective comparatiste qui plus est'8), sans délaisser le particulier. Reste la
+méthode. Il suffit de poser que la sociologie explique les phénomènes sociaux
+par leurs fonctions ou par les relations qu'ils entretiennent les uns avec les
+autres - et non par leurs causes - pour que les chemins de la sociologie et de
+l'histoire divergent. Dürkheim s'est appliqué à réduire à sa juste mesure l'expli
+cation par les fonctions (à ses yeux secondaire par rapport à celle causale). Il n'a
+rien dit de l'explication par les relations, n'était-ce que parce que le structura
+lisme, qui l'a codifiée, était encore à venir.
+
+BIBLIOGRAPHIE
+BERNARD CL, 1984 (1865), Introduction à l'étude de la médecine expérimentale,
+Paris, Flammarion.
+BERR H., 1953 (1911), La Synthèse en histoire, Paris, Albin Michel.
+
+BORLANDI M., 2012, «Lacombe, Dürkheim et le groupe de L'Année sociologique»,
+in A. Fine et N. Adell (dir.), Histoire et anthropologie de la parenté. Autour de
+
+Paul Lacombe (1834-1919), Paris, Éditions du CTHS, p. 257-268.
+COMTE A., 1975 (1830-1842), Cours de philosophie positive, Paris, Hermann, 2 vol.
+DAVY G., 1925, «Vues sociologiques sur la famille et la parenté d'après Dürkheim»,
+Revue philosophique, 100, p.79-117. Repris comme «La famille et la parentée d'après
+Dürkheim», in Id., Sociologues d'hier et d'aujourd'hui, Paris, Alcan, 1931, p. 103-157.
+
+-, 1949, «L'explication sociologique et le recours à l'histoire d'après Comte, Mill
+et Dürkheim», Revue de métaphysique et de morale, 54, p. 330-361.
+
+18 Depuis le discours d'ouverture prononcé par Henri Pirenne à Bruxelles, au Ve Congrès inter
+national des science historiques, le 9 avril 1923: «De la méthode comparative en histoire».
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales 101
+DÜRKHEIM É„ 1885, C. r. de L. Gumplowicz, Grundriss der Soziologie (1885), Revue
+philosophique, 20, [p. 627-634], Repris in DÜRKHEIM, 1975, vol. I, p. 344-354.
+-, 1887, «La science positive de la morale en Allemagne», Revue philosophique, 24,
+
+[p.33-58, 113-142, 275-284], Repris in DÜRKHEIM, 1975, vol. I, p.267-343.
+-, 1888a, «Cours de science sociale. Leçon d'ouverture», Revue internationale de
+l'enseignement, 15, [p.23-48]. Repris in DÜRKHEIM, 1970, p.77-110.
+-, 1888b, «Introduction à la sociologie de la famille», Annales de la Faculté des
+lettres de Bordeaux, 10, [p.257-281]. Repris in DÜRKHEIM, 1975, vol. 3, p.9-34.
+-, 1892, Quid Secundatus Politicae Scientiae Instituendae Contulerit, Bordeaux,
+Gounouilhou. Traduit comme «La contribution de Montesquieu à la constitution
+de la science sociale», in DÜRKHEIM, 1953, p.25-113.
+
+-, 1895a, «L'origine du mariage dans l'espèce humaine d'après Westermarck»,
+Revue philosophique, 40, [p. 606-623]. Repris in DÜRKHEIM, 1975, vol. 3, p.70-92.
+-, 1895b, «Lo stato attuale degli studi sociologici in Francia», La Riforma sociale, 3,
+
+[p.607-622, 691-707], Traduit comme «L'état actuel des études sociologiques en
+France», in DÜRKHEIM, 1975, vol. I, p.73-108.
+-, 1897a, Le Suicide. Étude de sociologie, Paris, Alcan.
+-, 1897b, C. r. de A. Labriola, Essais sur la conception matérialiste de l'histoire (1896),
+Revue philosophique, 44, [p. 645-651], Repris in DÜRKHEIM, 1970, p.245-254.
+
+-, 1898a, «Préface», L'Année sociologique, I, [p.I-VII], Repris in DÜRKHEIM,
+1969a, p. 31-36.
+-, 1898b, «La prohibition de l'inceste et ses origines», CAnnée sociologique, I, [p. 1-70].
+Repris in DÜRKHEIM, 1969a, p.37-101.
+
+-, 1899, «Préface», L'Année sociologique, 2, [p.l-VI]. Repris in DÜRKHEIM, 1969a,
+p. 135-139.
+-, 1900a, «La sociologie en France au xixe siècle», Revue bleue, 4e s., 13, [p.609-613,
+647-652], Repris in DÜRKHEIM, 1970, p. 111-136.
+-, 1900b, «La sociologia e il suo dominio scientifico», Rivista italiana di sociologia, 4,
+
+[p. 127-148]. Traduit comme «La sociologie et son domaine scientifique», in
+DÜRKHEIM, 1975, vol. I, p. 13-36.
+-, 1901, «Introduction», LAnnée sociologique, 4, [p.433-436]. Repris comme «Note sur
+la sociologie criminelle et la statistique morale», in DÜRKHEIM, 1969a, p.293-296.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+102 Dossier: Emile Dürkheim 1917-2017
+-, 1902a [1893], De la Division du travail social, Paris, Alcan.
+-, 1902b, C. r. de Ch. Seignobos, La Méthode historique appliquée aux sciences sociales
+(1901), LAnnée sociologique, 5, [p. 123-127], Repris in DÜRKHEIM, 1969a, p. 352-356.
+
+-, 1903, C. r. de G. Salvemini, «La storia considerata come scienza», B. Croce, «La
+storia considerata corne scienza», G. Sorel, «Storia e scienze sociali» (1902),
+L'Année sociologique, 6, [p. 123-125], Repris in Dürkheim, 1975, vol. I, p. 195-197.
+-, 1904, «Intervention. Soutenance de thèse de G. Glotz», Revue de philosophie, 5,
+
+[p.491-493]. Repris comme «Remarques sur l'évolution du droit criminel en
+Grèce», in Dürkheim, 1975, vol. I, p.241-243.
+-, 1905, «On the Relation of Sociology to the Social Sciences and to Philosophy»,
+Sociological Papers, I, p. 197-200.
+-, 1906a, C. r. de A. D. Xenopol, «Sociologia e storia» (1904), LAnnée sociologique, 9,
+[p. 139-140], Repris in DÜRKHEIM, 1975, vol. I, p. 197-199.
+
+-, 1906b, «L'évolution et le rôle de l'enseignement secondaire en France», Revue
+bleue, 5e s„ 5, [p.70-77], Repris in DÜRKHEIM, 1966 (1922), p. 103-120.
+-, 1906c, «Observation sur la question: "Distinction et rapports de la sociologie et de
+l'ethnographie"», Bulletin du Comité des travaux historiques et scientifiques - Section
+
+des sciences économiques et sociales, Paris, Imprimerie Nationale [p. 200-201],
+Repris comme «Débat sur les rapports de l'ethnologie et la sociologie», in
+DÜRKHEIM, 1975, vol. I, p.256-258.
+-, 1907, «Intervention à un débat "Sur la réforme des institutions judiciaires: l'en
+seignement du droit"», Libres entretiens, 3e s., [p.361-...- 421], Repris comme «La
+
+sociologie et l'enseignement du droit» in DÜRKHEIM, 1975, vol. I, p.243-245.
+-, 1908a, «Intervention à la discussion sur "L'inconnu et l'inconscient en histoire" à
+la séance du 28 mai 1908 de la Société française de philosophie», Bulletin de la
+Société française de philosophie, 8, [p.229-247], Repris comme «Débat sur l'expli
+cation en histoire et en sociologie», in DÜRKHEIM, 1975, vol. I, p. 199-217.
+
+- 1908b, «Contribution à une «Enquête sur la sociologie», Les Documents du
+progrès, 2, [p. 131-133], Repris comme «Remarque sur la méthode en sociologie»,
+in DÜRKHEIM, 1975, vol. I, p.58-61.
+-, 1909a, «Sociologie et sciences sociales», in P. F. Thomas (dir.), De la méthode dans
+les sciences (lre s.), Paris, Alcan [p.259-285]. Repris in DÜRKHEIM, 1970, p. 137-159.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue européenne des sciences sociales 103
+-, 1909b, «Sociologie religieuse et théorie de la connaissance», Revue de méta
+physique et de morale, 17, p.733-758.
+-, 1910, C. r. de E. Meyer, Geschichte des Altertums (1907), L'Année sociologique, II,
+
+[p.5-13]. Repris in DÜRKHEIM, 1975, vol. I, p.391-399.
+-, 1911, «Préface», in O. Hamelin, Le Système de Descartes, Paris, Alcan, [p.V-XI].
+Repris in DÜRKHEIM, 1975, vol. I, p.433-438.
+-, 1912, Les Formes élémentaires de la vie religieuse. Le système totémique en Australie,
+Paris, Alcan.
+-, 1913, C. r de H. Berr, La Synthèse en histoire (1911), LAnnée sociologique, 12, [p. 26-27],
+Repris in DÜRKHEIM, 1969a, p.674-675.
+-, 1914a, «Intervention à la discussion sur "Une nouvelle position du problème moral"
+à la séance du 2 juin 1914 de la Société française de philosophie», Bulletin de la
+Société française de philosophie, 14, [p.26-29, 34-36]. Repris comme «Une confron
+tation entre bergsonisme et sociologisme», in DÜRKHEIM, 1975, vol. I, p.64-70.
+-, 1914b, «Le dualisme de la nature humaine et ses conditions sociales», Scientia, 15,
+
+[p.206-221], Repris in DÜRKHEIM, 1970, p.314-332.
+-, 1928, Le Socialisme. Sa définition, ses débuts, la doctrine saint-simonienne, Paris, Alcan.
+-, 1947 (1895), Les Règles de la méthode sociologique, Paris, PUF.
+-, 1953, Montesquieu et Rousseau, précurseurs de la sociologie, Paris, Rivière.
+-, 1966 (1922), Éducation et sociologie, Paris, PUF.
+-, 1969a, Journal sociologique, Paris, PUF.
+-, 1969b (1938), L'Évolution pédagogique en France, Paris, PUF.
+-, 1969c (1950), Leçons de sociologie. Physique des moeurs et du droit, Paris, PUF.
+-, 1970, La Science sociale et l'action, Paris, PUF.
+-, 1975, Textes, Paris, Éditions de Minuit, 3 vol.
+- et P. FAUCONNET, 1903, «Sociologie et sciences sociales», Revue philosophique, 55,
+
+[p.465-497]. Repris in DÜRKHEIM, 1975, vol. I, p. 121-159.
+FOURNIER M., 2007, Emile Dürkheim (1858-1917), Paris, Fayard.
+LAMANNA M. A., 2002, Émile Dürkheim and the Family, London, Sage.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+104 Dossier: Emile Dürkheim 1917-2017
+LEROUX R„ 1998, Histoire et sociologie en France. De l'histoire-science à la sociologie
+durkheimienne, Paris, PUF.
+MILL j. S., 1974 (1843), A System of Logic Ratiocinative and Inductive, Part II, in Id.,
+The Collected Works, Toronto, University of Toronto Press, vol. 8.
+
+MUCCHIELLI L., 1998, La Découverte du social. Naissance de la sociologie en France
+(1970-1914), Paris, La Découverte.
+PROCHASSON Ch., 1997, «Histoire et sociologie: Henri Berret les durkheimiens
+(1900-1914)», in A. Biard, D. Bourel et E. Brian (dir.), Henri Berret la culture du
+XXe siècle, Paris, Albin Michel, p. 62-79.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 13:59:29 UTC
+All use subject to https://about.jstor.org/terms
+
+

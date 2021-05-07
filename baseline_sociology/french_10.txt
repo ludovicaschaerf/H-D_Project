@@ -1,0 +1,861 @@
+EHESS
+La sociologie catholique, entre économie sociale et critique de la sociologie scientifique
+Author(s): Sébastien Mosbah-Natanson
+Source: Archives de sciences sociales des religions , 62e Année, No. 179 (Octobredécembre 2017), pp. 111-128
+Published by: EHESS
+Stable URL: https://www.jstor.org/stable/10.2307/26505079
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+EHESS is collaborating with JSTOR to digitize, preserve and extend access to Archives de
+sciences sociales des religions
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+Sébastien Mosbah-Natanson
+
+La sociologie catholique, entre économie sociale
+et critique de la sociologie scientifique
+Les années 1890-1900 ont vu l’émergence intellectuelle et institutionnelle de la
+sociologie comme nouvelle discipline scientifique qui trouve progressivement
+sa place dans l’Université française. L’histoire de cette émergence s’est faite
+principalement autour de la figure de Durkheim et de la constitution de l’École
+durkheimienne. De nombreux travaux depuis une quarantaine d’années ont
+ainsi mis en lumière les facteurs qui ont permis à Durkheim de s’imposer dans
+l’espace intellectuel et universitaire. Cette victoire du durkheimisme s’est faite
+au détriment d’adversaires intellectuels, comme Gabriel Tarde ou René Worms,
+qui, s’ils ont joué un rôle dans la diffusion et la popularisation de la nouvelle
+science, ont été relativement marginalisés par la suite (Clark, 1971 ; Karady,
+1979 ; Mucchielli, 1998, Fournier ; 2007). L’historiographie redécouvre toutefois
+progressivement leur importance et tend à complexifier le paysage intellectuel
+sociologique autour de 1900 (Mosbah-Natanson, 2014 ; Savoye et Audren,
+2015). En effet, la sociologie a été l’objet d’une véritable « mode » durant cette
+période, attirant des dizaines d’auteurs aux profils hétérogènes. Cet engouement
+s’est traduit par la publication de plusieurs centaines de publications qui se
+réclamaient de la sociologie ou de la science sociale dans les décennies qui ont
+précédé la Première Guerre mondiale (Mosbah-Natanson, 2011 ; ibid., 2017). Si
+la grande majorité de ces publications partagent une ambition épistémologique
+commune, malgré des divergences théoriques et méthodologiques certaines,
+il n’empêche que l’on constate que ce label « sociologie » fait aussi l’objet
+d’usages éditoriaux pluriels qui indiquent que le monopole scientifique de la
+définition même de la sociologie est loin d’être acquis en 1914. Des publications politiques de divers horizons, des essais sociaux de différente facture ou
+même des ouvrages à ambition plus littéraire s’emparent de ce label, et cela
+sans s’inscrire, sinon de manière marginale, dans les débats académiques qui
+se développent autour de la nouvelle discipline.
+Au sein de ce foisonnement éditorial autour de la notion de sociologie,
+apparaissent aussi durant cette période des publications qui se réclament
+explicitement d’une « sociologie catholique ». Ainsi en 1892 paraît une revue
+����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+
+Archives de sciences sociales des religions, 179 (octobre-décembre 2017), p. 111-128
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+112 – Archives de sciences sociales des religions
+
+à Montpellier qui porte ce titre 1. Quelques années plus tard, un jeune abbé,
+Paul Naudet, publie des Premiers principes de sociologie catholique chez
+l’éditeur catholique Bloud, en 1899. En 1914, le chanoine P. Poey est l’auteur
+d’un Manuel de sociologie catholique. L’éditeur catholique Bloud lance autour
+de 1900 une collection qui s’intitule « Questions de ­sociologie » et qui compte
+plusieurs dizaines de publications avant la Première Guerre mondiale. Dans
+les années qui suivent celle-ci, d’autres publications catholiques continuent de
+s’inscrire sous le label sociologique. Ainsi l’abbé Louis Garriguet fait paraître
+en 1924 un ouvrage intitulé Manuel d’économie sociale et de sociologie dont
+le sous-titre est Les principaux problèmes sociaux étudiés aux lumières de
+la théologie, du droit naturel et de l’histoire, reprenant largement les Études
+de sociologie qu’il avait publiées entre 1901 et 1905. Ces publications qui,
+pour la plupart, utilisent, dans leur titre, ce label de « sociologie catholique »,
+sont relativement négligées sur le plan historiographique, d’une part, dans
+les recherches sur la naissance de la sociologie, mais aussi, d’autre part, dans
+les recherches sur le catholicisme fin-de-siècle (Serry, 2004).
+Notre étude se donne comme objectif de contribuer à une meilleure
+connaissance de cette littérature et donc de saisir au plus près – c’est-à-dire
+au niveau des publications proprement dites – ce que l’on entend alors par
+« sociologie catholique ». Si une « sociologie catholique » prend forme dans
+les années 1900-1910, c’est d’abord sous la forme matérielle d’ouvrages,
+d’articles et de revues dont il faut étudier les caractéristiques ainsi que
+celles de leurs auteurs. Une telle approche doit permettre d’établir quelle
+est la définition de la « sociologie catholique » qui émerge pendant cette
+période, en la mettant en relation avec le mouvement sociologique plus
+large, mouvement sociologique entendu comme mouvement scientifique et
+intellectuel qui se donne comme ambition la constitution d’une nouvelle
+discipline scientifique. La thèse défendue ici sera que le développement
+des publications qui se revendiquent de la sociologie catholique s’inscrit
+­principalement dans le cadre d’une littérature posant les bases d’une économie sociale chrétienne et d’une (ré-)organisation de la société suivant des
+principes religieux, en concurrence avec d’autres modèles d’organisation
+sociale issus des idéologies sociales et politiques en concurrence de l’époque
+(comme le libéralisme et le socialisme). Ainsi cette sociologie catholique
+n’entretient qu’un rapport d’abord distant puis critique avec la sociologie
+universitaire qui émerge durant cette période. Pour ce faire, nous replaçons
+d’abord cette production dans un cadre éditorial plus large en nous servant
+d’une perspective quantitative. Nous étudions ensuite les fondements de cette
+sociologie catholique. Nous terminons notre article en analysant sa critique
+de la « sociologie scientifique ».
+
+1. Cette revue intitulée Sociologie catholique est analysée dans notre travail de doctorat
+(Mosbah-Natanson, 2007 : 457-459). Faute de place, nous n’en traitons pas dans cet article.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 113
+
+Approche bibliométrique, catholicisme social et sociologie
+L’essor d’une littérature se revendiquant de la « sociologie catholique » au
+tournant du xixe siècle doit être analysé en replaçant celle-ci dans le contexte
+bien spécifique de l’évolution du catholicisme français, et en particulier de
+­l’affirmation d’un catholicisme social (Aubert, 1975 ; Mayeur, 1989 ; ibid.,
+1995). En effet, les années 1890 sont à la fois celles du ralliement des c­ atholiques
+à la République 2 et celles d’un développement de ce catholicisme social suite à
+la publication de l’encyclique Rerum Novarum en 1891 consacrée à la c­ ondition
+des ouvriers. Comme le note Jean-Marie Mayeur, « l’encyclique Rerum novarum,
+le 15 mai 1891, comme la volonté de répondre au défi socialiste, précipitent un
+mouvement qui, pour plusieurs années, va s’imposer à l’attention » (Mayeur,
+1973 : 196). Ce mouvement se caractérise, entre autres, toujours selon l’historien, par la « création de journaux et de revues ». Cercles d’études liés au
+patronat, associations de jeunes catholiques qui vont « s’intéresser aux questions
+sociales » (Winock, 2003 : 225) se développent durant cette période. Il s’agit
+de la « deuxième période de l’histoire du catholicisme social, marqué par une
+floraison d’initiatives » (Duroselle et Mayeur, 1993 : 109).
+Le contexte est propice à la production éditoriale qui se revendique du
+catholicisme social. Pour mesurer le développement d’une telle production,
+avant de s’intéresser au cas plus spécifique de la « sociologie catholique »,
+nous avons procédé à une étude bibliométrique des publications portant sur
+le « social » dans la France du tournant du siècle, étude qui permet de fournir
+un premier éclairage sur l’espace éditorial du catholicisme social. En effet,
+la sociologie et l’histoire des sciences (Martin, 2000 : 43-46), en parallèle de
+l’historiographie quantitative développée par Carbonell (Carbonell : 1976), ont
+développé, depuis plusieurs décennies, un certain nombre d’outils quantitatifs
+pour étudier, à partir de la production éditoriale, l’apparition de nouveaux
+domaines et l’évolution des thèmes au sein d’une discipline ou d’un domaine
+d’études : la méthode bibliométrique (ou scientométrique). Il s’agit pour nous
+d’utiliser cette méthode sans la limiter à l’activité éditoriale scientifique proprement dite. Notons que cette méthode n’a été que marginalement utilisée
+dans l’histoire des sciences humaines françaises, en dehors de travaux sur
+l’histoire longue de l’économie politique (Perrot, 1992 ; Théré, 1998), ainsi
+que ponctuellement sur la philosophie et la discipline historique du dernier
+tiers du xixe siècle (Fabiani, 1988 ; Carbonell, 1976).
+En exploitant le Catalogue général de la librairie française qui recense
+entre 1840 et 1925, en les regroupant soit par auteur soit par rubrique,
+­l’ensemble des publications éditées en France (et en langue française), on peut
+esquisser une description du paysage éditorial autour du « social » tel qu’il se
+dessine autour de 1900. Nous nous sommes concentrés plus spécifiquement
+
+2. Sur le ralliement et sa relation avec la question sociale, voir l’analyse de Jean-Marie Mayeur
+(Mayeur, 1973 : 193-203).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+114 – Archives de sciences sociales des religions
+
+dans cette section sur la période 1876-1915 3. Pour ce faire, nous avons principalement étudié une des rubriques construites par les bibliographes, la section
+« Socialisme, science sociale » qui se caractérise par une croissance très rapide
+dans les années 1890-1900 et qui recense près de 1500 publications sur les
+quarante années sélectionnées. Pour comprendre l’évolution de cette rubrique
+et sa forte croissance, nous avons utilisé une méthode scientométrique qui se
+base sur les titres des publications. Malgré ses limites 4, cette méthode permet de
+dégager les grandes tendances éditoriales, sans prétendre toutefois à l’exhaustivité. Quatre tendances principales ont été distinguées à partir de là : les ouvrages
+de « sociologie » (ou « science sociale »), les ouvrages « socialistes », les ouvrages
+portant sur la « question sociale » et les ouvrages relevant du « catholicisme
+social ». Pour cette dernière catégorie, un certain nombre de mots-clés ont été
+retenus en considérant la multiplicité des références religieuses dans les titres 5.
+Les résultats de cette démarche sont résumés dans le tableau ci dessous.
+Rubrique éditoriale
+
+1876-1885
+
+1886-1895
+
+1896-1905
+
+1906-1915
+
+Socialisme, Science
+sociale
+
+87
+
+331
+
+478
+
+585
+
+Socialisme
+
+48
+
+89
+
+200
+
+159
+
+Sociologie
+
+10
+
+50
+
+122
+
+123
+
+Question sociale
+
+13
+
+67
+
+60
+
+35
+
+Catholicisme social
+
+10
+
+29
+
+55
+
+51
+
+Sur la période étudiée, le total des publications recensées dans les
+s­ ous-rubriques augmente fortement : entre la décennie 1876-1885 et la
+­décennie 1906-1915, l’ensemble des publications sont multipliées par sept.
+3. Pour une analyse plus détaillée de ce Catalogue, nous renvoyons à notre travail de thèse
+(Mosbah-Natanson, 2007).
+4. Une présentation précise de la méthode est effectuée dans notre doctorat (Mosbah-Natanson,
+2007 : 105-106). En se fondant sur les titres des publications, et leur référence explicite à une
+tendance éditoriale (socialisme, catholicisme social, sociologie, etc.), on ne peut faire rentrer dans
+la statistique des ouvrages qui auraient un titre éloigné de cette référence. Par exemple, l’ouvrage
+classique de Durkheim De la division du travail social ne pourrait rentrer dans la sous-rubrique
+« Sociologie » par cette méthode. Pour autant, cette méthode permet d’objectiver des tendances
+éditoriales sur le corpus de 1500 publications, qu’il faut ensuite affiner en la croisant avec des
+recherches bio-bibliographiques plus précises.
+5. En nous basant sur les titres, les termes suivants ont été considérés comme faisant explicitement
+référence à la religion et les publications correspondantes ont été comptabilisées dans la sous-­
+rubrique « catholicisme social » : catholicisme, catholique, théologie, évangile, encyclique, syllabus,
+ministère sacerdotal, Léon XIII, Église, clergé, Rome, prêtre, paroisse, décalogue, saint-Thomas,
+Dieu, apostolat, Providence, Christ, prédication, Sermon sur la montagne, question religieuse,
+réforme religieuse, séminaire, Pâques, eucharistie, foi, « profanation du dimanche », Sillon, païen,
+spirituel, apologétique.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 115
+
+Pour les publications catholiques sociales, on passe de 10 à 50 publications par
+décennie. Celles-ci représentent 10 % de l’ensemble de la rubrique « Socialisme,
+science sociale » et constituent par conséquent l’une des dimensions, mineure
+mais conséquente, de la production éditoriale sur le « social ». On peut aussi
+noter que l’augmentation la plus spectaculaire est celle des publications de
+« sociologie », indiquant par là un engouement certain, une « mode » pour
+reprendre le terme de Durkheim, pour le label « sociologie » autour de 1900.
+Les publications de « sociologie catholique » s’inscrivent donc dans un contexte
+éditorial d’augmentation soutenue de la production relevant du « social »,
+contexte qui oscille entre socialisme, sociologie et catholicisme social.
+Après ce premier travail bibliométrique, nous avons plus spécifiquement
+cherché les publications se réclamant de la « sociologie » ou de la « science
+sociale » pour déterminer celles qui, au sein de ces dernières, pouvaient être
+classées comme « sociologie catholique ». Nous avons étendu la période d’étude
+aux années 1840-1925 pour mieux saisir les origines et le développement
+de l’usage de ce label éditorial et de la littérature pouvant s’y inscrire. Pour
+construire notre corpus de « sociologie catholique », nous avons d’abord
+considéré, assez logiquement, le titre : ont été retenues les publications dont
+le titre contenait soit explicitement l’expression « sociologie catholique », soit
+contenait les deux notions. Toutefois, nous avons aussi ajouté des publications
+qui, publiées généralement dans des maisons d’édition catholique comme
+Bloud ou Lethielleux ou/et par des ecclésiastiques, comportaient l’expression
+« sociologie catholique » non pas dans leur titre, mais dans le corps du texte.
+Une telle méthode nous a permis d’identifier une vingtaine de publications
+sur la période considérée.
+La première publication retenue est une brochure publiée en 1859 et
+­intitulée De la science sociale au point de vue catholique par un certain Victor
+Calland. La dernière est l’ouvrage de l’abbé Louis Garriguet intitulé Manuel
+d’économie sociale et de sociologie publié en 1924 chez Bloud. Cet auteur
+produit près de la moitié des publications de sociologie catholique recensées,
+avec sept Études de sociologie publiées entre 1901 et 1905, un Traité de sociologie d’après les principes de la sociologie catholique en trois volumes publié
+entre 1907 et 1909 et l’ouvrage cité précédemment. La poussée éditoriale de
+cette « sociologie catholique » se produit principalement durant la première
+décennie du xxe siècle et, si elle est le produit d’un nombre limité d’auteurs
+et ne représente qu’une petite fraction des publications qui se réclament de
+la « sociologie » ou de la « science sociale » sur la période étudiée (autour de
+5 % de celles-ci), elle contribue à la « mode » sociologique.
+Avant de rentrer plus précisément dans l’étude de ce corpus, et donc dans
+les enjeux proprement dits de cette « sociologie catholique », on peut ajouter
+quelques remarques sur le premier éditeur de celui-ci : Bloud (Albaric, 1991 :
+299). En effet, cet éditeur catholique, qui devient Bloud et Gay en 1912, publie
+autour de la moitié des publications considérées. Si Bloud publie des ouvrages
+de « sociologie catholique », il le fait aussi parce qu’il développe des collections
+éditoriales qui se revendiquent de la sociologie. Ainsi, au sein d’une collection
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+116 – Archives de sciences sociales des religions
+
+plus large intitulée « Science et Religion », collection qui compte plusieurs centaines d’ouvrages (généralement de petit format, soit entre 60 et 150 pages) à
+la veille de la Première Guerre mondiale, on trouve aussi deux sous-collections,
+l’une intitulée « Questions de sociologie » et l’autre « Morale et sociologie ». Ces
+deux collections produisent à elles seules, autant qu’on a pu le comptabiliser
+car le catalogue est mal défini, une petite cinquantaine d’ouvrages avant 1914.
+On y trouve des ouvrages théoriques promouvant une sociologie catholique
+ou critiquant la sociologie scientifique. Mais ces c­ ollections contiennent aussi
+des travaux historiques, philosophiques et juridiques sur l’évolution de la
+société moderne et sur la position des catholiques 6, avec en point de mire la
+question sociale. Des ouvrages liés à l’école leplaysienne sont encore publiés
+dans ces collections, et de manière plus générale, chez Bloud, témoignant de
+la proximité entre monde catholique et leplaysiens 7.
+
+Les fondements de la sociologie catholique
+Ainsi, entre la fin des années 1890 et le début des années 1920, un certain
+nombre d’auteurs, principalement des ecclésiastiques, publient des ouvrages
+défendant ou se revendiquant d’une « sociologie catholique ». Qui sont les
+auteurs de ces ouvrages et dans quels cadres produisent-ils ceux-ci ? L’analyse
+de ces différentes publications et les éléments biographiques recueillis sur
+un certain nombre des auteurs concernés indiquent que ces ouvrages sont
+principalement issus d’enseignements donnés par des ecclésiastiques. L’abbé
+Paul Naudet enseigne un cours de sociologie catholique au Collège libre des
+sciences sociales lorsqu’il publie en 1899 ses Premiers principes de sociologie
+catholique qui sont très vraisemblablement issus de celui-ci (Bergeron, 1910) 8.
+Quelques années plus tard, l’abbé Louis Garriguet, né en 1859, enseigne dans
+les années 1900 au Séminaire d’Avignon dont il est le supérieur 9 lorsqu’il
+publie ses Études de sociologie, après avoir enseigné le dogme et l’histoire
+6. Dans la collection « Questions de sociologie », on trouve, par exemple : La Déclaration des
+droits de l’homme et la doctrine catholique, par J. Brugerette en 1908 ; L’Idée individualiste et
+l’idée chrétienne, étude sur le fondement du droit chrétien, par Henri Lorin en 1910. Dans la
+collection « Études de morale et de sociologie » : Positivisme et catholicisme, par L. Laberthonnière
+en 1911.
+7. Sur les catholiques et la science sociale leplaysienne, voir la contribution d’Antoine Savoye
+dans ce dossier.
+8. Les cours de l’abbé P. Naudet au Collège libre des sciences sociales entre 1897 et 1910 sont
+les suivants : Doctrine sociale catholique : régime du travail (1897-98) ; La démocratie (1898-99) ;
+L’ordre économique et les principes de l’Évangile (1899-1900) ; La femme et le féminisme dans
+l’ordre social chrétien (1900-1901) ; L’Église et le progrès (1901-1902) ; L’Église dans la société
+(1902-1903) ; La vie intellectuelle dans la société catholique (1903-1904 ; 1904-1905) ; Histoire
+sociale de l’Église : origines et développement de la société chrétienne (1905-1906 ; 1906-1907 ;
+1907-1908) ; L’Inquisition (1908-1909) ; Le protestantisme (1909-1910). Voir : Bergeron, 1910. Ses
+cours, s’ils sont principalement consacrés au catholicisme, reflètent une ouverture vers la société
+moderne qui le distingue des catholiques conservateurs et il fait partie des « abbés démocrates »
+de la fin du xixe siècle (Aubert, 1975 : 170).
+9. « Louis Garriguet », Dictionnaire de biographie française, tome 15, p. 573.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 117
+
+ecclésiastique à Nantes (1885-1899) 10. Le franciscain Albéric Belliot, né
+en 1862 et docteur en droit, est en charge de la formation des étudiants
+franciscains lorsqu’il écrit, en 1911, son Manuel de sociologie catholique.
+Le sous-titre du Manuel de sociologie catholique du chanoine P. Poey publié
+en 1914 est explicite : « À l’usage des séminaires et des cercles d’étude ». La
+plupart des ouvrages de notre corpus sont donc liés aux activités d’enseignement religieux des auteurs considérés, enseignements destinés principalement
+aux futurs prêtres dont la formation inclut aussi des considérations sociales
+et économiques sur la société de l’époque.
+Ces considérations prennent alors le nom de « sociologie catholique » et l’on
+peut s’interroger sur la définition de celle-ci au sein de notre corpus. Certains
+auteurs, il est vrai, ne s’embarrassent pas d’une quelconque définition. C’est
+le cas de Paul Naudet, et de ses Premiers principes de sociologie catholique,
+publiés en 1899. Toutefois, la plupart des auteurs considérés, en particulier
+quand les ouvrages sont de taille conséquente, consacrent les premières pages
+à la formulation d’une telle définition. Si les auteurs peuvent différer à ce
+sujet, ils partagent une conception commune : la sociologie catholique doit
+concevoir une organisation sociale qui suit les principes de la doctrine sociale
+de l’Église. Par exemple, le chanoine P. Poey la définit de manière synthétique
+comme suit : « la Sociologie catholique : “la science qui a pour objet la société
+étudiée dans ses causes afin d’en favoriser le perfectionnement, conformément
+aux enseignements de l’Église” » (Poey, 1914 : 2). Il commente cette définition
+par un développement que nous reproduisons ci-dessous :
+Elle est une science. – La sociologie mérite ce titre parce que les indications
+et les règles qu’elle fournit pour procurer le bien-être social, sont bien appropriées à ce but, puisqu’elles sont puisées, par le moyen d’une étude sérieuse,
+dans la nature intime de la société et des lois qui la gouvernent ; son processus
+est donc éminemment scientifique.
+Elle étudie la société dans ses causes. – Connaître après les avoir étudiées
+sérieusement, les vraies causes d’une chose, préciser les lois qui ont présidé
+à sa constitution, c’est embrasser tout l’objet d’une science, c’est ce que fait
+la sociologie, et à ce titre encore elle suit une voie absolument scientifique ;
+Afin d’en favoriser le perfectionnement. – La sociologie est une science
+éminemment pratique : bien plus c’est le besoin de la réaliser dans les faits qui
+lui a donné naissance ; cela indique son but et en même temps son importance
+dont nous allons maintenant parler ;
+Conformément aux enseignements de l’Église. – Ce que nous venons de
+dire au sujet de la sociologie ne donne pas encore une idée complète de ce
+terme pris dans toute l’acceptation du sens que lui donne le titre de notre
+Manuel : Sociologie catholique – Nous devons encore mettre en évidence
+ce qui spécifie la sociologie considérée à ce point de vue, le plus adéquat,
+
+10. Ibid.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+118 – Archives de sciences sociales des religions
+
+c­ ertainement, pour exprimer la science sociale, telle qu’elle doit être pour
+réaliser le but fixé par la divine Providence à l’homme, en particulier et à la
+société en général (Poey, 1914 : 2).
+L’abbé Garriguet, dans sa somme publiée dix ans plus tard en 1924, propose
+une définition proche de la sociologie :
+I. Notions de sociologie. 1. Notion commune. La sociologie est une science qui
+s’occupe des bases sur lesquelles reposent les sociétés et des lois qui doivent régir
+celles-ci pour qu’elles puissent atteindre la fin qui leur a été assignée par la Providence. Cette fin est d’assurer à leurs membres toute la somme de bien-être matériel et
+d’avantages moraux auxquels il leur est permis de prétendre. La sociologie s’occupe
+aussi de la contribution que les membres sont tenus d’apporter au bien général et
+des caractères qu’ils doivent donner à leurs relations pour que règne le bon ordre
+et se trouvent respectées toutes les règles de la justice. La mission de la sociologie
+est de rechercher, de préciser et de proclamer les droits et les devoirs de chacun
+dans la société, afin que se trouvent prévenus, dans toute la mesure du possible, des
+conflits qui sont préjudiciables à tous (Garriguet, 1924 : 3).
+
+Ces définitions appellent quelques commentaires. Le premier est que
+la référence marquée à la science, à travers, en particulier, l’emploi d’un
+vocabulaire sur les lois et les causes, peut se comprendre à la fois comme
+une concession à l’esprit scientifique du temps, mais aussi en référence à la
+formation théologique et philosophique d’orientation thomiste de la plupart
+de ces ecclésiastiques (Serry, 2004 : 33). Il s’agit aussi de s’ériger en concurrent
+d’autres discours à vocation scientifique sur le social et la société qui, s’ils ne
+sont pas cités, ne peuvent être ignorés par ces auteurs. Mais, comme le note
+Hervé Serry, « la sociologie catholique empirique, inspirée par les textes doctrinaux officiels, ne s’inscrit pas dans les débats sur le statut et les conditions
+épistémologiques d’une science du social » (Serry, 2004 : 32). Les auteurs de
+sociologie catholique ne citent que marginalement les sociologues reconnus
+de l’époque comme Durkheim, Tarde ou Fouillée 11, et s’ils le font, c’est pour
+insister sur les insuffisances de la « sociologie scientifique » (nous développons
+cette dimension plus bas). Il ressort de ces définitions de la sociologie catholique, la vocation « éminemment pratique » de la sociologie proposée par ces
+auteurs. Elle ne se conçoit qu’au regard de son utilité, et des objectifs qu’elle
+doit avoir en matière de transformations sociales et d’évitement de conflits
+sociaux. Elle est censée découvrir, par la méthode scientifique, les rôles (les
+« droits et devoirs », comme l’écrit Garriguet) que chacun doit respecter pour
+instaurer une véritable harmonie sociale. La dimension « catholique » de cette
+sociologie réside dans le fait que cette harmonie ne peut venir qu’en suivant
+les enseignements de l’Église, car les fins de la société ont été déterminées,
+11. Dans l’ouvrage cité ci-après d’Albéric Belliot, Comte est cité une fois tandis que Le Play l’est
+à plusieurs reprises. Celui-ci écrit ainsi à son propos : « A cette même date, l’un des plus grands
+penseurs de la sociologie chrétienne au xixe siècle, LE PLAY, commença à se faire connaître »
+(Belliot, 1911 : 297).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 119
+
+non par les hommes, mais par la « Providence ». L’organisation de la société
+doit être, grâce à la sociologie, améliorée en vue de cet objectif explicitement
+chrétien 12.
+
+Sociologie catholique, idéologies politiques et question sociale
+Cette orientation intellectuelle et pratique se confirme à l’examen des interlocuteurs que se donne cette sociologie catholique. En effet, il s’agit d’abord,
+non pas de Durkheim ou de Tarde, mais des autres idéologies politico-sociales
+qui ambitionnent d’organiser la société selon un modèle spécifique et qui
+dominent le débat intellectuel et politique de la période, à savoir principalement
+le socialisme et le libéralisme. Comme l’écrit Albéric Belliot en 1911, il existe
+trois grandes écoles sociologiques 13 : le catholicisme social, le libéralisme, le
+socialisme, «trois grandes écoles rivales dont chacune préconise, dans un esprit
+et dans un but qui lui sont propres, un type tout particulier d’organisation
+sociale » (Belliot, 1911 : 294). Les ouvrages de sociologie catholique se veulent
+d’abord des réfutations des doctrines libérales et individualistes, portées en
+particulier par les économistes, et des doctrines socialistes dont l’audience
+s’accroît fortement durant cette période. Des exposés, relativement savants
+mais critiques, de ces dernières sont ainsi destinés à bien différencier la doctrine
+sociologique catholique du socialisme, bien que ces deux courants partagent
+un refus de l’individualisme prôné par le libéralisme.
+L’École catholique (…) se sépare nettement de l’École libérale en ce qui concerne
+l’existence, la gravité et l’étendue de la crise sociale. Elle ne pense pas ni que la
+plupart des maux, dont se plaint le prolétariat, soient imaginaires, ni que ceux
+qui sont réels soient peu graves, ni qu’il faille les considérer comme nécessaires et
+qu’on ne doive rien faire pour les adoucir. Elle ne croit pas davantage que le régime
+économique, dont nous jouissons, soit le régime idéal et que, par conséquent, essayer
+de le modifier ne constitue une entreprise sacrilège. Sans aller aussi loin que les
+socialistes, elle reconnaît que le régime actuel est par bien des côtés défectueux, que
+des abus criants se sont produits (…). Les maux qui existent ne sont pas des maux
+incurables ; plusieurs peuvent être guéris, d’autres adoucis et rendus tolérables. Pour
+cela, il n’est pas indispensable de recourir à un bouleversement complet de tout ce qui
+existe, à une destruction de fond en comble de l’organisation sociale actuelle pour
+édifier sur ses ruines un ordre de choses reposant sur des assises toutes différentes.
+Il est possible de garder le cadre présent et d’améliorer l’institution, en supprimant
+les principales causes qui ont occasionné la crise (Garriguet, 1901 : 97-98).
+
+La dimension pratique de la sociologie catholique évoquée précédemment
+ressort aussi quand on examine le point de départ que se donnent les auteurs
+12. Paul Naudet écrit ainsi par exemple : « Les rapports sociaux, c’est-à-dire les rapports qui
+existent entre les hommes, dans l’exercice de leur activité physique, doivent être fondés d’abord
+sur les principes de la justice chrétienne » (Naudet, 1896).
+13. Louis Garriguet parle quant à lui des « écoles sociales » (Garriguet, 1901).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+120 – Archives de sciences sociales des religions
+
+de ces ouvrages. En effet, c’est d’abord la « question sociale » qui constitue
+l’origine du questionnement et de l’étude entreprise par ces auteurs. Cette
+« question sociale » en tant que telle doit être étudiée par le clergé parce que
+l’encyclique de 1891 le lui impose, mais aussi pour « être de son temps »
+(Garriguet, 1901 : 45). Elle peut être définie simplement, et dans une perspective
+historique, comme une donnée fondamentale de toute société humaine, tout en
+étant actualisée dans le cadre de la société industrielle de l’époque. Son analyse
+constitue l’ossature de la démonstration des ouvrages considérés comme dans
+le cas de celui d’Albéric Belliot et comme l’illustre l’extrait ci-dessous.
+C’est la question de savoir comment faire cohabiter en paix les Riches et les Pauvres.
+Comme à notre époque la question des Riches et des Pauvres se pose surtout dans le monde industriel, où l’élément bourgeois et l’élément ouvrier
+se font la guerre sous les dénominations de Patrons et de Travailleurs, la
+Question sociale aujourd’hui peut encore être définie :		
+La lutte du Prolétariat ouvrier contre le Capital bourgeois. […]
+Dans une première partie, nommée partie historique, nous étudierons la Question sociale
+à travers les âges, afin de fournir par l’Histoire la démonstration concrète des principes
+fondamentaux établis au Chapitre préliminaire.				
+Dans une seconde partie, nommée partie théorique, nous donnerons ensuite la
+démonstration abstraite de ces mêmes principes par l’étude des faits généraux
+(propriété, capital, travail) sur lesquels repose l’ordre social aujourd’hui, et
+par l’examen des principaux systèmes sociologiques.		
+Enfin, dans une troisième partie, nommée partie pratique, nous verrons quels sont
+les maux dont souffre la société actuelle et les remèdes essayés ou proposés pour
+les guérir (Belliot, 1911 : 5).
+
+Concrètement, cette question sociale inclut, à travers les problèmes sociaux
+et économiques de l’époque, la propriété, le salaire, le profit et l’intérêt, les
+associations ouvrières. En ce sens, la sociologie catholique relève plus de
+l’économie politique ou de l’économie sociale que de la sociologie académique
+qui émerge dans les années 1890 14. Il s’agit dans chaque cas d’apporter
+des réponses issues de l’enseignement social de l’Église, après avoir exposé
+­l’historique d’une de ces questions. Par exemple, dans son Étude de sociologie
+consacrée à L’association ouvrière, le père Louis Garriguet fait l’histoire des
+associations ouvrières depuis l’Antiquité jusqu’à la période moderne (Garriguet,
+1904). Étudiant les lois qui autorisent à nouveau les organisations ouvrières
+et se référant à l’encyclique Rerum novarum, il défend le droit de s’associer
+en se basant sur Dieu et sur Léon XIII : « Il y a là comme un besoin universel
+dont on ne saurait contester l’existence, il fait partie de la nature humaine et
+Dieu n’a pu le placer au cœur de l’ouvrier sans conférer à celui-ci le droit aux
+moyens de le satisfaire. » (Garriguet, 1904 : 50-51) 15. S’il craint les tendances
+14. Sur la notion d’économie sociale, on renvoie à l’ouvrage d’André Gueslin (Gueslin, 1987).
+15. Il ajoute plus loin : « personne ne peut donc légitimement ravir à l’ouvrier le droit de s’associer
+avec ses camarade. Léon XIII le déclare explicitement » (p. 52).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2Thu, 01 Jan 1976 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 121
+
+révolutionnaires des syndicats, il prône l’existence de syndicats mixtes, alliant
+patrons et ouvriers, tout en s’en remettant, dans sa conclusion, encore une
+fois à Dieu 16. L’analyse historique d’un problème socio-économique est donc
+combinée avec des solutions pratiques et catholiques.
+
+Crise du modernisme et critique de la sociologie scientifique
+Si les publications de sociologie catholique ressortent principalement d’une
+littérature préoccupée par les questions d’économie sociale, se développe
+aussi une littérature catholique critique de la sociologie scientifique qui, elle,
+peut s’inscrire dans l’intransigeantisme typique d’une frange du clergé de
+cette période 17. Ainsi l’abbé Julien Fontaine, né en 1839 et décrit, dans le
+Dictionnaire de biographie française, comme un « polémiste infatigable, [qui]
+prit place, dès 1890, parmi les défenseurs de la plus rigoureuse orthodoxie
+catholique contre tous les partisans du mouvement » 18, publie un ouvrage
+en 1909 intitulé : Le modernisme sociologique. Le sous-titre complet en est
+Décadence ou régénération. La Déchristianisation : Ses Causes. La Dissolution
+Sociale : Ses Moyens. La Régénération Sociale : Ses Conditions. Il s’y attaque
+aux « abbés démocrates » 19 ainsi qu’aux philosophes catholiques de la tendance
+moderniste 20. Mais ce sont surtout les sociologues universitaires de la période
+qui font les frais de sa verve, la critique du modernisme se traduisant, chez
+Fontaine, par la critique d’un « modernisme sociologique ». Il accuse ainsi les
+sociologues, nommément Durkheim, Fouillée ou Lévy-Bruhl, de participer à
+la déchristianisation et à la démoralisation de la société : « les liens sociaux se
+relâchent, à mesure que s’affaiblit la vieille morale ; et rien, absolument rien
+ne la remplace avec efficacité » (Fontaine, 1909 : 157). Il dénonce les dangers
+socialistes que la sociologie scientifique promeut selon lui : « La loi sociologique
+de MM. Lévy-Bruhl, Alfred Fouillée et autres professeurs d’antichristianisme,
+est faite pour débrider toutes les passions et toutes les convoitises et les pousser
+à l’assaut de la propriété » (Fontaine, 1909 : 162). Fontaine défend alors, lui
+aussi, face à cette sociologie scientifique, une sociologie catholique qui place
+la loi divine au cœur de la société humaine et de la nature :
+16. « Rien n’arrivera sans la permission de Dieu dont le bras tout-puissant dirigera cette formidable évolution comme il en a dirigé tant d’autres au moins aussi délicates, et le mouvement, qui
+effraie aujourd’hui tant d’esprits, aboutira, c’est notre persuasion, au progrès matériel, et par le
+progrès matériel au progrès intellectuel de l’humanité » (ibid., p. 63).
+17. Ajoutons qu’on ne saurait opposer de manière simpliste une sociologie catholique, expression
+d’un catholicisme social de tendance libérale, et une orthodoxie catholique intransigeante d’autant
+plus que le catholicisme social s’enracine aussi dans ce dernier courant comme l’ont montré de
+nombreux travaux (Mayeur, 1972).
+18. « Julien Fontaine », Dictionnaire de biographie française, t. 14, p. 295.
+19. Il s’attaque notamment à l’abbé Paul Naudet cité précédemment (Fontaine, 1909 : xxvi), qui
+doit quitter ses activités journalistiques à partir de 1908 suite à la demande de sa hiérarchie.
+20. « La sociologie de M. Fonsegrive semble s’inspirer d’un unique principe, la haine de toutes
+les supériorités sociales, et cela au nom du Christianisme. Nous recueillons, aujourd’hui, les fruits
+de cette éducation pseudo-démocratique et fort peu cléricale » (Fontaine, 1909 : xxvi).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+122 – Archives de sciences sociales des religions
+
+[…] la sociologie, qui sort naturellement de la doctrine catholique, est plus élevée et plus
+noble, parce que cette doctrine nous donne une autre idée de la nature et de l’origine des êtres,
+ainsi que de leurs relations réciproques.					
+[…] le règne humain est tout aussi distinct des espèces animales que celles-ci le sont du règne
+inorganique ; et, pour l’établir, il a fallu l’action immédiate de ce Dieu qui créa le chef de
+la race humaine à son image et à sa ressemblance.				
+Ces principes de biologie rationnelle et expérimentale nous amènent à une conception
+des sociétés, tout autre que celle de M. Fouillée. Ses observations sur les peuplades
+d’animaux nous étaient depuis longtemps connues ; nous les croyons exactes, mais
+en partie seulement. Ce que ce philosophe attribue à une sorte d’intelligence surfaite
+et à une volonté consciente de ses opérations, nous l’attribuons, nous, à un instinct
+très sûr et très éclairé dont le Dieu Créateur a doué ces espèces inférieures pour
+assurer leur propre conservation (Fontaine, 1909 : 145-146).
+
+Cette critique virulente de la sociologie est partagée par certains des promoteurs de la sociologie catholique évoqués précédemment. Ainsi, si Louis
+Garriguet ne mentionnait pas cette sociologie « positiviste » dans ses premières
+Études de sociologie qui relevaient de l’économie politique et sociale, vingt
+ans plus tard il ne peut faire cette même impasse. Le premier chapitre de
+son Manuel d’économie sociale et de sociologie, publié en 1924, est ainsi en
+partie consacré aux « notions générales » de la sociologie et à une critique
+des sociologues classiques. La principale critique porte sur les « manques » de
+cette sociologie scientifique dont il reconnaît les apports, mais qui « oublie »
+Dieu. Il écrit ainsi :
+Mais ce qui constitue la grande faiblesse de la conception positiviste de la sociologie, c’est de mettre systématiquement de côté « toute métaphysique » et d’oublier
+de parti-pris qu’il y a une ordination providentielle des choses. La société est une
+institution établie par Dieu qui lui a donné des bases et tracé des lois. De ces bases
+et de ces lois le sociologue ne peut pas ne pas tenir compte. En les négligeant, il se
+prive d’un fil conducteur nécessaire pour ne pas s’égarer dans un chemin particulièrement difficile à suivre. Bâtir une société sur d’autres fondements que ceux que
+Dieu a fixés, c’est la bâtir sur le sable (Garriguet, 1924 : 7).
+
+Louis Garriguet reprend aussi, dans ses critiques, un débat classique qui
+porte sur la morale et, plus précisément sur la relation entre sociologie et
+morale 21. Pour le religieux, « la sociologie n’est pas indépendante de la morale ».
+
+21. Cette polémique est surtout connue dans l’historiographie à travers l’ouvrage du Belge
+Simon Deploige, Le conflit de la morale et de la sociologie, publié en 1910. Mais, en plus de
+Julien Fontaine, on peut citer les deux ouvrages de J. Grasset (qui n’est pas un ecclésiastique,
+mais un médecin), Morale scientifique et morale évangélique devant la sociologie, publié en 1909
+et L’Évangile et la sociologie en 1910. Ce médecin conservateur écrit ainsi par exemple : « Ces
+principes nécessaires à l’édification de la sociologie ne peuvent être trouvés que dans l’Évangile »
+(Grasset, 1910 : 28). Sur cet auteur, on renvoie à l’étude de Philippe Secondy (Secondy, 2008).
+Voir aussi : Paul-Onésime Habert et son ouvrage L’école sociologique et les origines de la morale
+publié en 1923.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 123
+
+Il va même plus loin en considérant que cette sociologie n’est qu’une branche
+de la morale et qu’elle est « d’une nature moins élevée » que celle-ci (Garriguet,
+1924 :12). Loin de pouvoir faire l’objet d’une étude scientifique et positive, la
+morale, catholique évidemment, a le dernier mot sur une sociologie qui doit
+rester, pour Garriguet, une discipline largement normative qui vise le bien
+commun et non pas un savoir objectif sur le social.
+*
+**
+Les publications de « sociologie catholique » n’ont pas durablement pu s’opposer au mouvement sociologique qui se construit dans les années 1890‑1900 et
+le label disparaît à la veille de la Seconde Guerre mondiale. Si ces publications
+ont commencé par ignorer le développement de celui-ci, elles n’ont pu rester
+sur cette position, en particulier au lendemain de la Première Guerre mondiale.
+La distance épistémologique était toutefois telle qu’un dialogue entre socio­
+logie durkheimienne et sociologie catholique était rigoureusement impossible.
+Tandis que Durkheim s’aventurait sur le terrain de l’analyse sociologique de
+la religion et de la morale et refusait des conceptions trop classiques sur la
+nature humaine par exemple, les sociologues catholiques défendaient une
+vision providentialiste de la société et les origines religieuses de la morale.
+L’analyse des faits empiriques, comme fondement de la sociologie, ne pouvait
+se faire qu’à partir de points de départ trop divergents entre catholiques et
+universitaires. Pour autant, oscillant entre économie sociale chrétienne et
+critique de la « sociologie scientifique », ces publications ont constitué un
+moment de l’histoire de la naissance de la sociologie française, et de la mode
+autour de la nouvelle discipline. Si la « sociologie catholique » à la française a
+fait long feu, son étude permet aussi de revenir sur la réception des premiers
+sociologues universitaires. Une historiographie plus sensible à la diversité du
+mouvement sociologique et moins centrée sur la « victoire » de Durkheim doit
+ainsi tenir compte de ce courant.
+Sébastien MOSBAH-NATANSON
+Université du Québec à Montréal
+mosbah-natanson.sebastien@uqam.ca
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+124 – Archives de sciences sociales des religions
+
+Bibliographie
+Corpus de sociologie catholique, par année de parution
+Calland Victor, 1859, De la science sociale au point de vue catholique. Réponse aux
+politiques du jour, Paris, Impr. de Dubuisson.
+Guillemenot Pierre (abbé), 1884, Essai de science sociale ou éléments d’économie
+politique. Notions fondamentales à l’usage des Établissements d’éducation, Paris,
+Bray et Retaux.
+Recolin Charles, 1893, Solidarité. Essai de sociologie chrétienne, Paris, Fischbacher.
+Naudet Paul, 1899, Premiers principes de sociologie catholique, Paris, Bloud, coll. « Science
+et religion ».
+Garriguet Louis, 1901-1905, Études de sociologie, 7 vol., Paris, Bloud, coll. « Questions
+de sociologie » (Études de sociologie 1&2 : Question sociale et écoles sociales, 1901 ;
+Études de sociologie 3&4 : La propriété privée, 1901 ; Études de sociologie 5 : Le
+salaire, 1903 ; Études de sociologie 6 : Le contrat de travail, 1904 ; Études de sociologie
+7 : L’association ouvrière, 1904 ; Études de sociologie 8 : Capital et capitalisme, 1904 ;
+Études de sociologie 9 : Production et profit, 1905).
+Garriguet Louis, 1907-1909, Traité de sociologie d’après les principes de la sociologie
+catholique, 3 vol., Paris, Bloud, coll. « Questions de sociologie », (I. Régime de propriété ; ii-iii. Régime du travail).
+Fontaine Julien, 1909, Le modernisme sociologique. Décadence ou régénération, Paris,
+Lethielleux.
+Grasset Joseph, 1909, Morale scientifique et morale évangélique devant la sociologie,
+Paris, Bloud, coll. « Questions philosophiques ».
+Deploige Simon, 1910, Le conflit de la morale et de la sociologie, Paris, Alcan.
+Gaudeau Bernard et Julien Fontaine, 1910, Religion, sociologie et politique. Les semaines
+sociales et leur utilité, Paris, Lethielleux.
+Grasset Joseph, 1910, L’Évangile et la sociologie, Paris, Bloud, coll. « Questions de
+sociologie ».
+Belliot Albéric, 1911, Manuel de sociologie catholique. Histoire, théorie, pratique,
+Paris, Lethielleux.
+Poey P., 1914, Manuel de sociologie catholique, d’après les documents pontificaux. À
+l’usage des séminaires et des cercles d’étude, Paris, G. Beauchesne.
+Habert Paul-Onésime, 1923, L’école sociologique et les origines de la morale, Paris, Rivière.
+Garriguet Louis, 1924, Manuel de sociologie et d’économie sociale. Les principaux
+problèmes sociaux étudiés aux lumières de la théologie, du droit naturel et de l’histoire, Paris, Bloud et Gay.
+
+Bibliographie secondaire
+Albaric Michel, 1991, « L’édition catholique », in Chartier R., Martin H.-J. (éds.), Histoire
+de l’édition française. Le livre concurrencé 1900-1950, t. iv, Paris, Fayard, p. 195-203.
+Aubert Roger, 1975, « Les débuts du catholicisme social », in Aubert R., Knowles M.D.,
+Rogier L.J. (éds.), Nouvelle histoire de l’Église, t. v. L’Église dans le monde moderne
+(1848 à nos jours), Paris, Seuil, p. 156-177.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 125
+
+Balteau Jules et alii (éds.), 1933-2000, Dictionnaire de biographie française, 13 volumes,
+Paris, Letouzey et Ané.
+Bergeron Joseph, 1910, Le Collège libre des sciences sociales. Ses origines, son fonctionnement, Paris, Giard et Brière.
+Carbonell Charles-Olivier, 1976, Histoire et historiens : une mutation idéologique des
+historiens français 1865-1885, Toulouse, Privat.
+Clark Terry Nichols, 1973, Prophets and Patrons: the French University and the Emergence of the Social Science, Cambridge, Harvard University Press.
+Duroselle Jean-Baptiste, Mayeur Jean-Marie, 1993, Histoire du catholicisme, Paris,
+Presses universitaires de France.
+Fabiani Jean-Louis, 1988, Les philosophes de la république, Paris, Éditions de Minuit.
+Fournier Marcel, 2007, Émile Durkheim (1858-1917), Paris, Fayard.
+Gueslin André, 1987, L’invention de l’économie sociale. Le xixe siècle français, Pairs,
+Economica.
+Karady Victor, 1979, « Stratégies de réussite et mode de faire-valoir de la sociologie chez
+les durkheimiens », Revue française de sociologie, 20, 1, p. 49-82.
+Martin Olivier, 2000, Sociologie des sciences, Paris, Nathan.
+Mayeur Jean-Marie, 1972, « Catholicisme intransigeant, catholicisme social, démocratie
+chrétienne », Annales. Économies, Sociétés, Civilisations, 27, 2, p. 483-499.
+–, 1973, Les débuts de la IIIe République 1871-1898, Paris, Points Seuil.
+–, 1989, Catholicisme social et démocratie chrétienne. Principes romains, expériences
+françaises, Paris, Éditions du Cerf.
+–, 1995, « La question sociale », in Gandille J., Mayeur J.-M. (éds.), Histoire du christianisme des origines à nos jours, t. xi : Libéralisme, industrialisation, expansion
+européenne (1830-1914), Paris, Desclée, p. 489-497.
+Mosbah-Natanson Sébastien, 2007, « La sociologie est à la mode » Productions et
+producteurs de sociologie en France autour de 1900, thèse pour l’obtention du titre
+de doctorat en sociologie, Université Paris-Dauphine.
+–, 2011, « La sociologie comme “mode’? Usages éditoriaux du label “sociologie” en
+France à la fin du xixe siècle », Revue française de sociologie, 52, 1, p. 103-132.
+–, 2014, “The forgotten one of the triad: why did René Worms, and not Emile Durkheim
+or Gabriel Tarde, fail?”, in Wisselgren P., Baehr P., Kiyomitsu Y. (éds.), International
+Histories of Sociology, Conference Proceedings of the Research Committee on
+History of Sociology from the xiv ISA World Congress of Sociology in Yokohama,
+Electronic Format, p. 161-168.
+–, 2017, Une « mode » de la sociologie. Publications et vocations sociologiques en France
+en 1900, Paris, Classiques Garnier.
+Mucchielli Laurent, 1998, La découverte du social. Naissance de la sociologie en
+France, Paris, La Découverte.
+Perrot Jean-Claude, 1992, Une histoire intellectuelle de l’économie politique (xviiexviiie siècle), Paris, Éditions de l’École des hautes études en sciences sociales.
+Savoye Antoine, Audren Frédéric, 2015, « René Worms, un sociologue “sans qualités” ?
+Eclairage biographique », Études sociales, 161-162, p. 7-41.
+Secondy Philippe, 2008, « La “science traditionaliste” du docteur Joseph Grasset et ses
+usages politiques : une légitimité intellectuelle pour l’Action française », in Crépon S.,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+126 – Archives de sciences sociales des religions
+
+Mosbah-Natanson S. (éds.), Les sciences sociales au péril de l’extrême droite, Paris,
+L’Harmattan, coll. « Cahiers politiques », p. 133-158.
+Serry Hervé, 2004, « Saint-Thomas sociologue ? Les enjeux cléricaux d’une sociologie
+catholique dans les années 1880-1920 », Actes de la recherche en sciences sociales,
+153, p. 28-39.
+Théré Christine, 1998, “Economic publishing and authors, 1566-1789”, in Faccarello G.
+(éd.), Studies in the History of French Political Economy. From Bodin to Walras,
+Londres, Routledge, p. 1-56.
+Winock Michel, 2003, La Belle époque : la France de 1900 à 1914, Paris, Perrin.
+
+La sociologie catholique, entre économie sociale
+et critique de la sociologie scientifique
+Paraissent, entre 1890 et 1920, des publications portant le label « sociologie
+catholique ». Cette production éditoriale, marginalement considérée par l’histo­
+riographie, est l’objet de cet article. Dans une première partie, on revient, à
+partir d’une perspective bibliométrique, sur l’explosion éditoriale portant sur
+le « social » autour de 1900, production qui oscille entre socialisme, sociologie
+et catholicisme social. Dans un second temps, à travers l’étude du contexte de
+production, du profil des auteurs et des différents objets d’études investis, il est
+montré que ces publications ressortent plus de l’économie sociale catholique
+– en concurrence avec le socialisme et le libéralisme – que de la sociologie
+académique. Enfin, la critique de cette sociologie universitaire, souvent qualifiée
+de « sociologie scientifique », est au centre de notre attention.
+Mots-clés : sociologie catholique, méthode bibliométrique, question sociale,
+économie sociale, sociologie scientifique.
+
+Catholic sociology, between social economy
+and criticism of scientific sociology
+Between 1890 and 1920, several books on “sociologie catholique” were
+published in France. In the first part of this essay, we measured this surge
+in publications, related to sociology, socialism or social Catholicism. In the
+second part, we study the context, authors and subjects of these publications,
+showing that most have closer ties to Christian social economy than to academic sociology. We finally focus on the criticism of academic sociology in
+the works of “sociologie catholique.”
+Keywords: Catholic sociology, bibliometrics, social question, social economy,
+scientific sociology.
+
+This content downloaded from
+:ffff:ffff:ffff:ffff:ffff:ffff:ffff on Thu, 01 Jan 1976 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+La sociologie catholique, entre économie sociale et critique – 127
+
+Sociología católica, entre economía social
+y crítica de la sociología científica
+Entre los años 1890 y 1920 aparecieron publicaciones bajo la denominación
+de “Sociología católica”. Esta producción editorial, considerada de manera
+marginal por la historiografía, es el objeto de este artículo. En la primera
+parte, vamos a tratar, a partir de una perspectiva bibliométrica, la explosión
+editorial que presenta temas en torno a lo social, alrededor de los años 1900,
+producción que oscila entre el socialismo, la sociología y el catolicismo social.
+En una segunda parte, a través del estudio del contexto de producción, del perfil
+de los autores y de los diferentes objetos de estudio, demostraremos que estas
+publicaciones son más bien el resultado de la economía social católica – en
+competición con el socialismo y el liberalismo – que de la sociología académica.
+Finalmente, la crítica a esta sociología universitaria, frecuentemente calificada
+como “Sociología científica”, está en el centro de nuestra atención.
+Palabras claves: sociología católica, método bibliométrico, cuestión social,
+economía social, sociología científica.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:20 UTC
+All use subject to https://about.jstor.org/terms
+
+

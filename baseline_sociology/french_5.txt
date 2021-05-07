@@ -1,0 +1,841 @@
+EHESS
+Des chiffres et des hommesAuthor(s): Cécile Vanderpelen-Diagre
+Source: Archives de sciences sociales des religions , 62e Année, No. 179 (Octobredécembre 2017), pp. 129-146
+Published by: EHESS
+Stable URL: https://www.jstor.org/stable/10.2307/26505080
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+EHESS is collaborating with JSTOR to digitize, preserve and extend access to Archives de
+sciences sociales des religions
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Cécile Vanderpelen-Diagre
+
+Des chiffres et des hommes
+Les catholiques belges et la sociologie universitaire (1939-1970)
+C’est en 1939 que l’Université catholique de Louvain ouvre son premier cours
+d’« Introduction à la sociologie » 1. Ainsi s’achèvent plusieurs décennies de
+défiance et de méfiance de l’intelligentsia catholique à l’égard d’une discipline
+jugée dangereuse parce que traitant des sociétés humaines sans tenir compte
+du déterminisme divin et des prescrits thomistes. En 1911, le très influent
+Monseigneur Deploige, président de l’Institut Supérieur de philosophie de
+Louvain, avait exprimé, dans Le conflit de la morale et de la sociologie, son
+souhait que la discipline se déploie mais à la condition d’être un prolongement
+du droit naturel thomiste. L’ouvrage, qui s’en prenait tant à Durkheim qu’à
+Lévy-Bruhl, fut applaudi par l’intelligentsia catholique, traduit en allemand et
+en italien. Pour sa troisième édition, il reçut une préface élogieuse de Jacques
+Maritain (1927). L’ouverture d’un cours dédié à la sociologie scientifique dans
+une université revendiquant son adhésion au catholicisme n’allait dès lors pas
+de soi. Pourtant, la méthode consistant à l’analyse empirique de la société par
+l’enquête était pratiquée depuis longtemps par le monde catholique belge. Depuis
+de nombreuses décennies, les ingénieurs sociaux et les militants catholiques
+influencés par Le Play, travaillaient, les uns à donner des outils à l’État ou à
+l’Action catholique en vue de la réalisation des réformes sociales adéquates, les
+autres à l’optimalisation des dispositifs de l’évangélisation. Après la guerre, on
+peut dire, d’une manière certes un peu schématique, que l’on passe du modèle
+idéal et consensuel de la sociologie catholique à celui beaucoup plus complexe
+de la sociologie scientifique écrite par des catholiques. La question est de savoir
+comment se négocie – avec l’université, le champ scientifique, les autorités
+religieuses, les croyances personnelles – et s’opère cette transformation.
+L’examen des trajectoires personnelles et institutionnelles, ainsi que
+des productions scientifiques des principaux sociologues qui travaillent à
+l’Université catholique de Louvain (ou dans les associations qui lui sont liées)
+
+1. Cet article doit beaucoup aux suggestions et conseils de Kenneth Bertrams et Kaat Wils.
+Qu’ils sachent que je leur en suis sincèrement reconnaissante.
+����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+
+Archives de sciences sociales des religions, 179 (octobre-décembre 2017), p. 129-146
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+130 – Archives de sciences sociales des religions
+
+jusqu’en 1970 permet de pointer l’espace des contraintes et des possibles.
+Force est de constater que leurs actions et interventions se développent dans
+trois directions qui constitueront les trois parties de cet article. La première
+concerne l’organisation de la recherche. Il s’agit d’autonomiser la sociologie
+du champ religieux et de sortir en quelque sorte du modèle scolastique. La
+démarche suppose de gagner une légitimité au sein du champ scientifique
+à l’échelle nationale et internationale. La deuxième direction touche à
+­l’épistémologie de la discipline. Le défi consiste à régler la question de la
+morale, soit créer une sociologie qui s’autorise à penser les questions de la
+famille, de la sexualité, de la détermination de l’individu par le social et, dans
+une certaine mesure, de la religion. Ici encore, il s’agit d’autonomie, cette fois
+à l’égard de la philosophie morale. La troisième direction a trait au placement
+social et à la représentation de soi des chercheurs. Entre l’action sociale,
+l’État et la science, ils doivent trouver un lieu d’énonciation qui leur assure
+légitimité, reconnaissances et moyens financiers. Chacune de ces structures
+offre des gains symboliques et financiers, à condition de les distinguer dans
+les registres d’action choisis. On le sait, le sociologue qui porte les habits du
+« conseiller du prince » perd en crédit auprès de sa profession ; celui qui ne
+descend pas de la tour d’ivoire de la science semble inapte à être expert de la
+res publica. Or, l’après-guerre représente un moment fort d’émergence d’un
+marché du travail particulièrement prometteur pour les sociologues avec la
+croissance d’une demande sociale orchestrée par l’État-providence à l’adresse
+des sciences sociales et administratives en vue de mettre sur pied un véritable
+management public (Beze, 2005 ; Bolle de Balle, 2014).
+
+L’organisation de la recherche : financement,
+positionnement et objets
+Nous l’avons dit, des structures d’implantation des méthodes de l’enquête
+sociologiques sont à l’œuvre dans le pays dès le xixe siècle. Elles produisent
+alors essentiellement des études dites de « physique sociale » basées sur des
+statistiques destinées à aider l’État dans ses réformes. Au sein de l’Université
+catholique de Louvain elle-même, l’École de sciences politiques et sociales
+créée en 1892 et attachée à la Faculté de Droit abrite des professeurs marqués par Le Play qui pratiquent une sociologie empirique. Cependant ces
+professeurs sont très hostiles à la sociologie critique inspirée par le modèle
+des sciences naturelles et de l’anthropologie. Ils n’éprouvent que prévention
+à l’égard d’une approche jugée par trop matérialiste et surtout apparentée
+au ­socialisme, comme c’est en effet le cas à l’Université libre de Bruxelles
+à l’époque (Rasmussen et Wils, 2014). Du côté de l’Institut supérieur de
+Philosophie de l’Université catholique de Louvain, un intérêt s’exprime
+pour la discipline. Le futur cardinal Mercier, qui préside l’Institut, souhaite
+en effet réconcilier les catholiques avec les sciences modernes. Pour lui, la
+sociologie peut être utile dans le développement de la théorie politique et
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 131
+
+s­ ocio-économique ­néo-thomiste. Cette orientation néo thomiste cantonne
+toutefois toute initiative visant à connaître la société dans la philosophie
+morale et rend toute intégration dans la sociologie scientifique et universitaire
+en train de s’institutionnaliser difficile (Gerard et Wils, 1999).
+Après la Première Guerre mondiale, dans l’Action catholique, la pratique
+du génie social, comme l’appelle Antoine Savoy pour désigner l’opération
+qui consiste à trouver des systèmes de régulation des rapports sociaux à une
+échelle le plus souvent restreinte grâce à des études de terrain et l’invention
+puis la mise en place de solutions (Savoie, 1994, 190), se généralise et devient
+centrale dans les organisations de la Jeunesse ouvrière chrétienne. Pour leur
+fondateur Joseph Cardijn, l’efficacité de l’action dépend d’une formation
+adéquate qui aboutit à ce que le militant soit capable d’installer les ­dispositifs
+conformes au terrain. Cette conviction lui a été inspirée par les cours de
+sociologie empirique reçus à l’Université catholique de Louvain et est formulée
+par la fameuse devise « Voir juger agir » (Gerard et Wynant, 1994, 430sq). Au
+sein de la JOC, chaque section locale est munie d’un cercle d’étude central
+et utilise massivement la méthode de l’enquête. Tout militant passe donc par
+une « école sociale » (Bragard et Fievez, 1990 :73).
+À la fin des années 1930, le très influent et énergique chanoine Jacques
+Leclercq (1891-1971), qui vient d’être nommé professeur de philosophie
+morale à l’Université catholique de Louvain, décide de mettre tout en œuvre
+pour concilier cette approche empirique à vocation pastorale de la sociologie
+et son appréhension par les sciences universitaires sous coupole catholique.
+Il commence par intégrer dans son cours une introduction à la sociologie.
+Il vient de découvrir cette discipline et il se met en tête de se l’approprier et
+d’en diffuser les grands principes et applications. C’est dans ce contexte qu’il
+rédige son Introduction à la sociologie (1948). Ensuite, en 1951, il fonde la
+Société d’études politiques et sociales conçue comme un lieu de rencontre pour
+les professeurs et les leaders des organisations sociales catholiques, mais pas
+seulement. L’Institut organise des conférences et des débats qui s’adressent au
+grand public dans un esprit pluraliste cher à Leclercq, profondément marqué
+par le personnalisme. Le courant est alors très présent en Belgique, à la faveur
+des Groupes Esprit, surgeons de la revue française du même nom semés par
+Emmanuel Mounier quand il était à Bruxelles de 1935 à 1939 (Mabille, 2009 :
+11 ; Mertens et Voisin). Leclercq espère voir au sein de la Société d’études
+politiques et sociales se « développer un esprit chrétien qui fasse écho aux
+encycliques […] [et] qui réagisse chrétiennement devant les situations de notre
+temps et de notre pays » 2.
+Dans le même temps, les différentes branches de la sociologie qui intéressent
+la pastorale reçoivent peu à peu elles aussi une armature et une visibilité
+2. Jacques Leclercq, « Préface », Dix ans de réflexion (1950-1960). Introductions aux problèmes
+politiques et sociaux de notre temps, Louvain, 1961, p. 4. Cité dans Jean-Louis Jadoulle, « Les
+visages de l’Église de Belgique à la veille du Concile Vatican II », in Claude (dir.) Soetens, (éd.).
+Vatican II et la Belgique, éd. Claude (dir.) Soetens, Ottignies, Quorum, 1996, p. 11‑70, p. 57.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+132 – Archives de sciences sociales des religions
+
+i­ nstitutionnelle. C’est le cas de la sociologie urbaine avec Jean Rémy (1928- )
+et François Houtart (1925- ), de la sociologie rurale, à la tête de laquelle on
+trouve Giovanni Hoyois (1893-1969), ancien cadre de l’Action catholique ou
+encore de la sociologie religieuse, laquelle n’intègre officiellement l’Université
+qu’en 1964 (Jadoulle, 1996 : 46). Ces différents laboratoires se caractérisent par
+leur statut hybride, à l’intersection de l’Université et des organisations attachées
+d’une manière ou d’une autre à l’Église. Louvain est un pôle ­particulièrement
+actif dans la sociologie religieuse, avec la fondation en 1948 de la Conférence
+internationale de sociologie. Dans les pays catholiques, ce domaine est investi
+massivement par l’Église dans les années d’après-guerre 3.
+Après la guerre, Leclercq perçoit la nécessité de doter l’Université d’un
+Institut dédié à la sociologie sans connotation confessionnelle et affiliation
+cléricale. « On entreprend partout des enquêtes sociales, écrit-il ; de nombreux
+organismes s’en occupent et on n’a rien à Louvain pour répondre à la demande.
+Nous avons organisé des cours, mais nous n’avons pas de centre de recherche 4 ».
+En effet, au début des années 1950, les sciences sociales, c’est-à‑dire la psycho­
+logie sociale, la sociologie et les sciences économiques sont de plus en plus
+convoquées par les administrations et l’État qui les perçoivent comme des
+disciplines de pointe revêtues du pouvoir d’infléchir le développement économique et la stabilité sociale (Drouard et Lecuyer, 1982 ; Drouard, 1983 ;
+Wagner et al, 1991 ). D’une manière très significative, en 1951 un important
+organe d’études économiques et sociales est mis en place en Belgique par les
+Américains dans la foulée du plan Marshall, l’Office belge pour l’accroissement
+de la productivité (OBAP). Afin d’améliorer les méthodes de productivité du
+pays, l’agence, constituée de patrons, de délégués syndicaux et d’universitaires,
+étudie tous les aspects de la productivité : les techniques de fabrication, les
+pratiques commerciales et les conditions de travail. Les méthodes sont l’enquête
+et l’observation de terrain (beaucoup aux États-Unis). L’objectif est d’adresser
+des recommandations aux ministres compétents, d’organiser une propagande
+apte à pénétrer les secteurs concernés et plus largement, d’assurer l’efficacité
+du financement américain dans la politique sociale belge. En 1956, l’OBAP
+devient un établissement d’utilité publique, et l’intervention du gouvernement
+belge s’accroît, en même temps que la coopération avec le monde académique
+se renforce (Bertrams, 2001). L’Université catholique de Louvain participe
+à l’aventure. Avant cela, elle se dote d’un organisme ad hoc ! Au départ, il
+s’agit d’agrandir l’Institut des sciences économiques (fondé en 1928) pour en
+faire un Institut de recherche économique et sociale (IRES) (dont le premier
+Bulletin paraît en 1946). Afin d’autonomiser les recherches de son équipe par
+rapport à l’économie, Leclercq crée en 1955 le Centre d’Études sociales (CES)
+et il en confie la direction à Pierre de Bie (1917-1996). Ce brillant docteur en
+3. Chris Dols, Fact factory : sociological expertise and episcopal decision making in the
+Netherlands 1946-1972, Nijmegen, Valkhof Pers, 2015 et le numéro spécial Pastoral Sociology
+in Western Europe, 1940-1970 dans Journal of Religion in Europe, 2016, 2-3.
+4. Jacques Leclercq à Jean Jadot, 16/9/1954. Cité dans Sauvage, 1992 : 193.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14: Jan 1976 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 133
+
+droit et en philosophie a parfait sa formation à l’Université de Chicago grâce
+à une bourse de la fondation Rockefeller. Au contact de Everett Hughes, il
+découvre la sociologie de l’École de Chicago, dont il se fera ensuite le relais
+à l’Université de Louvain 5.
+D’emblée, Leclercq place son projet en dehors de toute préoccupation
+évangélique. C’est, écrira-t-il à son ami Mgr Jadot, « l’œuvre la plus profane
+de sa vie » 6.
+À peine le Centre est-il fondé, qu’il faut assurer son fonctionnement. Sans
+attendre, Leclercq écrit au gouverneur de Flandre-Occidentale, Pierre Van
+Outryve d’Ydewalle (1912-1997), avant-guerre attaché de cabinet du ministre
+catholique Hubert Pierlot et publiciste dans des journaux catholiques, pour
+lui demander une aide financière. « Le Centre de politique sociale, promet-il,
+sera à la disposition de toutes les institutions publiques et privées. Vous
+m’avez dit que beaucoup de communes sentent actuellement la nécessité de
+faire exécuter des recherches sociales au sens le plus large du terme 7 ». Il lui
+est ainsi accordé 100 000 francs belges (l’équivalent environ du salaire annuel
+d’un technicien qualifié) 8. Dans les années qui suivent, le Centre réalise de
+nombreuses enquêtes pour des patrons et industries (Société Saint Cosme et
+Damien des pharmaciens catholiques, l’Association belge des banques, les
+mines Espérance-Longdoz à Seraing, la Compagnie financière belge des pétroles
+Prufina, etc. 9 ), les groupes de pression (la Ligue des Familles nombreuses),
+le syndicat chrétien (grâce à des dons récurrents de la Banque nationale 10), le
+Comité national belge de la Chambre de commerce internationale et on l’a
+dit, l’Office belge pour l’accroissement de la productivité. Outre ces dons et
+contrats avec des organismes étatiques ou parastataux, le CES réalise plusieurs
+études pour le Fonds national de la recherche scientifique et le ministère de
+l’Éducation nationale et de la culture 11.
+Outre la réalisation de ces commandes, le CES met l’essentiel de son énergie,
+de 1948 à 1970, dans le développement de travaux sur la sociologie familiale.
+Sur les 10 ouvrages qu’il édite jusqu’en 1971, 8 concernent ce sujet. Les parte­
+nariats sont essentiellement mis en place avec des organisations intégrées dans
+5. Les universités américaines eurent énormément d’importance dans la formation des universitaires belges, grâce aux différentes bourses de la Belgian American Education foundation (Huistra,
+Pieter et Wils Kaat, 2016, « The Exchange Programme of the Belgian American Educational
+Foundation: An Institutional Perspective on Scientific Persona Formation (1920-1940) », BMGN
+- Low Countries Historical Review, 131(4), p. 112-134.
+6. Carnets intimes de Jacques Leclercq, Vol. III, 12-13/9/1954, pp. 128-129. Cité dans Sauvage,
+1992 : 193.
+7. Archives de l’Université catholique de Louvain (AUCL), Louvain-la-Neuve, Fonds du Centre
+de recherches sociologiques, Jacques Leclercq à Pierre d’Ydewalle, Bruges, 7 février 1955, FI 252/1.
+8. Cette subvention, qui atteindra jusqu’à 250 000 francs une année, sera versée au moins
+jusqu’en 1967 (Idem, Pierre De Bie à M. Floreal, Afdelingschef du Gouvernement de la Province
+West-Flandre, 6 janvier 1967)
+9. AUCL, Dossiers comptabilité du CRS, 22-17.
+10. Idem, De Bie au Gouverneur de la Banque nationale, 6 février 1967.
+11. AUCL, Dossiers comptabilité du CRS, 22-17.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+134 – Archives de sciences sociales des religions
+
+l’organigramme ou l’orbite étatique, la Ligue des familles nombreuses et le
+ministère de la Population et de la famille. En 1962, le ministre social-­chrétien
+de la Santé publique et de la famille Jozeph Custers (1904-1982) crée un
+Centre d’études de la population et de la famille, à la tête duquel il installe
+Pierre de Bie, Jean Morsa (Université libre de Bruxelles) et le sociobiologiste
+Robert Cliquet (Rijksuniversiteit Gent). La mission du centre est d’aider le
+gouvernement à prendre des mesures adéquates en matière de planification
+démographique ; le rapport Sauvy sort cette année-là et la Belgique comme
+bien d’autres nations européennes s’inquiète de sa dénatalité. Le Centre réalise
+essentiellement des enquêtes de type quantitatif. À partir de 1964, il publie la
+revue Population et famille (Cliquet, 1976).
+Au-delà de permettre à son centre de participer à la dynamique nationale
+impliquant la sociologie dans les opérations de planification administrative,
+l’autre grande préoccupation de Pierre De Bie est de l’intégrer dans le champ
+de la sociologie universitaire alors en train de s’institutionnaliser. À l’époque,
+dans la plupart des universités belges, si l’on trouve des cours de sociologie
+ou des formations complémentaires, il n’existe pas réellement une licence en
+sociologie ou sciences sociales, entérinée par un diplôme de statut académique.
+Or, ce statut est la voie royale de la légitimité scientifique, il offre une identité
+clairement identifiable sur le marché tant de la recherche scientifique que du
+travail. Les professeurs en charge de ces cours doivent donc unir leurs forces
+pour obtenir l’autonomie de leur discipline, toujours accolée avec les sciences
+économiques. Leurs démarches portent leur fruit et aboutissent, dans la plupart
+des universités, à la fin des années 1960 (Kups, 1993 ; Dorsinfang-Smets, 1984).
+Avant cela, au début de 1950, De Bie est parmi les fondateurs de la Société
+belge de sociologie dans laquelle, pour la première fois, toutes les universités
+belges sont représentées. Il s’investit tout aussi activement dans l’Association
+internationale de sociologie, fondée en 1949, sous les auspices de l’UNESCO.
+C’est lui qui rédige, en 1954, le rapport général sur les sciences sociales dans
+l’enseignement supérieur visant à inciter les autorités étatiques, tant d’Europe
+que d’Amérique latine, à organiser un enseignement universitaire performant
+dans ce domaine, ce dernier étant appelé à jouer un rôle majeur dans le développement et la formation du citoyen (De Bie, 1954 : 12). Il est réellement
+parvenu à s’imposer dans les instances de consécration de la sociologie.
+
+L’épistémologie
+La ferme volonté d’investir les sciences sociales dans une perspective académique suppose pour Jacques Leclercq et ses héritiers de bousculer les
+préjugés tenaces qui circulent sur la discipline dans le public catholique. Il
+faut se rappeler qu’après la guerre la suspicion, voire la résistance, à l’égard
+de la discipline sont tenaces, dès que l’on sort de la sociologie religieuse à
+vocation pastorale.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 135
+
+À titre d’exemple, en 1948, le jésuite Henri Du Passage 12 publie dans une
+collection destinée au grand public de Casterman un ouvrage dans lequel il
+fustige la sociologie positiviste française. Une seule possibilité pour lui, si on
+souhaite aborder ce territoire noir : « confronter » ces « thèses aventureuses » à
+la doctrine chrétienne sociale : « Celle-ci, il faut le voir dès le principe, n’a nullement les scrupules, – très profanes – de la sociologie laïque. Loin ­d’éviter les
+conclusions pratiques, les applications, elle a un but essentiellement ­formateur
+ou réformateur. Elle est, elle se proclame finaliste, normative, morale. Elle
+dresse le code des devoirs qui correspondent à la destinée qu’elle montre à
+ses fidèles » (Du Passage, 1948 : 28). Dans ce contexte, il est prioritaire pour
+Leclercq de montrer la légitimité de la sociologie à l’heure où elle investit
+une institution catholique. Les premiers articles que son équipe rédige dans
+Bulletin de l’Institut de recherches économiques et sociales ont cette vocation.
+L’un des objectifs du chanoine est d’élargir le spectre de la discipline afin de
+la rendre opératoire, pratique, surtout dans le domaine de la morale. Pour
+lui, il est évident que cette dernière relève de la science. C’est une branche
+de la philosophie qui suppose connaissance, expertise et reconnaissance par
+les pairs. Dès 1949 il rédige un long article qui aborde la question de front :
+« Sociologie et morale ». L’entame de l’argumentaire constate l’incompatibilité
+des deux concepts.
+En somme, la sociologie se révolte contre la morale. La morale enseigne au nom
+des principes ; la sociologie au nom des faits. La morale exige que les faits se plient
+aux principes et condamne les hommes quand ils ne s’y plient pas ; la sociologie
+exige que les principes se plient aux faits. Le conflit latent depuis que les hommes
+réfléchissent, se présente en clair : c’est un avantage. Il tournera peut-être à une
+réflexion plus accentuée sur les rapports de la morale et des faits 13.
+
+La dernière phrase indique l’objectif intellectuel poursuivi. Reste à le
+démontrer empiriquement. Pour ce faire, le philosophe utilise la fameuse
+enquête Sexual Behavior in the Human Male du professeur de zoologie
+américain Alfred C. Kinsey, qui vient d’être traduite en français. Comme
+l’historienne Sylvie Chaperon l’a montré, l’ouvrage, même s’il n’a pas eu un
+succès de scandale en France comparable à celui rencontré aux États-Unis,
+marque un moment important dans l’histoire de la sexologie, devenue objet
+scientifique, préoccupation de santé publique et instrument de ­revendication de
+libération sexuelle (Chaperon, 2002). Dans le monde catholique ­français, belge
+et québécois émerge à cette époque une nouvelle vision de la ­sexualité, qui se
+déprend d’une vision purement fonctionnelle du mariage et de l’acte sexuel.
+Peu à peu une pastorale et une théologie plus attentive – et ­intrusive – dans
+la vie intime des couples se mettent en place. Le discours ne se focalise plus
+12. Henri Du Passage (1874-1963), dirige la revue Études de 1919 à 1935. Ingénieur et sociologue,
+il se spécialise dans le syndicalisme et le catholicisme social.
+13. Jacques Leclercq, « Sociologie et morale », Bulletin de l’Institut de recherches économiques
+et sociales, xiv/7-9, avril 1949, p. 691.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+136 – Archives de sciences sociales des religions
+
+uniquement sur la chasteté et la continence, mais tente d
+­ ’ennoblir la sexualité,
+outil performant de la « réussite » familiale. La nouvelle pédagogie qui s’élabore
+en appelle à une expertise scientifique et s’ancre dans la médecine, la biologie,
+la psychologie et la psychologie sociale. La connaissance dont les pédagogues
+se prévalent puise certes dans la théologie, mais aussi dans les comportements
+effectifs (Desjardins, 1990 ; Sevegrand, 1995 ; Christens, 2001 ; Dupont, 2015 ;
+Desmazières, 2013). En 1949, pour Leclercq, l’enjeu est donc double : imposer
+la sociologie comme outil pouvant servir à la régulation sexuelle et autoriser
+cette discipline à explorer ce continent menaçant.
+Abordant l’enquête de Kinsey, Leclercq a des difficultés à cacher sa
+­répugnance pour un travail qui « procède […] sans préoccupation morale,
+de façon purement objective » 14, et décrit les comportements humains avec
+un regard de zoologue (on reconnaît ici l’interdit catégorique pour l’Église
+d’intégrer l’humanité dans le règne animal (Baratay, 2015)). Pour Kinsey
+en effet les instincts sexuels sont naturels, ce à quoi Leclercq réplique que
+la tuberculose l’est aussi. Est-ce à dire que l’enquête ne pourrait servir à un
+sociologue catholique ? Au contraire. Premièrement, le philosophe louvaniste
+affirme que toutes les pratiques décrites par Kinsey sont bien connues par
+les moralistes catholiques et les confesseurs : masturbation, zoophilie, homosexualité et autres relations sexuelles hors mariage n’ont aucun secret pour
+eux. En d’autres mots, l’Église dispose d’un personnel expert en ces domaines
+depuis des décennies et n’a pas besoin des zoologues. Il ne reproche à Kinsey
+que de mettre ces questions sur la place publique. Deuxièmement, il récupère
+habilement un passage de l’enquête qui affirme que la masturbation serait
+bien plus importante si la morale ne la réfrénait pas. C’est donc la preuve que
+la morale peut être efficace !
+Nous avons aujourd’hui l’attention attirée sur l’influence déterminante du milieu
+social. Celui-ci peut être modifié : les moralistes doivent travailler à faire valoir les
+considérations morales dans l’organisation sociale. […] [Le] premier service, et le
+plus grand, que peut rendre la sociologie est de nature à transformer profondément
+les perspectives de l’action morale 15.
+
+La sociologie est donc non seulement justifiée, mais autorisée à traiter des
+problèmes les plus délicats. Un sérieux obstacle épistémologique s’en trouve
+dès lors franchi : rien n’interdit à un scientifique catholique de participer à
+l’accumulation de connaissances sur l’intégralité des phénomènes sociaux
+puisqu’il peut participer de la sorte à la validation et à l’instauration des
+normes morales.
+Pierre De Bie se confronte à la question épistémologique au début de sa
+carrière. Philosophe de formation, il doit, comme Leclercq, s’approprier la
+discipline. En filigrane des textes où il expose sa représentation de cette dernière,
+
+14. Idem, p. 691
+15. Idem, p. 696.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 137
+
+se lit une volonté de mettre en exergue son caractère profondément subjectif.
+De ce fait, la capacité qu’il lui reconnaît de produire un discours prédictif ou
+critique est comme dissoute. La sociologie sert, en quelque sorte, à mettre en
+lumière les relations de dépendance entre l’individu et le collectif et des faits
+au contexte social, mais n’a pas de vertu réellement explicative (terme qu’il
+n’utilise quasiment pas). En revanche, elle a une fonction utilitaire très claire :
+« Et lorsque, à la suite de leurs observations, les sociologues mettent en lumière
+l’influence du social, leurs constatations scientifiques sont elles-mêmes le point
+de départ de jugements et de décisions qui modifient l’action humaine et les
+structures sociales (De Bie, 1955). » Les nombreux travaux dirigés et rédigés
+par De Bie sur la famille témoignent de cette orientation intellectuelle. La
+dimension critique y est absente, seuls les faits quantifiables sont rapportés. Les
+questions de pratiques sexuelles ne sont toutefois jamais abordées. En revanche,
+les pratiques et convictions religieuses constituent toujours un facteur pris en
+compte. L’ouvrage collectif La Dyade conjugale, paru en l’année symbolique
+de 1968 est éclairant. C’est une application des propositions de Leclercq, pour
+combiner morale religieuse et analyse sociologique « scientifique ». Pour le dire
+d’une manière synthétique, il s’agit d’énumérer les faits puis éventuellement
+de souligner les effets de la religion. Par exemple, cette déduction concernant
+les appariements et l’entente entre époux :
+Il ressort du tableau 10 une première constatation : la satisfaction ressentie par
+l’épouse est d’autant plus élevée que le degré d’intégration du mari dans l’Église est
+plus haut. Si on considère la pratique religieuse comme l’expression d’une attitude en
+matière de foi et comme l’extériorisation d’un système de valeurs qui y est attaché,
+on peut déduire des observations faites que le mari pratiquant assidûment la religion
+catholique traduit concrètement l’idéologie de l’Église en matière d’union des époux.
+Les scores de satisfaction les plus élevés se trouvent chez les femmes dont le mari
+est fortement intégré dans l’Église tant en ce qui concerne la compréhension ou les
+marques d’affection témoignées par le mari que pour la compagnie accordée par
+celui-ci pendant ses temps libres (De Bie, 1968 : 71-72).
+
+Outre le reproche que l’on peut faire des variables choisies dans cette
+étude (les enquêtés sont interrogés sur leur adhésion à l’Église catholique
+romaine, mais aucun autre type d’adhésion politique, religieuse, sociale ou
+professionnelle n’est proposé), on soulignera le ton particulièrement distancié
+de l’auteur. La dissimulation du sujet de l’énonciation est assez typique des
+travaux de l’équipe. Ajouté à cela le fait qu’ils se basent sur des inventaires de
+données factuelles, on aura compris qu’il est délicat d’y déceler les systèmes et
+modèles théoriques sur lesquels ils se basent. Dans un article de De Bie sur les
+classes sociales en Belgique, on découvre qu’il avait pourtant une philosophie
+de la connaissance sociale personnelle : la société globale. Ce concept, qu’il
+ne définit pas et dont il ne donne pas la paternité, est vraisemblablement une
+sorte de mixte entre la philosophie hégélienne et thomiste qui envisage la
+société comme une totalité particulière, un tout organique qui ­procéderait
+d’un principe de cohésion (le bien commun chez saint Thomas). Pour De Bie,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+138 – Archives de sciences sociales des religions
+
+la société globale est en voie de liquidation et de destruction sous les coups de
+boutoir de la culture de masse, laquelle parvient à concurrencer et ­supplanter
+les « valeurs familialement transmises » qui inculquaient naguère « les cultures
+différenciées selon des niveaux relativement perméables » (De Bie, 1965, 92).
+C’est le seul texte de cette période où se lit la représentation que le sociologue
+se fait de la famille : un lieu de conservation de la tradition. Énoncer une
+problé­matisation théorique générale n’est pas dans les habitudes du CES. Aussi
+est-ce en marge de l’establishment qu’une « sociologie critique ou marxisante
+et structuro-althussé­rienne de plus en plus forte » alimentée par des chercheurs
+attachés à l’Université catholique de Louvain s’exprimera (Hilgers et Dassetto,
+2012). Et pour cause : de telles prises de position sont en contradiction avec
+l’éthos attendu du chercheur par le directeur du CES, lequel s’est exprimé à
+diverses reprises sur cette question cruciale.
+
+Posture de chercheurs
+Dans la foulée des premiers articles programmatiques de l’Institut de recherches
+économiques et sociales, Pierre De Bie publie un texte sur la « Limitation de
+l’observation externe en sociologie » dans lequel on trouve la justification
+de l’éthos qu’il adoptera tout au long de sa carrière. En bref, s’inspirant
+essentiellement des travaux des sociologues Waxweiler et Pareto ainsi que des
+sciences naturelles, il distingue deux domaines dans l’activité humaine : les faits
+fonctionnellement observables et les comportements logico-expérimentaux
+d’une part, l’ensemble des théories morales, religieuses, et philosophiques qui
+déterminent les sentiments, les mœurs et les coutumes de l’autre. Le premier
+domaine est du ressort de la science puisqu’elle peut les observer. Le second est
+de celui de la philosophie et de la métaphysique qui seule peut les expliquer.
+C’est une reprise du néo-kantisme, notamment via Max Weber, qui sera explicitée plus tard dans le célèbre principe du non-recouvrement des magistères
+(NOMA, pour Non-Overlapping Magisteria) de Stephen Jay Gould. Dans
+son cours d’Introduction à la sociologie, De Bie précise que la séparation
+des registres est le fait, dans les textes scientifiques, de la distinction entre les
+considérations du « chercheur en tant que chercheur » et celles de l’homme.
+Cela ne signifie pas que ce dernier n’est pas responsable de ce qu’il écrit. Les
+énoncés du scientifique sont des pures « constatations du sociologue ; elles
+n’auraient pas de sens si elles n’étaient orientées dans le sens de la vie religieuse
+ou morale, mais c’est à l’homme, non au sociologue à prendre position à
+cet égard (De Bie, 1955 : 69-70). » Il écrit par ailleurs plusieurs textes sur la
+sociologie de la sociologie dans lesquels il insiste sur l’importance de prendre
+en compte la finalité et les ordres de certitudes qui échappent à l’observation
+extérieure (Balsa, 2010). Mais il délègue cette branche de la connaissance à
+d’autres disciplines.
+La méthode tracée est efficace : elle délie d’une manière définitive le sociologue, dans sa pratique, d’un quelconque impératif religieux. Du reste, De Bie
+sera extrêmement discret sur ses croyances et ne s’affichera jamais dans aucune
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 139
+
+organisation militante. Si on suit le parcours des chercheurs attachés au CES,
+on constate une prise de parole au sein des organes religieux quasi nulle. Ce
+faible engagement est en partie conjoncturel. Après 1958, le Pacte scolaire
+met fin à plus d’un siècle de guerres scolaires en Belgique. La polarisation
+confessionnelle et les crispations se desserrent. D’une manière symptomatique,
+les autorités de l’Université catholique de Louvain engagent à partir de ce
+moment un débat, toujours pas résolu à ce jour, sur l’opportunité de garder
+l’étiquette « catholique » (Nys et Tollebeek, 2008 : 129).
+Certains collaborateurs s’engagent toutefois. La plus proche collaboratrice
+de De Bie, Claire Leplae (1912-1982), en plus de ses œuvres de composition
+musicale, consacre la plus grande partie de ses recherches à la condition
+féminine. Pionniers sur la vie des intellectuelles et sur les fiançailles, ses travaux sont utilisés par Simone de Beauvoir dans le Deuxième sexe (1949,
+1976 : 230-232). Tout en utilisant le procédé de non-énonciation du locuteur
+déjà signalé, ils alimentent d’une certaine manière l’argumentaire féministe.
+D’autre part, contrairement à De Bie qui s’est peu investi dans la sociologie
+religieuse, Claire Leplae est membre fondateur de la Conférence internationale de sociologie religieuse. Une lettre nous apprend que son engagement
+en tant que laïque catholique, elle le vit par son travail. En 1967, elle écrit à
+Monseigneur Lagasse, vicaire général pour le Brabant wallon : « Désireuse de
+répondre au récent appel du Cardinal Suenens, je me suis interrogée pour savoir
+quel service rendre au diocèse, en tant que laïque 16. » Dans cette optique, elle
+décide de réaliser une étude sur les implications sociologiques de la musique
+sacrée, pour le Centre national de la Pastorale liturgique à Paris. Elle souhaite
+créer un comité de critiques qui donnerait son avis sur des chants à présenter
+aux assemblées eucharistiques.
+Enfin, un troisième membre de l’équipe De Bie, Maurice Chaumont
+(1932-1987) s’investit lui dans l’analyse des terribles grèves qui secouent la
+Belgique, et plus particulièrement la Wallonie, en 1960-1961. Il n’y a aucun
+prisme, biais ou angle religieux dans son étude. Cette dernière est publiée
+dans La Revue nouvelle, héritière de la Cité chrétienne de Jacques Leclercq,
+qui rassemble l’intelligentsia chrétienne progressiste 17. L’engagement est
+épistémologique. Il s’agit pour Chaumont de trouver un langage scientifique,
+à la fois théorique et empirique, qui permet d’expliquer le changement social
+(Van Campenhoudt, 2015).
+Avec le recul, l’ambition institutionnelle dont fit preuve De Bie fera dire
+de lui qu’il était un sociologue « organique » (Balsa, 2010). Il est en effet
+parvenu à inscrire son Centre dans le champ des sciences sociales, à l’échelle
+tant nationale qu’internationale. Il a particulièrement investi cette dernière
+dimension, effectuant des voyages fréquents aux États-Unis. L’enjeu pour lui
+16. AUCL, Fonds du Centre de recherches sociologiques, Claire Leplae à Monseigneur Lagasse,
+1967, FI 252.
+17. « Grèves, syndicalisme et attitudes ouvrières. Les grèves belges de décembre 1960 – janvier 1961 », La Revue nouvelle, 1961.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+140 – Archives de sciences sociales des religions
+
+était d’assurer la participation à l’internationalisation de son centre, moteur
+de sa reconstruction/institutionnalisation dans les pays européens. Mais c’était
+aussi une manière de sortir de la connotation « catholique » très prégnante
+dans la Belgique d’après-guerre, fortement structurée en piliers catholique,
+socialiste et, dans une moindre mesure, libéral (Seiler, 1999). Dans les universités, la fracture sociale se cristallisait dans son domaine dans la concurrence
+avec l’Université libre de Bruxelles, pionnière en sociologie et où opéraient des
+« poids lourds » tel Henri Janne (fondateur en 1958 avec Georges Gurvitch
+de l’Association internationale des sociologues de langue française) (Hilgers
+et Dassetto, 2012). Dans le contexte de la guerre froide, qui touchait parti­
+culièrement la sociologie fortement investie par les marxistes, mais où les
+États-Unis dominaient, les connotations identitaires étaient fortes (Besnard,
+1991). Sans doute, en Belgique, était-il difficile de sortir de l’assignation binaire :
+socialiste-marxiste vs catholique. L’affiliation à des sociétés internationale
+autorisait à prendre un peu de recul.
+La reconnaissance scientifique nécessitait évidemment de gommer toute
+évocation confessionnelle dans les travaux, et le métadiscours sur la discipline.
+Malgré tous ses efforts, De Bie ne parvint pas toujours à réaliser cet objectif. Il
+est arrivé que des collègues reprochent aux études dirigées par lui leur orientation catholique (Burguière, 1972). D’autre part, De Bie « fait état, dans ses
+textes, de la perplexité de certains de ses interlocuteurs, notamment lors de son
+séjour aux États-Unis, qui s’étonnaient qu’il puisse être à la fois catholique et
+sociologue » (Balsa, 2010). C’est qu’en filigrane, outre son appartenance à une
+université « catholique », les études de son laboratoire cachent mal l’embarras
+causé par certains sujets et la difficulté à porter un regard absolument dénué
+de morale sur la société.
+*
+**
+Ainsi donc, cependant que le chanoine Houtart, sociologue à l’Université
+catholique de Louvain, préparait l’avant-propos et l’exposé préliminaire de
+la constitution Gaudium et Spes dans laquelle la sociologie tiendrait une
+place importante en tant qu’outil d’appréhension des « signes du temps » et
+de confessionnalisation (Soetens, 1989 :10), le principal centre de sociologie
+abrité par son Alma mater se sécularisait. Cela ne veut pas dire que ses
+membres ne poursuivaient pas un projet catholique. Par leurs enquêtes sur les
+mouvements sociaux, les rapports intercommunautaires, la stratification, la
+mobilité professionnelle et les liens interpersonnels au sein de la cellule familiale, ils s’inscrivaient dans un héritage où l’engagement politique passe par
+l’étude du corps social à réformer pour mieux (re)créer la cité chrétienne. Cet
+héritage leur permit d’intégrer très facilement – naturellement – les organismes
+scientifico-administratifs mis en place pour planifier l’État-providence. Dans
+l’après-guerre, l’une des figures marquantes des sciences « administratives » est
+André Molitor (1911-2005), qui l’enseigna à l’Université et fut, entre autres,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 141
+
+responsable du Service d’administration générale et occupa de nombreuses
+fonctions exécutives à l’Institut international des sciences administratives.
+On notera que le même phénomène de forte présence d’un personnel étiqueté
+catholique dans les rouages des organismes scientifico-administratifs s­ ’observe,
+notamment, aux États-Unis sous l’administration Kennedy (Kivisto, 1989) et
+en France avec la figure du père Lebret (Pelletier, 1995 et 1996). Les ­travaux
+laissés par ces « ingénieurs sociaux » ont en partage une valorisation de l’ordre
+organiciste par les corps intermédiaires ; l’individu y tient une place très
+faible et le projecteur met en lumière l’absence de lien social dans la société
+contemporaine. En Belgique, ces postulats trouvent une visibilité particulièrement importante en raison de la participation d’un parti confessionnel,
+démocrate-chrétien en l’occurrence, aux organes gouvernementaux. Dans
+ce pays, les structures institutionnelles sont particulièrement poreuses et la
+séparation entre sphères privée, publique, universitaire et étatique n’est pas
+claire. Il en résulte une intégration automatique des principes chrétiens dans
+les organes de décision de l’État. Ces derniers sont marqués par le système
+pluraliste – la concertation à laquelle doivent prendre part toutes les tendances
+philosophico-religieuses – qui constitue une manière de fonctionnement
+obligé (Coorebyter, 2002). Cependant, l’examen du ­parcours de Pierre de Bie,
+chercheur qui a permis à la sociologie de l’Université catholique de Louvain
+de pénétrer le champ académique, montre que l’assignation confessionnelle
+dans les instances étatiques s’est accompagnée d’une parfaite discrétion sur
+les questions ­religieuses. Les études qu’il a rédigées et dirigées expriment un
+goût prononcé pour l’observation quantitative. On peut y voir l’influence
+assumée du fonctionnalisme américain. Mais on peut aussi l’interpréter
+comme une manière habile de faire de la sociologie sans aborder les questions
+des intentions et des finalités… laissées à la théologie et à la philosophie.
+Cécile VANDERPELEN-DIAGRE
+Université libre de Bruxelles
+kaat.wils@kuleuven.be
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+142 – Archives de sciences sociales des religions
+
+Bibliographie
+Balsa Casimiro, 2010, « Pierre de Bie, au service d’une sociologie organique », SociologieS
+[en ligne], Découvertes/Redécouvertes, URL : http://sociologies.revues.org/3033.
+Consulté le 9/11/2015.
+Baratay Eric, 2015, L’Église et l’animal : France, xviie-xxe siècle, nouvelle édition revue
+et augmentée, Paris, Le Cerf (Histoire).
+Bertrams Kenneth, 2001, « Productivité économique et paix sociale au sein du plan
+Marshall : Les limites de l’influence américaine auprès des industriels et syndicats
+belges, 1948-1960 », Cahiers d’histoire du temps présent, 9, p. 191-235.
+Besnard Philippe, 1991, La reconstruction de la sociologie française (1945-1960), Revue
+française de sociologie, no spécial, xxxii/3.
+Bolle De Bal Marcel, 2014, « L’École de Bruxelles et ses Trente Glorieuses », Anamnèse,
+numéro spécial Généalogie des sociologues en anthropologues belges disparus, 10, p. 75-95.
+Bragard Lucie, Fievez Marguerite, Joret Bernadette et al., 1990, La Jeunesse Ouvrière
+Chrétienne : Wallonie-Bruxelles, 1912-1957, Bruxelles, Vie ouvrière.
+Burguière André, 1972, « Claude Henryon et Edmond Lambrechts, Sous la direction
+de Pierre de Bie, Le mariage en Belgique ; Pierre de Bie, Karol Dobbelaere, Claude
+Leplae, Jacques Piel, La Dyade conjugale », Annales. Économies, Sociétés, Civilisations,
+27e année, 4-5, p. 1226-1228.
+Chaperon Sylvie, 2002, « Kinsey en France : les sexualités féminine et masculine en
+débat », Le Mouvement Social, no 198, p. 91-110.
+Chaumont Maurice, 1961, « Grèves, syndicalisme et attitudes ouvrières. Les grèves belges
+de décembre 1960 – janvier 1961 », La Revue nouvelle, rééd. : SociologieS [en ligne],
+Découvertes/Redécouvertes, Maurice Chaumont, URL : http://sociologies.revues.org/5180.
+Christens Ria, 2001, “De orthodoxie van het zaad”, in Kaat Wils (éd.), Het lichaam
+m/v, vol. 3, Leuven, Universitaire Pers Leuven, “Alfred Cauchie Reeks”, p. 231‑249.
+Cliquet Robert, 1976, “The Population and Family Study Centre”, in Population and
+Family in the Low Countries I, NIDI-CBGS, Leiden, Martinus Nijhoff Social Sciences
+Division, p. 1-13.
+de Beauvoir Simone, 1976 [1949], Le Deuxième sexe, Paris, Folio Essais, Gallimard.
+de Bie Pierre, 1955, « Situation de la sociologie », Bulletin de l’Institut de recherches
+économiques et sociales, vol. 21, n° 7, réédité dans SociologieS [en ligne], Découvertes/
+Redécouvertes, mis en ligne le 25 janvier 2010, consulté le 7 décembre 2015, URL :
+http://sociologies.revues.org/3038.
+–, Dobbelaere Karel, Leplae Claire et al, 1968, La dyade conjugale. Étude sociologique,
+Bruxelles, Vie Ouvrière.
+–, Introduction à la sociologie, Notes d’après le cours du Professeur De Bie, Louvain,
+Louvain-la-Neuve, 1955.
+–, 1965, « Aspects socioculturels des classes sociales ascendantes en Belgique », Cahiers
+internationaux de sociologie, xxxix, p. 91-109.
+–, Levi-Strauss Claude, Nuttin Joseph et Jacobson Eugène, 1954, Les sciences sociales
+dans l’enseignement supérieur. Sociologie, psychologie sociale et anthropologie
+culturelle, Paris, Unesco.
+de Coorebyter Vincent, 2002, La citoyenneté, vol. 56, Bruxelles, Dossiers du CRISP.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 143
+
+Desjardins Gaston, 1990, « La pédagogie du sexe : un aspect du discours catholique
+sur la sexualité au Québec (1930-1960) », Revue d’histoire de l’Amérique française,
+vol. 43, p. 381‑401.
+Desmazières Agnès, 2013, « La psychanalyse entre médiatisation et censure. La morale
+sexuelle de Marc Oraison en procès (1955-1966) », Archives de sciences sociales des
+religions, vol. 163, p. 123‑142.
+Dols Chris, 2015, Fact factory : sociological expertise and episcopal decision making
+in the Netherlands 1946-1972, Nijmegen, Valkhof Pers.
+Dorsinfang-Smets Annie, 1984, « La section des sciences sociales », Les cent cinquante ans
+de l’Université libre de Bruxelles (1834-1984), Uyttebrouck André et Despy-Meyer
+Andrée (dirs.), Bruxelles, Édition de l’Université de Bruxelles, p. 206-211.
+Drouard Alain et Lecuyer Bernard-Pierre, 1982, Problèmes d’histoire des sciences
+sociales (1945-1970), Paris, Cahiers de l’IHTP, Supplément n° 2.
+Drouard Alain, 1983, Le développement des sciences sociales en France au tournant
+des années 1960, Paris, CNRS.
+Du Passage Henri s.j., 1948, Leçons familières de sociologie, Paris-Tournai, Casterman
+(Leçons familières).
+Dupont Wannes, 2015, « Catholicisme et évolution des moeurs sexuelles dans la Flandre
+belge », in Giami Alain et Hekma Gert (Dirs.), Révolutions sexuelles, La Musardine,
+Paris, 2015, p. 329‑352.
+Gerard Emmanuel et Wils Kaat, 1999, “Catholics and sociology in Leuven from Désiré
+Mercier to Jacques Leclercq: a process of appropriation”, in Billiet Jaak, Voyé Liliane
+et Dobbelaere Karel (éds.), Sociology and Religions: An Ambiguous Relationship,
+Louvain, Leuven University Press, p. 38‑56.
+Gerard Emmanuel et Wynants Paul, 1994, Histoire du mouvement ouvrier chrétien
+en Belgique, Louvain, Leuven University Press.
+Hilgers Mathieu et Dassetto Felice, 2012, « Appréhender les transformations d’une
+discipline à travers la trajectoire d’une revue », Recherches sociologiques et anthropologiques, [en ligne], URL : http://rsa.revues.org/884.
+Huistra Pieter et Wils Kaat, 2016, “The Exchange Programme of the Belgian American
+Educational Foundation: An Institutional Perspective on Scientific Persona Formation
+(1920-1940)”, BMGN – Low Countries Historical Review, 131, 4, p. 112-134.
+Jadoulle Jean-Louis, 1996, « Les visages de l’Église de Belgique à la veille du Concile
+Vatican II », in Soetens Claude (éd.), Vatican II et la Belgique, Ottignies, Quorum.
+Kivisto Peter, 1989, “The Brief Career of Catholic Sociology”, Sociological Analysis,
+50, 4, p. 351‑361.
+Kups Anne-Marie, 1993, « La faculté des sciences économiques, sociales et politiques »,
+L’Université catholique de Louvain. Vie et mémoire d’une institution, Bruxelles, La
+Renaissance du Livre-Presses universitaires de Louvain, p. 161-179.
+Leclercq Jacques, 1949, « Sociologie et morale », Bulletin de l’Institut de recherches
+économiques et sociales, xiv/7-9, p. 685-698.
+–, 1948, Introduction à la sociologie, Louvain, IRES.
+Mabille Xavier, 2009, Le CRISP : 50 ans d’histoire, Bruxelles, CRISP.
+Mertens Pierre et Voisin Marcel, 2002, Emmanuel Mounier en Belgique : 70 ans
+d’Esprit, Bruxelles, Wolu-Culture.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+144 – Archives de sciences sociales des religions
+
+Pastoral Sociology in Western Europe, 1940-1970, 2016, numéro spécial, Journal of
+Religion in Europe, 2-3.
+Pelletier Denis, 1995, « Engagement intellectuel catholique et médiation du social.
+L’enquête monographique de Le Play à Lebret », Mil neuf cent, vol. 13, p. 25‑45.
+–, 1996, Économie et Humanisme. De l’utopie communautaire au combat pour le tiersmonde (1941-1966), Paris, Le Cerf (Histoire).
+Wils Kaat et Rasmussen Anne, 2014, « La sociologie en perspective transnationale :
+Bruxelles, 1890-1914 », Anamnèse, numéro spécial Généalogie des sociologues en
+anthropologues belges disparus, 10, 2014, p. 13-29.
+Sauvage Pierre, 1992, Jacques Leclercq (1891-1971). Un arbre en plein vent, Paris,
+Louvain-la-Neuve, Duculot « Spiritualité ».
+Savoy Antoine, 1994, Les débuts de la sociologie empirique. Étude socio-historique
+(1830-1930), Paris, Meridiens Klincksieck.
+Seiler D.-L., 1999, « Un État entre importation et implosion : consociativité, partito­
+cratie et lotissement dans la sphère politique belge », dans P. Delwit, J.-M. De Wael
+et P. Magnette (dirs.), Gouverner la Belgique. Clivages et compromis dans un société
+complexe, Paris, Presses universitaires de France, p. 15-51.
+Sevegrand Martine, 1995, Les enfants du bon Dieu, Albin Michel « Histoire ».
+Soetens Claude, Thils Gustave, Houtart François et al., 1989, Concile Vatican II
+et Église contemporaine (Archives de Louvain-la-Neuve). 1, Inventaire des fonds
+Ch. Moeller, G. Thils, Fr. Houtart, Louvain-la-Neuve, UCL Faculté de théologie
+(Cahiers de la Revue théologique de Louvain, 21).
+Tollebeek Jo et Nys Liesbet, 2008, De stad op de berg: een geschiedenis van de leuvense
+universiteit 1968-2005, Louvain, Universitaire Pers Leuven.
+Van Campenhoudt Luc, 2015, « Maurice Chaumont : une sociologie du changement
+social comme sociologie des réalités concrètes en train d’advenir », SociologieS [en
+ligne], Découvertes/Redécouvertes, Maurice Chaumont, URL : http://sociologies.
+revues.org/5137.
+Wagner Peter et al., 1991, Social Sciences and Modern States. National Experiences and
+Theoretical Crossroads, Cambridge, Cambridge University Press.
+
+Des chiffres et des hommes ; les catholiques belges
+et la sociologie universitaire (1939-1970)
+Après la Deuxième Guerre mondiale, certains professeurs de l’Université
+catholique de Louvain décident d’intégrer la sociologie critique dans leur
+université. Pour cela, ils doivent autonomiser la sociologie du champ religieux
+et sortir du modèle scolastique. Ils doivent également se poser des questions
+épistémologiques sur la discipline. Le défi consiste à régler la question de la
+morale, c’est-à-dire créer une sociologie qui s’autorise à penser les questions
+de la famille, de la sexualité, de la détermination de l’individu par le social et,
+dans une certaine mesure, de la religion. Cette démarche les oblige à s’éloigner
+de la philosophie morale. Enfin, ils doivent se positionner comme chercheurs
+scientifiques, c’est-à-dire montrer leur indépendant par rapport à la religion
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+Des chiffres et des hommes – 145
+
+et à l’État. Au début des années 1970, on peut dire que l’implantation de la
+sociologie à l’Université catholique de Louvain est réussie. Ses chercheurs ne
+travaillent plus à pratiquer de la sociologie catholique, mais sont des catholiques qui font de la sociologie.
+Mots-clés : Catholicisme, sociologie religieuse, philosophie morale, engagement.
+
+Numbers and men. Belgian Catholics and University Sociology (1939-1970)
+After the Second World War, some professors at the Catholic University of
+Louvain decided to integrate critical sociology into their teaching and research.
+For this, they had to empower the sociology of the religious field and abandon
+the scholastic model. They also had to ask epistemological questions about
+the discipline. The challenge was to settle the question of morality, to create
+a sociology that allowed itself to think about the questions of the family, of
+sexuality, of the determination of the individual by the social and, to a certain
+extent, of the religion. This approach forced them to move away from moral
+philosophy. Finally, they had to position themselves as scientific researchers, that
+is, to show their independence from religion and the state. By the early 1970s,
+we can say that the implementation of sociology at the Catholic University of
+Louvain was successful. Its researchers no longer worked to practice Catholic
+sociology but were Catholics who did sociology.
+
+Números y hombres. Católicos Belgas y Sociología Universitaria (1939-1970)
+Key words : Catholicism, religious sociology, moral philosophy, commitment.
+Después de la Segunda Guerra mundial, algunos profesores de la Universidad
+católica de Lovaina deciden integrar la sociología crítica a su universidad.
+Para esto, deben autonomizar la sociología del campo religioso y salir del
+modelo escolástico. Deben igualmente plantearse cuestiones epistemológicas
+sobre la disciplina. El desafío consiste en regular la cuestión de la moral, es
+decir crear una sociología que habilite a pensar las cuestiones de la familia, la
+sexualidad, la determinación del individuo por lo social y, en cierta medida, de
+la religión. Esta empresa los obliga a alejarse de la filosofía moral. Finalmente,
+tienen que posicionarse como investigadores científicos, es decir mostrar su
+independencia en relación con la religión y el Estado. A principios de los años
+1970, se puede decir que la implantación de la sociología en la Universidad
+católica de Lovaina es exitosa. Sus investigadores no trabajan más en practicar
+sociología católica, son católicos que hacen sociología.
+Key words : catolicismo, sociología religiosa,filosofía moral, compromiso.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:00:11 UTC
+All use subject to https://about.jstor.org/terms
+
+

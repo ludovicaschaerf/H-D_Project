@@ -1,0 +1,847 @@
+EHESS
+Les intellectuels catholiques et la sociologie en Belgique, 1880-1914Author(s): Kaat Wils
+Source: Archives de sciences sociales des religions , 62e Année, No. 179 (Octobredécembre 2017), pp. 71-88
+Published by: EHESS
+Stable URL: https://www.jstor.org/stable/10.2307/26505077
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+EHESS is collaborating with JSTOR to digitize, preserve and extend access to Archives de
+sciences sociales des religions
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Kaat Wils
+
+Les intellectuels catholiques et la sociologie
+en Belgique, 1880-1914
+Le 26 juin 1902, le philosophe Maurice Defourny, alors âgé de 24 ans,
+­défendait à l’Université de Louvain une thèse sous le titre La sociologie
+positiviste. Auguste Comte (Defourny, 1902) 1. À l’époque, un tel sujet n’allait
+pas de soi dans une université catholique. Le promoteur de Defourny, le
+philosophe, juriste et prêtre Simon Deploige, avait dès lors jugé nécessaire
+d’apporter quelques précisions dans son discours d’introduction. Malgré la
+mauvaise réputation qui pesait sur la discipline, les catholiques, a­ rgumenta-t-il,
+avaient tout intérêt à s’intéresser à la sociologie. S’il est vrai que de nombreux
+prétendus sociologues s’efforçaient de remplacer la philosophie morale et
+sociale finaliste par une sociologie positiviste, cela ne signifiait pas pour
+autant que la sociologie fût par définition positiviste. Les catholiques devaient
+précisément démontrer que la sociologie était conciliable avec le respect de
+l’ordre juridique et de la finalité ultime de la réalité. Le travail empirique
+du savant français Frédéric Le Play avait démontré à quel point une telle
+étude de la réalité sociale pouvait être utile. La philosophie sociale, morale
+et juridique tirerait profit de la sociologie, pour autant du moins qu’elle
+reste fidèle à la tradition thomiste. Et même si la tentative de création d’une
+nouvelle science sociologique devait échouer, l’étude des travaux de ceux
+qui, comme Auguste Comte, y avaient cru, méritait d’être entreprise (voir
+« Une thèse de sociologie », 1902-1903).
+Ce faisant, Deploige n’avait pas seulement fait part de ses doutes personnels
+quant à la réussite de la sociologie en tant que science indépendante. Il avait
+aussi, d’une manière presque évidente, mis la sociologie et le positivisme sur
+le même plan, et incité dans le même temps à une appropriation catholique
+stratégique de l’une et de l’autre. Sur la définition que Deploige donnait du
+problème – « la sociologie ne doit pas rester un monopole positiviste », toutes
+les personnes présentes étaient probablement d’accord. Outre l’évêque de
+1. Ce texte constitue une version actualisée, élargie et traduite en français de la première partie
+de Gerard & Wils, 1999.
+����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+
+Archives de sciences sociales des religions, 179 (octobre-décembre 2017), p. 71-88
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+72 – Archives de sciences sociales des religions
+
+Liège, Mgr Martinus Hubertus Rutten, et le recteur de l’université, Mgr Adolphe
+Hebbelynck, presque tous les catholiques belges qui, au tournant du siècle,
+s’intéressaient à la sociologie, étaient présents à la cérémonie. Ces personnes
+affichaient des positions assez disparates par rapport à la sociologie : en gros,
+cela allait de l’opposition pure et simple à l’enthousiasme décomplexé, en
+­passant par l’intérêt stratégique. À cet égard, elles ne se référaient pas seulement
+à des auteurs étrangers comme Comte, mais aussi à des collègues bruxellois
+qui, depuis plusieurs décennies, s’efforçaient de placer la sociologie sur la carte
+académique. Bien que l’ambiance libre-penseuse propre à l’université libre de
+Bruxelles eût en effet créé une certaine ouverture en faveur de la sociologie,
+la domination académique d’une élite à tendance libérale et – du point de
+vue philosophique – spiritualiste faisait qu’il n’y avait certainement pas plus
+d’unanimité dans l’enthousiasme à Bruxelles qu’à Louvain.
+Au sein de cette dernière, le scepticisme allait nourrir le discours sur la
+sociologie jusque vers la fin des années 1930. L’intérêt catholique pour la
+sociologie internationale contemporaine allait se développer principalement
+en marge de l’université, même si ses partisans réussirent, pendant les deux
+premières décennies du siècle, à s’assurer une visibilité académique à travers
+une collection impressionnante de publications. C’est aussi au sein de ce groupe
+que la sociologie des religions allait devenir, peu après le changement de siècle,
+un objet d’étude privilégié. Tout ceci se passait dans une atmosphère de domination politique et culturelle du catholicisme en Belgique : pendant trente ans,
+de 1884 à 1914, le pays a été dirigé par un gouvernement c­ atholique homogène.
+C’est aussi au cours de cette période que l’on est passé d’un s­ ystème électoral
+censitaire à un système de suffrage masculin universel à vote plural (1894),
+tandis que le français restait la principale langue de culture et des sciences.
+
+Les débuts de la sociologie académique
+En Belgique, les premières ébauches tendant à une analyse systématique des
+phénomènes sociétaux remontent au milieu du dix-neuvième siècle, avec les
+travaux d’Adolphe Quetelet. Ce dernier ne faisait pas l’apologie d’une science
+sociologique fondée sur une base théorique, mais avec sa « physique sociale »
+mathématique, il ambitionnait bel et bien l’introduction d’une ­nouvelle
+science. Son travail fit grande impression auprès des premiers défenseurs
+d’une s­ ociologie indépendante en Belgique. L’Association internationale pour
+le progrès des sciences sociales, installée en Belgique, et les conférences qu’elle
+a suscitées à Bruxelles, Gand, Amsterdam et Berne (1863-1866) ont constitué
+un deuxième type d’initiative, dont l’orientation était plus politique, en vertu
+des aspirations libérales de l’association (Crombois, 1994 : 11-21).
+Les premiers efforts visant à définir la sociologie comme un projet
+­intellectuel spécifique, distinct des autres sciences sociales et méritant dès
+lors une reconnaissance académique, ont leur origine dans les premiers écrits
+d’intellectuels socialistes, en particulier Hector Denis et Guillaume De Greef.
+Après avoir diffusé leurs travaux dans la presse socialiste francophone de
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 73
+
+Belgique, ils ont tous deux entamé, dès les années 1870, une réflexion c­ onsacrée
+à une approche sociologique des phénomènes sociaux et économiques, inspirée
+par le positivisme comtien et le proudhonisme. À partir de la fin des années
+1880 se développa, en dialogue avec cette première voie, une deuxième
+interprétation de la sociologie, à orientation plus biologique. Cette approche
+était notamment défendue par des médecins et anthropologues inspirés de
+la libre-pensée et du matérialisme comme Jules Dallemagne (Wils, 2001).
+Tant à l’université bruxelloise que dans les deux universités d’État à Gand
+et à Liège, la nouvelle discipline, associée tantôt au socialisme tantôt au
+­réductionnisme biologique (voire aux deux), a fait l’objet de fortes ­résistances.
+Au cours des années 1890, toutefois, la sociologie parvint à ­s’introduire de
+facto dans les programmes d’enseignement des sciences politiques. L’Université
+libre de Bruxelles a été la première en Belgique à proposer un programme en
+sciences sociales, en mettant en place, en 1889, un enseignement interfacultaire
+en sciences politiques et sociales. Le programme était d’inspiration libérale,
+visant à mettre au point des réponses, modérées dans leurs effets, aux p
+­ roblèmes
+sociaux et politiques des sociétés industrialisées et démocratiques. Cependant,
+un cours de sociologie s’est vu explicitement frappé d’interdiction ; il faudra
+attendre 1901 pour que la sociologie soit officiellement programmée en tant
+que discipline indépendante. Mais, de fait, la légitimité de la sociologie en
+tant qu’approche autonome fondée sur la théorie des phénomènes sociaux
+était de la sorte reconnue ; si bien que Denis et De Greef obtinrent un cours
+dans le programme. En 1894, lors d’une crise politique au sein de l’université, De Greef l’a quittée et est devenu recteur de l’Université Nouvelle, plus
+orientée à gauche, qui venait d’être créée. Il y a proposé un ensemble étendu
+et international de matières dans le domaine de la sociologie. Manquant de
+sécurité institutionnelle et ne disposant pas d’une revue stable, l’université fut
+un lieu de rencontre international et un espace d’accès de la gauche au milieu
+universitaire, plus qu’elle n’incarna une école au sens théorique du terme. Elle
+a connu ­néanmoins une certaine renommée. En 1900, lors du premier congrès
+international de l’enseignement des sciences sociales, l’Université Nouvelle est
+apparue comme un fer de lance de l’internationalisation de cet enseignement
+(Wils et Rasmussen, 2015 : 20-22).
+Après avoir été le témoin de la crise à l’Université de Bruxelles, ­l’industriel
+de la chimie Ernest Solvay fonda en 1894 un Institut des Sciences Sociales à
+Bruxelles, qui deviendra en 1902 l’Institut de Sociologie. Membre du Parlement
+belge depuis 1892, Solvay appartenait à l’aile progressiste bruxelloise du
+­libéralisme, qui entretenait d’étroits contacts avec des intellectuels socialistes.
+Il partageait leur conviction quant à la capacité et à la vocation de la science à
+être au fondement d’une organisation plus efficace et plus équitable de la vie
+économique et sociale. Cependant sa propre vision, libérale dans ses perspectives,
+était très particulière. Le productivisme y jouait un rôle essentiel : une théorie
+visant à maximiser la capacité de production de la société en v­ alorisant toutes
+les activités productives, tant matérielles qu’immatérielles. Établir l’égalité
+des chances dès le départ dans la vie, par le biais de l’éducation pour tous ou
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+74 – Archives de sciences sociales des religions
+
+de la création d’impôts sur les successions, y était considéré comme un moyen
+crucial d’accroître la productivité de la société. L’institut, où la recherche
+était privilégiée sur l’enseignement, a joui d’une certaine notoriété internationale. Il était perçu par les contemporains comme une véritable école, liée
+aux c­ onceptions spécifiques de son fondateur. En 1920, l’institut devint partie
+intégrante de l’Université de Bruxelles (Wils et Rasmussen 2015, 22-25).
+Dans les Universités d’État de Gand et de Liège, il n’y avait pas d’instituts de
+recherche en sociologie, mais la sociologie était néanmoins enseignée dans les
+cursus de sciences politiques. Ceux-ci donnaient accès au doctorat en sciences
+politiques et administratives organisé au sein de la Faculté de Droit, et à partir
+de 1893 à un doctorat en sciences sociales nouvellement créé. Ce furent ­d’ailleurs
+deux anciens élèves de l’Institut Supérieur de Philosophie de Louvain qui en 1896
+– grâce au gouvernement catholique – furent nommés aux postes d’enseignement
+de la sociologie à Gand et à Liège (De Bie, 1988 ; Daled, 1998 : 195-206). Ce
+n’est pas un hasard s’il s’agissait d’anciens élèves de l’Institut philosophique
+plutôt que de l’École des Sciences politiques et sociales.
+
+Scepticisme
+À Louvain, la résistance à l’encontre de la sociologie était en effet grande
+à l’intérieur de l’École des Sciences Politiques et Sociales. Cette école a été
+fondée en 1892 en étroite relation avec la Faculté de Droit de l’université, et l’enseignement qui y était pratiqué était essentiellement de nature
+­juridico-pratique et axé sur l’administration de la société. Son fondateur et
+président, le juriste et homme politique Jules Van den Heuvel, associait la
+sociologie non seulement au positivisme et au déterminisme, mais aussi à
+une érudition jugée déplacée dans un cursus universitaire (Van den Heuvel,
+1892). En 1896, il persuada le recteur louvaniste de ne pas instaurer de cours
+séparé de sociologie, invoquant l’argument suivant : « Or la sociologie n’est
+le plus souvent aujourd’hui qu’une pauvre philosophie dissimulée derrière
+de longues citations de coutumes et de mœurs plus ou moins pittoresques »
+(Gerard, 1992 : 30). Pourtant, Van den Heuvel avait fortement encouragé la
+recherche empirique en sciences sociales dans son École. Il figurait ainsi parmi
+les premiers praticiens et défenseurs de l’étude comparative internationale de
+la législation. C’est précisément cette préoccupation empirico-pratique qui
+alimentait sa méfiance à l’égard de la sociologie.
+Cette méfiance était partagée par son principal collègue, l’historien et économiste Victor Brants. Ce dernier avait, par l’intermédiaire de son maître, le
+catholique conservateur Charles Périn, fait la connaissance de Frédéric Le Play
+et ne cesserait, tout au long de sa carrière, de jurer par une « science sociale »
+inscrite dans la lignée de Le Play, clairement distanciée de la sociologie qu’il
+associait, à l’instar de Le Play, au positivisme et au socialisme. La méthode
+monographique de Le Play était fondée sur l’observation empirique rigoureuse
+et surtout, concrètement, sur des études de budgets familiaux, et répondait
+mieux que toute autre méthode, selon Brants, au penchant de l’époque pour les
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 75
+
+« faits positifs » (Brants, 1882 : 331). Mais la science sociale devait, de l’avis de
+Brants, connaître ses propres limites et respecter la supériorité de la loi religieuse
+(Brants, 1882 : 28). Même après que Brants eut évolué politiquement dans un
+sens réformiste, il continua à faire appel au modèle méthodologique de Le Play,
+« malgré les erreurs de plusieurs de ses appréciations » (Brants, 1906 : 641).
+Brants n’était pas le seul en Belgique, tant s’en faut, à apprécier Le Play. En
+1881 déjà, il avait fondé à Bruxelles la Société d’Économie Sociale, à l’image
+du cercle d’étude parisien de Le Play. Au cours des années 1880, la sphère
+d’intérêt au sein du cercle d’étude s’élargit, au-delà de l’agriculture et de la
+petite industrie, à la problématique des ouvriers, tandis que la p
+­ réoccupation
+essentiellement morale évolua vers une approche plus impliquée dans la
+politique contemporaine. L’approche leplaysienne de la réalité sociale offrit
+à un large groupe d’intellectuels et de politiciens catholiques, dès la fin des
+années 1880, une méthode et un vocabulaire pour adopter une position
+interventionniste prudente sur la question sociale qui, depuis la grande grève
+de 1886, figurait à l’agenda politique national (Deferme et De Maeyer, 2009).
+Une constante dans le discours de ceux qui comme Périn ou, par exemple,
+l’économiste de l’université de Liège Charles Dejace, encensaient Le Play en
+tant que « fondateur de la science sociale » était de souligner à quel point la
+méthode de Le Play présentait « une précision aussi infaillible que les sciences
+physiques, chimiques ou mathématiques » (Dejace, 1882 : 819).
+Le choix de Le Play en tant que guide méthodologique, outre qu’il
+­représentait un choix idéologique en faveur d’une politique sociale prudente, était tout bonnement en accord avec la pratique, déjà bien ancrée, des
+enquêtes et études statistiques pour le compte des pouvoirs publics. Pourtant,
+ce n’est pas seulement l’implication de Brants dans la politique socio-économique ou son « sens pratique » qui détermina sa préférence pour la science
+sociale de Le Play face à la sociologie. Lors d’une réunion en 1900 du cercle
+d’étude louvaniste « Conférence d’économie sociale », présidée par lui-même
+et consacrée à la sociologie de Comte, Brants fit connaître clairement, une
+fois encore, son avis sur la question. Il marqua son adhésion à la thèse selon
+laquelle toute la nouvelle sociologie positiviste – en particulier l’organicisme
+et le déterminisme évolutionniste – était contestable, tandis que les éléments
+valables avaient déjà été formulés par Thomas. Il mit aussi en garde contre la
+tendance consistant à attribuer, malgré tout, certains mérites au positivisme.
+Le « comtisme » conduisait en effet au socialisme d’État, soutenait Brants, et la
+carrière d’Hector Denis, devenu entre-temps député socialiste, en témoignait
+(Paillot, 1899-1900). Brants se sentait néanmoins obligé, malgré son scepticisme
+explicite à l’égard de la sociologie, d’insister à chaque fois, dans ses manuels
+d’économie politique, sur l’interdépendance des phénomènes sociaux (Brants,
+1901 : xiii, 4, 30, 36). Sa stratégie allait toutefois être balayée, à Louvain,
+par des défenseurs plus enthousiastes de la sociologie qui voyaient dans ses
+œuvres une opération cosmétique par trop superficielle (Van Overbergh,
+1901-1902 : 261-270).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+76 – Archives de sciences sociales des religions
+
+Ouverture stratégique
+Le premier défenseur louvaniste d’une ouverture réfléchie à l’égard de la
+sociologie contemporaine fut Désiré Mercier, futur archevêque et président de
+l’Institut Supérieur de Philosophie de l’université, fondé en 1889. Le renouveau
+de la philosophie de Thomas d’Aquin, prescrit par Léon XIII, lui offrait un
+cadre pour le développement d’une philosophie catholique qui ferait contrepoids au positivisme, dont on estimait qu’il rencontrait déjà trop de succès.
+Parallèlement à l’idéal de connaissance positiviste, Mercier cherchait à intégrer
+toutes les sciences modernes dans la philosophie. S’il avait en premier lieu
+les sciences naturelles à l’esprit, les sciences sociales et la sociologie faisaient
+également partie de ses préoccupations (De Raeymaeker, 1952).
+À Louvain, Mercier plaidait depuis 1891 déjà pour que l’on élargisse
+­l’enseignement philosophique classique en morale et droit naturel en y ajoutant
+une chaire de sciences sociales. Il voulait que la sociologie positiviste y fût
+également présentée en tant que ‘théorie sociale’. Outre une étude historique
+et comparative de la famille, des groupements intermédiaires – en particulier
+la corporation – et des différentes conceptions contemporaines de l’État, le
+titulaire de cette chaire aurait aussi comme tâche « de rapprocher dans une
+synthèse plus compréhensive les sociologies positivistes de Comte, de Spencer,
+de Schäffle, etc. et les enseignements dont les Encycliques de Léon XIII nous
+ont donné le Code général » (Mercier, 1891 : 28). Le programme de l’Institut
+Supérieur de Philosophie fut élargi dès 1893 avec une chaire d’économie
+sociale et un cours complémentaire consacré à l’histoire des doctrines économiques et politiques avec Deploige, ancien élève de Mercier, comme titulaire
+dans les deux cas. La demande de Mercier pour que l’on s’intéresse de plus
+près à la sociologie contemporaine allait être en grande partie honorée par
+les évêques en 1903 avec une chaire en histoire des théories sociales. Celle-ci
+fut ­attribuée à Defourny, qui entre-temps s’était perfectionné auprès des
+sociologues français Émile Durkheim et Gabriel Tarde et auprès de deux
+représentants de l’école historique allemande, les économistes Gustav von
+Schmoller et Adolph Wagner.
+À l’instar de son activité intense au sein de l’institut louvaniste, le ­plaidoyer
+de Mercier en faveur de l’enseignement sociologique était motivé par la volonté
+de voir l’intelligentsia catholique adhérer de la façon la plus cohérente possible
+à la science moderne. Mais cette ouverture précoce à la sociologie n’était,
+inévitablement, qu’une ouverture partielle et défensive, où l’appropriation
+minimale du terme « sociologie » semblait importante elle aussi. Chez Mercier,
+« sociologie » renvoyait en premier lieu au développement d’une théorie
+socio-économique et politique catholique et néo-thomiste. Des professeurs
+tels que Defourny et Deploige y accordèrent aussi, de facto, une attention
+prépondérante et contribuèrent, grâce à leurs recherches, à ­l’élaboration
+d’une doctrine sociale et politique catholique solidaire et corporative, dans
+le prolongement des lignes de force tracées dans l’encyclique sociale Rerum
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 77
+
+Novarum (1891). Dans l’optique de Mercier, c’est dans ce genre d’études que
+l’on pouvait également s’intéresser à la pensée sociale concrète de sociologues
+comme Comte et Durkheim. La sociologie (positiviste) était donc avant tout
+abordée en tant que contenu socio-philosophique, plutôt que comme une
+nouvelle discipline avec une méthode propre. Mercier allait même jusqu’à
+encourager chez ses professeurs l’usage du mot « sociologie » dans les leçons
+sur la doctrine sociale catholique : « J’avoue que ne j’ai pas peur du mot
+«sociologie», il est indifférent et il y aurait avantage de ne pas le laisser accaparer par le camp positiviste » 2. L’utilisation spécifique et délibérée de cette
+notion par Mercier ne constituait pas pour autant la « falsification » d’une
+définition généralement admise de la sociologie. Une telle définition, en effet,
+n’existait pas à la fin du dix-neuvième siècle. Mercier était conscient de la
+grande confusion qui régnait à propos de la discipline et des appropriations
+idéologiques, principalement socialistes, de cette discipline, et avait compris
+que l’on pouvait également lui donner une interprétation catholique. En
+Belgique, du reste, comme Sébastien Mosbah-Natanson l’a démontré, on se
+montrait en général plus parcimonieux qu’en France dans l’utilisation du terme
+« sociologie » dans les titres des ouvrages portant sur le domaine élargi des
+sciences sociales (Mosbah-Natanson, 2007 : 118-120, 186). Le souci de Mercier
+de contrer le « monopole positiviste » sur la sociologie apparaît également
+dans la manière dont il formula sa satisfaction par rapport à la nomination
+de deux de ses anciens élèves, Jean Halleux et Edouard Crahay, aux nouvelles
+chaires de sociologie dans les universités de l’État de Gand et Liège. Il voyait
+leur nomination comme un contrepoids salutaire au positivisme de Comte
+qui aurait été en vogue dans ces institutions (Boudens, 1995 : 184).
+L’attitude ambiguë de Mercier se retrouvait également dans les n
+­ ombreuses
+publications de l’Institut de philosophie de Louvain consacrées à la s­ ociologie.
+Si l’importance accordée par la méthodologie positiviste à l’observation
+en tant que source de connaissance y était régulièrement appréciée, les
+philosophes louvanistes n’étaient pas tendres avec la sociologie positiviste. Ils lui reprochaient d’accorder une attention trop exclusive aux faits
+observables, au détriment des indispensables vérités philosophiques, plus
+élevées, accessibles par la déduction. Outre le modèle explicatif organiciste
+de Comte et Spencer, qui n’accordait aucune attention à l’individu, et moins
+encore à l’âme, la sociologie morale de Durkheim était particulièrement
+visée. L’espoir positiviste dans le développement d’une morale sur la seule
+base de l’étude scientifique du fonctionnement des sociétés était – selon les
+critiques louvanistes – voué à l’échec par le fait qu’il niait Dieu en tant que
+fondement de la morale.
+L’étude influente de Deploige intitulée Le conflit de la morale et de la
+sociologie (1911) était consacrée presque entièrement à cette problématique.
+
+2. Louvain-La-Neuve, Archives de l’Institut supérieur de Philosophie¸ port. 73, Mercier
+à Deploige, 31 octobre 1900.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+78 – Archives de sciences sociales des religions
+
+Des prépublications de cette étude dans la Revue Néo-Scholastique à partir
+de 1905 avaient conduit à une polémique avec Durkheim à propos de ses
+sources d’inspiration, et le livre lui-même, ainsi que ses traductions, allaient
+susciter énormément d’intérêt dans le monde catholique et au-delà. Le t­ ravail
+de Deploige trouvait son origine dans le livre du philosophe français Lucien
+Lévy-Bruhl, La morale et la science des mœurs (1903). Lévy-Bruhl y lançait
+un appel aux philosophes afin qu’ils abandonnent la quête d’une morale théorique pour lui préférer une « science des mœurs » sociologique et scientifique.
+Lévy-Bruhl, professeur de philosophie moderne à la Sorbonne, faisait le lien,
+dans son ouvrage, entre le positivisme de Comte et le projet sociologique
+d’Émile Durkheim, qui lui était cher. Dans son étude de 1900 sur Auguste
+Comte, le « père » du positivisme français, il avait présenté Durkheim comme
+« le ­véritable héritier d’Auguste Comte » (Merllié 1989, 498). Dans son ouvrage
+La morale et la science des mœurs, il se présentait lui-même comme un disciple de Durkheim. En France aussi, le plaidoyer de Lévy-Bruhl en faveur
+d’une morale sociologique avait immédiatement déclenché un débat entre
+philosophes et partisans de la sociologie sur la possibilité – déjà défendue
+auparavant par Comte et Durkheim – de développer, via une étude sociologique
+de l’apparition et du fonctionnement des systèmes moraux, une « science de
+la morale » positive qui puisse poser les jalons d’une éthique pratique (« l’art
+moral »). L’éthique pourrait, de cette manière, s’adapter aux idéaux qui font
+partie de la conscience collective d’un groupe ; dans cette vision, la morale
+traditionnelle, abstraite, qui se fondait sur le concept illusoire d’une nature
+humaine universelle, immuable, devenait superflue (Merllié, 2004).
+Deploige interpréta ce point de vue comme la proclamation d’un conflit
+inconciliable entre sociologie et morale et se fixa comme principal objectif de
+remettre la morale traditionnelle en honneur. Dans son livre, principalement
+dirigé contre Durkheim, il argumentait que la critique positiviste à l’égard de la
+morale traditionnelle – jugée trop abstraite –, ne s’appliquait pas à la morale de
+Thomas. Celui-ci avait basé sa scientia moralis sur une observation minutieuse
+du fonctionnement concret d’une morale. Ce faisant, il détournait la sociologie
+pour en faire une discipline qui avait déjà, pour l’essentiel, été développée par
+Thomas : « Non seulement la puissante attaque des sociologues ne fait point
+brèche dans l’édifice thomiste, mais celui-ci, en même temps qu’il reste inébranlé
+et solide, est assez vaste et hospitalier pour abriter la sociologie elle-même »
+(Deploige, 1911 : 389). L’étude de Deploige reçut un accueil très favorable
+chez les catholiques – elle fit l’objet dès 1912 d’une deuxième édition publiée
+à la fois à Louvain et à Paris, et en 1913 d’une troisième préfacée par Jacques
+Maritain. Mais elle subit aussi le feu des critiques, et pas seulement au sein de
+l’école sociologique durkheimienne. La Revue de Métaphysique et de Morale,
+qui se dressait systématiquement contre la morale sociologique de Lévy-Bruhl
+et Durkheim, ne prit qu’une fois la défense de la sociologie durkheimienne,
+et ce fut à la suite de l’entreprise de Deploige (Paoletti, 1998 : 99). Elle le fit
+en ces termes : « M. Deploige fabrique de ses propres mains l’ennemi qu’il
+se donnera la gloire de vaincre » (Le Conflit, 1911 : 11). L’idée de Deploige
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 79
+
+selon laquelle, pour Durkheim, « normal » signifiait aussi « moral » et le fait
+de passer sous silence le rôle majeur que le sacré jouait dans la conception de
+la morale de Durkheim, furent jugés malveillants. Durkheim lui-même avait
+déjà, en réaction à certaines parties du livre qui avaient paru en 1909 dans la
+Revue Néo-Scholastique, réagi par lettre à la thèse de Deploige selon laquelle
+la majeure partie de ses idées pouvait être ramenée à la tradition intellectuelle
+allemande du xixe siècle. Dans la polémique qui s’ensuivit, que Deploige fit
+paraître en annexe de son livre, et dans la critique qu’il consacra au livre dans
+L’Année Sociologique, Durkheim réduisit l’ouvrage de Deploige à un pamphlet
+apologétique malveillant (Durkheim, 1909-1912 ; Lukes, 1977: 92).
+Par sa stratégie d’appropriation multiforme et la publication de sa
+­polémique avec Durkheim, Deploige reconnaissait involontairement qu’il ne
+pouvait pas échapper, lui non plus, à l’hégémonie de la sociologie positiviste.
+Quel que soit le scepticisme affiché dans son jugement final, il avait analysé en
+profondeur le travail sociologique de ses contemporains et, ce faisant, introduit,
+conjointement avec ses collègues de l’Institut Supérieur de Philosophie, une
+manière d’aborder la sociologie que même les auteurs non académiques ne
+pouvaient plus éluder. Quiconque voudrait rédiger un traité sur la doctrine
+sociale catholique et lui donner le nom de « sociologie » se sentirait obligé,
+désormais, de dénoncer avant toute chose les manquements de la sociologie
+purement empirico-positiviste et de démontrer la nécessité d’une approche
+plus philosophique et normative. La légitimation de sa propre méthode était
+devenue un passage obligatoire (De Ponthière, 1914-1915, 1-11).
+
+Enthousiasme missionnaire
+À l’intérieur de ce monde catholique louvaniste se développa p
+­ ourtant
+­é galement un intérêt plus autonome et ouvert pour la sociologie, en
+­l’occurrence au sein de la Société Belge de Sociologie fondée en 1899 par
+le c­ hrétien-démocrate Cyrille Van Overbergh, un haut fonctionnaire du
+Ministère de l’Enseignement qui était aussi attaché à l’Institut de Philosophie
+de Louvain en tant que professeur invité. Van Overbergh cherchait à réunir
+des intellectuels catholiques partageant une approche résolument enthousiaste de la sociologie moderne afin d’encourager également, à terme, la
+recherche empirique. Le lien effectif qui existait initialement entre l’Institut
+de Philosophie et la Société Belge de Sociologie et leurs revues respectives,
+La Revue Néo-Scolastique et Le Mouvement Sociologique, témoigne de
+l’ouverture d’esprit qui régnait dans l’Institut. Les deux secrétaires de rédac­
+tion du Mouvement Sociologique, l’ancien étudiant Fernand Deschamps et le
+juriste Camille Jacquart, publiaient aussi dans la Revue Néo-Scolastique et
+dans la Revue Sociale Catholique louvaniste. Il en allait de même pour des
+collaborateurs réguliers tels que Georges Legrand, qui assurait des cours en
+tant que professeur invité à l’Institut, et Crahay, un ancien élève de Mercier,
+qui enseignait la sociologie à Liège. D’un autre côté, Simon Deploige, qui
+figurait parmi les membres, aurait bel et bien fait partie de ceux qui, en 1906,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+80 – Archives de sciences sociales des religions
+
+mirent fin à la collaboration par méfiance à l’égard d’une intrusion trop
+sociologique à l’Institut (De Bie, 1988 : 95-106).
+Le choix explicite de la Société de s’intéresser à toutes les formes de
+­sociologie, sans opérer de choix préalables entre les différentes « Écoles »,
+déboucha sur une approche particulièrement large et éclectique, qui permettait
+aussi de grandes différences d’interprétation. Dans la revue essentiellement
+bibliographique Le Mouvement Sociologique, les toutes dernières publications
+étrangères étaient suivies de près. L’Année Sociologique de Durkheim servait
+explicitement de modèle pour l’organisation des différentes rubriques de la
+revue, même si l’on préférait laisser de côté une rubrique « délicate » telle que
+« Sociologie morale ». Van Overbergh soutenait qu’une telle rubrique créerait
+la confusion, étant donné que pour beaucoup de personnes, la philosophie
+morale offrait la seule vraie morale. Il ajoutait que la sociologie morale de
+Durkheim devait plutôt, en réalité, être qualifiée de « science des mœurs ».
+Ceci ne l’empêcha pas de commenter de manière élogieuse le contenu de cette
+rubrique dans l’Année Sociologique (Van Overbergh, 1901).
+Plus que leurs collègues louvanistes, qui publiaient dans une perspective
+philosophique, les membres de la Société de Sociologie parvinrent à ignorer la
+toile de fond positiviste de la sociologie moderne. Leurs critiques par rapport
+au caractère agnostique de nombreux ouvrages sociologiques n’étaient pas de
+nature à réduire leur enthousiasme à l’égard de cette nouvelle science pleine
+de promesses. L’esprit d’ouverture manifesté par Van Overbergh à l’égard
+de la sociologie contemporaine apparaît notamment dans la série Collection
+de monographies sociologiques, qu’il rédigea et dans laquelle il exposait
+entre autres la sociologie de De Greef à travers des extraits de ses ouvrages
+sélectionnés par thème (Van Overbergh, 1909). Il apparut en outre, tout
+au moins à partir du tournant du siècle, que la sociologie et le positivisme
+ne devaient plus nécessairement être identifiés l’un à l’autre. Le travail de
+Gabriel Tarde, qui accordait une place centrale aux relations mentales entre
+individus, marquait ainsi une rupture avec une tradition ouverte par Comte
+qui laissait peu de place à l’autodétermination de l’individu (Van Overbergh,
+1901-1902 : 373-382).
+Certains membres de la Société de Sociologie, toutefois, cherchèrent aussi
+sur le plan du contenu des points de convergence avec le travail de Comte et
+Durkheim. Le plaidoyer de Durkheim pour une organisation plus corporative de
+la société bénéficiait d’un soutien évident. Van Overbergh rejoignait volontiers
+Durkheim dans sa critique de la vision marxiste de la société. Durkheim, et
+avec lui la « sociologie », étaient selon lui totalement en phase avec Léon XIII
+lorsque ce dernier estimait que le vide moral dans la société de l’époque
+n’était pas une caractéristique inhérente au système économique de distribution du travail, mais plutôt la conséquence de l’absence de ­consensus moral.
+Dans une société idéale, les différentes classes devraient pouvoir ­cohabiter
+en harmonie : « Telle est la «thèse» et la sociologie doit l’opposer à celle du
+marxisme » (Van Overbergh, 1905 : 217). En tant qu’auteur, Durkheim reçut
+ainsi en Belgique un accueil bien plus chaleureux parmi les catholiques que
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 81
+
+chez les libre-penseurs (libéraux progressistes ou socialistes), où l’attrait pour
+les théories plus inspirées du biologisme était toujours prédominant.
+D’une façon similaire, les professeurs de l’Institut Deploige et Defourny
+voyaient en Comte une aide utile pour leur critique du libéralisme. « Pourquoi
+serait-il interdit de faire appel au témoignage de ce loyal adversaire ? », Defourny
+rendit explicite sa propre méthode (Defourny, 1903 : 55 ; Deploige, 1911 :
+198‑217). Chez les secrétaires de rédaction du Mouvement Sociologique,
+Deschamps et Legrand, avocats les plus enthousiastes d’une sociologie
+­comtienne, l’éloge de la critique de la révolution exprimée par des intellectuels
+« positivistes » comme Hippolyte Taine se révélerait comme un prélude de leur
+évolution intellectuelle postérieure. Après la Première Guerre Mondiale, tous les
+deux feraient de la propagande intellectuelle pour l’Action française de Charles
+Maurras, qui lui-même avait également essayé de réconcilier positivisme et
+traditionalisme (Defoort, 1978 : 26-39, 144-149). Dans cette perspective, la
+conviction de Brants que la sociologie mènerait inévitablement au socialisme,
+paraît presque ironique.
+
+Sociologie des religions
+Les partisans de la Société belge de Sociologie tels que Van Overbergh et
+Deschamps étaient pleinement conscients qu’ils devaient constamment lutter
+sur deux fronts. Vis-à-vis des collègues méfiants, à Bruxelles et à Paris, ils
+voulaient prouver qu’ils prenaient la sociologie très au sérieux. Le fait par
+exemple que L’Année sociologique, une revue tenue en haute estime, dénigre
+leurs annales en faisant remarquer que « les préoccupations apologétiques n’y
+sont pas trop apparentes », les mettait au désespoir (Van Overbergh, 1904 :
+133). Par ailleurs, ils devaient faire face à la grande hostilité catholique à
+l’égard de la sociologie, une attitude à laquelle ils ne cessaient de s’opposer.
+Du reste, au sein de la Société elle-même, il n’y avait pas unanimité sur le fait
+de savoir dans quelle mesure on pouvait donner une interprétation catholique
+à la sociologie. Les discussions concernant la sociologie des religions mirent
+ces tensions clairement en évidence.
+Tout le monde était d’accord sur le fait que la Société devait prendre
+à cœur la sociologie des religions : ce n’est pas pour rien que Comte avait
+­souligné le rôle historique important de la religion, tandis que pour Durkheim
+son étude était même le cœur de toute entreprise sociologique. Grâce à leur
+grande connaissance de l’histoire des religions, les catholiques se croyaient
+bien placés pour mettre en valeur ce rôle central de la religion. Quant à savoir
+s’il convenait d’ajouter explicitement que cette étude de la fonction sociale de
+la religion représenterait « une confirmation éclatante de sa vérité », comme
+l’affirma le jésuite et fidèle collaborateur Arthur Vermeersch, ce n’était sans
+doute pas évident pour tout le monde (Vermeersch, 1901 : 50).
+Si l’école de Durkheim formait, sur ce terrain également, le point de ­référence
+central des discussions au sein de la Société, ses fondements n’étaient pas pour
+autant incontestés. En premier lieu, la définition que donnait Durkheim de
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+82 – Archives de sciences sociales des religions
+
+la religion, dans laquelle seule la vague notion du « sacré » jouait un rôle, et
+non l’idée d’une réalité divine ou d’un Dieu, était jugée très problématique.
+En outre, son approche de la religion en tant que fait collectif, social, ne laissait
+aucune place à l’expérience religieuse individuelle, tellement essentielle. Pour
+certains spécialistes de la religion formés à la théologie au sein de la Société,
+parmi lesquels l’exégète Achilleus Camerlynck, le capucin P. Evariste et le jésuite
+Vermeersch, la tendance de la sociologie contemporaine à réduire la religion
+à un phénomène purement social, sans établir la moindre échelle de valeurs
+morales parmi la multitude de religions, constituait une menace réelle. Malgré
+leur ambition de se rapprocher de « la sociologie des religions », ils partaient
+du principe d’un antagonisme jugé évident entre auteurs catholiques et non
+catholiques, croyants et non croyants. La religion ne pouvait être étudiée
+de manière valable que si cela se faisait de l’intérieur. Dans cette optique, la
+psychologie religieuse semblait plus prometteuse que la sociologie des religions
+(Camerlynck, 1901).
+Si Van Overbergh et Deschamps, les deux « convertis » les plus évidents à la
+sociologie, de même que le dominicain et philosophe Polydorus E. De Munnynck
+et l’orientaliste Louis de la Vallée Poussin, s’orientaient vers une interprétation
+de la religion qui tienne compte des facteurs sociaux et encourage la comparaison avec les autres religions, ceci se heurtait dans la pratique à l’opposition
+affichée par la majorité de leurs collègues formés à la théologie. Bien que ces
+derniers adhèrent en principe à un projet visant, par exemple, à comparer entre
+elles différentes formes de mystique, leur attachement au caractère spécifique,
+irréductible, de la mystique chrétienne semblait malgré tout faire obstacle à
+une telle comparaison (« Procès-verbaux », 1903).
+Le projet sociologique de Van Overbergh était pourtant, lui aussi, un projet
+résolument catholique. Ceci ressort entre autres de l’enquête ethnographique
+à grande échelle sur les différents groupes de population au Congo qu’il mit
+sur pied avec le Liégeois Joseph Halkin, professeur d’ethnographie. Ce projet
+trouvait son origine dans une proposition de Camerlynck d’impliquer des
+missionnaires dans l’étude sociologique des « peuples primitifs ». L’argument
+de Camerlynck était qu’il était temps, en particulier dans le domaine de la
+sociologie des religions, que les modèles en vigueur, d’inspiration idéologique,
+selon lesquels chaque religion évoluait du fétichisme vers le monothéisme en
+passant par le polythéisme, soient corrigés par une observation minutieuse.
+L’association appuyait sa proposition, mais estimait que pour un sujet aussi
+délicat, il était préférable de ne pas faire appel uniquement à des missionnaires.
+Halkin composa un questionnaire et le projet reçut en 1905 l’approbation
+du Congrès International d’Expansion économique, si bien qu’il fut intégré
+– tout au moins dans sa déclaration d’intention – dans une politique axée
+sur l’expansion coloniale (Camerlynck, 1905 ; « Procès-verbaux », 1905 : 42,
+50-52, 95-103 ; « Enquête », 1905 ; Crombois,1998 : 61-64).
+Van Overbergh avait la direction de la prestigieuse Collection de monographies ethnographiques qui résulta de ce projet et fut sous-titrée Sociologie
+descriptive. Chaque volume traitait d’une population et était structuré de la
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 83
+
+même manière. Pour chaque question, l’ensemble des données de l’enquête –
+provenant essentiellement de fonctionnaires belges et dans une bien moindre
+mesure de missionnaires – était complété par des extraits pertinents de la littérature scientifique et missionnaire. Dans la section « vie religieuse », les sources
+missionnaires ne jouaient pas un rôle plus important qu’ailleurs, si ce n’est
+qu’y étaient reprises des conceptions explicitement teintées d’évangélisation.
+Aux questions relatives à la présence de conceptions monothéistes et d’une
+croyance à un esprit distinct du corps, il était répondu très largement – mais
+pas systématiquement – de manière positive.
+Pour Van Overbergh, toutefois, ces résultats étaient suffisants pour formuler
+en 1913, après la parution de dix monographies, la conclusion suivante : « toute
+l’Afrique nègre confesse sa foi au Dieu unique et créateur » (Van Overbergh,
+1913 : 216). Pour lui aussi, les données recueillies à travers les enquêtes
+recevaient à présent une finalité apologétique bien définie : elles fournissaient
+au missionnaire un instrument dans son travail d’évangélisation. Les études
+avaient démontré qu’une approche du travail de conversion dans laquelle la
+nouvelle religion viendrait se greffer sur la croyance locale se révélerait plus
+efficace qu’une approche (inutilement) « dure » dans laquelle on extirperait
+d’abord l’ancienne croyance. La connaissance ethnographique était donc
+indispensable pour tout missionnaire. C’est également le message que Van
+Overbergh et Halkin avaient transmis dès 1909 lors du Congrès de Malines
+(Halkin, 1909). Les « missionnaires » louvanistes de la sociologie estimaient
+aussi que la sociologie pouvait remplir un rôle missionnaire.
+*
+**
+« Si le soleil de la sociologie, se dégageant des brouillards qui l’enveloppent
+actuellement, se lève un matin sur les sommets de la science, nous pourrons
+être des premiers à le contempler, à l’admirer et à baigner nos intelligences de
+ses vivifiants effluves ». Voilà ce que l’on peut lire dans la note fondatrice de la
+Société de Sociologie de 1899. Deux ans plus tard, lorsque la Société se résolut
+à procéder à la publication de cette note dans un nouvel organe qui lui était
+propre (ce qu’elle n’avait sans doute pas osé faire dans les annexes de la revue
+de philosophie louvaniste dans laquelle elle publiait jusqu’alors), elle réitéra
+son enthousiasme d’un ton approbateur en y ajoutant : « Plus qu’il y a deux
+ans, nous avons foi dans l’avenir de la sociologie » (Jacquart, 1901-1902, 6).
+L’acceptation de la sociologie au sein de la Société resta néanmoins, avant
+toute chose, l’acceptation d’une promesse, d’un projet enthousiasmant, plus que
+l’amorce d’une nouvelle pratique dans le domaine de la recherche sociologique.
+Les deux séries de Van Overbergh, à savoir les Monographies Sociologiques
+plutôt théoriques et les Monographies Ethnographiques empiriques constituaient à cet égard une exception. En même temps, leur intitulé trahissait le
+désir d’un rattachement à l’école catholique de Le Play. Celui-ci, précisément,
+s’était toujours tenu à l’écart du débat monopolisé par les libres penseurs
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+84 – Archives de sciences sociales des religions
+
+sur l’identité de la sociologie en tant que discipline académique (Kalaora et
+Savoye, 1989). Le fait que les initiatives concrètes en matière de recherche de
+la Société de Sociologie soient restées plutôt limitées était évidemment lié au
+scepticisme fondamental de la plupart des universitaires catholiques. Si l’Institut
+de Philosophie de Louvain avait fait preuve d’une certaine ouverture stratégique
+à l’égard de la sociologie, l’École des Sciences Politiques et Sociales de cette
+même université exprimait quant à elle un rejet catégorique. Cette attitude
+dominera le discours louvaniste sur la sociologie jusque vers la fin des années
+1930. Il faudra attendre 1939 pour qu’une véritable formation universitaire
+en sociologie soit mise en place. L’intérêt catholique plus ou moins autonome
+à l’égard de la sociologie internationale contemporaine s’était donc développé
+principalement en marge de l’université.
+Kaat WILS
+Groupe de Recherches Cultural History Since 1750
+KU Leuven
+kaat.wils@kuleuven.be
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 85
+
+Bibliographie
+Boudens Robrecht, 1995, “The holy seat and the crisis at the Higher Institute of
+Philosophy in Leuven. 1895-1900”, in Idem, Two Cardinals. John Henry Newman.
+Désiré Joseph Mercier, ed. L. Gevers, Louvain, Leuven University Press, p. 175-194.
+Brants Victor, 1882, « Les études pratiques d’économie sociale », Revue Catholique¸
+27, p. 27-38.
+–, 1882, « Frédéric Le Play », Revue Catholique, 27, p. 317-336.
+–, 1901³, Les grandes lignes de l’économie politique, Louvain, Peeters.
+–, 1906, « La part de la méthode de Le Play dans les études sociales en Belgique », La
+Réforme Sociale¸ 6, II, p. 636-652.
+« Le Conflit de la Morale et de la Sociologie », 1911, Revue de Métaphysique et de
+Morale, 19-5, p. 11-12.
+Camerlynck Achilleus, 1905, De l’opportunité d’une enquête ethnographique et sociologique sur les peuples incultes, Bruxelles.
+–, 1901, « Compte rendu de E. Murisier, Les maladies du sentiment religieux », Le
+Mouvement Sociologique, 2, p. 259-261.
+Crombois Jean-François, 1994, L’Univers de la sociologie en Belgique de 1900 à 1940,
+Bruxelles, Université Libre de Bruxelles.
+–, 1998, « Le Congo et l’ethnographie. Colonialisme, sociologie et ethnologie en Belgique
+avant 1914 », Civilisations, 45, p. 55-84.
+Daled Pierre, 1998, Spiritualisme et matérialisme au xixe siècle. L’université Libre de
+Bruxelles et la religion, Bruxelles, Université Libre de Bruxelles.
+De Bie Pierre, 1988, Naissance et premiers développements de la sociologie en Belgique,
+Louvain-la-Neuve, Ciaco.
+Deferme Jo, de Maeyer Jan, 2009, « Entre sciences sociales et politique. La pensée
+leplaysienne et les milieux catholiques belges », Les Études Sociales, nos 149-150,
+p. 147-166.
+Defoort Erik, 1978, Charles Maurras en de Action Française in België, Bruges, Orion.
+Defourny Maurice, 1902, La sociologie positiviste. Auguste Comte, Louvain, Institut
+Supérieur de Philosophie.
+–, 1903, Le rôle de la sociologie dans le positivisme, Louvain, Institut Supérieur de
+Philosophie.
+Dejace Charles, 1882, « Frédéric Le Play, sa vie et ses œuvres », Revue Générale, 18-1,
+p. 812-830.
+Deploige Simon, 1911, Le conflit de la morale et de la sociologie, Louvain, Institut
+Supérieur de Philosophie.
+De Pontière Charles, 1914-1915, Essai de Sociologie, Liège, Paris, Lethielleux.
+Durkheim Émile, 1909-1912, « Le conflit de la morale et de la sociologie », L’Année
+Sociologique (1896/1897-1924/1925), 12, p. 326-328.
+De Raeymaeker Louis, 1952, Le cardinal Mercier et l’Institut Supérieur de Philosophie,
+Louvain, Publications Universitaires de Louvain.
+« Enquête ethnographique internationale » (1905), Le Mouvement Sociologique, 6,
+p. 174-212.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+86 – Archives de sciences sociales des religions
+
+Evariste P., O.M.C., 1902-1903, « Compte rendu de Chabin, La science de la religion »,
+Le Mouvement Sociologique, 3, p. 458-463.
+Gerard Emmanuel, Sociale wetenschappen aan de Katholieke Universiteit te Leuven.
+1892-1992, Louvain, Politica, coll. « Politica cahier ».
+–, Wils Kaat, 1999, “Catholics and Sociology in Leuven from Désiré Mercier to Jacques
+Leclercq : a Process of Appropriation” in Voyé L., Billiet J. (eds.), Sociology and Religions. An Ambiguous Relationship / Sociologie et religions. Des relations ambiguës,
+Louvain, University Press Leuven, p. 38-56.
+Halkin Joseph, 1909, « Les enquêtes ethnographiques. Leur importance pour la colonisation, l’amélioration de la vie sociale et morale, et la civilisation des peuples incultes »,
+in Congrès de Malines 23 au 26 septembre 1909. Rapports. vie section. Oeuvres
+catholiques aux colonies, Bruxelles, Maison de l’Action catholique (sans pagination).
+Jacquart Camille, 1900-1901, « Rapport sur les travaux de la Société Belge de Sociologie
+présenté dans la séance du 30 janvier 1902 », Annales de sociologie, 1, p. 1-25.
+Kalaora Bernard et Savoye Antoine, 1989, Les inventeurs oubliés. Le Play et ses
+continuateurs aux origines des sciences sociales, Seyssel, Champ Vallon.
+Lukes Steven, 1977, Emile Durkheim. His life and work. À historical and critical study,
+Harmondsworth, Penguin Books.
+Mercier Désiré, 1891, Rapport sur les études supérieures de philosophie présenté au
+congrès de Malines le 9 septembre 1891¸ Louvain, Institut Supérieur de Philosophie.
+Merllié Dominique, 1989, « Lévy-Bruhl et Durkheim : Notes biographiques en marge
+d’une correspondance », Revue Philosophique de La France et de l’Étranger, 179- 4,
+p. 493-514.
+–, 2004, « La sociologie de la morale est-elle soluble dans la philosophie ? La réception de
+La morale et la science des mœurs », Revue Française de Sociologie, 45-3, p. 415-440.
+Mosbah-Natanson Sébastien, 2007, « La sociologie est à la mode ». Productions
+et producteurs de sociologie en France autour de 1900, thèse inédite, Université
+Paris-Dauphine.
+Paillot R., 1899-1900, « La sociologie d’Auguste Comte et la méthode des sciences
+sociales », Revue Sociale Catholique¸ p. 279-283.
+Paoletti Giovanni, 1998, « L’Année Sociologique et les philosophes : histoire d’un débat
+(1898-1913) », L’Année Sociologique, 48, 1, p. 77-114.
+« Procès-verbaux des séances de la Société », 1902-1903, Le Mouvement Sociologique,
+3, p. 559-567.
+« Procès-verbaux des séances de la Société », 1903, Le Mouvement Sociologique¸ 4,
+p. 43-55, 103-111.
+« Procès-verbaux des séances de la Société », 1904, Le Mouvement Sociologique, 5,
+p. 44-55, 120-121, 170-174.
+« Procès-verbaux des séances de la Société », 1905, Le Mouvement Sociologique, p. 44-55,
+120-121, 171-174.
+« Une thèse de sociologie », 1902-1903, Le Mouvement Sociologique, 3, p. 550-554.
+Van Overbergh Cyril, 1901, « L’Année sociologique 3 (1898-1899) », Le Mouvement
+Sociologique, 1, p. 145-151.
+–, 1901-1902, « Compte rendu de Victor Brants, Les grandes lignes de l’économie politique,
+(Louvain, 1901) », Le Mouvement Sociologique, 2, p. 261-270.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+Les intellectuels catholiques et la sociologie en Belgique – 87
+
+–, 1901-1902, « Compte rendu de Gabriel Tarde, Psychologie économique», MS,
+2(1901‑1902), p. 373-382.
+–, 1904, « Compte rendu de L’Année sociologique», 7, (1902-1903) », Le Mouvement
+Sociologique, 5, p. 129-136.
+–, 1905, La classe sociale¸ Bruxelles, Schepens.
+–, 1909, Guillaume de Greef, Bruxelles, Dewit.
+–, 1913, Les nègres d’Afrique (géographie humaine), Bruxelles, Dewit.
+Van den Heuvel Jules, 1892, Rapport sur l’enseignement des sciences politiques présenté
+au Congrès de Malines de 1891¸ Gand.
+Vermeersch Arthur, 1900-1901, « Les catholiques et la sociologie », Annales de sociologie, 1, p. 28-55.
+Wils Kaat, 2001, « La sociologie » in Halleux R., Vandersmissen J., Despy-Meyer A.,
+Vanpaemel G. (éds.), Histoire des sciences en Belgique 1815-2000, Tournai, La Renaissance du livre, p. 305-322.
+–, Rasmussen Anne, 2015, « La sociologie en perspective transnationale : Bruxelles,
+1890-1914 » in Ferrette J. (éd.), Anamnèse, vol 10 : Généalogie des sociologues et
+anthropologues belges disparus, Paris, L’Harmattan, p. 13-29.
+
+Les intellectuels catholiques et la sociologie en Belgique, 1880-1914
+Autour des années 1900, le monde catholique belge a essayé de s’approprier
+la sociologie critique. Si l’Institut de Philosophie au sein de l’Université
+Catholique de Louvain a fait preuve d’une certaine ouverture stratégique à
+l’égard de la sociologie, l’École des Sciences Politiques et Sociales de cette même
+université exprimait quant à elle un rejet catégorique. L’intérêt catholique plus
+ou moins spécifique à l’égard de la sociologie internationale contemporaine
+s’est développé principalement en marge de l’université, au sein de la Société
+de Sociologie, où le travail de Durkheim fut, entre autres, perçu comme un
+rempart contre le marxisme. C’est aussi au sein de ce groupe que la sociologie
+des religions allait devenir un objet d’étude privilégié.
+Mots-clés : Intellectuels catholiques, Université catholique de Louvain, positivisme, Belgique.
+
+Catholic intellectuals and sociology in Belgium, 1880-1914
+Around the 1900s, the Belgian Catholic world tried to appropriate critical
+sociology. If the Institute of Philosophy at the Catholic University of Louvain
+showed a certain strategic openness towards sociology, the School of Political
+and Social Sciences of the same university categorically rejected it. Catholic
+interest more or less specific to contemporary international sociology developed
+mainly on the sidelines of the university, within the Society of Sociology, where
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+the work of Durkheim, among others, was perceived as a bulwark against
+Marxism. It was also within this group that the sociology of religions became
+a privileged object of study.
+Keywords : Catholic intellectuals, Catholic University of Louvain, positivism,
+sociology, Belgium.
+
+Los intelectuales católicos y la sociología en Bélgica, 1880- 1914
+Alrededor de los años 1900 el mundo católico belga trató de apropiarse de
+la sociología crítica. Si el Instituto de Filosofía en la Universidad Católica de
+Lovaina dió muestras de cierta apertura estratégica al respecto de la sociología,
+la Escuela de Ciencias Políticas y Sociales de esta misma universidad expresaba
+por su parte un rechazo categórico. El interés católico más o menos específico al respecto de la sociología internacional contemporánea se desarrolló
+principalmente al margen de la universidad, en el marco de la Sociedad de
+Sociología, donde el trabajo de Durkheim fue percibido, entre otros, como
+una barrera contra el marxismo. En el marco de este grupo la sociología de
+las religiones se volvería un objeto de estudio privilegiado.
+Palabras clave: intelectuales católicos, Universidad Católica de Lovaina,
+positivismo, Bélgica.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:13:03 UTC
+All use subject to https://about.jstor.org/terms
+
+

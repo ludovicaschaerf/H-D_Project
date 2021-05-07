@@ -1,0 +1,1490 @@
+Der Kopf der Leidenschaft: Soziologie und Kritik
+Author(s): Ulrich Bröckling
+Source: Leviathan , 2013, Vol. 41, No. 2 (2013), pp. 309-323
+Published by: Nomos Verlagsgesellschaft mbH
+Stable URL: https://www.jstor.org/stable/24205957
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Nomos Verlagsgesellschaft mbH is collaborating with JSTOR to digitize, preserve and extend
+access to Leviathan
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+AUFSATZ
+
+Ulrich Bröckling
+
+Der Kopf der Leidenschaft1
+Soziologie und Kritik
+
+Seit ihren Anfängen im frühen 19. Jahrhundert unterhält die Soziolog
+chermaßen enge wie konfliktreiche Liaison zur Gesellschaftskritik. An
+matischen Versuchen, die Beziehung zwischen beiden zu klären, besteh
+kein Mangel. Ob sich die Soziologie ganz dem Geschäft der Kritik verschr
+
+aber ihr Selbstverständnis als Wissenschaft gerade daran gewinnen soll, sich
+
+Gesellschaftskritik loszusagen, ob sie Kritik als ihren Motor und Modus
+
+oder lediglich als mögliches Objekt ihrer forschenden Neugier begreift - gle
+
+war und ist ihr Verhältnis nie. Die soziologische Reflexion spannt sich au
+Kritikversessenheit und Kritikabstinenz, zwischen Anläufen zu einer
+Soziologie und Entwürfen einer Soziologie der Kritik.
+Die folgenden Ausführungen machen diese Opposition selbst zum Gegen
+Kritik, um auf diese Weise sowohl soziologische Defizite kritischer Ge
+theorie wie auch die Aporien soziologischer Kritikverweigerung zu prob
+ren. Sie stellen zunächst vier Ausprägungen soziologischen Denkens vor
+logie und Kritik auf gegensätzliche Weise zueinander ins Verhältnis se
+Praxis der Kritik selbst ist, wie der daran anschließende Abschnitt zeigt, kei
+homogen, sondern speist sich aus vielfältigen Quellen, ruft unterschiedliche
+auf und folgt disparaten Modellen. Der dritte Abschnitt schließlich lote
+soziologische Reflexion und Gesellschaftskritik in einer Weise aufeinand
+hen wären, die sie weder strikt trennt noch identisch setzt. All das zielt nic
+auf eine (Selbst-)Kritik der Soziologie - nach Soziologie der Kritik und k
+Soziologie ist das die dritte Variante, die beiden Begriffe miteinander zu
+
+1. Modelle soziologischer Reflexion
+
+Ihrem Selbstverständnis nach eine Krisenwissenschaft, deren Entstehun
+Umbrüche kapitalistischer Modernisierung antwortete, war die Soziolo
+Beginn an eng verbunden mit Bewegungen der Sozialreform oder sozial
+tion und deren Kritik an den gesellschaftlichen Zuständen. Selbst die kon
+
+Protagonisten des Fachs sahen sich als unversöhnliche Kritiker einer Gegenw
+ihre stabilisierenden Institutionen und verbindlichen Orientierungen verlore
+
+Früh schon in der Geschichte der Soziologie gab es allerdings auch das B
+
+1 Überarbeitete Fassung meiner Antrittsvorlesung an der Albert-Ludwigs-U
+Freiburg vom 20. Juni 2012. Vorabdruck aus Tasheva 2014.
+Leviathan, 41. Jg., 2/2013, S. 309 - 323
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+310
+
+Ulrich
+
+Bröckling
+
+sie
+als
+strikt
+empirische
+lischen
+Urteilen
+und
+po
+schaftlicher
+Erörterung
+zwar
+noch
+immer
+verbr
+unseres
+Fachs«,
+wetterte
+kategorisch:
+»Eine
+empi
+soll,
+sondern
+nur,
+was
+er
+Soziologie
+war
+es
+demna
+selbstverständlich
+auch
+genau
+wie
+möglich
+zu
+be
+zu
+analysieren,
+sich
+Wer
+Noch
+komplizierter
+wir
+recht
+viele
+Soziologen,
+d
+
+schaftsverständnis als kritisch definieren. Für den kritischen Rationalismus etwa ist
+
+alle (gute) Soziologie kritisch. Sie nimmt, wie Karl R. Popper es ausdrückt, ihren
+Ausgang von der »problem-erzeugenden Beobachtung«, der »Entdeckung eines
+anscheinenden Widerspruchs zwischen unserem vermeintlichen Wissen und den
+vermeintlichen Tatsachen«. Sie stellt den Common Sense in Frage, legt Rechenschaft
+über ihr methodisches Vorgehen ab, reflektiert ihre Beobachtungen theoretisch und
+
+zieht überprüfbare Schlussfolgerungen daraus. Sozialwissenschaftliche Aussagen
+können nur insofern Anspruch auf Wahrheit erheben, so Popper weiter, als sie sich
+permanenter Kritik der scientific community aussetzen: » [D]ie einzige Form der
+Rechtfertigung unseres Wissens ist wieder nur vorläufig: Sie besteht in der Kritik,
+oder genauer darin, daß unsere Lösungsversuche bisher auch unserer scharfsin
+nigsten Kritik standzuhalten scheinen«.' Kritik ist in diesem Verständnis der gene
+relle Operationsmodus wissenschaftlichen Arbeitens, die formale Logik ihr Orga
+non und »organisierter Skeptizismus«4 ihr Ethos und Motor. Das Kompositum
+»kritische Soziologie« wäre demnach ein Pleonasmus, ein weißer Schimmel. Von
+Kritik der gesellschaftlichen Verhältnisse will dieses Programm freilich nichts wis
+sen; die geforderte »kritische Prüfung« bleibt auf wissenschaftliche Aussagen
+beschränkt. Falsifiziert werden Sätze, nicht die soziale Ordnung.
+Im Unterschied dazu geht eine wissenssoziologisch aufgeklärte Gesellschaftstheo
+rie - darunter subsumiere ich so unterschiedliche Zugänge wie Niklas Luhmanns
+Systemtheorie und Luc Boltanskis und Laurent Thévenots pragmatische Soziologie
+der Rechtfertigungsordnungen5 - davon aus, dass die Soziologie zwar Kritik als eine
+soziale Praxis beobachten, dass sie die Voraussetzungen und Wirkungen dieser Pra
+xis, ihre Artikulationsformen, Sprecherpositionen, und Rechtfertigungsordnungen
+beschreiben oder auch ihr Ausbleiben konstatieren kann, dass der Soziologe aber
+selbst nicht in die Rolle des Kritikers schlüpfen kann, will er nicht den Anspruch
+
+2 Weber 1988 [1904], S. 157, 151.
+3 Popper 1972, S. 104 ff.
+
+4 Merton 1972, S. 55.
+5 Boltanski, Thévenot 2007; Boltanski 2010.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+der
+
+Leidenschaft
+
+311
+
+preisgeben, als Wissenschaftler zu
+logische Grundeinsicht, dass die m
+gleichermaßen gestaltungsbedürf
+soziologischer Gesellschaftskritik
+Uberwölbungen und metaphysisch
+mehr, von dem aus die Gesellsch
+bindlichen normativen Maßstab, v
+jede Wertsetzung und moralische
+und daher perspektivisch.
+Für die Soziologie ergibt sich dar
+zweiter Ordnung zu konzentriere
+besser, und erst recht weiß sie ni
+verfügt über ein ausgefeiltes Inst
+schen zu der Überzeugung gelang
+kabel sind, welche sozialen Verhäl
+hervortreiben, auf welche Begrün
+zeitigen. Die Praxis der Gesellscha
+spezifische Weise, in der »die Leu
+
+logen zählen, wenn sie nicht gera
+verhalten - kurzum: Sie erscheint
+licher Gegenstand soziologischer F
+aussetzung noch ihr normativer H
+logie der Kritik, wie es eine Soziol
+es gibt keine kritische Soziologie.
+Kritischer Rationalismus und wis
+rie treffen sich darin, dass sie Ge
+das eine Mal, indem Kritik konseq
+heitsproduktion enggeführt, das an
+
+Wahrheitsproduktion abgesetzt w
+genüber weder als Methode noch
+Aufgabe der Soziologie. Diese soll
+beschreiben, sondern soll sie auch
+Entfremdungsverhältnisse skanda
+sichtbar machen, die diese Verhä
+Widersprüche und Krisenhaftigke
+dafür
+
+bereiten
+
+helfen,
+
+sich
+
+gegen
+
+A
+
+zur Wehr zu setzen und die gesell
+ändern. Während die ersten beide
+matives Verständnis von Soziolog
+
+falls
+
+auf
+
+die
+
+Norm
+
+der
+
+Wertur
+
+Beobachtungen zweiter Ordnung v
+kritischer Soziologie von einer exp
+her. Die Norm, Kritik üben zu so
+6
+
+Vobruba
+
+Leviathan,
+
+2009,
+41.
+
+S.
+
+Jg.,
+
+11
+
+ff.
+
+2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+312
+
+Ulrich
+
+Bröckling
+
+Imperativ,
+alle
+Verhältn
+geknechtetes,
+ein
+verlas
+Formulierung
+aufzuneh
+richtung
+soziologischer
+dann
+»attraktiv
+und
+ger
+sie
+ihre
+Fragestellungen
+tens
+indirekt
+bezieht«.
+D
+»in
+einer
+Analyse
+der
+(s
+penspezifische)
+Verfehle
+der
+sozialen
+Voraussetzu
+scheidenden
+Grund
+für
+kapitalistische
+Regime
+a
+solches
+Kritikprogramm
+die
+kritische
+Soziologie
+räumt
+selbst
+ein,
+es
+sprä
+Werte
+und
+Inhalte
+allen
+mative
+kritische
+Soziolo
+dern
+wäre,
+dass
+das
+geli
+
+lässt.
+
+Die
+Gesellschaftskritik
+d
+war
+den
+Vertretern
+der
+Ahnen
+stets
+ein
+Ärgern
+mokiert,
+welche
+»die
+Au
+dumme
+
+exoterische
+
+Welt
+
+Tauben
+der
+absoluten
+W
+eine
+immanente
+Kritik,
+gegenüber[tritt]«,
+sonde
+entwickelt.10
+Gesellscha
+den
+Bewegungsgesetzen
+versteinerten
+Verhältni
+eigene
+Melodie
+vorsingt
+schen
+oder
+ethischen
+Fun
+nur
+ein
+Abdruck
+jener
+V
+Idealvorstellungen
+eines
+
+immer schon kontaminiert vom realen schlechten. Aus demselben Grund insistierte
+
+auch Max Horkheimer auf dem unbedingten Negativismus kritischer Gesellschafts
+theorie: Dem kritischen Verhalten, schrieb er 1937 in seinem programmatischen
+Essay »Traditionelle und Kritische Theorie«, erscheinen die Missstände »als not
+7 Marx 1961a [1844], S. 385.
+8 Rosa 2009, S. 90, 98; Rosa 2012, S. 7.
+9 Rosa 2012, S. 7.
+
+10 Marx 1961b [1844], S. 344 f.
+11 Marx 1961a [1844], S. 381.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+der
+
+Leidenschaft
+
+313
+
+wendig mit der ganzen Einrichtun
+[das kritische Verhalten, U.B.] aus d
+es doch weder seiner bewußten A
+darauf bezogen, daß etwas besser
+lichen, Zweckmäßigen, Produktiv
+sind ihm vielmehr selbst verdächtig
+Kritisch ist diese Theorie nicht,
+
+auch immer begründeten Ideal mi
+tionsbedingungen des Sozialen zu
+hervorbringen.13 Soziologisch ist
+Antagonismen auf nichts anderes
+Institutionen, technischen Artefa
+Handeln der Menschen. Kritik be
+sondern ergibt sich zwangsläufig
+kritische Soziologie dialektisch se
+Denkens, sondern reflektiert den
+soziologische Analyse des Kapitali
+um sich zu erhalten, seine Verhe
+Züge annehmen muss. Krisen geh
+
+esse
+
+an
+
+der
+
+Beseitigung
+
+des
+
+Kap
+
+bewerkstelligen wäre, lässt sich a
+ten. Weil sie jedoch die gesellschaf
+rückt und deren Entstehung aus d
+erklärt, entzaubert sie den Mytho
+klärung im emphatischen Sinne.15
+Während kritischer Rationalism
+schaftstheorie
+
+postuliert
+
+die
+
+einen
+
+negativistischen
+
+einer
+
+Trennstrich
+
+kritische
+Variante
+
+moralischen
+
+zw
+
+Soziologie
+ihre
+
+notw
+
+Verpflichtun
+
+gegensätzlich die Antworten auf d
+kann, darf, muss oder es immer
+schnittartig gegeneinander kont
+über diese Frage das Wissenschaft
+allerdings die Gesellschaftskritik
+welche Folgen es gegebenenfalls
+wird, das zu beantworten übersch
+gung.
+
+12 Horkheimer 1970 [1937], S. 27.
+
+13 Vgl. Holz 1990.
+14 Vgl. Adorno 1975, S. 18.
+
+15 Vgl. Holz 1990, S. 138.
+Leviathan, 41. Jg., 2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+314
+
+2.
+
+Ulrich
+
+Bröckling
+
+Register
+
+der
+
+Kritik
+
+Allzu
+oft
+jedenfalls
+die
+Selbstautorisierung
+de
+senschaftlichkeit
+erheb
+chen
+alltäglichen
+Kritik
+
+Celikates
+herausgearb
+Urteilskraft«
+und
+ihre
+dem
+Alltagswissen
+der
+der
+anderen
+Seite.16
+D
+Bourdieus,
+auf
+der
+Ebe
+erst
+die
+kritische
+Sozio
+Leute
+die
+gesellschaftli
+Unmut
+ausdrücken
+ode
+und
+bedürfen
+der
+Sozio
+als
+höchste
+Form
+der
+S
+Form
+der
+Kritik.
+Zwar
+Revolutionstechnikers
+mativer
+Letztbegründu
+
+aber
+
+auch
+
+als
+
+advokat
+
+Beschleunigten,
+
+Politikberater
+
+als
+
+pro
+
+kultivi
+
+sens«.17
+Virtuos
+spiele
+sabotieren
+so
+ihren
+eig
+macht
+die
+soziologische
+vor
+allem
+das
+Wissen
+»d
+
+Diejenigen,
+die
+Gesells
+scher
+Expertise
+verpfli
+rundherum
+absprechen
+und
+Kritik
+in
+die
+eine
+o
+schungen
+und
+wechsels
+den
+weder
+negieren
+no
+Zuordnung
+hat
+ihren
+P
+reinigung«
+gesäubert
+o
+Leine
+gelegt.
+Um
+solche
+und
+den
+Blick
+für
+kom
+mag
+es
+sinnvoll
+sein,
+n
+
+auch zwischen verschiedenen Dimensionen kritischer Praxis zu differenzieren.
+
+Unterschieden werden sollen dabei nicht divergierende Modelle, etwa Ideologiekri
+tik, genealogische, welterschließende, konstruktivistische, interpretative oder
+16 Celikates 2009, S. 52 ff.
+
+17 Luhmann 1991, S. 148.
+18 Celikates 2009, S. 39.
+19 Kieserling 2004, S. 11.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+der
+
+Leidenschaft
+
+315
+
+rekonstruktive Kritik,20 sondern d
+Urteilens und der Intervention, die
+sind.
+Da ist zunächst die epistemische Dimension der Kritik mit ihren Leitunterscheidun
+gen wahr - falsch beziehungsweise vernünftig - unvernünftig. Ihre Ursprünge liegen
+
+in der Religionskritik, die sich dann zur Ideologie- und Erkenntniskritik ausweitet.
+Grundlegend ist der aufklärerische Impuls, im Namen der Vernunft und mit den Waf
+fen der Wissenschaft die Mächte des Aberglaubens zu besiegen, ihre Fetische zu ent
+zaubern und den gesellschaftlichen Verblendungszusammenhang aufzudecken. Epis
+temische Kritik strebt nach Wahrheit, indem sie die Unwahrheit bekämpft. Um Licht
+zu bringen, denunziert sie die Dunkelheit.
+Demgegenüber verweist die moralische Dimension von Kritik auf ein juridisches
+Modell. Sie übersetzt den Gegensatz zwischen gut und böse in das Schema Norm
+versus Abweichung. Der Kritiker tritt hier als Richter auf, der das Sein am Sollen
+misst. Er urteilt und verurteilt, klagt Unrecht an und fordert Gerechtigkeit ein.
+Gleich, ob die normativen Referenzen ausgewiesen oder lediglich als implizite Ori
+entierungspunkte mitgeführt werden, das Tribunal der Kritik tritt immer dann in
+Aktion, wenn Anspruch und Wirklichkeit auseinanderklaffen.
+Urteile fällt auch die Kunstkritik, doch ihre Maßstäbe sind ästhetischer Natur.
+Die ästhetische Dimension der Kritik erschöpft sich jedoch nicht darin, Regeln zur
+Unterscheidung von Schönem und Hässlichem aufzustellen und die Werke der
+Kunst danach zu bewerten. Jede Praxis der Kritik ist vielmehr selbst auch eine
+ästhetische Praxis. Sie besitzt ihre eigenen Dramaturgien, Bilderpolitiken und rhe
+torischen Strategien: Das geschliffene Aperçu, die ironische Spitze, satirische Über
+zeichnung oder beißender Spott sind ihr weit mehr als nur äußerliche Stilmittel, sie
+sind ihr Medium und ihre Form. In Karl Kraus findet sie ihren Heros nicht weniger
+als in Karl Marx, und auch der war ein fulminanter Autor.
+
+Dass Kritik sich, viertens, stets gegen etwas richtet, begründet ihren agonalen
+Charakter. Sie unterscheidet nicht nur zwischen wahr und falsch, gut und böse,
+schön und hässlich, sondern auch zwischen Freund und Feind. In ihrem Gegenstand
+erkennt sie den Gegner, den es weniger zu belehren oder zu überzeugen als vielmehr
+zu treffen gilt. Polemik ist daher nicht Entgleisung von Kritik, sondern ihr Glutkern.
+Noch im sachlichsten Argument, im freundschaftlichsten Einwand steckt etwas vom
+
+atemlosen Schlachtgetümmel.
+Fünftens wurzelt Kritik immer auch in einem Affekt und vermag zu affizieren.
+Selbst wenn sie kalt seziert, ist ihr Nein niemals gleichgültig. Die Kritik, heißt es bei
+
+Marx, »ist keine Leidenschaft des Kopfes, sie ist der Kopf der Leidenschaft«.21 Der
+kritische Einspruch bezieht seine Energie aus Idiosynkrasien ebenso wie aus der Lust
+
+an der Zerstörung oder dem Wunsch nach Bloßstellung des Gegners. Ekel, Empö
+rung, Abscheu, die Freude am virtuos gesetzten Treffer und das Triumphgefühl der
+
+Überwältigung treiben ihn an. Ohne ihre affektive Kraft könnte Kritik nicht den
+Funken der Empörung überspringen lassen, aber dieselbe Kraft führt auch dazu,
+20 Vgl. Iser 2011.
+21 Marx 1961 a [1844], S. 380; vgl. Lemke 2011, S. 40.
+Leviathan, 41. Jg., 2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+316
+
+Ulrich
+
+Bröckling
+
+dass dem Kritiker oftma
+den Ideologien an affekt
+Affekte
+
+mobilisieren,
+
+gen
+
+pas tomber amoureux d'u
+man sich nicht verlieben
+Eng damit verbunden is
+Kritiker
+
+sieht
+
+sich
+
+durch
+
+Weltbezug infrage gestel
+erträgt es nicht, auch nu
+rieren. Kritik bedeutet h
+cault hat diese Dimension
+Rede in Verbindung geb
+der Volksversammlung e
+sich damit in Gefahr br
+sprechen, sondern
+Spiel setzt, um sie
+
+bezeugt
+wahr zu
+
+ans Licht geholt, keine
+Widerstand provoziert.
+Schließlich, und das ist
+wirkt, ist Kritik eine tra
+Formulierung,
+
+sie
+
+sei
+
+der
+
+übt, wünscht, dass das K
+korrigiert wird. Dabei m
+
+Kritiker hat im Gegenteil
+einen positiven Gegenentw
+
+bleiben dürfen, wie sie s
+am Status quo festzuhalt
+- exit -, wählt der Kritik
+möglicher Reaktionen au
+verändern - die defizien
+erscheint,26
+
+und
+
+nicht
+
+zul
+
+3. Kritik als Praxis des Dissenses
+
+Weil in den Praktiken der Kritik so unterschiedliche Register im Spiel sind, lässt sich
+
+das Verhältnis von Soziologie und Kritik nicht auf die Alternative strikte Trennung
+oder notwendige Kopplung herunterbrechen. Dass Gesellschaftskritik gleicherma
+ßen auf wahres Wissen, auf moralische Urteile wie auf Welt- und Selbstveränderung
+22 Zitiert nach Holmes 2002.
+
+23 Vgl. Foucault 1996, Foucault 2010; Gehring, Gelhard 2012.
+
+24 Walzer 1993, S. 78.
+25 Hirschman 1974.
+
+26 Vgl. Jaeggi 2009, S. 287 f.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+der
+
+Leidenschaft
+
+317
+
+abzielt, dass sie ästhetisch geform
+frontation sucht und mit dem eig
+
+meindungsversuche wie die Un
+infrage. Weder sind Soziologen in
+grund
+
+ihres
+
+Wissens
+
+dazu
+
+besser
+
+bef
+
+aus wissenschaftlichen Gründen ir
+Gesellschaftskritik fallen nicht z
+sie bleiben unterscheidbar und sin
+konstruktiv!)
+
+wird
+
+ihr
+
+Verhältnis
+
+n
+
+durch die Soziologie oder als Ver
+Standpunkt, sondern als ein Verh
+stehen, wenn Erwartungen enttäu
+kreuzt werden. Sie ereignen sich
+Modelle dafür, wie die Soziologie
+schaftskritik soziologisch zu ver
+gleichermaßen von Kollision wie
+logie und Gesellschaftskritik real
+nen.
+
+Aber realisiert sie sich tatsächlich noch? Ist die Gesellschaftskritik
+
+im doppelten Sinne des Wortes, ermüdet und ausgereizt zugleich
+gie, deren heroische Tage auch schon eine Weile zurückliegen,
+längst immunisiert gegen gesellschaftskritische Herausforderung
+minenten soziologischen Zeitdiagnosen, so stehen wir spätesten
+Ende der kritischen Soziologie«. Diese könne das bürgerliche »Sp
+Krise nicht weiterspielen«, weil sie »die Krisenphänomene nicht
+
+übergehend behandeln, nicht mehr nur auf falsches Bewußtsein ode
+zurückführen kann, sondern sie als strukturelle Effekte der modern
+
+begreifen muß«, schreibt Niklas Luhmann.27 Die kritische Theor
+
+verstorben«,28 schlägt Bruno Latour in dieselbe Kerbe - freilich mit
+
+dung: Allzu lang habe die sozialwissenschaftliche Kritik sich dar
+seits aufzudecken, dass alle Phänomene durch Diskurse und Pra
+
+struiert seien, und andererseits darauf zu verweisen, wie sehr die A
+
+unverfügbare Strukturen determiniert seien. Mit diesem Spiegelspie
+position und fact position behalte die Kritik zwar immer recht, s
+zugleich aber in ein Abseits, wo niemand ihr mehr zuhört: »De
+herrscht absolut, aber er herrscht über eine Wüste«.29
+
+Luc Boltanski und Eve Chiapello wiederum konstatieren eine
+lismuskritik, weil die Transformationen des Kapitalismus seine K
+nur vorläufig, entwaffnet haben.30 In ihrer Untersuchung des nouv
+27 Luhmann 1991, S. 147f.
+28 Latour 2007, S. 59.
+
+29 Ebd., S. 40.
+30 Boltanski, Chiapello 2003.
+Leviathan, 41. Jg., 2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+318
+
+Ulrich
+
+Bröckling
+
+talisme
+unterscheiden
+d
+Sozialkritik
+Ungleichhe
+lerkritik
+vor
+allem
+den
+plinierung
+in
+der
+Fabri
+Pointe
+
+ihrer
+
+Argumentati
+
+seit
+den
+1980er
+Jahren
+und
+ihrer
+Forderungen
+Beziehungen
+zwischen
+d
+auch
+diese,
+zuletzt
+1968
+bereits
+
+früher
+
+gelungen
+
+s
+
+integrieren.
+Das
+Koordin
+ben:
+Begriffe
+wie
+Auton
+zeigten
+heute
+nicht
+meh
+Anforderungsprofil
+
+Ort-
+
+und
+
+jedes
+
+Orientierungsl
+
+in
+
+der
+unbequemen
+Einsic
+aufhalten
+zu
+können
+hof
+Was
+ehedem
+Widerstand
+
+nerator.
+
+Erschwert wird die Lage noch dadurch, dass der Neokapitalismus
+Furor noch einmal radikalisiert, der schon den alten antrieb. Fla
+Ständische und Stehende verdampft, alles Heilige [...] entweiht, un
+[...] endlich gezwungen, ihre Lebensstellung, ihre gegenseitigen B
+nüchternen Augen anzusehen«,32 so postuliert der neue Geist Selbs
+Eigeninitiative usw. und spricht allen Autoritäten, die über die Me
+wollen, ihre Legitimität ab - allen, außer dem Markt. Im Zeichen
+sierten Wettbewerbs wird fortwährende Selbstbefragung zur elem
+Kapitalistische Aufklärung fordert den »Ausgang des Menschen a
+verschuldeten Unproduktivität«33 und setzt dazu auf Kreativität st
+auf Überschreitung statt Regelbefolgung. Nur wer sich den Ritual
+Kritik und Selbstkritik unterzieht, soll dem Imperativ lebenslange
+können. Ein Ausdruck dieser Institutionalisierung und Instrumenta
+tischen Blicks sind die allgegenwärtigen Evaluationen, Monitoring
+Benchmarking-Prozesse. Sie etablieren ein Regime kybernetische
+
+Fremdsteuerung, das in den Algorithmen der elektronischen Netze län
+
+operiert. Kritik ist zur Rückkopplung mutiert, die Anpassungsbed
+
+und ein flexibles Aussteuern ermöglicht. Störpotentiale fungieren als L
+
+kritische Stachel dient als Frühwarnsystem. Permanente Verbesseru
+
+Wende zum Guten.
+
+31 Boltanski, Chiapello 2001, S. 468 f.
+
+32 Marx, Engels 1959 [1848], S. 465.
+33 Masschelein, Simons 2005, S. 84 f.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+Einiges
+
+der
+
+Leidenschaft
+
+spricht
+
+für
+
+eine
+
+319
+
+solche
+
+D
+
+ähnlicher Weise vertreten.34 In
+gemünzte Vorwurf Jacques Ran
+
+schreibt er, kultiviere eine Haltu
+samer Nenner ist die enttäuschte
+Welt zu ändern, der jeder feste P
+immateriell gewordenen Wirklich
+Melancholie
+
+zehrt
+
+von
+
+Machtlosigkeit
+
+zu
+
+reservieren,
+
+einen
+
+der
+
+ihrer
+
+eigenen
+
+verwandeln
+
+un
+
+abgeklärten
+
+B
+
+pretation des Systems ein Elemen
+Form der Kritik macht sich unang
+
+stellt, jeden, aber auch wirklich jed
+seine Kraft zu beziehen. Was auch g
+
+immer
+
+schon
+
+schlägt
+
+so
+
+da
+
+um
+
+in
+
+und
+
+verkündet,
+
+self-fulfilling
+
+d
+
+prop
+
+Rancière schlägt vor, mit dieser
+chen und sich stattdessen den »S
+sen der Verunordnung, welche d
+wissenschaftlicher Klassifizierung
+und destabilisieren, ohne sie durc
+rung
+
+mögen
+
+oder
+
+instrumentalisiert
+
+sich
+
+nicht:
+
+prekär
+
+»Es
+
+auftauchen«.
+
+gibt
+
+Mit
+
+Erscheinungen
+
+sein,
+
+stets
+
+zu
+
+einfach
+
+dem
+
+in
+
+G
+
+werde
+
+Szenen
+
+d
+
+ideologiekr
+
+verdeckten
+
+Wirklich
+
+mit einem soziologischen Realismu
+der Interpretation des Gegebenen
+aufzwingt«.
+
+Dagegen
+
+pocht
+
+Rancière
+
+und einer Analytik des Bruchs: »
+werden und unter einer anderen
+gestaltet werden«. Im Dissens art
+chen noch vor allen konkreten Fo
+Subjekte anerkannt zu werden. »D
+dessen in Frage, was wahrgenomm
+teilung derer, die fähig sind zu e
+gemeinsamen Welt zu verändern.«
+gierten Zugang zur Wahrheit, ih
+schliffen,
+
+len
+
+ihr
+
+mögen
+
+Aussehen
+
+maßlos
+
+34
+
+Vgl.
+
+35
+
+Rancière
+
+Bröckling
+
+36
+
+Ebd.,
+
+S.
+
+Leviathan,
+
+2009,
+
+60
+41.
+
+wenig
+
+oder
+
+2003;
+
+S.
+
+2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Vert
+
+besch
+
+Bröckling
+
+48.
+
+f.
+Jg.,
+
+allzu
+
+2
+
+320
+
+Ulrich
+
+Bröckling
+
+ihre
+Ausgrenzung
+man ihnen vorenthält.
+
+nicht
+
+Das lässt sich als ein philosophischer Aufruf dazu lesen, sowohl die Soziologie der
+Kritik wie auch die kritische Soziologie in eine historisch-politische Soziologie des
+Konflikts, der Unterbrechung, des Außerkraftsetzens zu überführen. Mit der Sozio
+logie der Kritik teilt eine solche Perspektive das Interesse an den tatsächlichen Arti
+kulationen des Einspruchs, mit der kritischen Soziologie die Aufmerksamkeit für
+die immanenten Widersprüche des Sozialen. Ich bin nicht sicher, ob Rancière eine
+solche Lesart unterstützen und die Soziologie nicht pauschal der Polizeiwissenschaft
+zuschlagen würde, errichtet sie doch - wie jede Wissenschaft - ein epistemisches
+Regime, das festlegt, was sichtbar und was mit Anspruch auf Wahrheit sagbar ist.
+Rancières Gegenbegriff zur Polizei ist Politik, verstanden nicht als Administration
+des Gemeinwesens oder als kollektiv bindende Entscheidung, sondern als ein Akt
+der Dislokation: » [S]ie lässt sehen, was keinen Ort hatte, gesehen zu werden, lässt
+eine Rede hören, die nur als Lärm gehört wurde«.37 Politisch ist die Störung der
+Ordnung durch diejenigen, für die in ihr kein Platz vorgesehen ist. Die Soziologie
+hat ihre Aufgabe bisher darin gesehen, die Regeln und Regelmäßigkeiten sozialer
+Phänomene zu identifizieren und ihre Bedingungsfaktoren und Effekte, ihre insti
+tutionellen Rahmungen, Sinnhorizonte, Wissensformationen und Legitimations
+muster zu erklären. Kurzum, sie hat sich der Analyse sozialer Ordnungen verschrie
+
+ben. Wie sie dem Platz einräumen könnte, was ihre eigenen Ordnungsmodelle
+durchkreuzt, wie ihre Erkenntnisse politisch in dem Sinne werden könnten, dass sie
+
+Konflikte nicht nur beobachten, sondern anstoßen, wie sich schließlich eine so ver
+standene Kritik in soziologische Forschungspraxis übersetzen ließe, das zu erkunden
+
+steht ihr noch bevor.
+Literatur
+
+Adorno, Theodor W. 1975. Negative Dialektik. Frankfurt a. M.: Suhrkamp.
+Boltanski, Luc 2010. Soziologie und Sozialkritik. Frankfurter Adorno-Vorlesungen 2008. Berlin:
+Suhrkamp.
+Boltanski, Luc; Chiapello, Eve 2001. »Die Rolle der Kritik in der Dynamik des Kapitalismus und
+der normative Wandel«, in Berliner Journal für Soziologie 11, 4, S. 459-477.
+Boltanski, Luc; Chiapello, Eve 2003. Der neue Geist des Kapitalismus. Konstanz: UVK.
+Boltanski, Luc; Thévenot, Laurent 2007. Über die Rechtfertigung. Eine Soziologie der kritischen
+Urteilskraft. Hamburg: Hamburger Edition.
+Bröckling, Ulrich 2003. »Der anarchistische Manager. Fluchtlinien der Kritik«, in Menschenre
+gierungskünste. Anwendungen poststrukturalistischer Analyse auf Management und Orga
+nisation, hrsg. v. Weiskopf, Richard, S. 319-333. Wiesbaden: Westdeutscher Verlag.
+Bröckling, Ulrich 2006. »Kritik oder die Umkehrung des Genitivs. Eine Bricolage«, in Mittelweg
+36 15, 4, S. 93-100.
+Bröckling, Ulrich 2010. »Anders anders sein. Jenseits des kapitalistischen Realismus«, in Kapi
+talistischer Realismus. Von der Kunstaktion zur Gesellschaftskritik, hrsg. v. Neckel, Sighard,
+
+S. 281-301. Frankfurt a. M.: Campus.
+Celikates, Robin 2009. Kritik als soziale Praxis. Gesellschaftliche Selbstverständigung und kri
+tische Theorie. Frankfurt a. M.: Campus.
+
+37 Rancière 2002, S. 41.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+Foucault,
+Merve.
+
+der
+
+Leidenschaft
+
+Michel
+
+1996.
+
+321
+
+Diskurs
+
+und
+
+Wa
+
+Foucault, Michel 2010. Der Mut zur Wahrheit. Die Regierung des Selbst und der anderen II.
+Vorlesungen am Collège de Prance 1983/84. Berlin: Suhrkamp.
+Gehring, Petra; Gelhard, Andreas. Hrsg. 2012. Parrhesia. Foucault und der Mut zur Wahrheit.
+Zürich: diaphanes.
+Hirschman, Albert O. 1974. Abwanderung und Widerspruch. Reaktionen auf Leistungsabfall bei
+Unternehmungen, Organisationen und Staaten. Tübingen: Mohr Siebeck.
+Holmes, Brian 2002. Der flexible Charakter. Für eine neue Kulturkritik, http://eipcp.net/trans
+versal/1106/holmes/de (Zugriff vom 15.06.2012).
+Holz, Klaus 1990. »Kritik nach der >Moderne<. Programmatischer Beitrag zu einer Soziologie der
+Kritik«, in Soziologie zwischen Moderne und Postmoderne. Untersuchungen zu Subjekt,
+Erkenntnis und Moral, hrsg. v. Holz, Klaus, S. 135-155. Gießen: Focus.
+Horkheimer, Max 1970 [1937], »Traditionelle und kritische Theorie«, in Max Horkheimer:
+Traditionelle und kritische Theorie. Vier Aufsätze, S. 12-56. Frankfurt a. M.: Fischer.
+Iser, Mattias 2011. »Gesellschaftskritik«, in Politische Theorie. 25 umkämpfte Begriffe zur Ein
+führung. 2., aktualisierte und erweiterte Auflage, hrsg. v. Göhler, Gerhard; Iser, Mattias;
+Kerner, Ina, S. 142-157. Wiesbaden: VS Verlag für Sozialwissenschaften.
+
+Jaeggi, Rahel 2009. »Was ist Ideologiekritik?«, in Was ist Kritik?, hrsg. v. Jaeggi, Rahel; Wesche
+Thilo, S. 266-295. Frankfurt a. M.: Suhrkamp.
+
+Kieserling, André 2004. Selbstbeschreibung und Fremdbeschreibung. Beiträge zur Soziologie
+soziologischen Wissens. Frankfurt a. M.: Suhrkamp.
+Latour, Bruno 2007. Elend der Kritik. Vom Krieg um Fakten zu Dingen von Belang. Zürich:
+diaphanes.
+Lemke, Thomas 2011. »Critique and experience in Foucault«, in Theory, Culture cê Society 28,4,
+S. 26-48.
+
+Luhmann, Niklas 1991. »Am Ende der kritischen Soziologie«, in Zeitschrift für Soziologie 20, 2,
+S. 147-152.
+
+Marx, Karl 1961 a [1844]. »Zur Kritik der Hegeischen Rechtsphilosophie. Einleitung«, in Marx
+Engels Werke, Bd. 1, S. 378-391. Berlin: Dietz.
+
+Marx, Karl 1961 b [1844], »Briefe aus den >Deutsch-Französischen Jahrbüchern<«, in Mar
+Engels Werke, Bd. 1, S. 337-346. Berlin: Dietz.
+
+Marx, Karl; Engels, Friedrich 1959 [1848], Manifest der kommunistischen Partei, in Marx Enge
+Werke, Bd. 4, S. 459-493. Berlin 1959: Dietz.
+Masschelein, Jan; Simons, Maarten 2005. Globale Immunität oder Eine kleine Kartographie de
+europäischen Bildungsraums. Zürich: diaphanes.
+Merton, Robert K. 1972. »Wissenschaft und demokratische Sozialstruktur«, in Wissenschaf
+soziologie l. Wissenschaftliche Entwicklung als sozialer Prozeß, hrsg. v. Weingart, Peter,
+S. 45-59. Frankfurt a. M.: Suhrkamp.
+
+Popper, Karl R. 1972. »Die Logik der Sozialwissenschaften«, in Theodor W. Adorno et ai: De
+Positivismusstreit in der deutschen Soziologie, S. 103-124. Neuwied: Luchterhand.
+Rancière, Jacques 2002. Das Unternehmen. Politik und Philosophie. Frankfurt a. M.: Suhr
+kamp.
+Rancière, Jacques 2009. »Die unglücklichen Abenteuer des kritischen Denkens«, in Jacques
+Rancière: Der emanzipierte Zuschauer, S. 35-62. Wien: Passagen.
+Rosa, Hartmut 2009. »Kapitalismus als Dynamisierungsspirale - Soziologie als Gesellschafts
+kritik«, in Klaus Dörre et al.: Soziologie - Kapitalismus - Kritik. Eine Debatte, S. 87-125.
+Frankfurt a. M.: Suhrkamp.
+Rosa Hartmut 2012. Weltbeziehungen im Zeitalter der Beschleunigung. Berlin: Suhrkamp.
+Tasheva, Gallina. Hrsg. 2014. Kritik in Zeiten der Kontingenz. Weilerswist: Velbrück Wissen
+schaft (in Vorbereitung).
+
+Vobruba, Georg 2009. Die Gesellschaft der Leute. Kritik und Gestaltung der sozialen Verhält
+nisse. Wiesbaden: VS Verlag für Sozialwissenschaften.
+Walzer, Michael 1993. Kritik und Einmischung. Drei Wege der Gesellschaftskritik. Frankfurt a.
+M.: Fischer.
+
+Leviathan, 41. Jg., 2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+322
+
+Ulrich
+
+Bröckling
+
+Weber,
+Max
+1988
+[1904].
+Erkenntnis,
+in
+Max
+Web
+S.
+146-214.
+Tübingen:
+Mo
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+Der
+
+Kopf
+
+der
+
+Leidenschaft
+
+323
+
+Zusammenfassung: Im Beitrag werde
+ob die Soziologie kritisch sein kann, d
+
+von Positionen, die ein Ende oder di
+wird für ein Verständnis von Kritik
+Stichworte:
+
+The
+
+head
+
+Gesellschaftskritik,
+
+of
+
+passion.
+
+kriti
+
+Sociology
+
+an
+
+Summary: The essay discusses differ
+ogy can, should be, must be, or if it
+social criticism is exhausted and has
+of critique as a practice of dissent.
+Keywords:
+
+social
+
+criticism,
+
+Autor
+
+Prof. Dr. Ulrich Bröckling
+Albert-Ludwigs-Universität Freiburg
+Institut für Soziologie
+Rempartstr. 15
+79098 Freiburg
+ulrich.broeckling@soziologie.uni-freiburg.de
+
+Leviathan, 41. Jg., 2/2013
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:14:26 UTC
+All use subject to https://about.jstor.org/terms
+
+critical
+
+th
+
+

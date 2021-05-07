@@ -1,0 +1,1803 @@
+Une vie posthume Maurice Halbwachs et la sociologie française (1945-2015)
+Author(s): Thomas Hirsch
+Source: Revue française de sociologie , JANVIER / MARS 2016, Vol. 57, No. 1 (JANVIER
+/ MARS 2016), pp. 71-96
+Published by: Sciences Po University Press on behalf of the Association Revue Française
+de Sociologie
+Stable URL: https://www.jstor.org/stable/24886724
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+and Sciences Po University Press are collaborating with JSTOR to digitize, preserve and extend
+access to Revue française de sociologie
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+<
+Une vie posthume
+Maurice Halbwachs et la sociologie française
+(1945-2015)
+
+£r:
+
+<c
+
+Thomas Hirsch
+
+« Les morts ne deviennent, quels qu'aient été leurs mérites,
+de véritables héros que par la grâce de la mythologie. »
+Henri Hubert (1918, p. xxxvi-xxxvn).
+
+Résumé. Tenu par ses contemporains pour un disciple à la fois convaincu et conqué
+rant d'Émile Durkheim, le souvenir de Maurice Halbwachs a connu depuis sa mort trois
+périodes nettement distinctes, épousant le rythme de son actualité éditoriale : d'abord,
+
+de 1945 à 1955, une tentative de sauvetage qui, selon des modalités diverses, tente
+de le distinguer de l'« école sociologique française » pour mieux l'acclimater aux orien
+tations nouvelles d'une sociologie en train de se réinventer ; ensuite, entre 1964 et 1976,
+un partage entre reconduction des lectures de l'après-guerre et réinscription historique
+dans le sillage d'É. Durkheim ; enfin, depuis le tournant des années 1990, et à l'aune
+de l'engouement pour la notion de mémoire collective, une nouvelle logique de distinc
+
+tion tentant de justifier l'exceptionnalité de ses recherches. La vie posthume de
+
+M. Halbwachs retracée ici permet autant d'interroger les schèmes de lecture qui infor
+ment le regard porté sur son œuvre que de questionner les contraintes qui pèsent sur
+l'écriture de sa propre histoire par la sociologie française.
+Mots-clés. Histoire de la sociologie - Sociologie de la réception - Mémoire
+COLLECTIVE - MAURICE HALBWACHS - ÉmILE DuRKHEIM
+
+« Durkheimien de stricte obédience », fidèle d'entre les fidèles, non sans « extré
+misme dans l'utilisation de la morphologie sociale » (Craig, 1979, p. 279 ; Besnard,
+1979, p. 6 ; Maître, 1966, p. 59), ou penseur « original », ayant « ouvert les portes »
+de la sociologie française pour développer une approche plus « empirique », plus
+« compréhensive », voire même véritablement « phénoménologique » (Ansart, 2004,
+p. 23 ; Stoetzel, 1957 ; Alexandre, 1949, p. 6) ? L'alternative, qui traduit les deux
+pôles les plus opposés de l'interprétation de l'œuvre de Maurice Halbwachs, est
+d'autant plus marquante qu'elle porte pour l'essentiel sur les mêmes textes. Elle est
+cependant loin d'épuiser la palette des appréciations, des étiquettes apposées sur
+l'auteur des Cadres sociaux de la mémoire depuis sa mort en 1945 à Buchenwald.
+« Père moderne des études sur la mémoire » (Hartog, 2013, p. 127), M. Halbwachs
+est en effet l'objet, depuis vingt ans, à la faveur de l'engouement scientifique, politique
+
+Cette recherche, initiée par Christian Topalov, a bénéficié de ses remarques et de ses encoura
+gements. Felipe Brandi, François Hartog, Bertrand Hirsch, Vanessa Jérôme, Yann Potin et Tiphaine
+Samoyault ont bien voulu en lire des versions préparatoires, qu'il me soit permis de les en remercier.
+
+Revue française de sociologie, 57-1,2016,71 -96
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+et médiatique pour la notion de mémoire collective, d'un investissement grandissant,
+dont témoigne le nombre de rééditions, colloques, livres et articles qui lui sont consa
+crés. De là une multiplicité de lectures, prenant appui sur des traditions interprétatives
+
+divergentes développées dès le lendemain de sa disparition : cet écheveau, déployé
+sur plusieurs dizaines de textes, peut-il être démêlé ?
+
+Les écrits de sciences humaines et sociales, pour peu que l'on souhaite les envi
+sager de manière historique, paraissent enserrés dans un réseau de contraintes inter
+prétatives plus fort et plus précis encore que celui des textes littéraires. D'abord, et
+il n'est guère utile de s'y arrêter, parce qu'il s'agit de textes discursifs : leur auteur
+y soutient explicitement, de manière argumentée, un ensemble de thèses. Ensuite,
+parce que, sans postuler l'unité de l'œuvre d'un auteur en majesté, les différents écrits
+d'un sociologue, d'un historien, d'un philosophe, d'un ethnologue ou d'un psycho
+logue pèsent néanmoins les uns sur les autres, et invitent à tout le moins à partir du
+postulat (réfutable) d'une relative cohérence. S'y ajoutent, outre la matérialité du
+texte (revues, collections, systèmes de références), les traces archivistiques (corres
+pondances, notes de lecture, manuscrits) susceptibles de renseigner à différents titres
+la manière dont les auteurs ont conduit et envisagé leurs travaux. Enfin, la réception
+des écrits, au sens large, qui recouvre à la fois les comptes rendus directs du ou des
+texte(s) considéré(s), mais aussi la reconstitution des espaces de discussion, des pro
+blématiques propres à l'époque, permet de saisir le texte comme une intervention
+
+intellectuelle articulée à des enjeux perçus comme tels par l'auteur et ses
+
+contemporains.
+Ces différents éléments, mis bout à bout, ne peuvent en aucun cas permettre l'éta
+blissement d'une lecture se donnant pour vraie - le deuil de cette transparence du
+texte est consommé. Ils permettent en revanche le développement d'une interprétation
+s'approchant de ce qui était la vérité des acteurs, et, partant, d'objectiver les diverses
+
+façons de lire qui se sont ensuite succédé dans le temps. Une telle histoire de la
+réception d'un auteur, par une analyse avant tout qualitative, s'appuyant néanmoins
+sur des éléments quantitatifs, compose ce que Lucien Febvre (jamais avare de for
+mule) proposait d'appeler une « vie posthume » : cette autre vie à laquelle certains
+hommes (notamment des savants) peuvent accéder après leur mort (Febvre, 1942,
+p. 105)'.
+La démarche, peut-être convient-il de l'indiquer d'emblée, ne s'apparente en rien
+à une opération de police du discours scientifique sur M. Halbwachs, entreprise qui
+serait aussi inutile qu'illusoire. La démarche historienne n'est qu'un des modes de
+rapport au passé observable dans les sciences de l'homme ; et elle peut d'autant moins
+se targuer d'une quelconque précellence que les usages « braconniers » (Certeau,
+1980), parfois « prédateurs », des écrits du passé sont un ressort évident de l'inno
+vation scientifique. Autrement dit, les écarts constatés entre une œuvre telle qu'elle
+peut apparaître replacée dans un temps historique et ses multiples usages postérieurs
+sont des écarts productifs, et sans doute, à certains égards, nécessaires : « c'est ainsi
+que changent les croyances qui rendent possibles nos sciences, c'est ainsi que se
+renouvellent les outils cognitifs dont elles ont besoin », relève Christian Topalov
+(2004, p. 156).
+
+1. Dans le cadre de cet article ne peut être approché que ce qui constitue la colonne vertébrale
+de ce parcours posthume : la relation entretenue par la sociologie française à M. Halbwachs. La
+démarche pourrait être complétée par un élargissement aux sciences de l'homme dans leur ensemble,
+et par une ouverture à un espace international.
+
+72, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Il n'en demeure pas moins qu'une analyse de la trajectoire posthume, ici d'un
+auteur, mais une démarche analogue a été entreprise pour un singulier collectif (la
+notion d'« école de Chicago ») et pourrait l'être pour un ouvrage ou un concept
+notamment, peut représenter un gain heuristique à double titre. D'une part, dans la
+mesure où notre perception spontanée d'un auteur du passé se constitue non par un
+rapport immédiat et direct aux textes, mais (surtout ?) par l'ensemble de ses évoca
+tions écrites et orales tout au long de notre socialisation intellectuelle2, la compré
+hension des modes de transformation d'une œuvre - ou, en d'autres termes, l'analyse
+des « resémentisations » successives d'un même corpus3 - peut contribuer à la libérer,
+au moins en partie, d'un ensemble de schèmes de lecture qui informent le regard
+porté sur elle, et ainsi la rendre disponible pour d'autres usages, historiens ou non.
+D'autre part, puisque la mobilisation et la caractérisation théorique de personnages,
+dont il est considéré qu'ils ont contribué à l'édification de la discipline, sont une des
+modalités majeures de l'écriture ou de la fabrication du passé par les sciences de
+l'homme, la mise en lumière des logiques à l'œuvre dans ces jeux d'interprétation
+par lesquels textes et figures du passé se transforment au fil du temps est un exercice
+de réflexivité susceptible d'éclairer les enjeux de cette pratique savante des plus
+usuelles mais peu problématisée. Les portraits successifs de M. Halbwachs permettent
+ainsi d'observer la manière et les principes selon lesquels la sociologie française
+produit du passé.
+La vie posthume de M. Halbwachs se prête d'autant mieux à ce type d'enquête
+qu'elle se divise nettement en trois périodes - les phases de réédition de ses ouvrages,
+qui occasionnent toute une littérature secondaire (préfaces, articles, comptes rendus),
+se distribuent nettement en trois séquences : 1945-1955, 1964-1976 et de 1994 à nos
+jours4 -, et que, par contraste avec l'éclectisme de sa postérité, il se dégage un portrait
+cohérent de sa principale période d'activité, l'entre-deux-guerres (en particulier pour
+
+ce qui concerne sa sociologie de la mémoire et du suicide, centre de gravité de son
+parcours posthume).
+Pour ses contemporains, en effet, M. Halbwachs est sans conteste l'un des « repré
+sentants les plus qualifiés de l'école sociologique française » (Bloch, 1929, p. 435),
+un savant consciencieux, fidèle aux directives de Durkheim : « Avant tout, il essaie
+de travailler "scientifiquement" » relevait Daniel Essertier, même si « ce n'est pas un
+aigle » confiait Henri Hubert à Albert Thomas (Essertier, 1930, p. 160 ; Lettre
+d'H. Hubert à A. Thomas du 19 avril 1923, an, fonds A. Thomas, 94ap381). Si l'on
+saluait la variété de ses domaines d'expertise et son inventivité dans la manière de
+saisir sociologiquement des objets, sa tendance à verser dans la « métaphysique socio
+logique », à radicaliser « l'impérialisme sociologique » en direction de la psychologie,
+au point de menacer l'existence même de cette dernière du fait de son « sociologisme
+extrémiste », était, elle, régulièrement décriée par ceux-là mêmes qui étaient partisans
+
+2. « La transmission d'une œuvre ne se fait
+
+chronologie qu'elles dessinent n'est donc
+
+pas (illusion intellectualiste) dans le silence des
+qu'indicative. Le fait est sensible en particulier
+cabinets de lecture, mais le plus souvent dans
+pour la troisième période : les publications des
+la rumeur, par la circulation des impressions
+textes de M. Halbwachs sont, à partir de 1994,
+vagues, et à travers le travail subliminal de répéle produit de l'intérêt grandissant pour le socio
+tition de mots-clés », note en ce sens Louis Pinto
+logue qui se développe tout au long des années
+(2014, p. 133).
+1980 et au début des années 1990, à l'étranger
+3. Pour un usage historien de cette notion lin
+et en France, notamment de la part d'auteurs
+guistique, voir Vincent Azoulay (2014).
+(Marcel Roncayolo, Bernard Lepetit) qui n'ont
+4. Il va de soi que ces rééditions supposent
+cependant pas dédié de textes spécifiques à
+M. Halbwachs.
+un travail de mobilisation en amont et que la
+
+Revue française de sociologie, 57-1,2016,73
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+d'une approche expérimentale de l'homme (Piéron, 1925, p. 536 ; Kaploun, 1923 ;
+Blondel, 1926 ; Luquet, 1929 ; Piéron, 1930) - les autres, à l'instar d'Henri Bergson
+par exemple, se contentant d'opposer à ses recherches une fin de non-recevoir.
+Cette image n'est du reste pas sans trouver écho dans les quelques éléments d'auto
+portrait que M. Halbwachs nous a légués : ne se disait-il pas, en matière de rapport
+entre sociologie et psychologie « plus Durkheimien que Durkheim » (Lettre de
+M. Halbwachs à M. Mauss du 27 février 1928 : Collège de France, fonds M. Mauss,
+mas 5-70) ? N'a-t-il pas défendu pied à pied, jusque dans son cours de Psychologie
+collective, donné en Sorbonne à la fin des années 1930 et au début des années 1940,
+les prérogatives de l'approche sociologique sur les autres sciences de l'homme, au
+point de brocarder Charles Blondel, reconnu unanimement depuis sa thèse comme le
+plus sociologue des psychologues, comme un « psychologue de la pensée indivi
+duelle » au même titre qu'H. Bergson (Halbwachs, [1938] 2015)5 ? Ce bref tableau,
+qui gagnerait évidemment à être précisé, constitue toutefois une base provisoire
+
+à partir de laquelle observer les trajectoires de la mémoire disciplinaire de
+
+M. Halbwachs.
+
+Sauver Halbwachs : réinventions (1945-1955)
+Mort à Buchenwald en victime de la « barbarie nazie », M. Halbwachs est à l'hon
+neur au lendemain de la guerre. Rythmées par la publication d'inédits, notamment
+dans les principales revues auxquelles il avait contribué de son vivant (Halbwachs,
+1946a, 1946b, 1947a, 1947b, 1949, 1950), les dix années qui suivent sa disparition
+
+donnent tout de suite lieu à une transformation radicale de la manière de caractériser
+son œuvre.
+
+Cette rupture est particulièrement nette sous la plume d'Henri Piér
+
+qui n'avait de cesse de déplorer, avant-guerre, le dogmatisme de
+connaissait bien6, et qui soudain salue un savant qui « n'accepta pas l
+qui éliminait des faits sociaux toute considération psychologique ».
+
+situation intellectuelle essentiellement originale », il aurait été sur le p
+
+enfin, « dans ses cours au Collège de France, la signification de son
+
+constitution d'une véritable psychologie sociale» (Piéron, 1945
+(1945) et René Zazzo (1945), dont il avait guidé les études, ain
+Canguilhem (1947) opèrent tous ce même déplacement, centré sur
+
+psychologie et sociologie, en présentant M. Halbwachs comme
+d'É. Durkheim et d'H. Bergson dont l'ouverture d'esprit se situer
+tout « dogmatisme sociologique ».
+
+un «ami d'enfance»
+(Halbwachs, 1999. p. 191).
+5. Sur la psychologie « sociologique
+» de
+C. Blondel, voir notamment : C. Blondel
+Directeur (1924a,
+de L'Année psychologique, H. Piéron y
+1924b, 1928); D. Essertier (1929,rendait
+p. 139-149;
+compte systématiquement des écrits du
+1930, p. 321-335) ; Paul Courbon sociologue.
+(1939). Son compte rendu des Cadres sociaux
+de la et
+mémoire
+illustre sa lecture des travaux de
+6. Leurs pères, Gustave Halbwachs
+Nicolas
+M. Halbwachs,
+partagée entre reconnaissance de
+Dominique Piéron, condisciples à l'École
+normale
+supérieure, étaient de proches amis,
+l'apportde
+sociologique
+sorte et dénonciation de l'ambi
+tion excessive
+de la sociologie dont il se fait un
+que les familles se sont beaucoup
+côtoyées.
+M. Halbwachs considère ainsi H. Piéron comme
+continuateur trop zélé (Piéron, 1925).
+
+74, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Ce geste partagé de désengagement de la sociologie durkheimienne et des contro
+verses de l'entre-deux-guerres, pour célébrer de manière œcuménique un savant tra
+giquement disparu, est accentué et précisé ensuite dans trois directions différentes.
+C'est d'abord Georges Friedmann (1902-1977), figure-clé de la sociologie de l'après
+guerre, promoteur d'une sociologie du travail inspirée à la fois du marxisme dans ses
+attendus théoriques et de la sociologie américaine pour ses méthodes de travail, qui
+célèbre l'« originalité », le « sens du concret » d'une « pensée compréhensive, indé
+pendante de tout système » avant de noter sa convergence, « dans certaines de ses
+lignes directrices », avec la pensée marxiste (Friedmann, 1946, p. 48, p. 51, p. 54)7.
+C'est ensuite Jeanne Alexandre (1890-1980), sœur du défunt et philosophe, qui, à
+l'occasion de la publication de « Mémoire en société » dans L'Année sociologique en
+1949, le démarque du dogmatisme d'E. Durkheim et souligne son affinité avec la
+pensée phénoménologique (Alexandre, 1949)8. C'est enfin Jean Stoetzel (1910-1987),
+
+autre figure de proue de la sociologie dans l'après-guerre et ancien élève de
+M. Halbwachs, qui, tout en condamnant durement la sociologie d'inspiration durk
+heimienne dans son ensemble9, s'attache à présenter son ancien professeur comme le
+premier sociologue « empirique » - terme-clé de la psychologie sociale qu'il promeut
+(Stoetzel, 1946, p. 81 ; 1957)10.
+
+Tracés par des auteurs qui l'ont côtoyé de son vivant, ces trois portraits de
+M. Halbwachs, quoique divergents dans leurs interprétations, sont cohérents dans leur
+
+principe : il s'agit à chaque fois, tout en faisant le procès d'É. Durkheim et de son
+« école », de distinguer M. Halbwachs en adaptant les contours de son œuvre aux
+orientations théoriques de ceux qui en brossent le portrait. L'utilisation de l'expression
+« psychologie sociale » est l'un des symptômes du processus de mise au présent qui
+traverse l'ensemble de ces textes : de psychologie sociale, il n'est jamais question
+chez M. Halbwachs, qui préfère l'expression « psychologie collective » ; mais c'est
+bien sous ce label que s'instaure, en revanche, après la guerre, l'un des courants
+majeurs de la sociologie française.
+Expression du discrédit de la sociologie durkheimienne en germe dès les années
+1930, de la volonté de refondation d'une discipline en voie d'essoufflement avant
+1939, très faiblement institutionnalisée et durement éprouvée par la guerre (Heilbron,
+
+1985), ces réinventions de M. Halbwachs via des gestes d'actualisation témoignent
+en même temps du besoin ressenti d'ancrer les nouvelles perspectives théoriques dans
+le temps. Mobiliser Halbwachs, c'est alors leur façonner, sinon un ancêtre, du moins
+une figure intermédiaire établissant un lien avec une sociologie certes rejetée, mais
+qui a néanmoins incarné toute la légitimité de la discipline sur une scène intellectuelle
+
+7. Cette caractérisation est réitérée dans
+
+lectuelle de la seconde, voir notamment Mikel
+
+Dufrenne (1946) ; Jules Monnerot (1946) ; Jean
+G. Friedmann (1948, p. 161-162). Un même rappro
+Paul Sartre (1947) ; Armand Cuvillier (1953).
+chement avec la sociologie d'inspiration marxiste
+
+est opéré par G. Canguilhem (1947, p. 237) et
+9. « L'esprit de la sociologie contempo
+R. Zazzo (1960, p. 364). Certains proches
+de », conférence prononcée à Bordeaux en
+raine
+
+M. Halbwachs sont eux-mêmes membres du Parti
+
+au sortir de la guerre. Voir notamment H. Mendras
+
+1946, est particulièrement nette sur ce point, et
+M. Halbwachs paraît bien concerné au même titre
+
+(1995, p. 58) ; et la lettre de Pierre Halbwachs à que les autres durkheimiens. Voir J. Stoetzel
+Ignace Meyerson du 18 juin 1945 (an, fonds (1991, p. 444, p. 448, p. 451, p. 454). Au sujet
+I. Meyerson, 521ap53). Sur G. Friedmann, voir : de J. Stoetzel, voir A. Girard (1987) ; Loïc
+Pierre Grémion et Françoise Piotet (2004), Lucie Blondiaux (1990,1991) ; Guillaume Stankiewicz
+(2008).
+Tanguy (2011, p. 52 sq.).
+8. Sur les rapports entre sociologie et phéno
+10. Ce cadre de lecture est repris ensuite dans
+ménologie en cette période de dominance intel J. Stoetzel (1960, p. 5).
+
+Revue française de sociologie, 57-1,2016,75
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+où elle peine désormais à trouver place". Or, dans ce moment d'éclipsé de la socio
+logie durkheimienne et de redéfinition de son héritage - marqué notamment par
+l'invention d'un Marcel Mauss « père fondateur de l'ethnologie », si ce n'est « pré
+curseur» de l'anthropologie structurale, ou la construction des Carnets de Lucien
+Lévy-Bruhl en abjuration de ses thèses sur la mentalité primitive (voir Mauss, 1947,
+1950 ; Lévi-Strauss, 1950 ; Lévy-Bruhl, 194912) -, M. Halbwachs est en définitive le
+seul membre de « l'école durkheimienne »13 à présenter une continuité au moins thé
+matique avec les sociologies d'après 1945. Il est le seul, alors que la discipline se
+redéfinit progressivement comme science des sociétés industrielles contemporaines,
+à échapper au reproche unanime fait à l'« école » d'E. Durkheim : sa trop grande
+concentration sur les sociétés du passé, voire sur les seules sociétés « primitives »14.
+L'investissement de G. Friedmann et de J. Stoetzel est toutefois très relatif en cette
+
+période où il s'agit surtout de constituer une discipline susceptible d'éclairer la moder
+nisation du pays. Personne ne prend réellement à bras le corps le destin posthume de
+M. Halbwachs. Or, au point exact où convergent les portraits, à savoir la question de
+la « psychologie sociale » et le dépassement, par M. Halbwachs, de la supposée dicho
+tomie durkheimienne entre individu et société, des lectures rigoureusement inverses,
+héritées de l'entre-deux-guerres, sont perpétuées par Georges Gurvitch (1894-1965),
+
+successeur de M. Halbwachs à Strasbourg en 1935, et figure dorénavant dominante
+de la sociologie depuis son poste de professeur en Sorbonne, par Raymond Polin
+(1910-2001), ancien étudiant de M. Halbwachs, membre avant-guerre du Centre de
+documentation sociale de Célestin Bouglé, ou encore par Henri Wallon (1879-1962),
+psychologue éminent et pionnier de l'inspiration marxiste dans les sciences de
+l'homme. Tous trois soulignent en effet tant la continuité entre É. Durkheim et
+M. Halbwachs dans la façon d'approcher et de théoriser l'individu par la société que
+
+la nécessité de dépasser ce type de démarche (Gurvitch, [1950] 1963, p. 55,
+p. 367-383 ; Polin. 1946, p. 119 ; Wallon, 1947).
+D'un mot, en dépit de la présence fantomatique de M. Halbwachs au sein de ce
+qui est alors la principale institution de la sociologie française, le Centre d'études
+sociologiques (ces), créé en 1946, par le biais d'une partie de sa bibliothèque, consti
+tutive du fonds documentaire du centre (Lévy-Bruhl, 1946), et par celui de son épouse,
+
+Yvonne Halbwachs, qui en est la secrétaire générale, le « sauvetage » est un échec.
+A défaut d'étude systématique, deux indices bibliométriques en témoignent de
+manière significative. Il ressort en effet de l'étude par Patricia Vannier (2000, p. 135)
+des références invoquées dans les articles des chercheurs membres du ces que
+M. Halbwachs ne fait pas partie des principaux auteurs cités ; et le relevé se voulant
+
+systématique des mentions de M. Halbwachs opéré par Walter Gierl dans les
+
+11. Sur la sociologie française de l'après
+guerre, voir notamment Alain Drouard (1982) ;
+Jean-Michel Chapoulie (1991); Johan Heilbron
+(1991) ; Francis Farrugia (2000) ; Olivier Martin
+et Patricia Vannier (2002) ; Alain Chenu (2002) ;
+Jean-Christophe Marcel (2004a).
+12. Sur le dernier point, je me permets de
+renvoyer à T. Hirsch (2013).
+
+13. L'expression se substitue alors à celle
+
+d'« école sociologique française » employée
+depuis les premières années du siècle.
+
+14. De ce point de vue le nouveau bap
+
+le titre « Analyse des mobiles dominants qui
+orientent l'activité des individus dans la vie
+
+sociale » est représentatif. Esquisse d'une psy
+
+chologie des classes sociales : ce nouveau
+
+titre, sans doute dû à A. Cuvillier, réussit en
+effet le tour de force de conjuguer deux des
+axes de recherche majeurs de l'après-guerre (la
+
+sociologie du travail et des classes sociales
+engagées sous la houlette de G. Friedmann
+d'un côté, la psychologie sociale, qui réunit
+des jeunes chercheurs sous la direction de
+J. Stoetzel de l'autre).
+
+tême, en 1955, de son texte paru en 1938 sous
+
+76, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+publications anglaises, françaises et allemandes fait apparaître que, hors guerres mon
+diales, l'après 1945 est la période durant laquelle on se référerait le moins à l'œuvre
+du sociologue15. Sitôt formulée, l'idée d'organiser un colloque sur l'auteur des Causes
+
+du suicide paraît abandonnée (Morin, 1952, p. 519).
+En somme, M. Halbwachs paraît bien emporté par le reflux qui touche la sociologie
+durkheimienne. Au cours de cette première période de sa vie posthume, néanmoins,
+un répertoire de schèmes de lecture, un stock de signifiants est formé, qui, pour être
+étroitement daté, n'en demeurera pas moins disponible : « originalité », « psychologie
+sociale », pensée « concrète », « compréhensive », ou « phénoménologique ».
+
+Le retour d'un « durkheimien » (1964-1976)
+Avec les rééditions de l'Esquisse d'une psychologie des classes sociales (1964),
+de La mémoire collective (1968), de Morphologie sociale (1970), de La topographie
+légendaire des Evangiles en Terre sainte (1971), des Cadres sociaux de la mémoire
+(1976), le reprint de La classe ouvrière et les niveaux de vie (1970), la constitution
+d'un recueil d'articles sous le titre Classes sociales et morphologie (1972), et la
+publication de plusieurs textes le concernant (Maître, 1966 ; Bastide, 1971 ; Verret,
+1972 ; Dion, 1972 ; Craig, 1979), l'actualité de M. Halbwachs entre 1964 et 1976,
+après neuf ans de disette éditoriale, exprime le renouveau d'intérêt pour la sociologie
+
+durkheimienne. Porté par les nécessités liées à l'enseignement d'une discipline en
+pleine institutionnalisation16, ce renouveau, qui est au moins en partie une redécou
+verte via les États-Unis17, se situe à cheval entre une période perçue comme un « âge
+d'or » sur le plan académique et le développement d'un mouvement réflexif qui va
+concerner l'ensemble des sciences humaines.
+
+Outre la reprise, dans les deux premières rééditions, des textes de G. Friedmann
+et J. Alexandre, une partie de la littérature secondaire le concernant dans les années
+15. Pour une présentation des résultatsd'enseignants-chercheurs
+de
+marquent bien l'ins
+cette recherche sous forme de graphique, voir
+titutionnalisation croissante de la discipline.
+Marie Jaisson et Éric Brian (2005, p. 2).
+17. Parmi les jeunes sociologues séjournant
+16. La licence de sociologie est créée en
+aux Etats-Unis dans les années 1950, grâce aux
+bourses des fondations Ford et Rockefeller (dont
+1958, l'année 1960, après la revue Sociologie
+
+du travail en 1959, voit la parution simultanée
+François Bourricaud, Michel Crozier, Eric de
+de la Revue française de sociologie, des
+Dampierre, Henri Mendras, Alain Touraine et
+Archives européennes de sociologie, de
+Jean-René Tréanton), plusieurs ont rapporté y
+Communication et d'Études rurales. Cette avoir « découvert » É. Durkheim. Dans l'autre
+même année, le centenaire d'E. Durkheim est sens, il faut prendre en compte la réception, en
+célébré, avec deux ans de retard, à la Sorbonne,France, de sociologues américains, à l'instar de
+et réunit notamment Gabriel Le Bras, RaymondPaul Lazarsfeld, qui séjourne à Paris en 1963. De
+Aron, Georges Gurvitch, Henri Lévy-Bruhl et manière significative, un des tout premiers arti
+Claude Lévi-Strauss (Cazeneuve, 1960). Autre cles sur É. Durkheim dans la Revue française de
+signe du développement rapide de la discipline, sociologie dirigée par Jean Stoetzel est le fait
+le nombre de sociologues au CNRS passe, d'un sociologue américain, exposant l'influence
+
+d'après Alain Drouard, de 56 en 1960 à 91 end'E. Durkheim sur les recherches concernant le
+1964 (Drouard, 1982, p. 69). Enfin, la création suicide aux Etats-Unis. Il indique à cette occa
+d'un cursus complet de sociologie en 1966,sion que, à l'inverse de ce qui s'est passé en
+l'introduction de la discipline dans le seconFrance, les travaux d'É. Durkheim ont surtout été
+daire en 1970, la création de l'agrégation de reçus, aux États-Unis, après la Seconde Guerre
+sciences sociales en 1976 et la multiplication mondiale (Wilson, 1963). Sur P. Lazarsfeld, voir
+par trois, entre 1968 et 1978, du nombre Michael Pollak (1979).
+
+Revue française de sociologie, 57-1,2016,77
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+1960-1970 tend à s'inscrire dans le sillage des remobilisations d'après 1945. Alain
+Girard (1914-1996), proche collaborateur et ami de longue date de J. Stoetzel, propose
+ainsi, dans la préface de Morphologie sociale, de voir en M. Halbwachs une synthèse
+
+d'H. Bergson et d'E. Durkheim, le précurseur de la « psychologie sociale » (Girard,
+1970, p. ix)18 ; et Fernand Dumont (1927-1997), sociologue catholique québécois,
+tout en soulignant le lien étroit entre M. Halbwachs et E. Durkheim, tient néanmoins
+à marquer la distinction de ce dernier en le présentant, après J. Alexandre, comme
+un « phénoménologue » (Dumont, 1971, p. vu). La question du rapport au marxisme
+donne cependant à voir une inflexion notable. Michel Verret (né en 1927) et Michel
+
+Dion (né en 1935), tous deux partisans d'un dialogue étroit entre sociologie et
+marxisme, tendent, selon des modalités différentes, à réinscrire l'œuvre de
+
+M. Halbwachs dans le sillage d'É. Durkheim, mais surtout à considérer qu'elle
+demeure en quelques sorte « infra-marxiste », au point de constituer une « régres
+sion » par rapport à la pensée du philosophe allemand (Verret, 1972)19. La grille de
+
+lecture de G. Friedmann se trouve ainsi inversée.
+
+Dans les textes de M. Verret et de F. Dumont se discerne déjà ce qui constitue
+
+le principal tournant opéré dans ce deuxième temps de la vie posthume de
+
+M. Halbwachs : au souci de distinction vis-à-vis d'É. Durkheim succède un souci de
+réinscription forte dans le sillage du « fondateur ». M. Halbwachs devient (ou rede
+vient) durkheimien. « Il y a chez Halbwachs une sorte d'extrémisme dans l'utilisation
+de la morphologie sociale » : la formule de Jacques Maître (1925-2013), sociologue
+des religions, collaborateur de G. Le Bras, dans un article qui appelle à renouer avec
+la sociologie religieuse du début du XXe siècle, laquelle serait « loin d'être périmée »,
+est représentative du retournement à l'œuvre (Maître, 1966, p. 59, p. 67). Deux ans
+plus tard, la préface que signe Jean Duvignaud (1921-2007) dans La mémoire col
+lective lui fait écho. Déplorant le dédain pour la notion de mémoire collective, le
+sociologue et homme de lettres, élève en son temps de G. Gurvitch, reprend certes
+
+l'idée d'une sociologie concrète et compréhensive, mais présente surtout
+
+M. Halbwachs comme un « durkheimien exact », et situe les recherches sur la
+
+mémoire dans la continuité des Formes élémentaires de la vie religieuse, livre tant
+décrié dans l'après-guerre (Duvignaud, 1968, p. vu).
+De même, R. Bastide (1898-1974), dans un article sur la mémoire collective publié
+dans L'Année sociologique (qu'il dirige alors), note que M. Halbwachs « n'arrive pas
+à se détacher du durkheimisme, c'est-à-dire de l'idée d'une conscience collective
+
+extérieure et supérieure aux individus » (Bastide, 1971, p. 82). Victor Karady (né en
+1936), tout en lui accordant une « plus grande tolérance doctrinale que Durkheim »,
+remarque qu'il a été « le plus fidèle à l'idéal durkheimien de l'universalité d'appli
+cation de la méthode sociologique », et reconsidère à cette aune sa place historique20.
+Enfin, John E. Craig, historien américain sollicité par la Revue française de socio
+logie, retraçant les années strasbourgeoises de M. Halbwachs, insiste sur le fait que,
+en dépit du climat d'échange intellectuel propre à la faculté dans les années 1920, il
+se révèle, pour ce qui concerne les rapports entre psychologie et sociologie, un « durk
+heimien de stricte obédience », qu'il apparaît, dans le débat opposant géographie et
+
+20. « Maurice Halbwachs apparaît dans l'his
+18. «Métaphysique et sociologie ont
+convergé chez Halbwachs vers une psychologie toire de la sociologie française comme l'élève et le
+disciple qui a le mieux su réaliser et développer
+enveloppante et fine. », affirme-t-il.
+19. Sur son parcours, voir M. Verret (1991)certaines des intentions impliquées dans le projet
+et M. Dion (1972). Sur sa conception de la socioprimitif de Durkheim, alors même qu'il y apportait
+des corrections. » (Karady, 1972, p. 17, p. 21).
+logie, voir M. Dion (1973).
+
+78, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+morphologie sociale, comme un « propagandiste convaincu », et que, s'agissant de la
+controverse entre histoire et sociologie, il demeure « intransigeant » (Craig, 1979,
+p. 279, p. 281, p. 283)21.
+Ce nouveau souvenir du sociologue, qui paraît tenir du regain de faveur du durk
+heimisme22 comme du souci d'historicisation de la discipline - les deux se succédant
+ou se confondant - se distingue encore des portraits de l'après-guerre par son caractère
+unitaire. Les auteurs qui participent de cette élaboration d'un « durkheimien »23 ne
+peuvent en effet être ramenés à un sous-domaine particulier de la discipline, à un
+projet théorique commun. La concordance de leurs lectures n'en est que plus remar
+quable : le Halbwachs « durkheimien », appuyé par des recherches d'ordre historique,
+paraît, face à des versions divergentes, et pour certaines battues en brèche, en passe
+de s'imposer. La multiplicité des souvenirs semble ainsi sur le point de se résoudre
+en un portrait partagé.
+
+Il n'est toutefois guère d'enthousiasme pour la figure de ce durkheimien par excel
+lence : la phase de republication s'arrête en 1976, alors que certaines de ses études
+majeures, en particulier Les causes du suicide, ne sont toujours pas disponibles sur
+le marché. Plus un de ses livres ne paraîtra pendant dix-huit ans. Représentatif de
+l'intérêt mitigé que M. Halbwachs soulève, le cas des Cadres sociaux de la mémoire
+est d'autant plus intéressant qu'il permet de mesurer la transformation profonde qui
+s'opère entre 1976 et 1994 : dernier ouvrage republié, en 1976, dont les Presses
+universitaires de France rendent les droits, et qui est édité alors dans une collection
+de philosophie politique à audience limitée, le livre est en revanche le premier à
+
+reparaître dans les années 1990, dans une collection de classiques de sciences
+humaines chez un éditeur généraliste, Albin Michel. Entre 1976 et 1994 s'étend en
+effet le « moment mémoire », qui réoriente une nouvelle fois, et plus radicalement
+encore, la vie posthume de M. Halbwachs.
+
+Un nouveau fondateur : consécration (depuis 1994)
+Avec l'engouement pour la notion de « mémoire collective », portée d'abord par
+des historiens, mais qui s'est imposée comme l'un des maîtres mots de l'époque
+contemporaine, marquant le développement d'une forme nouvelle de rapport au passé,
+M. Halbwachs devient pour la première fois un véritable « passé pertinent »24 pour
+les sciences de l'homme dans leur ensemble, et pour la sociologie en particulier. Déjà
+
+sensible au tournant des années 1990 (Bourdieu, 1987 ; Gresle, 1989 ; Amiot, 1991),
+
+21. Il emprunte la deuxième caractérisation à
+
+p. 6). Elle est représentative de la problématique
+dominant ces recherches, qui visent à faire res
+22. La sortie quasi annuelle d'un nouvel sortir la vigueur, la fécondité et la relative diver
+ouvrage d'É. Durkheim entre 1966 et 1978 est un sité d'une « école » pleinement incorporée dans
+signe éditorial très net de ce renouveau. Voirl'histoire de la discipline - par contraste avec son
+aussi Henri Desroche (1969).
+rejet des années 1940-1950.
+23. Expression-clé de cette littérature, dont
+24. Pour reprendre l'expression de Moses I.
+l'usage, rare jusqu'à la fin des années 1960, est Finley (1981). Sur le « moment mémoire » et ses
+consacré par le numéro de la Revue française derapports avec la mobilisation de M. Halbwachs,
+sociologie de 1979 publié par Philippe Besnard, voir notamment Pierre Nora (1978,2003,2011) ;
+lequel présente M. Halbwachs comme « un des Marie-Claire Lavabre (2000) ; François Hartog
+plus importants continuateurs de Durkheim et le (2013, p. 60 sq.) ; Philippe Jouttard (2013).
+plus "sociologue" d'entre eux » (Besnard, 1979,
+Lucien Febvre.
+
+Revue française de sociologie, 57-1,2016,79
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+le mouvement s'accélère pendant cette décennie, avec, en 1994, la réédition des
+Cadres sociaux de la mémoire et la publication du premier ouvrage le concernant
+(Baudelot et Establet, 1994), en 1997 l'édition critique de La mémoire collective
+doublée par la sortie des actes du premier colloque qui lui ait été consacré (Montlibert,
+
+1997). En 1999, le dossier «Maurice Halbwachs et les sciences humaines de son
+temps », inaugurant la nouvelle Revue d'histoire des sciences humaines, symbolise
+déjà le changement de statut du sociologue. Depuis lors, rééditions, ouvrages collectifs
+et articles se sont succédé à un rythme soutenu.
+
+A ce changement de régime quantitatif correspond un tournant sur le plan quali
+tatif. Le fait est sensible déjà du point de vue matériel. Dans l'après-guerre, le don
+d'une partie de la bibliothèque de M. Halbwachs, versée et intégrée à celle du ces,
+témoignait d'une gestion relativement dépersonnalisée des « reliques » : c'était sur
+tout un fonds documentaire, celui d'un enregistreur de l'activité sociologique fran
+çaise et internationale des premières décennies du siècle25. Par contraste, tout juste
+cinquante ans plus tard, le dépôt, en 1996, à l'Institut mémoire de l'édition contem
+poraine (imec), par Pierre Bourdieu, des papiers Maurice Halbwachs (auparavant
+donnés au Centre de sociologie européenne), s'inscrit quant à lui dans une logique
+d'auctorialité très nette. En témoignent la centralité des manuscrits de La mémoire
+collective et de ses quelques cahiers de notes qui, en conformité avec le « prisme
+littéraire » et le « plan de classement auctorial » privilégiés par I'imec constituent le
+cœur du fonds26. Très sélectionnés (outre la correspondance familiale, seules les lettres
+d'H. Bergson ont été conservées), ces papiers, qui mettent en valeur un auteur plutôt
+qu'ils ne renseignent un savant, ne sont en outre pas sans effets sur le discours tenu
+
+au sujet de M. Halbwachs27.
+Plus largement, en effet, si l'ensemble de la production consacrée au sociologue ne
+peut être réduite à quelques orientations communes tant la divergence des approches
+est forte, le trait caractéristique de ce dernier moment de la vie posthume de
+M. Halbwachs est la prédominance d'une nouvelle logique de distinction. L'enjeu en
+
+est le même que dans l'après-guerre -marquer l'écart entre M. Halbwachs et
+
+E. Durkheim -, mais le principe qui préside à ces lectures paraît inverse à celui qui
+guidait les portraits de G. Friedmann, J. Stoetzel ou J. Alexandre : il ne s'agit plus de
+« sauver » tant bien que mal M. Halbwachs dans un moment de trouble et de réorien
+tation disciplinaire, mais plutôt de justifier et d'accréditer une exceptionnalité qui ressort
+de l'actualité de fait, pluridisciplinaire et internationale28, de ses travaux sur la mémoire.
+25. De fait, les annotations de générations
+28. La mémoire collective est publié en
+successives d'étudiants en sociologie, mêlées à anglais en 1980, réédité en Allemagne en 1985,
+celles de M. Halbwachs, ont rendu les volumes
+
+traduit en italien en 1987 ; Les cadres sociaux de
+
+à peu près inexploitables du point de vue d'une la mémoire, également réédité en Allemagne en
+1985, est pour sa part traduit en anglais en 1992,
+histoire des pratiques savantes.
+26. Sur les principes de classement de I'imec accompagné de la conclusion de La topographie
+et la logique d'auctorialité, voir la réflexion légendaire des Evangiles en Terre sainte, sous le
+menée par Yann Potin (2015, en particulier titre : On Collective Memory. A ces publications
+p. 38-39, p. 48) à partir du cas des archives de se sont ajoutées, ces vingt dernières années, des
+
+traductions de ses travaux sur la mémoire en
+Georges Duby.
+27. Ainsi la « biographie », publiée par l'his espagnol, en polonais, en hongrois, en russe, en
+torienne Annette Becker (2003), qui prend appui chinois, en coréen ou en arabe notamment.
+sur ces sources (au détriment de bien d'autres, à Du vivant de M. Halbwachs, seuls Les origines
+
+commencer par les écrits du sociologue très par du sentiment religieux d'après Durkheim
+tiellement utilisés - voire lus), est sans doute la (en Espagne, en 1927) et Morphologie sociale
+réinvention la plus étonnante et, à certains égards,
+
+(au Portugal, en 1941) avaient été publiés à
+
+la plus outrancière de M. Halbwachs.
+
+l'étranger.
+
+80, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Autrement dit, avec le court-circuit temporel porté par la « mémoire collective »,
+M. Halbwachs, « sociologue retrouvé »29, est devenu notre contemporain. De ce point
+de vue, 1994 est une date pivot : Les cadres sociaux de la mémoire est présenté par
+Gérard Namer (1928-2010) comme un livre « écrit pour notre postmodernité » ; tandis
+que Christian Baudelot et Roger Establet (tous deux nés en 1938) entreprennent, dans
+Maurice Halbwachs. Consommation et société, de démontrer la « modernité » du
+
+sociologue (Namer, 1994, p. 367 ; Baudelot et Establet, 1994)30. Ce hiatus temporel
+trouve une issue dans l'image d'un M. Halbwachs « précurseur », en avance sur son
+temps - ce qui justifie en retour l'absence de contextualisation de ses recherches31.
+Cette entreprise de consécration procède en partie par une réactivation des schèmes
+de lecture hérités de l'après-guerre : il en va ainsi non seulement de la caractérisation
+de sa sociologie comme « comprehensive32 ou « phénoménologique »33, mais surtout
+de l'accent porté sur la « psychologie collective » (la psychologie « sociale » étant,
+elle, désormais institutionnalisée et distinguée de la sociologie).
+
+Maurice Halbwachs et la « psychologie collective »
+L'utilisation récurrente du choix par M. Halbwachs de présenter au Collège de France,
+en 1942, une chaire de « psychologie collective » comme moyen de marquer une prise de
+distance pour ainsi dire officielle avec la psychologie durkheimienne n'a paradoxalement
+guère suscité d'intérêt pour les enjeux et les conditions de cette décision.
+
+Pourtant, le cours qu'il donnait en Sorbonne sous ce même libellé en 1937-1938 puis
+en 1941-1942 présente la « psychologie collective » comme le relevé de tout ce qui, dans
+le psychisme individuel, s'explique par le collectif, et ne peut être étudié que par la socio
+logie. Il est une reprise systématique et une défense motivée de la conception de la psy
+chologie portée par la sociologie durkheimienne et non une critique de cette dernière
+
+(Halbwachs, [1938] 2015).
+
+Par ailleurs, dans un moment où la sociologie, science « juive » illustrée par É. Durkheim
+
+et L. Lévy-Bruhl, symbole de la « Nouvelle Sorbonne » perçue comme un fleuron très
+disputé de la nr République, est tenue pour une des responsables de la défaite (Sapiro,
+2004 ; Muel-Dreyfus, 2004), le choix de cette même expression pour la candidature au
+Collège de France doit être rapporté à une stratégie électorale évidente. Du reste, dès ses
+premiers échanges avec Edmond Faral, administrateur de l'institution, ce dernier lui
+.../...
+
+29. Pour reprendre le titre d'un des livres col
+lectifs qui lui a été consacré récemment (Jaisson
+
+et Baudelot, 2007).
+
+30. De même Yves Deloye et Claudine
+Haroche présentent, en 2004, l'objectif du livre
+
+qu'ils codirigent en ces termes : « Relire
+
+Halbwachs, le méditer, tenter d'appréhender la
+modernité d'une œuvre magistrale : c'est à une
+telle relecture que cet ouvrage souhaite contri
+
+buer. » (2004, p. 11). Voir aussi Thomas
+
+doxe. » (Montigny, 2005, p. 3). Pour des travaux
+historiques prenant le contre-pied de cette ten
+
+dance, voir C. Topalov (1997a, 1997b, 1999,
+2005, 2006, 2015) ; M. Jaisson et É. Brian
+(2005) ; J. Carroy (2008).
+32. Laurent Fleury, qui veut analyser son
+« originalité » et expliquer en quoi il fut « plus
+encore qu'un héritier critique, un précurseur »,
+qualifie ainsi son œuvre de « sociologie compre
+hensive » (2007, p. 64, p. 65, p. 68). Voir aussi
+
+S. Paugam (2002, p. xxxv) ; J.-C. Marcel
+31. « Pendant plusieurs décennies,
+(2004b, p. 52).
+Halbwachs a été victime d'un quasi-oubli, 33. L'utilisation du terme est souvent justi
+lié semble-t-il à son double statut de préfiée par une référence au texte de J. Alexandre.
+
+Beaubreuil (2011, p. 157).
+
+curseur d'une discipline encore incomplètementVoir notamment François Gresle (1989, p. 11,
+
+reconnue, et de représentant d'une sociologiep. 16) ; J.-C. Marcel et Laurent Mucchielli
+
+encore suspecte de positivisme et de dogmatisme,(1999) ; J.-C. Marcel (1999, 2001, p. 147, p. 187
+même s'il fut plutôt [...] un durkheimien hétéro sq.).
+
+Revue française de sociologie, 57-1,2016,81
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+déconseille le titre de « Sociologie » ; et H. Piéron, rapporteur de la candidature, prend
+grand soin dans ses discours de présentation de distinguer soigneusement M. Halbwachs
+de la seule sociologie durkheimienne (au point de le présenter comme un héritier de Gabriel
+
+Tarde, professeur, en son temps, dans l'auguste institution). Ces discours sont d'ailleurs
+la source directe de la nécrologie publiée en 1945 - d'où la réorientation observée dans
+le portrait de M. Halbwachs34.
+
+A l'heure où la chaire occupée jadis par É. Durkheim en Sorbonne est supprimée, et
+où le certificat « Sociologie et morale » est remplacé par un certificat « Psychologie et
+morale », H. Piéron, en dépit de l'élection quasi unanime de son camarade par l'assemblée
+des professeurs, pense que la chaire de « Psychologie collective » ne sera jamais promul
+guée. Et c'est finalement sur un coup du sort que M. Halbwachs devient, quelques semaines
+avant sa déportation à Buchenwald, le dernier professeur nommé par Vichy35.
+
+L'un dans l'autre, rien ne permet d'accréditer l'idée d'une rupture dans le projet théo
+rique de M. Halbwachs par cet usage du syntagme « psychologie collective ». La psycho
+logie collective et les statistiques ne composent-ils pas ensemble, comme il l'indiquait à
+H. Piéron dès 1929, la « sociologie générale »36 ? Or tels étaient bel et bien les deux ensei
+gnements qu'il projetait au Collège de France.
+
+L'autre voie majeure pour opérer la distinction entre M. Halbwachs et É. Durkheim
+et souligner, d'un même mouvement, l'originalité et la modernité du premier, revient
+à porter l'attention sur son ouverture d'esprit, sensible dans sa disponibilité aux projets
+sociologiques alternatifs comme dans son approche « pluri- » ou « interdisciplinaire ».
+
+Il serait celui qui aurait fécondé le durkheimisme avec d'autres perspectives théori
+ques, la sociologie avec d'autres disciplines (la psychologie, mais aussi l'histoire, la
+géographie, l'économie). En témoignerait son rôle d'introducteur de la sociologie de
+Max Weberet de l'« École de Chicago », ou encore sa participation active aux Annales
+d'histoire économique et sociale. « Halbwachs ne se limite pas à la seule sociologie
+dans son acception durkheimienne. Il s'intéresse à l'anthropologie, à la démographie,
+à cette morphologie dont une partie deviendra la géographie humaine, aux sciences
+économiques et à la sociologie économique, à l'histoire mais aussi à la psychologie,
+à la psychologie collective. » : cette caractérisation de Pierre Ansart (né en 1922),
+ancien élève de M. Halbwachs devenu sociologue, qui distingue ce dernier de la
+sociologie durkheimienne par ce qui est le propre de cette dernière, est une expression
+limite de cette démarche (2004, p. 23)37.
+La dialectique entre le premier et le dernier moment du parcours posthume de
+M. Halbwachs, explicite notamment chez Gilles de Montigny (né en 1952) qui pré
+sente le texte de J. Alexandre comme un « témoignage », celui de G. Friedmann
+comme une « confirmation » de l'originalité de M. Halbwachs (Montigny, 2005, p. 7),
+donne à voir la façon dont l'empilement des traditions de lecture peut devenir un des
+moyens de fabriquer du passé. La résonnance entre la célébration et les appropriations
+
+34. Voir les Lettres de M. Halbwachs à
+37. Les travaux de C. Topalov (2005, 2006,
+H. Piéron en 1942 et 1943 (Université Paris
+2012)
+v,se sont attachés à montrer la façon dont
+M.
+Halbwachs pouvait comprendre (ou ne pas
+fonds Henri Piéron) ; et le dossier du premier
+dans
+
+comprendre)
+les travaux des sociologues qu'il fut
+les archives du Collège de France (16 cdf art
+182).
+amené à rencontrer lors de son séjour à Chicago
+35. Sur ces différents points, je me permets
+
+en 1930.
+de renvoyer à T. Hirsch (2015).
+36. Voir sa Lettre du 7 juin 1929 à H. Piéron
+(Université Paris v, fonds Henri Piéron).
+
+82, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+de l'immédiat après-guerre et l'exceptionnalité qui lui a été récemment accordée
+
+facilite la cristallisation d'un M. Halbwachs essentiellement « original ». Mais
+comment les interprétations contemporaines parviennent-elles à concilier ce souci
+d'exceptionnalité avec le portrait « durkheimien » hérité non seulement de la récep
+tion de ses textes, mais aussi des travaux des années 1970 ?
+
+Trois formes de conciliation divergentes peuvent être repérées dans l'historio
+graphie actuelle. Le schème le plus courant consiste à qualifier M. Halbwachs de
+« durkheimien hétérodoxe », expression qui, tout en maintenant le lien au fondateur
+
+de L'Année sociologique, permet d'un même tenant d'affirmer son originalité38.
+Elle est d'ailleurs utilisée dans le même but pour d'autres figures de la sociologie
+française du début du XXe siècle : l'hétérodoxie paraît en effet constitutive de
+l'intérêt que ces personnages peuvent revêtir - à croire qu'un « durkheimien »
+n'intéresse personne39.
+Une réponse plus développée, très classique dans la forme, a été apportée par
+G. Namer, puis en partie reprise par M. Jaisson (née en 1962). Elle consiste à distin
+guer deux Halbwachs dans le temps : un premier Halbwachs durkheimien, un second
+plus nettement « hétérodoxe », qui apparaîtrait en pleine lumière dans La mémoire
+collective40. Ce partage, prenant appui sur le schème usuel de la « psychologie col
+lective », paraît néanmoins buter sur des difficultés d'ordre chronologique : pour
+G. Namer, le « retournement » entre les deux Halbwachs, de nature en partie poli
+tique41, interviendrait à l'orée de la Seconde Guerre mondiale, mais la très grande
+majorité des textes composant La mémoire collective, à cette date, ont déjà été écrits.
+De même, La topographie légendaire, qui paraît pourtant en 1941, appartiendrait elle
+aussi à ce « premier » Halbwachs (Jaisson, 1999, p. 174). En outre, le travail de
+M. Halbwachs, en 1943-1944, sur ce qui deviendra La mémoire collective ne consis
+tant, selon G. Namer, qu'en un ensemble d'adjonctions et de suppressions, on voit
+
+mal comment il aurait pu inverser totalement le sens de sa « sociologie de la
+mémoire ». Enfin, à bien des égards, les textes composant ce livre posthume parais
+sent comme une réponse au défi de l'individualité lancée par les divers recenseurs
+38. S'il n'est « hétérodoxe », il faut, du
+
+40. Pour les présentations les plus significa
+
+moins, qu' il soit le « moins orthodoxe » (Marcel,tives, voir G. Namer (1994, 1997) ; M. Jaisson
+
+1999, p. 49). Avec Les causes du suicide, note(1999, 2008b).
+Philippe Steiner (1999, p. 154), «il sort d'une 41. Dans sa postface, G. Namer cite un carnet
+
+stricte orthodoxie durkheimienne ». Notons que, de M. Halbwachs et souligne la phrase suivante :
+lorsque ce schème « orthodoxie/hétérodoxie » est« Je voudrais pouvoir assez me prendre à mon
+
+employé du vivant de M. Halbwachs, c'est pourtravail pour que l'oubli total de la politique
+souligner son orthodoxie (Bloch et Febvre, 1994, intérieure et extérieure m'apporte le bienfait
+p. 381).
+et l'apaisement de la pensée. » Il infère de cette
+39. De ce point de vue, encore, le contraste
+remarque que La mémoire collective « sera donc,
+est très net avec les années 1970, au cours des
+à partir de 1938, une œuvre politique de résis
+
+quelles c'est justement l'« école française de
+sociologie » en tant que telle qui retenait l'atten
+tion. De manière significative, F. Gresle affir
+mait, en 1989, à l'orée de la « renaissance » de
+M. Halbwachs : « Si Maurice Halbwachs n'avait
+
+tance à l'hitlérisme, puis en période d'occupation
+une œuvre politique de résistance écrite comme
+une littérature de contrebande, contre les colla
+borateurs ». Cette extrapolation considérable met
+
+en outre à ses yeux en lumière les raisons du
+
+été que l'héritier le plus fidèle de Durkheim, son
+travestissement de La mémoire collective par
+J. Alexandre et son mari, Michel Alexandre :
+œuvre ne relèverait plus guère que de l'histoire
+
+de la sociologie. Mais il fut plus que cela. [...]
+« La malchance d'Halbwachs, c'est qu'il ne pou
+
+Finalement, c'est en raison de sa diversité même
+vait pas prétendre à un zèle enthousiaste de la
+et des "ouvertures" qu'il autorise que l'œuvre
+part de ces pacifistes pour l'édition d'une œuvre
+d'Halbwachs vaut encore la peine d'être étudiée,
+de combat, eux qu'il avait tenus à l'écart de sa
+
+sinon méditée aujourd'hui. » (1989, p. 20).
+
+vie. » (Namer, 1997, p. 240-241).
+
+Revue française de sociologie, 57-1,2016,83
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+des Cadres sociaux de la mémoire42 ; et si le « second » Halbwachs se propose d'indi
+vidualiser son modèle d'explication, il ne semble en rien renier le « sociologisme »
+qui serait le propre du premier43.
+Une troisième réponse, plus originale peut-être, a été proposée par Jean-Christophe
+Marcel (né en 1966), lequel, prenant acte des difficultés chronologiques, propose pour
+sa part de distinguer deux Halbwachs, non plus dans la diachronie mais dans la syn
+
+chronie : voilà donc M. Halbwachs « schizophrène ». D'un côté, un durkheimien
+dévoué, voulant préserver l'héritage du maître, quitte à se surcharger de besognes
+ingrates pour les Annales sociologiques, dont il est le secrétaire ; de l'autre, un théoricien
+
+original, qui s'épanouirait tardivement dans la « psychologie collective » - titre qui
+serait l'expression de sa libération de la tutelle durkheimienne44. Orthodoxe en façade,
+
+il serait «incontestablement un "durkheimien hétérodoxe" de cœur» (Marcel, 2001,
+p. 217). De là une reconsidération de sa place dans l'histoire de la sociologie française,
+et en particulier l'affirmation d'une continuité forte avec les recherches de J. Stoetzel,
+conformément au portrait de M. Halbwachs esquissé par ce dernier (Marcel, 1998)45.
+
+Un sociologue français dans le siècle : devenir classique
+Au terme de deux décennies de mobilisation et de justification, M. Halbwachs est
+devenu un classique. Les lectures les plus récentes, par de jeunes sociologues surtout,
+témoignent de l'évidence de ce statut. Ancien déjà moderne, il se trouve mobilisé
+comme figure, sinon fondatrice, du moins annonciatrice (et légitimante) de directions
+de recherches nouvelles - qu'il s'agisse de l'instituer « pionnier» d'une sociologie de
+l'environnement (Boudes, 2011) ou de voir dans ses recherches un programme «a
+posteriori fondateur» pour une sociologie du nationalisme ordinaire (Antichan, 2010).
+Moderne encore ancien, sa présence dans l'espace de réflexion sociologique peut à
+l'inverse paraître rendre nécessaire une « critique » de son « modèle conceptuel de la
+classe ouvrière » du même type que celle qui serait adressée à un contemporain, pour
+finalement le renvoyer, malgré tout, au passé (Aucher, 2011). Déjà moderne, encore
+ancien : dans les deux cas, le statut qui lui est accordé fait qu'il « échappe largement
+au temps »46 - et ce même si ce statut légitime aussi des approches à visée historique.
+
+42. Le fait, relevé par G. Namer et
+
+combinatoire permettant de rendre compte de
+
+l'unicité des mémoires individuelles tout en les
+M. Jaisson, n'a pas suscité de leur part de recher
+
+ches plus développées sur cette réception. La
+maintenant dans le domaine unique de la socio
+sous-estimation commune de la réception des
+logie (Halbwachs, 1997, p. 94-95 notamment).
+écrits de M. Halbwachs, pourtant très ample et 44. « Ce n'est donc que très tardivement
+massive, est un signe majeur de la décontextua
+qu'il connaît la consécration, en tant que repré
+lisation dominante de ses recherches sur la
+sentant d'une "psychologie". Le "côté bergso
+
+mémoire collective.
+
+nien" finit par l'emporter et s'affiche au grand
+43. Un des enjeux de La mémoire collective jour, après des années à défendre la méthode
+est en effet de conjuguer l'approche par groupe positive en sociologie. Le nom d'Halbwachs
+des Cadres sociaux de la mémoire avec l'indivi
+
+cessait enfin d'être indissolublement lié à la
+
+dualité sentie de chaque mémoire, sur laquelle
+statistique, mais trop tard. » (Marcel, 2001,
+ses critiques, même les plus bienveillants, ont mis
+p. 215).
+l'accent. La solution de M. Halbwachs consiste
+45. Sa thèse est discutée par G. Stankiewicz
+à lier mémoire individuelle à histoire sociale de
+(2008).
+l'individu, à l'envisager comme un résultat des 46. Sur la notion de « classique » et ses
+diverses mémoires collectives auxquelles chaqueimplications temporelles, voir F. Hartog (2015,
+individu a appartenu successivement - cettep. 56) et Stéphane Zékian (2012).
+
+84, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Quoi qu'il en soit, par la diversité et le caractère contradictoire des manières de
+lire ou de caractériser son travail sociologique, par la distribution nette de ces portraits
+
+dans le temps, et par la possibilité d'en rendre compte, la vie posthume de
+M. Halbwachs peut apparaître comme un cas exemplaire de la façon dont les sciences
+de l'homme se saisissent de certaines figures pour fabriquer le passé qu'elles récla
+ment. Le processus de réinvention (parfois jusqu'à la consécration) est ici central,
+d'autres études pourraient mettre en évidence la modalité inverse, tout aussi fréquente
+et utile : la disqualification posthume, l'élévation au rang de repoussoir - qui a d'ail
+leurs concerné certains durkheimiens, L. Lévy-Bruhl notamment, dans d'autres
+champs il est vrai. L'un et l'autre cas invitent à prendre en considération les traditions
+de lecture qui informent nos rapports aux figures du passé, afin de se rendre plus à
+même de comprendre les différentes entreprises théoriques d'un point de vue histo
+rique, mais aussi d'observer, par un autre biais, l'histoire des sciences de l'homme.
+Les histoires disciplinaires sont à bien des égards des mémoires justiciables des mêmes
+procédés d'analyse que ceux mis en évidence par M. Halbwachs pour approcher les
+mémoires collectives, en particulier ce qu'il appelait la « mémoire familiale ».
+
+Or « il y a, dans les généalogies familiales, une sorte de logique » (Halbwachs,
+1925, p. 220). En l'espèce, les réinventions successives de M. Halbwachs mettent en
+évidence l'extrême polarisation de l'histoire de la sociologie française par la figure
+du « père ». Qu'il s'agisse de démarquer M. Halbwachs pour accréditer de nouveaux
+projets théoriques (1945-1955), de le réinscrire dans le cadre d'une entreprise de
+« redécouverte » d'un passé glorieux qui sied mieux à la légitimité nouvelle de la
+discipline et qui est le lieu du développement d'un retour réflexif sur ses enjeux
+(1964-1976), ou de le consacrer comme nouvelle figure de référence (depuis le tour
+nant des années 1990) : c'est presque toujours le nom d'E. Durkheim, qui, à la lumière
+de cette objectivation, apparaît en filigrane des pages dédiées à M. Halbwachs.
+Cette particularité de la trajectoire posthume de l'auteur de La mémoire collective
+tient en grande partie aux conditions morphologiques de la discipline en France :
+disposant au final de peu d'« ancêtres » susceptibles de faire l'objet d'un investisse
+ment symbolique, à la différence de la sociologie américaine par exemple, qui peut
+réinventer des filiations en sélectionnant des figures différentes du passé (ainsi des
+
+multiples naissances de l'« École de Chicago ») (Topalov, 2004), la sociologie
+
+française, lorsqu'elle ne mobilise pas des « outsiders » (ainsi des résurgences de
+G. Tarde)47 ou des sociologues étrangers (ainsi de l'institution de M. Weber comme
+classique de la sociologie française) (Gemperle, 2008) semble régulièrement conduite
+à repasser une nouvelle couche de peinture sur les mêmes portraits, quitte à rendre
+méconnaissables les visages.
+Représentant de l'école durkheimienne, mais promoteur d'une sociologie empi
+rique, compréhensive ou phénoménologique, disciple d'E. Durkheim, mais initiateur
+d'une psychologie collective, introducteur de M. Weber et de l'« École de Chicago »,
+sociologue, mais ouvert à l'interdisciplinarité : M. Halbwachs fait aujourd'hui l'objet
+d'un investissement qui paraît le promouvoir au rang de sociologue total, résorbant
+les divers registres théoriques et les multiples lignes de tension de l'histoire de la
+discipline - un héros. Après la bibliothèque de sciences sociales de l'université de
+Strasbourg en 1995 et l'inauguration d'un amphithéâtre portant son nom au Collège
+de France en 2004, la création du Centre Maurice Halbwachs en 2006, selon une
+logique de dénomination qui demeure rare pour les laboratoires de sciences sociales
+
+47. Voir notamment L. Mucchielli (2004, chap, n) ; L. Pinto (2006, chap. hi).
+
+Revue française de sociologie, 57-1,2016,85
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+(même si elle tend à se généraliser à la faveur des regroupements des centres de
+recherche), traduit, sur le plan institutionnel, cet investissement partagé - tant il est
+vrai que les institutions sont des « représentations, idées, tendances, qui se stabilisant
+
+se sont ainsi en quelque sorte cristallisées » (Halbwachs, [1938] 2015, p. 272-273).
+Thomas Hirsch
+Laboratoire d'excellence Tepsis
+Groupe d'études sur les historiographies modernes
+Centre de recherches historiques
+CNRS-EHESS
+
+190-198, avenue de France
+75013 Paris
+thomas. hirsch@ehess. fr
+
+Références bibliographiques
+
+Alexandre J., 1949, « Maurice Halbwachs », L'Année sociologique, 1, p. 3-10.
+Amiot M., 1991, « Le système de pensée de Maurice Halbwachs », Revue de synthèse,
+112, 2, p. 265-288.
+
+Ansart P., 2004, « Maurice Halbwachs, la créativité en sociologie » dans Y. Deloye,
+C. Haroche (dir.), Maurice Halbwachs. Espaces, mémoires et psychologie collec
+tive, Paris, Publications de la Sorbonne, p. 17-31.
+
+Antichan S., 2010, « Penser le nationalisme ordinaire avec Maurice Halbwachs »,
+Raisons politiques, 37, p. 17-26.
+Aucher L., 2011, « Aline et la vraie vie. Critique du modèle conceptuel de la classe
+ouvrière de Maurice Halbwachs », L'Homme et la société, 181, p. 215-232.
+Azoulay V., 2014, Les tyrannicides d'Athènes. Vie et mort de deux statues, Paris,
+Le Seuil.
+
+Bastide R., 1945, « In Memoriam. Maurice Halbwachs », Sâo Paulo, Fonds Maurice
+Halbwachs, imec, hbw2.b2-04.
+Bastide R., 1960, Les religions africaines au Brésil, Paris, Presses universitaires
+de France.
+
+Bastide R., 1971, « Mémoire collective et sociologie du bricolage », L'Année socio
+logique, 21, p. 65-108.
+
+Baudelot C., 2008, « Préface » dans M. Halbwachs, Les classes sociales, Paris,
+Presses universitaires de France, p. vn-ix.
+
+Baudelot C., Establet R., 1994, Maurice Halbwachs. Consommation et société,
+Paris, Presses universitaires de France.
+
+Baudelot C., Establet R., 2007, « Suicide : un changement de régime » dans
+M. Jaisson, C. Baudelot C. (dir.), Maurice Halbwachs, sociologue retrouvé,
+Paris, Rue d'Ulm, p. 23-52.
+Beaubreuil T., 2011, « Le "spatialisme" du dernier Halbwachs », Espaces et sociétés,
+144-145, p. 157-171.
+
+86, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Becker A., 2003, Maurice Halbwachs. Un intellectuel en guerres mondiales.
+1914-1945, Paris, Agnès Viénot.
+Besnard P., 1979, « Présentation », Revue française de sociologie, 20, 1, p. 3-6.
+
+Besse G., 1955, « Chronique sociologique. Réflexions sur "L'Esquisse d'une psy
+chologie des classes sociales" par Maurice Halbwachs », La pensée, 63, p. 109-115.
+
+Bloch M., 1925, « Mémoire collective, tradition et coutume. À propos d'un livre
+récent », Revue de synthèse historique, 40, p. 73-81.
+
+Bloch M., 1929, « Le développement de Paris depuis le milieu du xixe siècle »,
+Annales d'histoire économique et sociale, 1, 3, p. 434-436.
+
+Bloch M., Febvre L., 1994, Correspondance. Tome 1: 1928-1933. Édité par
+B. Müller, Paris, Fayard.
+
+Blondel C., 1924a, « Les volitions » dans G. Dumas, Traité de psychologie, n, Paris,
+Alean, p. 333-425.
+
+Blondel C., 1924b, « La personnalité » dans G. Dumas, Traité de psychologie, il,
+Paris, Alean, p. 522-574.
+Blondel C., 1926, « Maurice Halbwachs, Les cadres sociaux de la mémoire », Revue
+philosophique, 101, p. 290-298.
+
+Blondel C., 1928, Introduction à la psychologie collective, Paris, Armand Colin.
+Blondiaux L., 1990, « Paul Lazarsfled (1901-1976) et Jean Stoetzel (1910-1987) et
+les sondages d'opinion : genèse d'un discours scientifique », Mots, 23, p. 5-23.
+Blondiaux L., 1991, « Comment rompre avec Durkheim ? Jean Stoetzel et la socio
+logie française de l'après-guerre (1945-1958)», Revue française de sociologie,
+32, 3, p. 411-441.
+
+Boudes P., 2011, «Morphologie sociale et sociologie de l'environnement : l'apport
+de Halbwachs à l'étude des relations entre les sociétés et leur milieu naturel »,
+L'Année sociologique, 61, 1, p. 201-224.
+Bourdieu P., 1987, « L'assassinat de Maurice Halbwachs », La liberté de l'esprit,
+16, p. 161-168.
+
+Canguilhem G., 1947, «Maurice Halbwachs (1877-1945)» dans Mémorial des
+années 1939-1945, Paris, Les Belles Lettres, p. 229-240.
+Carroy J., 2008, « Les rêves de et selon Maurice Halbwachs. La science publique
+et l'intime partagé d'un sociologue », Revue des sciences sociales, 40, p. 94-103.
+Cazeneuve J., 1960, « La commémoration du centenaire de Durkheim », Revue
+française de sociologie, 1, 2, p. 223-227.
+Certeau M. de, 1980. L'invention du quotidien. 1 : Arts de faire, Paris, Gallimard.
+
+Chapoulie J.-M., 1991, « La seconde fondation de la sociologie française, les États
+Unis et la classe ouvrière », Revue française de sociologie, 32, 3, p. 321-364.
+
+Chatelet F., 1976, « Préface » dans M. Halbwachs, Les cadres sociaux de la
+mémoire, Paris, La Haye, Mouton, p. v-xi.
+
+Chenu A., 2002, « Une institution sans intention. La sociologie en France depuis
+l'après-guerre », Actes de la recherche en sciences sociales, 141/142, p. 46-61.
+Courbon P., 1939, « Charles Blondel (1876-1939) », Annales de l'université de Paris,
+1, p. 316-317.
+
+Craig J. E., 1979, « Maurice Halbwachs à Strasbourg », Revue française de socio
+logie, 20, 1, p. 273-292.
+Cuvillier A., 1953, Où va la sociologie française ? Paris, Marcel Rivière et Cle.
+
+Revue française de sociologie, 57-1,2016,87
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+Deloye Y., Haroche C. (dir.), 2004, Maurice Halbwachs. Espaces, mémoires et
+psychologie collective, Paris, Publications de la Sorbonne,
+
+Desroche H., 1969, « Retour à Durkheim ? D'un texte peu connu à quelques thèses
+méconnues », Archives de sociologie des religions, 27, p. 79-88.
+Dion M., 1972, « Sur les analyses du suicide de Durkheim et Halbwachs », L'Homme
+et la société, 23, p. 69-86.
+
+Dion M., 1973, Sociologie et idéologie, Paris, Éditions sociales.
+Disselkamp A., 2005, « Halbwachs vs. Durkheim. Une critique de l'individu pur
+
+(et de la sociologie)», Revue européenne des sciences sociales, 43, 131,
+p. 115-133.
+Drouard A., 1982, « Réflexions sur une chronologie : le développement des sciences
+sociales en France de 1945 à la fin des années 1960 », Revue française de socio
+logie, 23, 1, p. 55-85.
+
+Dufrenne M., 1946, « Existentialisme et sociologie », Cahiers internationaux de
+sociologie, 1, p. 161-171.
+Dumont F., 1971, « Préface » dans M. Halbwachs, La topographie légendaire des
+Évangiles en Terre sainte, Paris, Presses universitaires de France, p. v x.
+Duvignaud J., 1968, « Préface » dans M. Halbwachs, La mémoire collective, Paris,
+Presses universitaires de France, p. 3-6.
+
+Essertier D., 1929, Philosophes et savants français du xxr siècle, iv ; La psychologie,
+Paris, Alean.
+
+Essertier D., 1930, Philosophes et savants français du xx' siècle, v : La sociologie,
+Paris, Alean.
+Farrugia F., 2000, La reconstruction de la sociologie française (1945-1965), Paris,
+L'Harmattan.
+
+Febvre L., 1942, Origène et Des Périers ou l'énigme du Cymbalum Mundi, Paris,
+Droz.
+
+Finley M. I., 1981, Mythe, mémoire, histoire, Paris, Flammarion.
+
+Fleury L., 2007, « Maurice Halbwachs, précurseur d'une sociologie des émotions »
+dans B. Pequignot (dir.), Maurice Halbwachs : le temps, la mémoire, l'émotion,
+Paris, L'Harmattan, p. 61-98.
+Friedmann G., 1946, « Maurice Halbwachs », Europe, 1, p. 45-54.
+Friedmann G., 1948, « Industrie et société aux États-Unis (fin) », Annales esc, 3, 2,
+p. 161-162.
+Friedmann G., 1950, Où va le travail humain ? Paris, Gallimard.
+
+Friedmann G., 1960, « Société et connaissance sociologique », Annales esc, 15, 1,
+p. 9-17.
+Gemperle M., 2008, « La fabrique d'un classique français : le cas de "Weber" »,
+Revue d'histoire des sciences humaines, 18, p. 159-177.
+Girard A., 1970, « Présentation » dans M. Halbwachs, Morphologie sociale, Paris,
+Armand Colin, p. v-xxi.
+Girard A., 1987, « Jean Stoetzel (1910-1987) », Revue française de sociologie, 28, 2,
+p. 201-211.
+Grémion P., Piotet F. (dir.), 2004, Georges Friedmann. Un sociologue dans le siècle.
+1902-1977, Paris, cnrs Éditions.
+
+88, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Gresle F., 1989, «Conscience sociale, représentations et mémoire collective chez
+Maurice Halbwachs » dans Mentalités et représentations politiques. Aspects de la
+recherche, Roubaix, Edires, p. 9-20.
+Gurvitch G., [1950] 1963, La vocation actuelle de la sociologie. I : Vers la sociologie
+différentielle, Paris, Presses universitaires de France.
+
+Halbwachs M., 1925, Les cadres sociaux de la mémoire, Paris, Alean.
+Halbwachs M., [1938] 2015, La psychologie collective, Paris, Flammarion.
+Halbwachs M., 1946a, « Le rêve et le langage inconscient dans le sommeil », Journal
+de psychologie normale et pathologique, 39, p. 11-64.
+
+Halbwachs M., 1946b, « Réflexions sur un équilibre démographique », Annales esc,
+1, 4, p. 289-305.
+
+Halbwachs M., 1946c, Morphologie sociale, Paris, Armand Colin.
+Halbwachs M., 1947a, « L'expression des émotions dans la société » dans Échanges
+sociologiques, Paris, Centre de documentation universitaire, p. 5-8.
+Halbwachs M., 1947b, « La mémoire collective et le temps », Cahiers internatio
+naux de sociologie, 2, p. 3-31.
+Halbwachs M., 1949, « Mémoire et société », L'Année sociologique, 1, p. 11-177.
+Halbwachs M., 1950, La mémoire collective. Ouvrage posthume publié par Mme
+Jeanne Alexandre. Paris, Presses universitaires de France.
+Halbwachs M., 1952, Les cadres sociaux de la mémoire, Paris, Presses universitaires
+de France.
+
+Halbwachs M., 1955, Esquisse d'une psychologie des classes sociales, Paris, Marcel
+Rivière et C'e.
+
+Halbwachs M., 1964, Esquisse d'une psychologie des classes sociales, Paris, Marcel
+Rivière et C'e.
+
+Halbwachs M., 1968, La mémoire collective, Paris, Presses universitaires de France.
+
+Halbwachs M., 1970a, Morphologie sociale, Paris, Armand Colin.
+Halbwachs M., 1970b, La classe ouvrière et les niveaux de vie. Recherches sur la
+hiérarchie des besoins dans les sociétés industrielles contemporaines, Paris,
+Londres, New York (ny), Gordon & Breach.
+
+Halbwachs M., 1971, La topographie légendaire des Évangiles en Terre sainte,
+Paris, Presses universitaires de France.
+
+Halbwachs M., 1972, Classes sociales et morphologie. Présentation de V. Karady,
+Paris, Editions de Minuit.
+Halbwachs M., 1976, Les cadres sociaux de la mémoire, Paris-La Haye, Mouton.
+Halbwachs M., 1994, Les cadres sociaux de la mémoire, Paris, Albin Michel, 1994.
+Halbwachs M., 1997, La mémoire collective. Édition critique par G. Namer, avec
+la collaboration de M. Jaisson. Paris, Albin Michel.
+Halbwachs M., 1999, « Ma campagne au Collège de France », Revue d'histoire des
+sciences humaines, 1, p. 189-228.
+Halbwachs M., 2002, Les causes du suicide, Paris, Presses universitaires de France.
+
+Halbwachs M., 2008a, La topographie légendaire des Évangiles en Terre sainte,
+Paris, Presses universitaires de France.
+Halbwachs M., 2008b, Les classes sociales, Paris, Presses universitaires de France.
+Halbwachs M., 2010, La théorie de l'homme moyen. Essai sur Quételet et la sta
+tistique morale, Chilly-Mazarin, SenS Editions.
+
+Revue française de sociologie, 57-1,2016,89
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+Halbwachs M., 2011, Le destin de la classe ouvrière, Paris, Presses universitaires
+de France.
+
+Halbwachs M., 2012, Écrits d'Amérique. Édition établie et présentée par
+Ch. Topalov. Paris, Éditions de I'ehess.
+
+Halbwachs M., Sauvy A. (dir.), [1936] 2005, Le point de vue du nombre. Avec la
+collaboration de H. Ulmer et G. Bournier. Précédé de l'avant-propos au tome
+VII de VEncyclopédie française de Lucien Febvre et suivi de trois articles de
+M. Halbwachs. Édition critique sous la direction de M. Jaisson et É. Brian, Paris,
+INED.
+
+Hartog F., 2013, Croire en l'histoire, Paris, Flammarion.
+
+Hartog F., 2015, Partir pour la Grèce, Paris, Flammarion.
+
+Heilbron J., 1985, «Les métamorphoses du durkheimisme, 1920-1940», Revue
+française de sociologie, 26, 2, p. 203-237.
+Heilbron J., 1991, «Pionniers par défaut? Les débuts de la recherche au Centre
+
+d'études sociologiques (1946-1960) », Revue française de sociologie, 32, 3,
+p. 365-379.
+Hirsch T., 2013, « Un "Flammarion" pour l'anthropologie. Lévy-Bruhl, le terrain,
+l'ethnologie », Genèses, 90, p. 105-132.
+
+Hirsch T., 2015, « Présentation » dans M. halbwachs, La psychologie collective,
+Paris, Flammarion, p. 7-42.
+Hubert H., 1918, « Préface » dans S. czarnowski, Le culte des héros et ses condi
+tions sociales. Saint Patrick, héros national de l'Irlande, Paris, Alean, p. 1-XCiv.
+Jaisson M., 1999, « Temps et espace chez Maurice Halbwachs (1925-1945) », Revue
+d'histoire des sciences humaines, 1, p. 163-178.
+Jaisson M., 2008a, « Introduction » dans M. Halbwachs, La topographie légendaire
+des Évangiles en Terre sainte, Paris, Presses universitaires de France, p. 5*-25*.
+
+Jaisson M., 2008b, « Mémoire collective et espace social » dans M. Halbwachs,
+La topographie légendaire des évangiles en Terre sainte, Paris, Presses universi
+taires de France, p. 73*-97*.
+
+Jaisson M., Baudelot C. (dir.), 2007, Maurice Halbwachs, sociologue retrouvé,
+Paris, Rue d'Ulm.
+
+Jaisson M., Brian É., 2005, « Rééditer Le Point de vue du nombre » dans
+M. Halbwachs, A. Sauvy (dir.), Le point de vue du nombre. 1936, Paris, ined,
+p. 1-6.
+
+Jeanpierre L., 2004, « Une opposition structurante pour l'anthropologie structurale :
+Lévi-Strauss contre Gurvitch, la guerre de deux exilés français aux États-Unis »,
+Revue d'histoire des sciences humaines, 11, p. 13-44.
+
+Jouttard P., 2013, Histoire et mémoire, conflits et alliances, Paris, La Découverte.
+Kaploun A., 1923, « Le rêve diffère-t-il de la veille comme l'individuel du social ? »,
+
+Journal de psychologie normale et pathologique, 20, p. 440-450.
+
+Karady V., 1972, « Biographie de Maurice Halbwachs » dans M. Halbwachs,
+Classes sociales et morphologie, Paris, Éditions de Minuit, p. 9-22.
+Karady V., 1976, « Durkheim, les sciences sociales et l'Université : bilan d'un semi
+échec », Revue française de sociologie, 17, 2, p. 267-311.
+
+Keck F., 2005, « Vie sociale et genres de vie. Une lecture des Causes du suicide de
+Maurice Halbwachs », Revue d'histoire des sciences humaines, 13, p. 33-50.
+
+90, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Lav abre M.-C, 2000, « Usages et mésusages de la notion de mémoire », Critique
+internationale, 1, p. 48-57.
+Lenoir R., 2004, « Halbwachs : démographie ou morphologie sociale ? », Revue
+européenne des sciences sociales, 42, 129, p. 199-218.
+Lenoir R., 2008, « Le moment Halbwachs », Regards sociologiques, 36, p. 83-91.
+Lévi-Strauss C., 1950, « Introduction à l'œuvre de Marcel Mauss » dans M. Mauss,
+Sociologie et anthropologie, Paris, Presses universitaires de France, p. ix-lii.
+
+Lévy-Bruhl H., 1946, « Le Centre d'Études Sociologiques », Synthèse, 5, 3-4,
+p. 130-132.
+Lévy-Bruhl L., 1949, Carnets, Paris, Presses universitaires de France.
+
+Luquet G.-H., 1929, « Maurice Halbwachs - Le suicide et les maladies mentales »,
+L'Année psychologique, 30, p. 512-513.
+Maître J., 1966, « La sociologie du catholicisme chez Czarnowski, Halbwachs, Hertz
+et Van Gennep », Archives de sociologie des religions, 21, p. 55-68.
+
+Marcel J.-C, 1998, « Jean Stoetzel élève de Maurice Halbwachs : les origines fran
+çaises de la théorie des opinions », L'Année sociologique, 48, 2, p. 319-351.
+Marcel J.-C., 1999, « Maurice Halbwachs à Chicago ou les ambiguïtés d'un ratio
+nalisme durkheimien », Revue d'histoire des sciences humaines, 1, p. 47-68.
+Marcel J.-C., 2001, Le durkheimisme dans l'entre-deux-guerres, Paris, Presses
+universitaires de France.
+
+Marcel J.-C., 2004a, « Une réception de la sociologie américaine en France
+(1945-1960) », Revue d'histoire des sciences humaines, 11, p. 45-68.
+Marcel J.-C., 2004b, « Les derniers soubresauts du rationalisme durkheimien : une
+théorie de "l'instinct social de survie" chez Maurice Halbwachs » dans Y. Deloye,
+C. Haroche (dir.), Maurice Halbwachs. Espaces, mémoires et psychologie collec
+tive, Paris, Publications de la Sorbonne, p. 51-64.
+
+Marcel J.-C., 2008, « Organicisme et théorie des classes sociales chez Simiand et
+Halbwachs : un héritage caché de Durkheim ? », Revue d'histoire des sciences
+humaines, 19, p. 143-160.
+Marcel J.-C., Mucchielli L., 1999, « Un fondement du lien social : la mémoire
+
+collective selon Halbwachs », Technologies. Idéologies. Pratiques. Revue
+d'anthropologie des connaissances, 13, 2, p. 63-88.
+Martin O., Vannier P., 2002, « La sociologie française après 1945 : places et rôles
+des méthodes issues de la psychologie », Revue d'histoire des sciences humaines,
+6, p. 95-122.
+Mauss M., 1947, Manuel d'ethnographie, Paris, Payot.
+Mauss M., 1950, Sociologie et anthropologie, Paris, Presses universitaires de France.
+
+Mendras H., 1995, Comment devenir sociologue. Souvenirs d'un vieux mandarin,
+Paris, Actes Sud.
+Monnerot J., 1946, Les faits sociaux ne sont pas choses, Paris, Gallimard.
+
+Montigny G. de, 2005, Maurice Halbwachs. Vie, œuvres, concepts, Paris, Ellipses.
+Montigny G. de, 2008, « Introduction générale » dans M. Halbwachs, Les classes
+sociales, Paris, Presses universitaires de France, p. 1-20.
+Montlibert C. de (dir.), 1997, Maurice Halbwachs. 1877-1945, Strasbourg, Presses
+universitaires de Strasbourg.
+
+Revue française de sociologie, 57-1,2016,91
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+Montlibert C. de, 2008, « Maurice Halbwachs à Strasbourg : une philosophie ratio
+naliste en action », Revue des sciences sociales, 40, p. 82-93.
+
+Morin E., 1952, «L'activité du Centre d'études sociologiques (1950-1951)»,
+L'Année sociologique, p. 555-559 [1950-1951],
+Mucchielli L., 2004, Mythes et histoire des sciences humaines, Paris, La Découverte.
+
+Mucchielli L., Renneville M., 1998, « Les causes du suicide : pathologie indivi
+duelle ou sociale ? Durkheim, Halbwachs et les psychiatres de leur temps
+(1830-1930) », Déviance et société, 22, 1, p. 3-36.
+Muel-Dreyfus F., 2004, « La rééducation de la sociologie sous le régime de Vichy »
+
+dans J. Heilbron, R. Lenoir, G. Sapiro (dir.), Pour une histoire des sciences
+sociales. Hommage à Pierre Bourdieu, Paris, Fayard, p. 107-124.
+Namer G., 1994, « Postface » dans M. Halbwachs, Les cadres sociaux de la
+mémoire, Paris, Albin Michel, p. 299-367.
+Namer G., 1997, « Postface » dans M. Halbwachs, La mémoire collective, Paris,
+Albin Michel, p. 239-295.
+Namer G., 2000, Halbwachs et la mémoire sociale, Paris, L'Harmattan.
+Nora P., 1978, « Mémoire collective » dans J. le Goff, R. Chartier, J. Revel (dir.),
+La nouvelle histoire, Paris, Retz-CEPL, p. 398-401.
+
+Nora P., 2003, « Préface » dans A. Becker, Maurice Halbwachs. Un intellectuel en
+guerres mondiales. 1914-1945, Paris, Agnès Viénot, p. 9-16.
+Nora P., 2011, Présent, nation, mémoire, Paris, Gallimard.
+
+Paugam S., 2002, « Préface : Le suicide revisité. En quoi Halbwachs s'oppose à
+Durkheim » dans M. Halbwachs, Les causes du suicide, Paris, Presses universi
+
+taires de France, p. ix-xxxvi.
+
+Peguignot B. (dir), 2007, Maurice Halbwachs : le temps, la mémoire, l'émotion,
+Paris, L'Harmattan.
+Piéron H., 1925, « Maurice Halbwachs, Les cadres sociaux de la mémoire », L'Année
+psychologique, 26, p. 535-538.
+
+Piéron H., 1930, « Maurice Halbwachs, Les causes du suicide », L'Année psycho
+logique, 31, p. 614-616.
+Piéron H., 1945, « Souvenirs sur Maurice Halbwachs », L'Université libre. Organe
+central de l'Union française universitaire, 5 mai 1945.
+Pinto L., 2006, Le collectif et l'individuel. Considérations durkheimiennes, Paris,
+Raisons d'agir.
+
+Pinto L., 2009, La théorie souveraine. Les philosophes français et la sociologie
+au xx' siècle, Paris, Le Cerf.
+Pinto L., 2014, Sociologie et philosophie : libres échanges, Montreuil, Ithaque.
+
+Polín R., 1946, « La sociologie française pendant la guerre », Synthèse, 5, 3-4,
+p. 117-129.
+Pollak M., 1979, « Paul F. Lazarsfeld, fondateur d'une multinationale scientifique »,
+Actes de la recherche en sciences sociales, 25, p. 45-59.
+
+Potin Y., 2015, « Archives Duby : un inventaire provisoire » dans P. Boucheron,
+J. Dalarun (dir.), Georges Duby. Portrait de l'historien en ses archives, Paris,
+Gallimard, p. 26-42.
+Revue d'histoire des sciences humaines, « Maurice Halbwachs et les sciences
+humaines de son temps », 1999, 1.
+
+92, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Roques M., 1945, « In Memoriam. Bruhat - Maspero - Halbwachs », Cahiers fran
+çais d'information. Bulletin hebdomadaire publié par le ministère de l'Informa
+tion, 14, 18 mai 1945, p. 1-5.
+Sapiro G., 2004, « Le savant et le littéraire. Les hommes de lettres contre la sociologie
+
+durkheimienne » dans J. Heilbron, R. Lenoir, G. Sapiro (dir.), Pour une histoire
+des sciences sociales. Hommage à Pierre Bourdieu, Paris, Fayard, p. 83-106.
+
+Sartre J.-P., [1943] 1947, « Un nouveau mystique », Critiques littéraires. Situa
+tions I, Paris, Gallimard, p. 133-174.
+Stankiewicz G., 2008, « "Comment en finir avec une tradition dominante ?" : rupture
+et continuité dans la trajectoire de Jean Stoetzel », Revue d'histoire des sciences
+
+humaines, 18, p. 137-158.
+
+Steiner P., 1999, « Maurice Halbwachs : les derniers feux de la sociologie écono
+mique durkheimienne », Revue d'histoire des sciences de l'homme, 1, p. 141-162.
+Steiner P., 2008, « La tradition française de critique sociologique de l'économie
+politique », Revue d'histoire des sciences humaines, 18, p. 63-84.
+Stoetzel J., 1946, « Sociologie et démographie », Population, 1, 1, p. 79-89.
+Stoetzel J., 1957, « Sociology in France: An Empiricist View » dans H. Becker,
+
+A. Boskoff (eds.), Modem Sociological Theory in Continuity and Change,
+New York (ny), The Dryden Press, p. 623-657.
+
+Stoetzel J., 1960, Sociologie et psychologie sociale en France. 1945-1958. Biblio
+graphie française établie à l'intention des lecteurs étrangers, Paris, Association
+pour la diffusion de la pensée française.
+Stoetzel J., 1963, La psychologie sociale, Paris, Flammarion.
+Stoetzel J., 1991, « L'esprit de la sociologie contemporaine », Revue française de
+
+sociologie, 32, 3, p. 443-456 [lre éd. Bulletin de la Société de philosophie de
+
+Bordeaux, 1946, 4],
+
+Tanguy L., 2011, La sociologie du travail en France. Enquête sur le travail des
+sociologues, 1950-1990, Paris, La Découverte.
+Topalov A., 2011, « Freud avec Halbwachs : les conditions d'une inscription sym
+bolique », Le Coq Héron, 204, p. 154-159.
+Topalov C., 1997a, « Maurice Halbwachs, photographe des taudis parisiens (1908) »,
+Genèses, 28, p. 128-145.
+
+Topalov C., 1997b, «Maurice Halbwachs et les villes (1908-1912). Une enquête
+d'histoire sociale des sciences sociales », Annales. Histoire, Sciences sociales, 52,
+5, p. 1057-1083.
+
+Topalov C., 1999, « "Expériences sociologiques" : les faits et les preuves dans les
+
+thèses de Maurice Halbwachs (1909-1913), Revue d'histoire des sciences
+
+humaines, 1, p. 11-46.
+
+Topalov C., 2004, « Les usages stratégiques de l'histoire des disciplines. Le cas de
+1'"école de Chicago" en sociologie » dans J. Heilbron, R. Lenoir, G. Sapiro (dir.),
+
+Pour une histoire des sciences sociales. Hommage à Pierre Bourdieu, Paris,
+Fayard, p. 127-157.
+
+Topalov C., 2005, « Un savant voyage : les "Lettres des États-Unis" de Maurice
+Halbwachs au Progrès de Lyon (septembre-décembre 1930) - I », Genèses, 58,
+p. 132-150.
+
+Topalov C., 2006, « Maurice Halbwachs et les sociologues de Chicago », Revue
+française de sociologie, 47, 3, p. 561-590.
+
+Revue française de sociologie, 57-1,2016,93
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Une vie posthume
+
+Topalov (I, 2012, « Maurice Halbwachs : une expérience américaine » dans
+M. Halbwachs, Écrits d'Amérique, Paris, Éditions de I'ehess, p. 11-78.
+Topalov C., 2015, Histoire d'enquêtes. Londres, Paris, Chicago (1880-1930), Paris,
+Classiques Garnier.
+
+Truc G., 2010, «Esquisse d'une sociologie de la théologie. Une relecture de La
+topographie légendaire des évangiles en Terre Sainte de Maurice Halbwachs »,
+Archives de sciences sociales des religions, 150, p. 155-173.
+Vannier P., 2000, « Les caractéristiques dominantes de la production du Centre
+d'Études Sociologiques (1946-1968) : entre perpétuation durkheimienne et affilia
+tion », Revue d'histoire des sciences humaines, 2, p. 125-145.
+
+Verret M., 1972, «Halbwachs ou le deuxième âge du durkheimisme », Cahiers
+internationaux de sociologie, 53, p. 311-336.
+Verret M., 1991, « Regards sur l'histoire de la sociologie ouvrière française. Entre
+tien avec Michel Verret », Politix, 4, 13, p. 50-55.
+
+Wallon H., 1947, « L'étude psychologique et sociologique de l'enfant », Cahiers
+internationaux de sociologie, 3, p. 3-23.
+Wilson E. K., 1963, « L'influence de Durkheim aux États-Unis. Recherches empiri
+ques sur le suicide », Revue française de sociologie, 4, 1, p. 3-11.
+Zazzo R., 1945, « L'université française en deuil. Maurice Halbwachs », imec, Fonds
+Maurice Halbwachs, hbw2.b2-04.
+
+Zazzo R., 1960, « Maurice Halbwachs. 1877-1944 » dans Anthologie des écrivains
+morts à la guerre (1939-1945), Paris, Albin Michel, p. 362-365.
+Zekian S., 2012, L'invention des Classiques, Paris, CNRS Éditions.
+
+94, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Thomas Hirsch
+
+Abstract
+
+A posthumous life. Maurice Halbwachs and French sociology (1945-2015)
+Seen by his contemporaries as both a convinced and committed disciple of Durkheim,
+the legacy of Halbwachs has gone through three distinct stages, following the rhythm
+of publications on his work. Firstly, from 1945 to 1955, a rescue attempt which in various
+ways sought to distinguish it from that of the "French sociological school" and adapt it
+better to the new directions of a sociology that was reinventing itself; then, between
+1964 and 1976, a division between new interpretations of the post-war period and his
+torical re-evaluation in the context of Durkheim; finally, since the turn of the 1990s, and
+in the light of the popularity of the concept of collective memory, a new rationale of
+distinction attempting to justify the exceptional nature of his research. The posthumous
+life of Halbwachs traced here makes it possible to question both the interpretational
+approaches that inform the perspectives on his work and the constraints that weigh on
+the writing of its own history by French sociology.
+
+Key words. History of sociology - Sociology of reception - Collective memory -
+
+Maurice Halbwachs - Emile Durkheim
+
+ZUSAMMENFASSUNG
+
+Ein Nachleben. Maurice Halbwachs und die franzôsische Soziologie (1945-2015)
+Maurice Halbwachs wurde von Zeitgenossen eine sowohl überzeugter ais sowohl ero
+bernder Schüler Durkheims angesehen und die Erinnerung an ihn durchlief seit seinem
+
+Tod drei klar unterschiedliche Perioden entsprechend seiner editorialen Aktualitât:
+zunâchst von 1945 bis 1955 ein Versuch der Rettung, bei dem nach verschiedenen
+Modalitâten versucht wird, ihn von der „franzosischen soziologischen Schule" zu unter
+scheiden, um ihn besser den neuen Orientierungen einer sich zwingend erneuernden
+
+Soziologie anzupassen; dann zwischen 1964 und 1976 eine Aufteilung zwischen einer
+
+erneuten Lesung des Nachkriegs und einer wiederholten historischen Einbringung in die
+
+Folge Durkheims; und schiieBlich seit den Jahren 1990 und unter dem EinfluR der
+
+Begeisterung für den Begriff des kollektiven Gedàchtnisses eine neue Unterscheidungs
+logik zur Hervorhebung der Aussergewóhnlichkeit seiner Forschungen. Das Nachleben
+von Halbwachs wie es hier aufgezeichnet wird, gestattet, sowohl die Leseschemata zu
+befragen, die Informationen liefern über die Art und Weise sein Werk interpretiert wurde,
+
+als auch die Zwánge zu hinterfragen, die in der Darstellung ihren eigenen Geschichte
+durch die franzôsische Soziologie vorliegen.
+Worter Schlüssel. Geschichte der Soziologie - Soziologie der Rezeption Kollektives Gedàchtnis - Maurice Halbwachs - Emile Durkheim
+
+Revue française de sociologie, 57-1,2016,95
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+Abstract, Zusammenfassung, Resumen
+
+Resumen
+
+Una vida postuma. Maurice Halbwachs y la sociología francesa (1945-2015)
+Considerado por sus contemporáneos como un discípulo a la vez convencido y defensor
+
+de Durkheim, el recuerdo de Halbwachs ha conocido desde su muerte tres períodos
+claramente disímiles, que siguen el ritmo de su actualidad editorial: en primer lugar, de
+1945 a 1955, un intento de rescate que, según varias modalidades, trata de distinguirlo
+
+de la "escuela sociológica francesa" para aclimatarlo mejor a las nuevas orientaciones
+de una sociología obligada a reinventarse; a continuación, entre 1964 y 1976, una divi
+sión entre la permanencia de las lecturas de la posguerra y la reinscripción histórica en
+los pasos de Durkheim; por fin, desde el viraje de los años noventa, que se mide por
+el entusiasmo con el concepto de memoria colectiva, una nueva lógica de distinción
+que intenta justificar lo excepcional de sus investigaciones. La vida postuma de Halb
+wachs descrita aquí permite cuestionar tanto los esquemas de lectura que aclaran la
+mirada sobre su obra como los obstáculos que dificultan la escritura de su propia historia
+por la sociología francesa.
+Palabras claves. Historia de la sociología - Sociología de la recepción - Memoria
+colectiva - Maurice Halbwachs - Emile Durkheim
+
+96, Revue française de sociologie, 57-1,2016
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 14:10:28 UTC
+All use subject to https://about.jstor.org/terms
+
+

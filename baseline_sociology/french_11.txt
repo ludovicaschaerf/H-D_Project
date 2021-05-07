@@ -1,0 +1,1438 @@
+LA CONSTRUCTION D'UNE SOCIOLOGIE SPÉCIALISÉE. LE SAVOIR SOCIOLOGIQUE ET LA
+SOCIOLOGIE JURIDIQUE DE JEAN CARBONNIER
+Author(s): Jacques COMMAILLE
+Source: L'Année sociologique (1940/1948-), Troisième série, Vol. 57, No. 2, Autour du droit:
+la sociologie de Jean Carbonnier (2007), pp. 275-299
+Published by: Presses Universitaires de France
+Stable URL: https://www.jstor.org/stable/27890530
+Accessed: 20-04-2021 14:13 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Presses Universitaires de France is collaborating with JSTOR to digitize, preserve and extend
+access to L'Année sociologique (1940/1948-)
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+LA CONSTRUCTION
+
+D'UNE SOCIOLOGIE SP?CIALIS?E.
+LE SAVOIR SOCIOLOGIQUE
+ET LA SOCIOLOGIE JURIDIQUE
+DE JEAN CARBONNIER
+Jacques COMMAILLE
+
+R?SUM?. ? Un retour sur les usages du savoir de sociologie g?n?rale par Jean Car
+bonnier, grande figure de la sociologie du droit contemporaine en m?me temps qu'?mi
+nent juriste civiliste, offre l'exceptionnelle opportunit? d'une contribution ? une analyse
+des rapports entre sociologies sp?cialis?es et sociologie g?n?rale. Le souci d'utilit? mani
+fest? par cet illustre repr?sentant de la sociologie du droit constitue bien s?r une source
+possible de clivage entre juristes et sociologues s'ajoutant ? leurs diff?rences sp?cifiques de
+visions du monde. Mais au-del? de ces confrontations identitaires, la sociologie du droit
+appara?t exemplaire de l'obligation dans laquelle se trouvent les sociologies sp?cialis?es de
+retourner ? la sociologie g?n?rale quand le sens des transformations de leur objet ne peut
+
+?tre trouv? en elles-m?mes mais doit ?tre recherch? dans les mutations sociales et
+
+politiques dans lesquelles elles s'inscrivent.
+ABSTRACT. ? A return to the uses of general sociology by Jean Carbonnier, grand
+figure in contemporary sociology of law as well as eminent civil jurist, offers the excep
+tional opportunity for an analysis of the connections between general and specialized
+forms of sociology. The desire for utility demonstrated by this luminary of the sociology
+of law constitutes, of course, a possible source of division between jurists and sociologists
+in addition to their specifically different visions of the world. But beyond these confron
+tations of identity, the sociology of law appears exemplary of the obligation that speciali
+zed sociologies face to return to general sociology when the meaning of the transforma
+tions of their object cannot be found in themselves but must be sought in the social and
+political mutations in which they are inscribed.
+
+Rien n'illustre mieux la complexit? de r?tablissement du statut
+
+?pist?mologique d'une sociologie sp?cialis?e que la sociologie du
+droit. Beaucoup de sociologies sp?cialis?es sont n?es dans la p?riode
+contemporaine de la traduction de questions sociales en probl?mes
+publics en m?me temps que de institutionnalisation et de la pro
+fessionnalisation de la sociologie. On sait que la p?riode de l'apr?s
+guerre fut propice au d?veloppement de ces sociologies sp?cialis?es.
+Elles furent inspir?es par une conception directement op?ratoire eu
+L'Ann?e sociologique, 2007, 57, n? 2, p. 275 ? 299
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+276
+
+Jacques Commaille
+
+?gard aux pr?occupations de renouveau industriel ou de mise en
+uvre d'une politique d'?quipements sociaux et de logements, de
+l'?tablissement d'une planification ? ? la fran?aise ?. La ? conviction
+[?tait] que ces savoirs [de sciences sociales pouvaient] effectivement
+
+am?liorer la d?cision publique en la fondant sur des connaissances
+objectiv?es ? (Bezes et al, 2005, p. 10). La sociologie du droit (ou la
+sociologie juridique, les incertitudes de l'intitul? ont sans doute un
+sens en la mati?re - Commaille, 2003), elle-m?me sociologie sp?
+cialis?e, se distingue n?anmoins de ce courant dans la mesure o?
+elle est inscrite dans une longue tradition d?butant formellement
+par la premi?re mention d'une ? Soziologie des Rechts ? annonc?e
+en 1913 par le juriste autrichien Eugen Ehrlich (Ehrlich, 1913,
+1967). Outre d'?tre ancienne, l'originalit? de cette sociologie sp?
+cialis?e est aussi de rendre particuli?rement visible ce que peut ?tre
+le poids des professionnels concern?s dans la cr?ation et le d?velop
+pement d'un domaine particulier de la sociologie puisque, en l'oc
+currence, ce sont bien tr?s majoritairement les juristes qui ont fait la
+
+sociologie du droit.
+Les conditions d'?mergence de toute sociologie sp?cialis?e sug
+g?rent que les raisons de solliciter le savoir sociologique s'expriment
+
+d'abord en termes d'utilit?. Se pose alors la question des effets de
+connaissance produite par un savoir ainsi sollicit?. Par exemple,
+cette pr?occupation d'utilit? ne risque-t-elle pas d'autonomiser
+excessivement un savoir sp?cialis? par rapport ? la sociologie g?n?
+rale jusqu'? devenir une technique de l'analyse du social dont l'ap
+pauvrissement ne peut ?tre masqu? par une ?ventuelle production
+th?orique abusivement indig?ne ? A l'inverse, un tel savoir sp?cia
+lis? est-il susceptible de contribuer ? l'approfondissement du savoir
+g?n?ral de la discipline dont il rel?ve ?
+
+Le constat de l'influence pr?pond?rante des juristes dans le
+d?veloppement de la sociologie du droit ne peut en tous les cas que
+renforcer cette id?e d'une vis?e pratique assign?e ? cette derni?re :
+la sociologie du droit devient une sociologie au service du droit,
+
+principalement d'une meilleure ad?quation entre celui-ci et le
+
+fonctionnement du monde social. Mais les choses ne sont-elles pas
+dans ce cas particulier plus complexes ? Le savoir sociologique est
+en effet mobilis? ici par des professionnels - les juristes - parmi les
+
+quels certains d'entre eux ont toujours aspir? ? ce que leur pratique
+
+soit ?galement une science, une science du social susceptible
+d'?puiser le sens de ce dernier en tentant de l'ordonner (Com
+
+maille, 2007). La nature des rapports possibles avec la sociologie
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+277
+
+devient alors plus difficile ? ?tablir que dans n'importe laquelle des
+sociologies sp?cialis?es.
+La sociologie risque d'?tre ignor?e ou rejet?e, par exemple, par
+un positivisme juridique fond? sur le postulat ? d'une irr?ductible
+autonomie de l'ordre juridique ? justifiant que les ? faits de droit [ne
+soient] per?us qu'? travers les seuls faits de textes ? (Caillosse, 1993).
+
+Mais, ? l'inverse, son usage, s'il est admis, peut ne pas ?tre r?duit ?
+celui d'une sorte d'ing?nierie sociale dans la mesure o? l'ambition
+du juriste comme th?oricien du social peut converger avec celle du
+sociologue au point de l'amener ? porter de l'int?r?t pr?cis?ment ?
+ce que dit aussi la sociologie g?n?rale.
+On le voit, une r?flexion sur la sociologie du droit peut ofrrir
+l'exceptionnelle opportunit? d'une contribution ? une r?flexion
+sociologique sur les sociologies sp?cialis?es auxquelles curieusement
+les analyses sur l'histoire contemporaine de la sociologie consacrent
+peu de place sauf quelques rares exceptions (par exemple : Amiot,
+
+1986 ; Bezes et al, 2005 ; Chenu, 2002-2003 ; Drouard, 1982 ;
+Lautman, 1983 ; Pollak, 1976 ; Zimmermann, 2004). Si elles le
+
+font, elles ne se penchent en tous les cas que tr?s partiellement sur
+les effets de connaissance ou sur le contenu de la production de
+connaissance sociologique (notamment en termes de th?ories, de
+concepts) que ces d?terminations de nature institutionnelle ou poli
+tique peuvent produire. Ainsi, cette r?flexion sur la sociologie du
+droit devrait nous fournir en particulier l'occasion de travailler un
+peu plus cette forte interrogation sur la relation entre savoir et pou
+voir formul?e par Michel Amiot ? la fin de son ouvrage consacr? ?
+l'histoire de la sociologie urbaine :
+? Comment arracher l'autonomie du champ de la recherche en scien
+ces sociales ? l'influence des conceptions ou des disciplines qui ont partie
+li?e avec le pouvoir (Amiot, 1986, p. 289) ?
+
+Un retour sur l' uvre sociologique de Jean Carbonnier offre de
+ce point de vue le pr?texte le plus prometteur pour d?velopper une
+telle r?flexion. En effet, l'analyse des usages que Jean Carbonnier a
+fait de la sociologie g?n?rale dans le cadre de sa sociologie juridique
+nous semble pouvoir ?clairer de fa?on tout ? fait exemplaire cette
+?conomie si particuli?re d'une telle sociologie sp?cialis?e. Faut-il
+rappeler qu'il s'agit en effet d'un ?minent juriste civiliste qui a
+accord? le plus grand int?r?t au savoir sociologique et a pris une
+
+place importante dans cette tradition de la sociologie du droit
+?voqu?e supra au point d'en devenir, pour la France, dans la
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+278
+
+Jacques Commaille
+
+p?riode contemporaine, l'auteur de r?f?rence. Plus que pour beau
+coup d'autres, la stature intellectuelle exceptionnelle du personnage
+autorise ? se livrer ? de multiples interrogations sur ce que peut ?tre
+
+la gen?se d'un positionnement scientifique d'une sociologie sp?cia
+lis?e. Toutes les conditions apparaissent r?unies pour mieux p?n?
+trer ce myst?re : ce qui fait science sociale quand il est question de
+droit, et au-del?, ce qui constitue, en r?f?rence ? la sociologie g?n?
+rale dont elle se r?clame plus ou moins, une sociologie sp?cialis?e
+du point de vue de ceux qui la promeuvent et en r?f?rence aux
+conditions historiques, institutionnelles qui favorisent son ?tablisse
+ment et son d?veloppement. Nous verrons ainsi que les usages que
+Jean Carbonnier fait dans sa sociologie du droit des analyses propo
+s?es par les grandes figures de la sociologie g?n?rale sont en m?me
+temps r?v?lateurs d'une ?conomie complexe des relations entre
+juristes et sociologues, laquelle p?se fortement sur la d?finition et
+l'institutionnaHsation de la sociologie du droit.
+Pour entreprendre ce ? voyage ? dans une pens?e pour laquelle
+nous devons reconna?tre qu'il est parfois difficile de d?passer la
+simple adh?sion admirative que suscite exceptionnelle richesse de
+l'?rudition d?ploy?e et la beaut? du langage, qui ne peut r?sulter
+que des gr?ces de l'esprit de son auteur, il nous faut retrouver la
+vigilance de l'analyste. Nous nous y sommes essay? en nous r?f?rant
+
+principalement au c?l?bre manuel de Sociologie juridique, particuli?
+rement ? l'?dition de 1978 parue aux puf (lre ?dition chez Armand
+CoUn, 1972). Pour tenter de saisir d'?ventuelles ?volutions, nous
+nous sommes ?galement report? parfois aux ?ditions plus r?centes
+
+de cet ouvrage en 1994 puis en 2004 aux puf dans la collection
+? Quadrige ?. Le manuel de Droit civil nous a ?t? utile dans la
+
+mesure o? dans ? Etat des questions ? ? la fin de chaque chapitre,
+l'auteur fait parfois r?f?rence aux grands auteurs de sociologie bien
+que souvent de fa?on factuelle et exclusivement en relation avec des
+
+notions de droit. Outre quelques-uns des autres grands ouvrages de
+Jean Carbonnier (parmi lesquels Flexible droit. Pour une sociologie du
+droit sans rigueur, 1969, Essais sur les lois, 1979 ou encore Droit et pas
+
+sion du droit sous la V R?publique, 1996), nous nous sommes ?gale
+ment r?f?r? ? plusieurs articles parus dans la revue Droit et Soci?t? et
+
+enfin ? cet exceptionnel entretien accord? par Jean Carbonnier ?
+Andr?-Jean Arnaud et qui est paru dans l'ouvrage Jean Carbonnier,
+Renato Tr?ves et la sociologie du droit. Arch?ologie d'une discipline (lgdj,
+
+coll. ? Droit et Soci?t? ?, 1995).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+279
+
+La gen?se des justifications pratiques
+d'une sociologie sp?cialis?e
+C'est pr?cis?ment dans cet entretien que Jean Carbonili er
+?voque la gen?se de son int?r?t pour une sociologie qui pourrait
+avoir un sens pour le droit, dans la mesure o? elle fournit des fon
+dements scientifiques aux modes d'action sur le normatif :
+? D?s mon ann?e de philosophie, j'avais ?t? frapp? par la lecture des
+sociologues de sociologie g?n?rale, en particulier par l'ouvrage de Lucien
+L?vy-Bruhl, La morale et la science des m urs ; il m'avait sembl?, d?s ce
+moment-l? et lorsque ensuite je fus entr? dans les Facult?s de droit, que le
+droit ?tait peut-?tre susceptible de la m?me dualit? d'approche que la
+morale dans son opposition ? la science des m urs comme Lucien L?vy
+Bruhl, dans la pr?face de son ouvrage surtout, avait d?crit cette opposition,
+qu'il y avait place pour une science objective du droit, de la m?me mani?re
+que, disait Lucien L?vy-Bruhl, il y avait place pour une science des m urs
+en face de la morale ? (Andrini et Arnaud, 1995, p. 27-28)
+
+Mais ce qui m?rite ?galement d'?tre not? dans cette partie de
+l'entretien, c'est cet int?r?t proclam? pour une vision plus large que
+celle susceptible d'int?resser exclusivement le droit m?me si elle est
+
+?voqu?e comme un pr?alable utile ? ce qui sera sa sociologie du
+droit :
+? C'est dire que l'approche sociologique du droit m'?tait implicitement
+famili?re par la lecture des philosophes que j'avais pratiqu?e dans mes ann?es
+de philosophie. J'avais ?galement beaucoup ?tudi? Durkheim. Durkheim et
+
+Lucien L?vy-Bruhl ont certainement eu sur moi une influence qui m'a
+men? vers la sociologie du droit ? (Andrini et Arnaud, 1995, p. 28).
+
+Une sociologie sp?cialis?e
+
+comme projet de science pratique
+
+L'omnipr?sence de Durkheim dans les ?crits de Jean Carbon
+nier consacr?s ? la sociologie du droit a certainement ? voir avec le
+1. On notera ici que ce souci d'une ? science objective du droit ? ?tait d?j? pr?sent
+
+dans la th?se de droit soutenue par Jean Carbonnier en 1932. En effet, dans l'introduction
+
+? cette th?se, Jean Carbonnier annonce l'adoption d'une d?marche de recherche - hypo
+th?se, observation, exp?rimentation, conceptualisation auxquelles il convient d'ajouter le
+rejet des pr?notions et l'expression de l'intention de trouver les fondements du r?gime
+matrimonial aussi dans les faits sociaux ( ? il faut partir des faits ? ) avec des r?f?rences
+appuy?es ? Gabriel Tarde - que ne renierait pas un sociologue et qui t?moigne d'un cer
+tain parall?lisme entre la ? science du droit ? ainsi mise en uvre et la recherche en scien
+ces sociales (Carbonnier, 1932).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+280
+
+Jacques Commaille
+
+fait que ce dernier fut ?tudiant l? o? enseigna auparavant Emile
+
+Durkheim. Cette origine bordelaise de Jean Carbonnier p?se
+incontestablement dans l'?tablissement de ses rapports ? la socio
+
+logie. Dans l'entretien pr?cit?, il rappelle ainsi que le pr?sident de sa
+
+th?se, Julien Bonnecase ?tait en opposition au doyen, qui ?tait
+
+L?on Duguit. Or,
+
+? Duguit se piquait de sociologie ?. ? Il avait, d?s les ann?es o? Durkheim
+enseignait ? Bordeaux, beaucoup fr?quent?, invit? Durkheim (...), il repr?
+sentait un appel vers la sociologie, malgr? cette sorte d'opposition, ? l'int?
+rieur de la Facult?, avec Julien Bonnecase ? (Andrini et Arnaud, 1995,
+
+p. 28).
+
+Mais cette origine bordelaise et les influences qu'elle avait favo
+ris?es ne sauraient expliquer ? elles seules l'importance d'Emile
+Durkheim dans le processus de construction de la sociologie du
+droit de Jean Carbonnier. En fait, pour ce dernier, cette sociologie
+sp?cialis?e ne peut ?tre fond?e que sur une rupture ?pist?molo
+gique avec la dogmatique juridique. Des R?gles de la m?thode sociolo
+gique o? est affirm?e d'abord la c?l?bre r?gle suivant laquelle ? il faut
+
+traiter les faits sociaux comme des choses ?, Jean Carbonnier en
+d?duit qu'il lui faut aussi ? traiter du droit comme une chose ? (Car
+
+bonnier, 1978, p. 251). Pour lui, la sociologie du droit ? n'a pas de
+r?gle plus fondamentale ? et
+? il se peut m?me que ce soit cette exigence qui la d?finisse le mieux, dans
+
+son opposition au droit dogmatique ? (Carbonnier, 1978, p. 251).
+
+Pour lui,
+? le droit dogmatique a maintenant la sociologie juridique aupr?s de lui
+comme un instrument de critique ouverte ? susceptible de l'observer du
+dehors (Carbonnier, 1978, p. 365).
+
+A partir de la soumission ? cette r?gle fondamentale, il s'agit de
+faire de la sociologie du droit, ce que nous pourrions appeler une
+science pratique. Cela suppose qu'elle soit fond?e sur l'empirie.
+C'est un leitmotiv chez Jean Carbonnier. A propos de la revue
+Droit et Soci?t?, il exprime ainsi le souhait qu'elle fasse ? un peu plus
+
+de place ? l'empirie ? et qu'elle ?vite
+? F?cueil que la th?orie ne devienne philosophie, et la philosophie, m?ta
+physique ? (Andrini et Arnaud, 1995, p. 58).
+
+Rien n'illustre mieux ce souci de l'empirie que cette r?f?rence ?
+Th?odore Geiger chez qui Jean Carbonnier salue
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+281
+
+? son refus des id?es toutes faites, venues du droit dogmatique, positif ou
+naturel, son souci de prendre appui sur des faits tir?s de l'ethnologie, de
+l'histoire, de la pratique juridique contemporaine ? (Carbonnier, 1978,
+
+p. 134).
+
+En cela, la sociologie du droit ne semble pas devoir aspirer ?
+?tre th?orique. Si elle Test, ce n'est que ? par transposition ? dans la
+
+mesure o? il ne s'agit que
+
+d'? adapter ? la sociologie du droit des th?ories ?labor?es ant?rieurement
+en sociologie g?n?rale ? (Carbonnier, 1978, p. 153).
+
+On notera ici que la sociologie du droit s'affirme ? l'oppos?
+d'autres sociologies sp?cialis?es. Celles-ci sont enclines ? produire
+
+de la th?orie indig?ne, revendiqu?e comme originale, dans la
+
+mesure o? elle est fond?e sur une ignorance plus ou moins involon
+taire de th?ories d?j? existantes en sociologie g?n?rale dont elle
+n'est alors que la p?le transposition. La sociologie du droit assume,
+elle, son statut de science appliqu?e. En fait, il semble bien que la
+th?orie soit laiss?e ? la sociologie g?n?rale suppos?e poursuivre
+d'autres objectifs que de se mettre au service d'une action. La socio
+logie du droit a d'abord pour vocation de mieux ma?triser le rap
+port entre le droit et le fait par une meilleure connaissance du fait.
+
+C'est donc une sociologie du droit qui exclut une th?orie sociolo
+gique du droit qui prendrait classiquement en compte, non seule
+ment ce qui p?se socialement sur le droit et r?ciproquement, mais
+ce qui se passe ? l'int?rieur m?me de la sph?re juridique et ce qu'y
+font ses acteurs, les juristes, les professionnels du droit.
+
+Il y aurait certainement ? approfondir ce refus d'une th?orisa
+tion sociologique qui retrouverait la tradition des grandes figures
+fondatrices de la sociologie. Ce refus va peser sur les d?veloppe
+ments de la sociologie du droit. Il a sans doute ? voir avec le renvoi
+sugg?r? vers une th?orie du droit suppos?e satisfaire cette exigence
+
+th?orique bien qu'il s'agisse d'un savoir interne aux ? sciences juri
+diques ?. Il est probablement ? mettre en parall?le avec l'?mergence
+d'une science critique comme le fut le mouvement ? critique du
+droit ?, marqu? par la fausse rupture ?pist?mologique que repr?sen
+tait l'adoption d'une posture effectivement critique et empruntant
+au marxisme. Il est ? confronter avec, en France, des tentatives de
+
+th?orisation, comme celle, par exemple, d'Andr?-Jean Arnaud.
+Celui-ci, issu de l'histoire et de la philosophie du droit, s'oriente
+vers des th?ories comme le structurahsme ou l'approche syst?mique
+pour r?aliser une sorte de synth?se entre savoirs juridiques et savoirs
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+282
+
+Jacques Commai?le
+
+de sciences sociales, synth?se finalement constitutive d'une th?ori
+
+sation particuli?rement originale qui sera exceptionnellement
+propre ? la sociologie du droit2.
+
+Dans le cadre de ce choix d'une sociologie du droit comme
+
+science pratique, Jean Carbonnier accorde ? la m?thodologie un
+statut conforme ? celui de cette sociologie sp?cialis?e qu'il pro
+meut. S'il est admis que la m?thodologie de la sociologie du droit
+puisse ?tre confront?e ? des difficult?s particuli?res compte tenu de
+
+ses objets (Commai?le et Marmier-Champenois, 1977), pour Jean
+
+Carbonnier, les m?thodes de la sociologie du droit, comme les
+techniques qu'elle mobilise, sont celles de la sociologie g?n?rale :
+? La sociologie juridique a beaucoup re?u de la sociologie g?n?rale
+dont elle est fille. Ses m?thodes ne sont pour la plupart (...) que des adapta
+tions de celles qui avaient d?j? ?t? mises au point dans d'autres domaines
+sociologiques ? (Carbonnier, 1978, p. 20).
+
+En fait, dans cette perspective, le souci de l'empirie tient moins
+? la volont? de se r?f?rer ? la ? science ? sociologique et plus ?
+mettre la sociologie du droit ainsi con?ue au service de son ? travail
+de pr?paration du l?gislateur ? (Andrini et Arnaud, 1995, p. 95). Ce
+qui justifie cette consid?ration :
+? Je suis sorti d'une recherche au coin du feu pour une recherche sur le
+terrain ? (Andrini et Arnaud, 1995, p. 95).
+
+Une telle consid?ration autorise alors son commentateur ?
+consid?rer que
+? la sociologie juridique [de Jean Carbonnier] est avant tout une pratique ?
+
+(Andrini et Arnaud, 1995, p. 95)
+
+et, en ce sens, s'adressant principalement aux juristes, elle constitue
+
+plus une sous-discipline du droit que de la sociologie :
+? La sociologie juridique (...) a souci (...) de devenir science appliqu?e,
+d'assumer une fonction pratique. Elle ressent m?me beaucoup plus que la
+sociologie g?n?rale ce besoin de servir, parce que, forc?e par ?tat de
+c?toyer les juristes, dont la science est enti?rement tourn?e vers une action,
+
+elle rougirait d'?tre un luxe d'esprit ? (Carbonnier, 1978).
+2. Parmi les nombreuses publications t?moignant de ces orientations th?oriques,
+nous retiendrons ici : Essai d'analyse structurale du Code civil fran?ais. La r?gle du jeu dans la
+paix bourgeoise, Paris, LGDJ, 1973 ; Critique de la raison juridique. ?. O? va la sociologie du
+droit ?, Paris, LGDJ, 1981 ; Introduction ? l'analyse sociologique des syst?mes juridiques, Bruxel
+
+les, Bruylant, 1998 (?crit en collaboration avec Maria Jos? Farinas Dulce, cet ouvrage
+
+repr?sente une v?ritable tentative de r?alisation d'un manuel de sociologie du droit o? le
+savoir concern? est pr?sent? suivant un sch?ma th?orique inspir? de l'analyse de syst?mes).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+283
+
+C'est bien cette pr?occupation pratique qui justifie la crainte de
+voir la sociologie verser dans la philosophie. Par exemple, dans le
+premier chapitre de Flexible droit, l'auteur annonce la formulation
+de ? grandes hypoth?ses ? mais ajoute aussit?t qu'avec celles-ci
+? on est tr?s pr?s de la philosophie du droit, d'une sorte de philosophie de
+la sociologie juridique ? (Carbonnier, 1995, p. 9).
+
+Une telle crainte justifie ?galement les r?ticences fr?quemment
+exprim?es ? l'?gard de la pens?e de grandes figures de la sociologie :
+? Geiger, Gurvitch, Durkheim lui-m?me ont m?dit? sur le droit en
+solitaires : ?taient-ils sociologues, comme ils le croyaient, ou philosophes,
+comme le ferait soup?onner leur esprit de syst?me ? Et Montesquieu, "qui
+fit surtout de la sociologie par lectures" ? (Carbonnier, 1978, p. 24).
+
+Ce constat d'un ? th?oricisme ? de la sociologie vaut encore plus
+quand ces figures de la sociologie g?n?rale s'int?ressent au droit et
+font ainsi de la sociologie du droit :
+? Ce qui a pu contribuer ? faire prendre la sociologie juridique pour
+une philosophie, c'est que, parmi les sociologues du droit, m?me de nos
+jours, un courant important persiste dont l'orientation est th?orique plus
+qu'empirique. Il trouve ses th?mes dans ce que le droit a de plus g?n?ral :
+les sources, de pr?f?rence aux institutions concr?tes, et ses instruments de
+travail dans les biblioth?ques, voire dans la minerve individuelle, plut?t que
+sur le terrain. Des auteurs tels que Max Weber, Geiger, Gurvitch illustrent
+
+bien cette sociologie th?orique du droit, qui est une sorte de philosophie
+de la sociologie juridique ? (Carbonnier, 1978, p. 26).
+
+N?anmoins en rupture avec la dogmatique juridique, fond?e sur
+l'empirie parce que d'abord science pratique, la sociologie du droit
+de Jean Carbonnier se situe activement par rapport ? la sociologie
+
+g?n?rale et dialogue constamment avec elle. C'est bien ce que
+
+montre sa r?f?rence au pluralisme qui est ? la fois au c ur de sa
+sociologie du droit en m?me temps qu'il constitue un des ?l?ments
+de sa philosophie politique, celle du ? l?gislateur juridique ? qui
+n'est pas loin de revendiquer d'?tre aussi le ? l?gislateur politique ?
+(Commaille, 1994). S'appuyant sur la technique du sondage dont il
+t?moigne de la connaissance qu'il en a acquise, rappelant qu'elle est
+
+d'abord abondamment pratiqu?e aux Etats-Unis, pour nourrir
+
+ensuite ? l' uvre ?clatante de Jean Stoetzel ? avec sa Th?orie des opi
+
+nions publi?e en 1943 (? laquelle il convient d'ajouter l'ouvrage
+publi? en 1973 avec Alain Girard : Les sondages d'opinion publique),
+Jean Carbonnier en fait le ? fer de lance ? de sa ? sociologie legisla
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+284
+
+Jacques Commaille
+
+tive ?. Celle-ci r?v?le un peu plus que sa sociologie sp?cialis?e s'af
+firme sp?cifiquement, d'une autre nature, par comparaison avec des
+sociologies sp?cialis?es ? ordinaires ? qui peuvent avoir le souci de la
+
+gestion du social mais pas celui auquel aspire ?ventuellement le
+
+monde juridique : celui de sa conduite. La mobilisation d'une
+sociologie sp?cialis?e porte une ambition s'inscrivant dans une tra
+dition juridique et qui va au-del? d'?tre au service d'une pratique du
+droit gr?ce ? une meilleure connaissance du social : il s'agit ici de
+construire un instrument au service d'une politique du droit, l'usage
+
+du sondage d'opinion ?quivalant ? celui d'un ? r?f?rendum ? dans le
+cadre de l'exercice d'une d?mocratie directe revendiqu?e au nom
+d'une m?fiance qui est celle, traditionnelle, de juristes ? l'?gard des
+interm?diaires, de la repr?sentation politique, des politiciens profes
+sionnels ; une telle intention peut conduire ? penser le droit comme
+
+? la vraie science du politique ? (Legendre, 1974, p. 104). Cette
+philosophie du politique est empreinte de volontarisme. Elle dis
+qualifie les reproches qu'une ? fraction de la classe juridique ? a pu
+adresser ? Jean Carbonnier de favoriser, par le recours aux sondages
+
+d'opinion, une politique l?gislative comme simple politique d'ent?
+
+rinement de ? ?volution des m urs ?, ? de sauter ind?ment du
+fait au droit ?. Pour Jean Carbonnier, ?jamais, en l'esp?ce, les son
+dages n'ont dict? la loi ? (Carbonnier, 1996, p. 197-198)3.
+Dans le cadre de cette philosophie politique, la notion de plura
+lisme prend toute son importance pour Jean Carbonnier. Paradoxa
+lement, elle le conduit effectivement ? nouer un dialogue avec la
+sociologie g?n?rale, celui-ci favoris? par la sympathie qu'il nourrit ?
+
+l'?gard de Georges Gurvitch, par ailleurs honni ou ignor? par les
+juristes. Georges Gurvitch ?voque des formes de droit hors du droit
+
+de l'Etat et d?nonce un ? monisme juridique ?tatique ?. Cette
+
+d?nonciation est conforme ? l'affirmation d'une doctrine du droit de
+
+la soci?t? oppos?e au droit de l'Etat, laquelle d?coule d'une concep
+tion politico-juridique associ?e au socialisme autogestionnaire (Bel
+ley, 1986, p. 355). Mais Jean Carbonnier reprochera ? Georges Gur
+3. On trouvera la preuve de cette autonomie revendiqu?e du l?gislateur dans ces
+remarques critiques formul?es sur les usages de la sociologie et des sondages, ? dont le
+
+d?veloppement a co?ncid? avec la Ve R?publique ? favorisant une ? r?vision perma
+nente ? des lois (Carbonnier, 1996, p. 109). De m?me, Jean Carbonnier retrouve cette
+tradition juridique consistant ? se d?fier de la sociologie quand celle-ci en soulignant le
+changement, en fait le provoque. Il estime ainsi que la sociologie en montrant, ? par
+
+enqu?tes et sondages ?, le changement des moeurs et en sugg?rant une sorte de ? fatalit?
+de l'?volution ?, contribue ? acc?l?rer le mouvement ? en coupant les jarrets ? la r?sis
+tance ? (Carbonnier, 1996, p. 117).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+285
+
+vitch de s'en tenir ainsi ? la th?se d'un pluralisme juridique alors qu'il
+
+doit ?tre question pour lui d'un pluralisme plus large, d'un
+? pluralisme normatif?, ? o? une place aurait ?t? donn?e aux multiples
+r?seaux des normes non juridiques par lesquelles est aussi r?gul?e la vie en
+soci?t? ? (Carbonnier, 1986, p. 350).
+
+Ce qu'il d?montrera dans son manuel de sociologie juridique
+consacr? ? ? la distinction du juridique et du social non juridique ?
+(Carbonnier, 1978, p. 174 et s.).
+Mais ce positionnement retrac? ? grands traits de la sociologie
+juridique de Jean Carbonnier en r?f?rence ? la sociologie g?n?rale
+ne saurait passer sous silence ce qui peut appara?tre comme une
+?tranget? : sa non-r?f?rence ? la sociologie de Max Weber ou plu
+t?t son non-usage de la sociologie de Max Weber. Plusieurs expli
+cations ont ?t? avanc?es sur cette non-prise en compte de cette
+
+sociologie :
+? D'abord, de fa?on g?n?rale, la r?ception longtemps distante
+de Weber par la sociologie fran?aise et la quasi-ignorance de Weber
+par la sociologie du droit fran?aise. Faut-il rappeler qu'Henry L?vy
+Bruhl ne fait pas une seule fois mention de Max Weber dans sa
+sociologie du droit ni m?me dans la pr?sentation de ses fondateurs ?
+
+(L?vy-Bruhl, 1961).
+? Ensuite, pour les sociologues du droit fran?ais, la sociologie
+de Max Weber appara?t comme ? trop historique, trop comparatiste,
+
+trop th?orique ? (Lascoumes et Serverin, 1988, p. 165). Jean Car
+bonnier t?moigne n?anmoins de sa consid?ration pour l' uvre de
+Weber. Mais il est sans doute significatif que dans son cours de socio
+logie juridique d?livr? ? la Facult? de droit de Paris au cours de
+l'ann?e universitaire 1969-1970, il insiste moins sur la ? sociologie
+compr?hensive ? de Max Weber que sur les types id?aux, les lois
+d'?volution des soci?t?s et sur la place des professionnels du droit
+dans ce cadre, notamment dans la distinction entre droit et morale :
+? Le droit appara?t quand les acteurs du droit, P?tat-major du droit, ces
+sp?cialistes, ces professionnels apparaissent ? (Carbonnier, 1969-1970).
+
+De m?me, dans son manuel de sociologie juridique (Carbon
+nier, 1978, p. 132 ? 134), il ?voque principalement l'int?r?t port?
+par Weber au ? personnel du droit ? et au fait qu'il consid?re que
+? le progr?s du droit s'accomplit dans le sens d'une rationalisation, donc
+d'une sp?cialisation et d'une bureaucratisation croissantes ? (Carbonnier,
+
+1978, p. 133).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+286
+
+Jacques Commaille
+
+Mais on peut ici s'autoriser ? penser que le ? th?oricisme ? de
+Weber ne convient pas ? la pr?occupation empirique de Jean Car
+bonnier et ? son souci de mobiliser la sociologie, moins pour ?tu
+dier la ? bo?te noire ? que constitue la sph?re juridique elle-m?me
+et ceux qui agissent en son sein : les professionnels du droit, et plus
+
+pour observer ce qui dans le social agit sur le droit et r?ciproque
+
+ment. Plus fondamentalement peut-?tre, c'est la proximit? de
+Weber avec la dogmatique juridique qui est en contradiction avec
+ce qui fonde la sociologie juridique de Jean Carbonnier, c'est-?
+dire de d?couler d'une volont? de rupture avec celle-ci.
+Sur ce point, la position de Jean Carbonnier converge avec celle
+de Georges Gurvitch. Celui-ci consid?rait en effet que
+? la sociologie du droit de Weber [pr?supposait] et se [soumettait] ? la dog
+matique juridique comme le souci de la religion se soumet ? la th?ologie ?
+(Lascoumes et Serverin, 1988, p. 167).
+
+Pour Jean Carbonnier, l'exigence d'ext?riorit? au droit et son
+affiliation durkheimienne ne le pr?disposent pas ? utiliser la socio
+
+logie de Weber comme ressource pour sa propre sociologie du
+
+droit (m?me si, rappelons-le, il ne l'ignore pas comme le prouve
+notamment la pr?sentation qu'il en fait dans son manuel de socio
+logie juridique, en particulier dans l'?dition la plus r?cente : Car
+bonnier, 2004). Dans ses commentaires ? l'entretien accord? par
+Jean Carbonnier ? Andr?-Jean Arnaud, ce dernier avance lui-m?me
+l'explication suivante :
+
+? Peut-?tre le choix op?r? entre l'approche durkheimienne et l'ap
+proche web?rienne repose-t-il (...) sur la s?paration entre dogmatique juri
+dique, d'une part et sociologie juridique, d'autre part. Nous sommes l? en
+pr?sence d'une distinction exacerb?e dans la tradition fran?aise, ?rig?e,
+chez nous, en summa divisto. Elle est lourde de cons?quences. Fid?le ? un
+courant qui a probablement exag?r? l'importance de l'Ex?g?se, et auquel
+son ma?tre Julien Bonnecase n'?tait pas ?tranger, Jean Carbonnier aurait
+con?u le recours ? la sociologie juridique comme une r?ponse ? l'engour
+dissement dogmatique et formaliste. Il se serait ainsi ralli? ? une sociologie
+con?ue par certains durkheimiens sensibles aux questions de droit, comme
+une r?ponse aux errements de l'Ex?g?se. Mais, ce faisant, il s'?cartait de la
+voie web?rienne g?n?ralis?e dans les ?tudes sociojuridiques internationales,
+notamment dans l'Europe du Sud, par l'interm?diaire de Renato Tr?ves4,
+ou, surtout et d'une mani?re plus radicale encore, dans les pays anglo
+4. Andr?-Jean Arnaud note ailleurs que ? bien que Renato Tr?ves fut culturelle
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+287
+
+saxons et ceux o? cette culture s'est r?pandue ? (Andrini et Arnaud, 1995,
+
+p. 93).
+
+Cette place mineure de la sociologie de Max Weber dans la
+
+sociologie juridique de Jean Carbonnier porte ? la r?flexion et
+am?ne ? s'interroger sur le fait de savoir si elle est historiquement
+situ?e dans la mesure o? d?sormais Max Weber occupe une place
+centrale dans la sociologie du droit fran?aise. Les acteurs de cette
+derni?re ont d?finitivement admis que
+
+? d?s lors qu'il s'agit de saisir les transformations du droit, et d'en [appr?
+hender] les causes, il est n?cessaire d'adopter une position de sociologie
+comprehensive, qui consiste ? rechercher par interpr?tation, le sens et les
+valeurs donn?s aux r?gles par les agents au cours de leurs activit?s concr?
+tes (...). La position sociologique ne se caract?rise donc nullement par une
+"ext?riorit?" par rapport au syst?me juridique, mais au contraire par une
+saisie des r?gles qui le constituent, comme objet des aspirations, interpr?ta
+tions, et croyances des sujets ? (Lascoumes et Serverin, 1988, p. 170).
+
+Nous laisserons ouvert la r?flexion sur ce retour de Max
+
+Weber :
+
+? Est-il h? ? un changement dans le statut et dans la repr?sen
+tation du droit autorisant une prise de distance par rapport aux
+durkheimiens qui
+? ont toujours ?t? r?ticents vis-?-vis des approches web?riennes qui propo
+saient une analyse moins holiste de l'action sociale et moins "imp?riale" du
+syst?me juridique ? (Lascoumes et Serverin, 1988, p. 166).
+
+Ce changement serait alors ? situer dans le cadre de ce qui serait
+un contexte de crise du mode de r?gulation top down et, paradoxa
+lement, du mod?le l?gal-rationnel de domination l?gitime, ce qui
+autoriserait plus volontiers de consid?rer le droit moins comme un
+ensemble d'imp?ratifs et plus comme un ensemble de ressources
+? mobilisables selon les int?r?ts et les pouvoirs en cause ? ? (Lascou
+
+mes et Serverin, 1988, 172-173).
+
+? Est-il h? corr?lativement ? l'accent mis de plus en plus dans
+beaucoup de travaux sur les professionnels du droit ? l'instar de la
+sociologie du droit anglo-saxonne ?
+
+? Est-il h?, comme le sugg?re Jean Carbonnier, ? une perte
+d'influence du marxisme (? son influence [celle de Weber] subira
+
+ment tr?s attach? ? la tradition fran?aise, sa sociologie juridique se rattache surtout aux
+courants sociologiques germaniques, notamment Max Weber et Ehrlich ? (Andrini et
+
+Arnaud, 1995, p. 92).
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+288
+
+Jacques Commaille
+
+une ?clipse entre 1960 et 1980 : il n'?tait pas assez marxiste pour
+une sociologie qui l'?tait largement ?, Carbonnier, 2004, p. 123) ?
+
+? Est-il li?, plus g?n?ralement, ? un retour des perspectives
+d'analyse de la sociologie g?n?rale dans les approches sociologiques
+du juridique et de ses mises en uvre ?
+
+La sociologie du droit :
+une sociologie sp?cialis?e sp?cifiquement prise
+
+dans les tensions culturelles et de nature ?pist?mologique
+entre insiders et outsiders, entre juristes et sociologues
+
+Une des caract?ristiques des sociologies sp?cialis?es est la diffi
+cult? des relations entre professionnels, praticiens, appartenant au
+domaine justifiant une mobilisation sp?cifique de la sociologie et
+sociologues investissant ce domaine. La tentation est grande pour
+ce que nous appellerons les insiders de rejeter tout regard ext?
+rieur, celui de ce que nous appellerons les outsiders. Ce rejet est
+
+fond? sur l'id?e qu'une recherche d'inteUigibilit? ne peut ?tre
+entreprise que par ceux qui ont une connaissance fond?e sur une
+pratique au point que tout regard ext?rieur risque d'?tre disquali
+fi?. Dans cette perspective, les sociologues, en l'occurrence, sont
+susceptibles d'?tre : soit per?us comme ? m?thodiquement igno
+rants de ce que tout le monde sait ?, soit de ne pas ?tre en
+mesure d'assimiler les savoirs propres au domaine concern?. Dans
+ce dernier cas, le travail sociologique est admis, il ne peut ?tre
+entrepris que par les insiders. C'est ainsi, par exemple, qu'il est
+parfois consid?r? que seuls des juristes pouvaient faire de la socio
+logie du droit. Jean Carbonnier n'est d'ailleurs lui-m?me pas loin
+de cette conception des choses si l'on en croit l'un de ses r?cents
+commentateurs :
+
+? Le sociologue doit ?tre au-dehors du droit pour l'observer, mais il
+doit aussi poss?der l'esprit d'un juriste pour pouvoir suivre la nature com
+pliqu?e de l'objet juridique, sa conformation tortueuse et jamais termin?e ?
+(Saverio Nisio, 2005).
+
+Dans la mesure o? le domaine juridique n'est pas seulement
+celui d'une pratique mais revendique aussi d'?tre celui d'un savoir,
+qui est de surcro?t aussi un savoir sur le social, le recours ? la socio
+logie n'est ainsi pas sans difficult?s... encore plus que dans d'autres
+
+domaines de sociologie sp?cialis?e. C'est le cas m?me quand ce
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+289
+
+recours est entrepris par un juriste ?minent dont la l?gitimit? chez
+
+les insiders ne saurait ?tre contest?e. Ces difficult?s sont doubles.
+
+D'abord elles surgissent de la confrontation de la sociologie avec le
+
+droit :
+
+? Quand la sociologie a affaire au droit [elle] a en face d'elle un parte
+naire redoutable (...). Le droit r?siste ? ?tre mis en sociologie. Il a une auto
+
+nomie (...) avec tout un ensemble de travaux, d'acteurs, d'histoire ?
+(Andrini et Arnaud, 1995, p. 44).
+
+Et Jean Carbonnier laisse entrevoir quelques-unes des r?ticences
+auxquelles il a d? faire face en voulant traiter du droit comme d'une
+
+chose :
+
+? Mes coll?gues juristes ont ?t? parfois un peu... ?tonn?s que je parte
+d'une sociologie qui voyait le droit comme un ph?nom?ne. Ils auraient
+
+compris une sociologie un peu comme Maurice Hauriou faisait de la
+
+sociologie, si vous voulez, ? partir du droit, avec les cat?gories du droit, et
+non pas en traitant le droit comme un ph?nom?ne ? (Andrini et Arnaud,
+
+1995, p. 45).
+
+Mais la t?che est difficile car il y a exigence ? traiter du droit
+tout ? fait en dehors ? tout en ayant n?anmoins l'esprit du juriste ?
+
+(Andrini et Arnaud, 1995, p. 54).
+Le sort du juriste, sociologue du droit face aux sociologues,
+n'est gu?re plus enviable :
+? Du c?t? des coll?gues sociologues, ou plut?t des sociologues de
+sociologie g?n?rale, le chagrin, en parall?le, ?tait diff?rent, c'?tait que je
+
+n'employais pas le langage de la sociologie. Si j'?tais m?chant pour la
+sociologie, je dirais que je n'?crivais pas assez en am?ricain ? (Andrini et
+
+Arnaud, 1995, p. 45).
+
+En fait, il y a entre la sociologie et le droit des incompatibilit?s
+de savoirs qu'il faut assumer et que l'incantation pour l'interdiscipli
+
+narit? ne saurait si facilement r?soudre :
+
+? On essaie d'additionner les comp?tences ou de neutraliser les incom
+p?tences dans des formations interdisciplinaires (...). Les vocables les plus
+simples (...) n'auront pas le m?me sens ? (Carbonnier, 1978, p. 151).
+
+Dans sa confrontation ? la sociologie g?n?rale, Jean Carbonnier
+souligne la n?cessit? de rompre avec certaines repr?sentations du
+droit chez les sociologues :
+? Il se peut qu'au d?but du si?cle, sous l'influence de Durkheim, l'at
+tention pr?t?e par la sociologie aux institutions, aux r?gles de droit, ? l'ob
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+290
+
+Jacques Commaille
+
+jectivit? du syst?me juridique ait ?t? trop exclusive ? (Carbonnier, 1978,
+- 69).
+
+Il critique ainsi une conception durkJieimienne qui ne prend en
+compte que ? la r?gle de droit ? (impersonnelle de nature) ainsi que
+? les actes juridiques formalistes ? alors que
+? la loi est assouplie par des zones d'ineffectivit?, o? les consentements ?
+peine esquiss?s peuvent ?tre efficaces ? (Carbonnier, 1978, p. 251).
+
+De ce point de vue, il y aurait un exc?s de l?galisme chez Dur
+kheim (marqu? comme chez Duguit),
+? par le l?galisme de la R?volution et du Code civil (Carbonnier, 1986,
+p. 350) avec l'id?e d'une r?gle de droit coup?e de son effectivit?, isol?e de
+l'intervention cas par cas des tribunaux ? (Serverin, 2000, p. 60).
+
+Suivant la m?me logique, Jean Carbonnier critique ? id?a
+lisme juridique ? de Georges Gurvitch consid?rant
+? que, s'il fallait une sociologie du droit qui fut une vraie science, elle aurait
+
+bien d? se montrer plus mat?rialiste, plus r?solument agnostique en fait
+d'essences ? (Carbonnier, 1986 b, p. 348).
+
+On retrouve l? l'adh?sion au mat?rialisme nourri : de Spinoza
+
+qui ?tablit les corr?lations entre le pouvoir ?conomique et les
+
+formes constitutionnelles, de Montesquieu pour qui le droit est
+d?termin? par des causes objectives, de Marx qui He le droit aux
+conditions de production...
+Ces critiques d'une certaine repr?sentation du droit par les socio
+logues sont int?ressantes ? plus d'un titre. Elles illustrent notam
+ment l'int?r?t que peut parfois avoir la sociologie g?n?rale ? tirer
+parti de la connaissance acquise de Vint?rieur par les tenants d'une
+sociologie sp?cialis?e. En l'occurrence, il s'agit de se d?fier d'un
+? f?tichisme de la r?gle ? qui peut conduire les sociologues ? sous
+estimer la capacit? des acteurs sociaux ? orienter leurs pratiques
+sans se soucier... des r?gles juridiques. De ce point de vue, la cri
+
+tique du ? juridisme ? adress?e par Pierre Bourdieu peut ?tre
+
+retourn?e ? la sociologie. Quand Pierre Bourdieu consid?re qu'il,
+est n?cessaire
+? d'?chapper aux na?vet?s les plus grossi?res du juridisme qui tient les prati
+
+ques pour le produit de l'ob?issance ? des normes ? (Bourdieu, 1972,
+
+p. 171),
+
+d'autres r?pondent que
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+291
+
+? certains sociologues d?couvrent avec ?tonnement le pr?cepte pratique
+selon lequel le droit n'est pas fait pour ?tre appliqu? mais pour orienter les
+
+comportements (...) La r?gle stricte telle que l'envisage Pierre Bour
+dieu (...) existe comme cas particulier d'un droit beaucoup plus ouvert aux
+interactions ? (Lascoumes et Le Bourhis, 1996, p. 52, p. 70).
+
+On soulignera ?galement ici le reproche implicite fait ? ceux
+n'appartenant pas au domaine de la sociologie sp?cialis?e concern?e
+de faire fi des classifications subtiles et des diff?rences entre diff?
+rentes branches du droit pour favoriser ?ventuellement celles qui
+
+permettent le mieux de ne pas ? prendre le droit au s?rieux ?
+(pour reprendre le c?l?bre titre du th?oricien du droit Ronald
+Dworkin). C'est ainsi qu'il critique la vision commune tendant ? ne
+retenir du droit que le droit public (reproche qu'il adresse d'ailleurs
+? Georges Gurvitch) ou, plus ?troitement encore le droit constitu
+
+tionnel. Mais comme le dit Jean Carbonnier avec son humour
+redoutable :
+
+? Comme on les comprend tous ! [et, implicitement, comme on com
+prend les sociologues oserons-nous ajouter !] Le droit civil est aride, fati
+gant, tandis que les constitutions amusent, c'est si peu du droit ? (Carbon
+nier, 1986 b, p. 349).
+
+De cette tentative, paradoxalement tr?s sociologique, visant ?
+d?mythifier le droit tel que se le repr?sentent les sociologues, la
+critique faite par Jean Carbonnier du marxisme et de la sociologie
+qui s'en r?clame est tout ? fait bienvenue dans la mesure o? elle
+illustre au mieux cette fa?on malicieuse qu'a Jean Carbonnier de
+reprocher aux sociologues une repr?sentation du droit... si peu
+sociologique et... tellement de sens commun puisqu'elle est com
+mune aux sociologues et ? l'opinion publique ! (Carbonnier, 1978,
+
+p. 343).
+
+? Si le droit est l'expression exclusive de la domination d'une
+classe (...), on ne s'explique plus que des conflits puissent se produire ? l'in
+t?rieur d'un m?me syst?me juridique ? (Carbonnier, 1978, p. 145).
+
+Il est int?ressant d'observer ici qu'on trouve un ?cho de ces
+consid?rations dans les critiques r?centes portant sur l'usage du droit
+
+par Pierre Bourdieu dans sa sociologie. La mythification du droit, ?
+laquelle il se livrerait paradoxalement en soulignant notamment la
+force de la forme, le conduirait ? sous-estimer la capacit? des acteurs
+sociaux, y compris les plus d?munis, ? se livrer ? des appropriations
+dans le sens de leurs int?r?ts, ? d?tourner le droit, ? le contrer. Des
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+292
+
+Jacques Commaille
+
+acteurs sociaux sont alors reconnus comme ayant la possibilit?, hors
+
+du ? champ ? juridique, via ?ventuellement des mouvements
+
+sociaux, de mobiliser le droit pour peser sur sa red?finition ou sa
+
+? recr?ation ? dans le sens de la cause qu'ils d?fendent (...) en fait, les
+acteurs sociaux, y compris les moins puissants, auraient les capacit?s
+strat?giques ? d?jouer avec les r?gles juridiques en fonction de leurs
+
+propres enjeux ? (Roussel, 2004, p. 52). Il est int?ressant de noter
+ici que cette repr?sentation mythifi?e du droit qui s'imposerait dans la
+
+sociologie de Pierre Bourdieu est pr?sent?e comme souffrant d'une
+faiblesse, celle habituellement reproch?e aux juristes qui subiraient
+l'illusion de l'id?e d'universaHt? d'un droit qui ne serait en fait
+qu'un droit national. La vision du droit de Pierre Bourdieu serait
+culturellement situ?e dans la mesure o? le droit comme instrument
+
+de la domination politique est encore marqu? en France par une
+repr?sentation construite par l'histoire suivant laquelle il reste
+d'abord l'expression de la souverainet? ?tatique incarn?e par un
+monarque. Une telle vision serait en fait en contradiction avec le
+contexte de mutations de la r?gulation politique dans lequel nous
+nous trouverions, marqu? par des ph?nom?nes d'interl?galit? et de
+pluralisme juridique donnant d'autres formes ? la domination poli
+tique (Villegas, 2004).
+La discussion qu'entreprend Jean Carbonnier avec la sociologie
+est ? mettre en relation avec la familiarit? qu'il entretient avec
+celle-ci et la reconnaissance que la communaut? sociologique lui
+
+accorde : n'a-t-il pas ?t? pendant une quinzaine d'ann?es pr?si
+
+dent du Comit? de Direction de L'Ann?e sociologique ? Cela jus
+tifie certainement l'usage d'un certain humour surtout quand l'ac
+cent est mis moins sur les divergences scientifiques et plus sur les
+diff?rences culturelles irr?ductibles, celles-ci pouvant expliquer
+celles-l? ! D?j? le souci de la forme chez les juristes est propre ?
+rendre ceux-ci r?tifs au discours sociologique. Ainsi, pour nous
+
+aider ? comprendre ce qui a ?t? pendant longtemps le silence
+sur Max Weber, Jean Carbonnier avance une interpr?tation
+suppl?mentaire :
+? En France, son uvre a souffert d'un double handicap : pour beau
+coup de sociologues, elle manquait de marxisme, pour beaucoup de juris
+tes, elle manquait de clart? ? (Carbonnier, 1978, p. 134).
+
+Mais c'est sur Georges Gurvitch, malgr?, comme nous l'avons
+d?j? dit, l'estime qu'il lui porte, que se concentre ici la critique de
+Jean Carbonnier : pour lui,
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+293
+
+? ses [celles de Gurvitch] d?monstrations (...) ?taient trop souvent abstrai
+tes, et ses typologies compliqu?es, interminables, d?concertaient des juris
+tes accoutum?s ? cheminer par divisions et subdivisions rituellement binai
+res. Ce qui lui avait valu [? Gurvitch] r?putation d'obscurit? ? (Carbonnier,
+1986 b, p. 349).
+
+Pour Jean Carbonnier,
+? la pens?e de Georges Gurvitch est touffue. Une expression trop peu
+fluide a souvent tenu les juristes ? distance ? (Carbonnier, 1978, p. 124).
+
+Mais le compliment ne s'adresse pas qu'? Georges Gurvitch :
+?Je crois que l'une des faiblesses de la sociologie en g?n?ral, c'est aussi
+qu'elle parle quelquefois un fran?ais qui n'est pas tr?s bon. Cela contribue ?
+
+discr?diter? (Andrini et Arnaud, 1995, p. 58).
+
+? travers ces critiques se dessine une culture de l'univers juri
+dique. A propos de ? l'ardeur pol?mique ? de Georges Gurvitch,
+Jean Carbonnier souligne ainsi que
+? les Facult?s de droit, c?t? droit civil tout sp?cialement, affectionnaient
+pour leurs controverses un ton plus feutr? (...) par maintes fibres, elles se
+sentent li?es au m?tier d'avocat, o? c'est presque un devoir d'?tat que de
+ne prendre aucune th?se au tragique ? (Andrini et Arnaud, 1995, p. 349).
+
+De m?me, pour Jean Carbonnier, le pluralisme juridique de
+Georges Gurvitch
+? pouvait faire figure d'aberration pour des esprits que le Code civil avait
+habitu?s ? une conception monolithique du droit ? (Andrini et Arnaud,
+
+1995, p. 348).
+
+C'est aussi le d?faut de partialit? qui p?se sur les sociologues
+
+chez qui une
+
+? exigence d'impartialit? para?t aller de soi aux esprits les plus partiaux (et il
+y en eut de fameux en sociologie juridique, tel Le Play pour la libert? testa
+
+mentaire, ou Gurvitch pour le droit social) ? (Carbonnier, 1978, p. 253).
+
+De fa?on plus globale, il estime que
+? les recherches de sociologie en g?n?ral apparaissent en France comme
+marqu?es par une id?ologie ? (Andrini et Arnaud, 1995, p. 98).
+
+Mais ce qui diff?rencie encore plus fondamentalement les juristes
+
+et les sociologues, c'est un rapport au temps. On trouve de fa?on
+r?currente dans la tradition juridique le reproche fait aux sociologues
+
+de ne cesser de souligner le changement au sein des soci?t?s et de
+cette fa?on de l'induire dans la r?alit? du fonctionnement social. Une
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+294
+
+Jacques Commaille
+
+telle orientation de la sociologie ne peut que heurter les tenants
+d'une pratique, la pratique juridique, qui est aussi une culture du
+social, fond?e sur l'id?e de permanence n?cessaire, de r?f?rences
+intangibles seules en mesure de pr?server l'ordre social, de garantir la
+perp?tuation d'une m?ta-Raison n?cessaire. Pour les juristes,
+? il y a la force du statu quo, sa pesanteur propre. Tous les juristes connais
+sent (...) la vigueur et la valeur de la maxime Quieta non novere ? (Carbon
+
+nier, 1986 ).
+
+Une telle vision ne peut que s'incarner dans un droit et dans
+ses mises en uvre inspir?s de transcendance. L'exceptionnalit? du
+droit est donn?e ? voir, par exemple, dans l' uvre de codification
+(Commaille, 2004) ou dans des rituels dans lesquels s'inscrit une
+pratique judiciaire revendiquant un n?cessaire ?loge de la lenteur
+dans un contexte historique marqu? par une acc?l?ration d'une
+rationalisation caract?ris?e par une nouvelle ?conomie du temps
+(Commaille, 2000). La critique de ? l'inflation l?gislative ?, sou
+vent associ?e au ? d?clin du droit ?, peut ?tre interpr?t?e comme
+l'expression d'une irritation ou m?me comme la manifestation
+d'une angoisse ressenties par les repr?sentants de l'univers juri
+
+dique face ? une ?volution o? le droit se trouve pris dans le
+
+ma?lstrom du social l'obligeant ? se repenser (Ost et Van Hoecke,
+
+1998).
+
+Jean Carbonnier exprime lui-m?me ce que nous pourrions qua
+lifier comme ?tant une incompatibilit? culturelle fond?e sur des
+? visions du monde ? radicalement diff?rentes entre juristes et socio
+
+logues. Il en propose de surcro?t une explication.
+? Tandis que le droit dogmatique s'attache ? un objet arr?t?, fig? dans
+l'instant de la positivit?, la sociologie juridique consid?re un objet in tran
+site emport? dans le flux de l'?volution. Deux circonstances ont longtemps
+emp?ch? les juristes d'admettre le concept d'?volution : 1 / la prodigieuse
+survie du droit romain dans les soci?t?s occidentales, survie qui semblait
+venir de l'?ternit? m?me de la raison ; 2 / la force des doctrines du droit
+naturel, avec ce qu'elles empruntent de pouvoir persuasif ? la religion ou ?
+
+la m?taphysique ? (Carbonnier, 1978, p. 229).
+
+Mais finalement, convaincu de l'utilit? de la sociologie pour le
+droit, rhumanisme profond de Jean Carbonnier transpara?t pour
+trouver les compromis n?cessaires... y compris en traitant avec la
+distance requise que permet l'humour les faiblesses des uns et des
+autres ou ce qui les caract?rise le plus. C'est une fa?on de consid?rer
+que ce qui est et doit ?tre diff?rent peut ?tre compl?mentaire. Il ne
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e
+
+295
+
+doit pas y avoir ? une fin de non-recevoir permanente que le droit
+opposerait ? la sociologie ?. Toutefois,
+? les sociologues ne doivent pas venir au droit en se faisant trop d'illusions
+sur son compte. Ils l'imaginent comme une science de la m?me nature que
+la leur, justiciable des m?mes m?thodes, si bien que, de l'un ? l'autre, il y
+aurait continuit?, voire facult? de substitution. Et ils s'?tonnent, s'irritent
+en constatant que les juristes persistent ? traiter leur mati?re par des proc?
+d?s quasi th?ologiques (...). Mais c'est que le droit peut se dispenser d'?tre
+une science, f?t-ce une de ces sciences sociales, humaines, non exactes,
+auxquelles se rattache la sociologie. Est-ce un art ? Une technique ? Une
+pratique ? (...) La sociologie juridique et le droit ont tout ? gagner ? respec
+ter mutuellement leur autonomie intellectuelle. Il existe une sociologie de
+la musique ; elle peut rendre service, en les orientant, aux impr?sarios et
+m?me aux musiciens, mais elle ne fait pas de la musique ? (Carbonnier,
+
+1986, p. 350-351).
+
+Nous nous sommes propos? de consid?rer les relations entre la
+sociologie du droit et la sociologie g?n?rale comme susceptibles de
+nous ?clairer sur un aspect qui nous para?t encore insuffisamment
+analys? de ce que peuvent ?tre, de fa?on plus g?n?rale, les rapports
+entre les sociologies sp?cialis?es et la discipline de r?f?rence ainsi
+que les effets au plan ?pist?mologique, th?orique et conceptuel, de
+ces rapports. Un retour sur les r?flexions que Jean Carbonnier a
+consacr?es ? cette question, particuli?rement dans son uvre trai
+tant de ce qu'il a constamment qualifi? de ? sociologie juridique ?
+ont constitu? pour nous un exceptionnel pr?texte pour contribuer ?
+
+cet approfondissement n?cessaire sur les sociologies sp?cialis?es. Ses
+analyses donnent en effet ? voir ce qui fonde le projet d'une socio
+logie sp?cialis?e : l'exigence d'aide ? l'action. Il y a d?j? l? les condi
+
+tions d'une tension possible avec une sociologie g?n?rale plus
+
+encline ? accorder la primaut? ? un objectif de connaissance en soi.
+Mais ce que r?v?le plus encore l'examen du ? cas ? de la sociologie
+du droit, c'est que les rapports entre une sociologie sp?cialis?e et la
+
+sociologie g?n?rale sont susceptibles d'?tre marqu?s par une
+m?fiance ? l'?gard de toute h?t?ronomie, plus encore par une
+
+confrontation de savoirs en m?me temps que de cultures fonda
+mentalement incompatibles.
+Pourtant c'est de ce constat d'irr?ductibilit?s incontournables
+
+que na?t ici, paradoxalement, l'id?e d'un d?passement possible.
+Cette id?e, on la doit en l'occurrence ? la grandeur de Jean
+Carbonnier. Engag? passionn?ment dans une uvre de restaura
+tion du droit par une meilleure ma?trise de la connaissance du
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+296
+
+Jacques Commaille
+
+social, il entretient avec la sociologie une relation faite ? la fois de
+lucidit? sur ses faiblesses et de curiosit? bienveillante pour ses
+potentialit?s5. C'est bien pourquoi, au-del? de ses l?gitimes pr?oc
+cupations de grand civiliste qui l'a conduit pour lui-m?me ? privi
+l?gier une sociologie du droit comme sociologie sp?cialis?e au ser
+
+vice du droit, il a incontestablement autoris?, probablement
+influenc? par sa vaste connaissance du savoir sociologique, le
+
+d?veloppement r?cent d'une sociologie du droit plus d?lib?r?ment
+tourn?e vers la sociologie g?n?rale (dont on trouvera une illustra
+tion dans : Isra?l et al, 20056). Il a anticip? ainsi, comme ce fut si
+
+souvent le cas dans les diverses facettes de son uvre, sur des
+
+transformations du droit qu'il savait indissociables de mutations
+sociales et politiques d'une ampleur ?quivalente ? celle qui avait
+justifi? l'int?r?t port? pour le droit par les grandes figures fondatri
+
+ces de la sociologie. Non seulement repr?sentant d'une sociologie
+sp?cialis?e, il fut un passeur, au sens le plus positif du terme, pour
+une approche sociologique du droit de nouveau partie prenante
+d'une sociologie g?n?rale.
+Jacques COMMAILLE
+?cole normale sup?rieure de Cachan
+Institut des sciences sociales du politique
+
+P?le de Cachan
+
+commail@gapp.ens-cachan.fr
+5. ? l'issue de cette r?flexion, nous nous autoriserons de nous demander si cette
+appartenance prestigieuse ? la sph?re juridique en m?me temps que cette fascination pour
+les sciences sociales n'a pas provoqu? une tension entre : d'une part, le juriste l?gislateur
+s'inscrivant dans la tradition du Law in Books pour glorifier l'exceptionnalit? de la juridicit?
+
+dans l'acte de l?gif?rer jusqu'? consid?rer celui-ci comme un art (Commaille, 1994),
+
+d'autre part, le chercheur fascin? par les manifestations de non-droit et ces espaces d'incer
+titudes entre normes juridiques et normes sociales (voir par exemple ses r?f?rences aux dis
+tinctions am?ricaines entre law, mores et folkways) jusqu'? pr?ter de l'attention ? une vision
+du droit o? l'int?r?t pour les textes fait place ? celui, plus conforme ? une approche anthro
+
+pologique, pour les situations o? le droit, loin d'?tre le produit d'une Raison comme ins
+trument d'une r?gulation h?t?ronome, est immerg? dans le social, partie prenante du
+social, qu'il ?volue dans l'effervescence soci?tale dont il n'est qu'un des ?l?ments. C'est en
+tous les cas bien cette passion du chercheur qui va conduire Jean Carbonnier ? formuler ce
+qu'il appelle ? les hypoth?ses fondamentales de la sociologie juridique th?orique ? dans la
+
+premi?re partie de son Flexible droit, ? des d?veloppements th?oriques sur les rapports entre
+
+droit et non-droit qui pourraient bien relever aussi de la sociologie g?n?rale, ? porter de
+l'int?r?t ? l'interactionnisme symbolique de George Herbert Mead pour ce qui concerne la
+cr?ation dans l'interaction de la r?gle du jeu social, au-del? de la cr?ation du syst?me juri
+dique, ? accorder de l'importance ? Maurice Halb wachs notamment ? propos de la cou
+tume comme cadre social de la m?moire... (Saverio Nisio, 2005).
+6. On pourra ?galement se reporter ? la pr?sentation de cet ouvrage faite par Claire
+de Galembert : ? Les nouveaux horizons de la sociologie du droit en France ?, Droit et
+
+Soci?t?, 63-64, 2006.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e 297
+
+R?F?RENCES BIBLIOGRAPHIQUES
+Amiot M., 1986, Contre l'?tat, les sociologues : ?l?ments pour une histoire de la
+
+sociologie urbaine en France (1900-1980), Paris, ?ditions de l'?cole des
+hautes ?tudes en sciences sociales.
+Andrini S. et Arnaud A.-J., 1995, Jean Carbonnier, Renato Tr?ves et la socio
+logie du droit. Arch?ologie d'une discipline, Paris, lgdj, coll. ? Droit et
+
+Soci?t? ?.
+
+Arnaud A.-J., 1973, Essai d'analyse structurale du Code civil fran?ais. La r?gle
+du jeu dans la paix bourgeoise, Paris, lgdj.
+Arnaud A.-J., 1981, Critique de la raison juridique. 1. O? va la sociologie du
+droit ?, Paris, lgdj.
+Arnaud A.-J. et Maria Jose Farinas Dulce, 1998, Introduction ? l'analyse socio
+logique des syst?mes juridiques, Bruxelles, Bruylant.
+
+Belley J.-G., 1986, ? Georges Gurvitch et les professionnels de la pens?e
+juridique ?, Droit et Soci?t?, n? 4, p. 435-455.
+Bezes P. et al., 2005 (sous la dir.), L'?tat ? l'?preuve des sciences sociales. La
+fonction recherche dans les administrations sous la Ve R?publique, Paris, La
+
+D?couverte.
+
+Bourdieu P., 1972, Esquisse d'une th?orie de la pratique, Gen?ve, Droz
+(nouv. ?d., Points, coll. ? Essais ?, Le Seuil, 2000).
+Caillosse J., 1993, ? Droit et politique : vieilles lunes, nouveaux champs ?,
+Droit et Soci?t?, n? 25, p. 127-155.
+Carbonnier J., 1932, Le r?gime matrimonial, sa nature juridique sous le rapport des
+
+notions de sod?t? et d'association, th?se pour le doctorat soutenue devant la
+
+Facult? de droit de Bordeaux, Bordeaux, Imprimerie de l'Universit?.
+Carbonnier J., 1964, ? L'esprit sociologique dans les Facult?s de droit ?,
+L'Ann?e sociologique, p. 466-469.
+Carbonnier J., 1969, Flexible droit. Pour une sociologie du droit sans rigueur,
+Paris, lgdj (8e ?d., 1995).
+Carbonnier J., 1969-1970, Cours de sociologie juridique profess? par Monsieur le
+doyen Carbonnier ? la Facult? de droit de Paris, Paris, Doctorat 1969-1970,
+
+Centre Panth?on.
+
+Carbonnier J., 1978, Sociologie juridique, Paris, puf (lre ?d., Armand Colin,
+
+1972 ; nouv. ?d., puf, coll. ? Quadrige ?, 1994, 2004).
+Carbonnier J., 1979, Essais sur les lois, Paris, R?pertoire du notariat Defr?
+
+nois (2e ?d., 1995).
+
+Carbonnier J., 1986 a, ? Sociologie juridique et crise du droit. Entretien
+avec le doyen Carbonnier ?, Droits, n? 4, ? Crises dans le droit ?,
+
+p. 65-73.
+
+Carbonnier J., 1986 b, ? Gurvitch et les juristes ?, Droit et Soci?t?, n? 4,
+
+p. 347-351.
+
+Carbonnier J., 1996, Droit et passion du droit sous la Ve R?publique, Paris,
+
+Flammarion, coll. ? Forum ?.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+298 Jacques Commaille
+
+Chenu A., 2002-2003, ? Une institution sans intention. La sociologie en
+France depuis l'apr?s-guerre ?, Actes de la recherche en sciences sociales,
+
+n? 141-142, p. 46-59.
+
+Commaille J., 1994, L'esprit sociologique des lois. Essai de sociologie politique du
+
+droit, Paris, puf, coll. ? Droit, ?thique, Soci?t? ?.
+Commaille J., 2000, Tenitoires de justice. Une sociologie politique de la carte
+judiciaire, Paris, puf, coll. ? Droit & Justice ?.
+
+Commaille J., 2003, ? Sociologie juridique ?, in D. Alland et S. Rials (sous
+la dir.), Dictionnaire de la culture juridique, Paris, puf, Lamy, p. 1423
+
+1427.
+Commaille J., 2004, ? Code civil et nouveaux codes sociaux ?, in Le
+Code civil, 1804-2004, Livre du bicentenaire, Paris, Dalloz, Litec,
+
+p. 61-76.
+
+Commaille J., 2007, ? Sociologie du droit ?, Paris, Encyclopaedia Uni
+versalis.
+
+Commaille J. et Marmier-Champenois M.-P., 1977, ? Les m?thodes de la
+sociologie juridique par rapport aux m?thodes de la sociologie g?n?
+rale ?, in Travaux du colloque de sociologie juridique franco-sovi?tique, Paris,
+
+?d. du cnrs, p. 93-111.
+
+Drouard A., 1982, ? R?flexions sur une chronologie : le d?veloppement
+des sciences sociales en France de 1945 ? la fin des ann?es 1960 ?,
+Revue fran?aise de sociologie, n? 1, p. 55-85.
+
+Garcia Villegas M., 2004, ? On Pierre Bourdieu legal thought ?, Droit et
+Soci?t?, n? 56-57, p. 57-71.
+Ehrlich E., 1967, Grundlegung der Soziologie des Rechts, Berlin, Duncker und
+
+Humboldt (lre ?d., 1913).
+Isra?l L. et al, 2005, sous la dir., Sur la port?e sociale du droit. Usages et
+l?gitimit? du registre juridique, Paris, puf, coll. ? Publications du
+curapp ?.
+
+Lascoumes P. et Le Bourhis J.-P., 1996, ? Des "passe-droits aux passes du
+droit". La mise en uvre sociojuridique de l'action publique ?, Droit et
+Soci?t?, n? 32, p. 51-73.
+Lascoumes P. et Serverin E., 1988, ? Le droit comme activit? sociale : pour
+une approche web?rienne des activit?s juridiques ?, Droit et Soci?t?,
+n? 9, p. 171-193.
+Lautman J., 1983, ? Les sciences sociales et le cnrs entre la culture et la
+demande bureaucratique ?, Commentaire, printemps 1983.
+Legendre P., 1974, L'amour du censeur. Essai sur l'ordre dogmatique, Paris, Le
+
+Seuil.
+
+L?vy-Bruhl H., 1961, Sociologie du droit, Paris, puf, coll. ? Que sais-je ? ?
+
+(nouv. ?d., 1990).
+
+Ost F. et Van Hoecke M., 1998, sous la dir., Temps et droit. Le droit a-t-il
+pour vocation de durer ?, Bruxelles, Bruylant.
+
+Pollak M., 1976, ? La planification des sciences sociales ?, Actes de la
+recherche en sciences sociales, 2-3.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+La construction d'une sociologie sp?cialis?e 299
+
+Roussel V., 2004, ? Le droit et ses formes. ?l?ments de discussion de la
+sociologie du droit de Pierre Bourdieu ?, Droit et Soci?t?, n? 56-57,
+
+p. 41-56.
+
+Saverio Nisio F., 2005, Jean Carbonnier. Regards sur le droit et le non-droit,
+
+Paris, Dalloz, coll. ? L'Esprit du droit ?.
+Serverin E., 2000, Sociologie du droit, Paris, La D?couverte, coll. ? Rep?res ?.
+Zimmermann ., 2004, sous la dir., Les sciences sociales ? l'?preuve de l'action,
+
+Paris, ?ditions de la MSH.
+
+This content downloaded from 185.25.195.104 on Tue, 20 Apr 2021 14:13:35 UTC
+All use subject to https://about.jstor.org/terms
+
+

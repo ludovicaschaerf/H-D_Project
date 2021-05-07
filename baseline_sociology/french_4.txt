@@ -1,0 +1,1512 @@
+Sociologie de l'environnement, globalisation et traditions nationales: Une étude des cas
+français et québécois
+Author(s): Philippe Boudes
+Source: The Canadian Journal of Sociology / Cahiers canadiens de sociologie , Vol. 33, No. 3
+(2008), pp. 657-688
+Published by: Canadian Journal of Sociology
+Stable URL: https://www.jstor.org/stable/10.2307/canajsocicahican.33.3.657
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Canadian Journal of Sociology is collaborating with JSTOR to digitize, preserve and extend access
+to The Canadian Journal of Sociology / Cahiers canadiens de sociologie
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement,
+
+globalisation et traditions nationales:
+
+Une étude des cas français et
+
+québécois
+Philippe Boudes
+Résumé: Cet article explore les liens entre les sociologies québécoise et française
+de l’environnement. Il revient d’abord sur les difficultés de lier entre-elles les
+approches sociologiques nationales. Il s’attache ensuite à rassembler un nombre
+important de contributions issues d’ouvrages collectifs et de colloques français,
+québécois et francophones pour présenter deux résultats. Premièrement, il existe
+un ensemble de démarches d’analyse transversales aux approches québécoises et
+françaises. Deuxièmement, ces deux sociologies régionales gardent pourtant des
+spécificités historiques et géographiques propres. Cela conduit à penser que sociologies locales et sociologie globale coexistent et trouvent un équilibre certes
+fragile mais heuristique.
+Abstract: This article explores the relationship between Quebec and French environmental sociologies. It reviews the difficulties in linking national sociological approaches. Then it endeavours to compile numerous contributions selected
+in Quebec, French and French-speaking collective books, and conferences with
+two results. First, there is a set of analytical processes transversal to Quebec and
+French approaches. Second, both of these two regional sociologies keep their
+own historical and geographical specificities. This suggests that local sociologies and global sociology can coexist and find an equilibrium, heuristic though
+fragile.
+
+Introduction
+Comme le titre de cette contribution l’indique, il est question ici des liens
+entre la sociologie globale de l’environnement et ses traditions nationales.
+A vrai dire, chaque sociologie peut être considérée aujourd’hui comme
+globale: les objets mêmes des différents domaines paraissent pertinents
+dans la plupart des régions du monde, et chaque région possède désormais, à plus ou moins grande échelle, des lieux de recherche ouverts
+à la sociologie. La sociologie de l’environnement est intéressante pour
+ces deux raisons. L’environnement est sans doute plus que tout autre un
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+657
+
+658
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+objet d’étude global: il questionne les sociétés dans leurs relations avec
+la nature. Les préoccupations liées aux changements environnementaux
+globaux (en anglais, GEC) sont le marqueur principal de cet intérêt planétaire. Par ailleurs, la sociologie de cet objet est un domaine récent.
+Les premiers travaux se revendiquant de celui-ci sont apparus au milieu
+des années 1970, notamment aux Etats-Unis (cf. le premier débat entre
+Catton et Dunlap 1978; Buttel 1978), mais également au Japon (Iijima
+1970; Hasegawa [2003] 2004), pour s’établir un peu partout dans les
+foyers sociologiques au cours des années 1980, se diffuser via la publication d’ouvrages et de manuels durant les années 1990 (e.g., Mehta et
+Ouellet 1995; Hannigan 1995) et pénétrer les associations nationales et
+internationales dans le même temps.
+Si les sociologies nationales ou régionales n’ont pas embrassé cette
+thématique au même moment ni avec la même intensité, on peut observer aujourd’hui la constitution d’une véritable sociologie globale de
+l’environnement. La célébration en 2002 du XXVème anniversaire du
+comité de recherche «environnement et technologie» de l’Association
+Américaine de Sociologie (cf. Lutzenhiser 2002) ou la récente organisation d’un congrès à Pékin sur la sociologie chinoise de l’environnement
+rendent compte de l’amplitude mondiale de ce domaine.
+Initialement, cette recherche porte sur la construction de cette sociologie et les développements présentés ici s’inspirent d’une analyse
+précédente (Boudes 2006). L’environnement aurait pu servir de prétexte
+à travailler la question de la globalisation mais c’est un autre constat qui
+a conduit à proposer une contribution dans ce numéro: s’il est possible de
+dessiner les contours de ce domaine au niveau global, les différentes traditions sociologiques régionales et nationales gardent des particularités
+irréductibles à cette définition globale. S’il est un phénomène, en effet,
+qui marque la sociologie de l’environnement c’est bien le fait qu’elle
+s’est introduite dans l’ensemble des courants nationaux et régionaux et
+qu’elle y est un domaine dynamique. En ce sens, elle participe tout à fait
+de la production sociologique globale. Or, quel impact cette globalisation des recherches sociologiques sur l’environnement a-t-elle eu sur les
+traditions régionales? C’est la question qui sera posée ici à partir d’une
+étude de cas: la comparaison des sociologies française et québécoise de
+l’environnement.
+Les propos sont ainsi limités par le domaine en question, celui de
+l’environnement, et les sociologies française et québécoise de celui-ci.1
+On aurait pu toutefois comparer la sociologie française à sa consoeur
+1. Le lecteur trouvera d’autres comparaisons, par exemple, dans Leroy (2001) sur les
+sociologies européennes entre elles, et dans Mol (2006) sur les sociologies européenne
+et Etas-unienne.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 659
+
+canadienne et non pas à une région de celle-ci. Les débats sur l’internationalisation et l’indigénisation de la sociologie ont d’ailleurs tendance
+à s’accorder sur la réduction inopératoire de la sociologie à ses entités
+nationales ou micro-régionales (Turner 1996). Cependant les remarques
+suivantes légitiment la comparaison France-Québec.
+• Ces régions sont deux pôles sociologiques importants, aux héritages
+distincts mais toujours en lien grâce à la relation historique particulière qu’entretiennent la France et le Québec.
+• Ce sont deux régions qui, malgré leurs ressemblances culturelles,
+se différencient par leurs histoires en générale et, comme cela sera
+montré, leurs approches sociologiques en particulier.
+• Leurs rapports au champ de la sociologie de l’environnement est, à
+première vue, différent: le Québec et la France n’ont pas les mêmes
+rapports ni à la théorie, ni à la nature des relations liant nature et
+société.
+• Par ailleurs, la communauté linguistique des analyses sociologiques
+étudiées ici facilite la comparaison des travaux sociologiques sur
+l’environnement.2
+• Enfin, la confrontation de ces sociologues au sein de colloques francophones (ceux de l’AISLF, de l’ACSALF et de l’AFS3) permet de
+comparer les travaux des chercheurs à partir de critères semblables
+de diffusion des contributions.
+On reviendra d’abord sur les réflexions touchant aux comparaisons de sociologies nationales entres-elles afin de présenter le contexte dans lequel
+s’inscrit cet article. Seront alors décrites, en prenant appui sur les courants québécois et français, les démarches d’analyse qui visent à conférer
+de l’intelligibilité à la nécessité d’un phénomène (Cuin 2000:49): celui
+de l’environnement comme phénomène social. Enfin, nous montrerons
+que, contrairement à ce qui pourrait être avancé de prime abord, cette
+globalisation des démarches sociologiques de l’environnement n’a pas
+pour effet direct de dissoudre les caractéristiques des sociologies régionales dans une sociologie consensuelle de l’environnement, ni de favoriser les distinctions traditionnelles: elle trouve un équilibre, certes fragile,
+2. Sanders (1994) prévient de la prudence avec laquelle il faut avancer dans les comparaisons internationales, en soulignant combien les différences linguistiques en premier
+lieu biaisent les analyses. Nous n’avons pas ce problème pour nos pays. Une seconde
+remarque de Sanders concerne les cultures des pays comparés: cet aspect est pris en
+compte dans la mesure où l’on montrera les cultures sociologiques de l’environnement
+propres à chaque région.
+3. C’est-à-dire l’Association International des Sociologues de Langue Française (AISLF),
+l’Association Canadienne des Sociologues et Anthropologues de Langue Française
+(ACSALF) et l’Association Française de Sociologie (AFS).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+660
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+entre ces deux pôles. Cet équilibre est néanmoins la posture nécessaire
+pour une sociologie ouverte à de nouveaux objets, dont l’environnement,
+et non plus limitée aux formes sociales de l’Etat-Nation — ou de son
+déclin.
+La production sociologique et son inscription géographique
+Par production sociologique, on entendra simplement ce qui se dégage hic
+et nunc des analyses des sociologues. Longtemps rivées à des traditions
+nationales, les premières sociologies ont dû bien souvent se confronter à
+des débats internes, i.e. intranationaux. Les cas allemands et étasuniens
+comparés par Kalberg (2004) vont dans ce sens: qu’il s’agisse des oppositions entre approches macro et microsociologiques (Marx et Weber
+versus Simmel pour l’Allemagne) ou entre courants (l’évolutionnisme
+versus l’école de Chicago aux Etats-Unis), ces oppositions furent l’objet,
+au départ, de débats nationaux. On peut d’ailleurs compléter les références de Kalberg en mentionnant l’opposition entre le courant organiciste
+de Spencer et l’ingénierie sociale des continuateurs leplaysiens anglais
+pour le Royaume-Uni; et même le cas français, qui pourrait sembler sans
+aucune contradiction car tenu par l’aura de la pensée durkheimienne,
+peut être analysé en terme d’opposition du point de vue des «victoires»
+de Durkheim face à des analyses à son goût trop psychologiques (Tardes4) ou géographiques (Ratzel et, en France, Vidal de la Blache).
+Ainsi, tout au long du XXème siècle, si les sociologues ont prolongé
+ces débats nationaux, ils ont surtout tâché de rassembler les courants
+pour satisfaire le plus grand nombre de chercheurs. Ceci aurait conduit
+la sociologie à amoindrir sa portée explicative en proposant, par exemple
+et comme le développera Merton ([1942] 1973), des théories à moyennes
+portées. C’est une des conclusions de Kalberg (2004:184) lequel, après
+avoir décrit les cheminements des sociologies allemande et étasunienne,
+termine ses propos sur les «sérieux obstacles» que devra affronter «un
+consensus transnational viable en matière de théorie» sociologique. Un
+autre constat de Kalberg (2004:184) est que «la théorie sociologique
+telle qu’elle émane depuis vingt-cinq ans des divers sous-champs de la
+discipline, est devenue une théorie spécialisée d’une portée explicative
+bien moindre encore que les théories de moyenne portée de Merton».
+C’est une position similaire que prend Dubet (2004) pour expliquer
+les sociologies actuelles. Celles-ci doivent faire «tenir ensemble» les
+4. Et même Halbwachs chez lequel, en tant qu’élève de Bergson, «[m]étaphysique et
+sociologie ont convergé . . . vers une psychologie sociale enveloppante et fine.» (Girard
+1962).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 661
+
+sous-systèmes sociaux (notamment l’économie, la culture, la société, et
+dans le cas de la sociologie de l’environnement, la nature). D’où la nécessité d’élaborer «tout un ensemble de théories [qui] se donnent pour
+tâche essentielle de construire des modes d’articulation de ces divers ensembles» (Dubet 2004:230), à la manière des théories des conventions,
+de la régulation, ou de celles développées par Latour ou Boltanski et
+Thévenot. Et Dubet d’ajouter que la «suprême» théorie de Parsons n’a
+plus autant de valeur aujourd’hui qu’elle avait su en obtenir, tandis que
+les théories à moyenne portée ont suscité un certain regain d’intérêt, y
+compris en sociologie de l’environnement (cf. Buttel 1996; Freudenburg
+et Gramling 1994a; 1994b).
+La production sociologique actuelle (ne) présente (plus) alors (qu’)
+un ensemble de descriptions, d’interprétations et d’explications des mécanismes sociaux, sans prétention à une totalité ni dans sa portée explicative ni dans l’appréhension de l’objet. Elle propose bien davantage des
+démarches propres à étudier une pluralité d’objets en faisant intervenir
+une pluralité de théories. Ceci est la proposition de départ pour aborder la sociologie de l’environnement globalisée, ou plus modestement la
+sociologie francophone de l’environnement. C’est ce cadre limité de la
+production sociologique qui servira ci-après de référence pour définir les
+démarches d’analyse en sociologie de l’environnement.
+Les démarches d’analyse de la sociologie francophone de
+l’environnement
+L’étude des contributions des sociologues français et québécois de l’environnement permet de dessiner au moins quatre démarches d’analyse
+sociologique de l’environnement. On aurait souhaité associer ces démarches d’analyse à des théories à moyenne portée, mais il ne peut s’agir
+de telles théories même si elles s’en approchent. Le terme de démarche
+d’analyse est alors préférable: il permet de se dégager d’une définition
+trop pressante des théories de portée moyenne, pour présenter plus simplement de nouvelles formes de productions sociologiques sur l’environnement, lesquelles cherchent moins à rendre opérationnel leur objet, ici
+le concept d’environnement, en lui trouvant des supports empiriques ou
+théoriques, qu’à proposer des cadres d’analyse généraux propres à être
+systématisés et à contribuer, de ce fait, à une sociologie générale.
+Un point de méthode est indispensable et permettra d’éclairer sous
+un autre angle les démarches d’analyse. Pour «coller» au plus près de la
+production sociologique, ce travail s’appuie sur les caractères extérieurs
+de cette production: les ouvrages collectifs et recueils d’articles ainsi
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+662
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+que les communications présentées à des colloques (ou leurs actes). Le
+caractère collectif de ce matériel empirique est le garant de l’inscription
+de chaque contribution étudiée dans une sociologie «partagée» de l’environnement, reprenant ainsi les arguments mertoniens de communalisme
+et de scepticisme organisé (Merton [1942] 1973). Précisément, cette matière empirique est constituée des 103 contributions des six ouvrages et
+colloques suivants:
+Tableau I : Ressources Empiriques
+Ouvrages et colloques
+Tessier & Vaillancourt (dir.),
+La recherche sociale en environnement
+Dumas et al., Les sciences sociales de
+l’environnement
+Colloque ACSALF, Québec
+Gendron & Vaillancourt (dir.),
+Développement durable et participation
+publique
+Sessions du CR 235,* Colloque AISLF,
+Tour
+Sessions du RT 386,** Colloque AFS,
+Villetaneuse
+Total
+
+*
+
+Année
+
+Contributions Contributions
+Québécoises Françaises
+
+1996
+
+8
+
+Aucune
+
+1999
+
+9
+
+1
+
+2002
+
+10
+
+13
+
+2003
+
+10
+
+7
+
+2004
+
+10
+
+24
+
+2004
+
+Aucune
+
+11
+
+47
+
+56
+
+Il s’agit du Comité de Recherche (CR) n° 23 de l’AISLF, intitulé Sociologie de l’environnement et
+du développement durable. Cf. http://w3.univ-tlse2.fr/aislf/cr23/index_2.html
+** Il s’agit du Réseau Thématique (RT) n°38 de l’AFS, intitulé Sociologie de l’environnement et des
+risques. Cf. http://rtf38afs.free.fr
+
+Sur les 103 contributions référencées, 57 seront effectivement utilisées dans la démonstration (soit 55% des contributions totales, dont 24
+québécoises [51% des contributions québécoises] et 33 françaises [59 %
+des contributions françaises]). D’autres références viennent compléter
+celles-ci dans le seul but d’illustrer les propos. Après chaque comparaison, un tableau récapitulatif rappellera les contributions citées, en distinguant la matière empirique de celle complémentaire à la démonstration.
+Voici les quatre catégories qui ont pu être dégagées à partir de cette
+recherche. Ces démarches sont plurielles et ne s’excluent pas les une
+des autres, et pourtant rares sont les travaux qui participent de plusieurs
+d’entres elles. Par ailleurs il faut considérer ces démarches comme traitant des réactions sociales à la nature.5
+5.
+
+Ces réaction sociales sont ici proches de ce que l’on nomme déjà négociation, c’est à
+dire des concertations autour d’enjeux, ici d’enjeux environnementaux, par et pour les
+acteurs, y compris des acteurs non-humains. Ces négociations se caractérisent par une
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 663
+
+1.
+
+Démarche «classique»
+
+Il s’agit d’étudier les réactions idéales-typiques partant de conflits opposant différents acteurs pour arriver à des compromis négociés. Lorsqu’il
+y a conflit autour d’une mise en question de la société par la nature, les
+recherches portent sur le phénomène de transformation de cet état de l’interaction, le conflit, à un autre, l’accord ou le compromis, via certaines
+étapes de négociation. C’est le cas de l’analyse de Billaud (1994) sur les
+processus de conflit, de négociation et d’accord entre de nouveaux porteparole de l’environnement et d’anciens acteurs institutionnellement légitimés. Ce thème s’est implanté plus récemment autour de l’analyse des
+procédures collaboratives (Salles 2004), de la participation sociale, de la
+coopération, de la médiation (Dziedzicki 2003), autour de la biodiversité
+(Becerra 2004), de la réappropriation ou de la gestion de l’espace rural
+(Babin 2003; Beuret, 1998; 2003), de celle des cours d’eau (Faure 2003)
+ou des bassins versant (Chouinard et al. 2003), ou encore des contraintes
+environnementales en agricultures (Busca et al. 2003; Busca 2004).
+Toujours dans ce cadre, l’analyse peut prendre pour point de départ
+un acteur en particulier. Ce sont généralement les associations de défense
+de la nature ou de protection de l’environnement qui occupent le devant
+de la scène, qu’il s’agisse d’associations de longue date comme l’association nationale de protection des eaux et rivières (Gramaglia 2002), ou
+les commissions locales spécifiques (Le Bourhis 2002).6 Mais ce peut
+être également un acteur politique, comme les Etats-Unis et leur place
+dans les négociations sur le climat (Guilbeaut et Vaillancourt 2002),
+institutionnel, comme le propose Thomas (1996), ou encore médiatique
+(Tessier 1996).
+2.
+
+Démarche «technoscientifique»
+
+La seconde catégorie concerne les travaux liés au risque et à l’expertise.
+Dans ce cadre-ci, on part du constat que la globalisation du risque a
+pluralité d’acteurs, une égalité de pouvoir de décision en apparence donnée à chaque
+acteur, et surtout le nombre croissant de ces formes de réactions (Callon et al. 2001).
+Elles regroupent des acteurs-types, tels les classiques politiques-scientifiques-citoyens,
+ou les non moins classiques grands acteurs tels qu’un Etat centralisé et son administration ou une entreprise publique, des élus locaux représentant les intérêts de leurs administrés, des associations de défenses protéiformes, auxquels on peut encore ajouter des
+entrepreneurs (Lafaye et Thévenot 1993). Néanmoins, la négociation n’est que l’aspect
+le plus courant de ces réactions sociales, et n’englobe pas l’ensemble des réactions
+possibles, qui ne sont pas toutes négociées.
+6. Si l’acteur associatif est favorisé, cela s’explique notamment par le développement
+des associations environnementales depuis les années 1970 et l’importance qui leur est
+accordée depuis une dizaine d’année (Micoud 2001).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+664
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+conduit à un doute généralisé envers les institutions: l’individu est le
+seul levier d’action possible. Il s’agit d’appliquer les idées générales de
+Ewald (1986), Beck ([1986] 2001) ou Duclos (1993) dans lesquelles on
+retrouve l’universalité du risque et où les seules actions ne doivent être
+attendues que par les individus (et non par les institutions). Or, comme le
+font remarquer Charles et Kalaora (2003:39),
+Une des spécificités françaises est la prise en charge plus importante
+qu’ailleurs de l’individu par le collectif, son dessaisissement politique
+partiel via la représentation, mais aussi dessaisissement psychologique,
+subjectif en ce que l’individu est comme déchargé d’avoir à assumer personnellement la confrontation du risque.7
+
+C’est pourquoi ces travaux se concentrent sur la participation des
+associations citoyennes en général plutôt que sur celles de défenses de
+la nature uniquement, et s’intéressent à l’expertise et aux connaissances
+mises en œuvres lors des négociations. Par exemple Estades et Rémy
+(2004) étudient les phénomènes d’apprentissage, par un collectif de
+femmes (l’association les mères en colères), des logiques techniques et
+discursives liées aux négociations autour de l’usine de traitement des
+déchets nucléaires de La Hague (Nord-Ouest Français). Le travail de
+Sureaud (2004) reprend un débat similaire à une échelle régionale, tout
+comme celui de Gaubert (2004) sur la promotion de nouveaux dispositifs industriels environnementalement performants. Les recherches de
+Lucotte et Pinsonnault (2004) abordent sous un autre angle les formes de
+gestion participatives du risque vis-à-vis du mercure.
+Pour ce qui est de l’expertise, elle est surtout mise en avant pour son
+ambiguïté: les experts sont des révélateurs de connaissance, mais sont
+toujours eux-mêmes en controverse entre eux (Mormont et Mougenot
+1993:40–47). Dans le même ordre d’idée, la notion de modernisation
+écologique, mise en avant par Spaargaren et Mol au début des années 90,8
+relève également d’une approche technoscientifique en ce sens qu’elle
+questionne la rationalisation des productions et l’institutionnalisation de
+l’environnement ainsi que la gestion des risques (Guay 1999). L’exemple
+du secteur de l’extraction de granulat, étudié par Fouilland (2004) participe de cette démarche, tout comme les études de Lalo (2004) et Potteck
+(2004), lesquelles donnent plus d’ampleur théorique à leur approche.
+7. Et les auteurs de cet extrait de renvoyer à Rosenvallon (1999) et Gauchet (2002) ainsi
+qu’à Ewald (1986).
+8. L’usage veut que l’on renvoie le lecteur à Spaargaren et Mol (1992) et Mol et Spaargaren (1993) pour les développements sur la modernité écologique. L’article de Buttel
+(2000) est une autre référence appréciable.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 665
+
+Gendron (1999) avance elle aussi une critique de la rationalisation
+scientifique en montrant d’ailleurs que «le fondement scientifique des
+décisions politiques est fort discutable», un peu comme le fait Boiral
+(2003:106) pour le fondement économique, et non pas environnemental, des normes ISO 9001 et surtout 14001, en rappelant que celles-ci
+«tendent à apparaître comme des ‘certificats commerciaux’ plutôt que
+comme des systèmes de gestion au service de la qualité ou de l’environnement». Cependant avec ces deux derniers travaux, nous entrons en
+partie dans ce que nous nommons une démarche «idéologique».
+3.
+
+Démarche «idéologique»
+
+Il s’agit ici de prolonger la critique de l’expertise en la radicalisant, ce
+que Mormont et Mougenot (1993:47) expliquent très bien à partir des
+idées des historiens français de l’écologie :
+. . . les différentes histoires de l’écologie (Acot, Deléage et surtout Drouin9)
+ont pour intérêt de montrer deux autres réalités: d’un côté, les modèles
+scientifiques que construisent les scientifiques se réfèrent généralement,
+au moins dans leurs premières formulations, à des représentation du social qui servent à penser la nature. D’autre part, ces modèles, à mesure
+qu’ils se précisent, se confrontent aux données et se construisent comme
+outils, délimitent progressivement leur aire de validité, leur domaine de
+pertinence, en même temps qu’ils peuvent toujours être ressaisis (dans le
+champ social) comme des arguments dans la lutte sociale, voire comme
+des idéologies.
+
+C’est le même terme d’«idéologie» que reprennent Charles et Kalaora (2003:47):
+Les sociologues français éprouvent face aux problématiques de l’écologie
+conjuguant des interrogations inédites, un évident malaise et de profondes
+réticences. Connaissant assez mal les bases scientifiques ou le contexte
+d’élaboration de la discipline, ils voient plutôt celle-ci sous l’angle d’une
+idéologie ou d’un mouvement social dont les fondements et les objectifs
+leur apparaissent des plus flous et contestables.10
+
+Dans ces travaux, les sociologues s’attachent à déjouer les idéologies
+pour montrer au grand jour les phénomènes cachés. On peut y référencer
+le travail de Kalaora (1993a [1978]) sur les loisirs en forêt, où il montre
+que l’accès idéalisé d’une nature ouverte à tous cache une domination
+de la nature par et pour les classes supérieures; celui de Alphandéry et
+9. Mormont fait référence à Acot (1988), Deléage (1991), et Drouin (1991).
+10. Et les auteurs de renvoyer toujours à l’histoire, non plus celle de l’écologie mais celle
+de la protection de la nature via Cadoret (1985).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+666
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+al. (1999) sur les agriculteurs moyens; ou celui de Boudes (2005) sur les
+rapports d’instrumentalisation entre sociologues français et Ministère de
+l’Environnement.11
+Dès lors, l’analyse des mises en pratiques du développement durable (Richard-Ferroudji et Ruffier 2004) et surtout des «entreprises de
+conscience» (Bernier 2004), des représentations de la société civile (Rudolf 2003) ou de ses représentants (comme les associations écologistes
+étudiées par Bozonnet 2004) mettent en avant les discordances entre la
+réalité des faits et les images de cette réalité. D’autres travaux abordent
+ces questions via les thématiques de l’esthétique (Blanc et Lolive 2004)
+ou du paysage (Candau et Lewis 2004) par exemple, et proposent des
+conclusions semblables à celle de Duclos (1999): l’harmonie artificielle
+des relations entre nature et société masque mal une pluralité des subjectivités opposée à cette «harmonie».
+L’analyse de discours ou de textes est également efficace dans ce type
+d’analyse: Boiral (2003) en fait usage et Champion (2004) centre clairement toute son étude sur le discours, celui de Monsanto en l’occurrence,
+tout comme Perron et Vaillancourt (1999:96) le font pour «l’influence du
+discours de l’IPPC12 dans la société». Lepage (1999) propose également
+de démonter la thèse selon laquelle les controverses environnementales
+seraient d’ordre scientifique en mettant en avant que, lors du projet de
+barrage «Grande Baleine» au Québec, les controverses furent davantage
+d’ordre culturel.
+4.
+
+Démarche «hybride»
+
+Enfin, la dernière catégorie proposée peut s’intituler démarche «hybride».
+Il s’agit dans ce cas d’une partie des idées développées par les tenants
+de la sociologie de la traduction (Callon 1986) et dont une explication
+détaillée est donnée par Latour (2000; [1999] 2004). Celui-ci (Latour
+2000) propose par exemple un «nouveau bicaméralisme» lié à un chan11. L’ouvrage de Lascoumes (1994) sur ce qu’il nomme «l’éco-pouvoir» a tout à fait sa
+place dans cette catégorie. Par ailleurs, l’ensemble des travaux français de sociologie
+politique sur l’environnement devraient sans doute appartenir à cette démarche «idéologique» tant ont été critiquée la monopolisation de l’environnement par le ministère
+française de l’environnement dès sa création et la réponse technocratique et ingénieuriale de cette institution à l’environnement. L’expression de «naturalisme naïf» employée par Lascoumes (1994) ou le récit de Kalaora (1998) sur son passage au sein du
+Ministère sont représentatifs de ce délaissement des préoccupations environnementales
+par les institutions françaises.
+12. Il s’agit de l’Intergovernmental Panel on Climate Change dont les travaux «servent de
+référence de base à l’élaboration du discours que portent les acteurs sociaux à propos
+des changements climatiques, du moins en ce qui concerne les aspects ‘scientifiques’
+qui lui sont associés», précisent Perron et Vaillancourt (1999:95).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 667
+
+gement de statut des non-humains. Si jusqu’alors nous considérions la
+nature comme extérieure à notre collectif, Latour propose d’agrandir ce
+collectif en mettant en cause les limites épistémologiques des sciences.
+Il faut réexaminer les liens entre nature, science et politique: «Pour offrir
+à l’écologie politique une place légitime, il suffisait de faire entrer les
+sciences en démocratie» (Latour [1999] 2004:291) et notamment accepter de passer d’un modèle de diffusion à un modèle d’intéressement.
+Ces idées influencent beaucoup de travaux mais peu s’y rallie directement. Les analyses rapportent l’opportunité de créer des lieux de débat
+et d’échange sur les diagnostics scientifiques, de limiter la séparation
+entre sphères (science/politique/nature et/ou humains/ non-humains), et
+d’instituer des sortes de parlements du diagnostic environnemental. Bien
+qu’elle ne le revendique pas, Van Tilbeurgh (1994) propose une réflexion
+de ce type, liant non-humains (les huîtres), scientifiques (ceux de l’Ifremer) et un groupe social (les ostréiculteur de la baie de Cancale) comme
+Callon (1986) associait les coquilles Saint-Jacques avec des biologistes
+et des marins-pêcheurs de la baie de Saint-Brieuc.
+De même, les réflexions de Picon (2002) sur les liens entre les sciences sociales et celle de la nature — à partir de son terrain de prédilection,
+la Camargue —, celles de Micoud (2003; 2004a) sur la délicate prise
+en compte du vivant par les sciences sociales, et la proposition d’une
+écosociologie (Vaillancourt 2004) visant à ordonner les relations entre
+les sphères sociales et biologiques des phénomènes environnementaux
+s’inscrivent dans ces tentatives de rendre compte de l’enchevêtrement
+des facteurs sociaux et naturels qui traversent les questions sur l’environnement.
+D’une manière différente, Murphy (2003) étudie une tempête de verglas et associe, en les mettant sur un même plan, les aspects sociaux et
+naturels. «Cette étude,» conclut Murphy (2003:152), «a corroboré l’importance d’une analyse contextuelle complète, centrée sur les pratiques
+sociales et sur les dynamiques naturelles». Elle a également montré que
+s’il y a des périodes (généralement longues dans nos sociétés occidentales) de tranquillité et de confort social, «[i]l y a aussi des périodes de
+vulnérabilité du corps humain» (Murphy 2003:152). L’idée de vulnérabilité est plus largement détaillée par Pinsonnault (2002) qui la reprend
+pour mettre en lumière les liens qu’établissent les populations avec une
+maladie bien particulière, le paludisme. Elle affirme alors que «les populations confrontées à la récurrence du paludisme élaborent des repères de
+significations et de pratiques qui témoignent plus profondément de leurs
+formes d’engagement avec l’environnement» (Pinsonnault 2002:92).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+668
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+Voici donc les principales démarches d’analyse utilisées au sein de
+ce que l’on peut alors nommer la sociologie franco-québécoise de l’environnement.13 Le tableau II récapitule les références des quatre groupes.
+Tableau II : Démarches d’analyse Franco-Québécoises
+
+Démarche «hybride»
+
+Démarche
+Démarche «idéoDémarche
+«technoscienlogique»
+«classique»
+tifique»
+
+Québec
+
+Apports
+supplémentaires
+
+France
+
+Babin 2003; Chouinard
+et al. 2003; Guilbeaut
+et Vaillancourt 2002;
+Tessier 1996; Thomas
+1996
+
+Becerra 2004; Busca et al.
+2003; Busca 2004; Dziedzicki 2003; Faure 2003;
+Gramaglia 2002; Salles
+2004
+
+Boiral 2003; Gendron
+1999; Guay 1999;
+Lucotte et Pinsonnault
+2004
+
+Estades et Rémy 2004;
+Fouilland 2004; Gaubert
+2004; Lalo 2004; Potteck
+2004; Sureau 2004
+
+Boiral 2003; Champion
+2004; Lepage 1999;
+Perron et Vaillancourt
+2003
+
+Bernier 2004; Blanc et Lolive 2004; Bozonnet 2004;
+Candau et Lewis 2004;
+Duclos 1999; RichardFerroudji et Ruffier 2004;
+Rudolf 2003
+
+Beuret 1998; 2003;
+Billaud 1994; Le Bourhis 2002
+Beck 2001 [1986];
+Charles et Kalaora
+2002; Duclos 1993;
+Ewald 1986; Mormont
+et Mougenot 1993
+Alphandéry et al.
+1999; Boudes 2005;
+Charles et Kalaora
+2002; Kalaora 1993a
+[1978]; Mormont 1993
+
+Murphy 2003; PinsonCallon 1986; Latour
+Micoud 2003; 2004a; Picon
+nault 2002; Vaillancourt
+2004 [1999]; 2000;
+2002
+2004
+Van Tilbeurgh 1994
+
+13. En plus de ces quatre démarches largement exemplifiées d’autres pistes peuvent être
+dessinées, que nous citerons pour mémoire. D’abord, pour rester dans le cadre francophone, la démarche «justificative», c’est à dire dans la lignée de la théorie de la
+justification développée par Boltanski et Thévenot (1991) et reprise directement pour la
+situation environnementale dans un article intitulé ‘De la justification écologique’ (Lafaye et Thévenot, 1993). Il y est question de montrer «comment les aspects écologiques
+pouvaient se mouler dans les ordres de justification déjà expérimentés» (1993:65).
+Dans une toute autre direction, une démarche «sceptique» pourrait elle aussi avoir sa
+place, reprenant les explications de Lomborg (selon lequel, comme l’a résume White
+(2004:390), «the end of the world is not nigh»). D’après Lomborg (2001) en effet, le
+véritable état de la planète n’est pas si désastreux que l’on pourrait le croire — nous le
+faire croire. Cette position est le pendant de la démarche «idéologique»: celle-ci vise à
+aborder les phénomènes naturels comme environnementaux (et donc dépendant autant
+de la société que de la nature), celle-là montre que la crise de l’environnement n’est pas
+un problème, ou «that it only ever existed in people’s heads» (Beck 1998:154, cité par
+White 2004:390).
+Une démarche «modernisatrice» pourrait également prendre en compte l’apport de la
+modernisation écologique mis en avant par Spaargaren et Mol (1992), indépendamment, sans doute, de la démarche «technoscientifique». Enfin, sans prétendre achever
+la liste de telles démarches d’analyse, les travaux quantitatifs voire comportementaux
+occupent également une large part de la sociologie de l’environnement, représentés
+moins sensiblement en France ou au Québec (voir par exemple Bozonnet 2005, en
+France) qu’aux Etats-Unis (voir par exemple Marquart-Pyatt 2005).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 669
+
+Chaque démarche comprend a peu près autant de travaux québécois
+que français, ce qui pousse à dire que la globalisation de la sociologie,
+aux travers des échanges internationaux, régionaux et culturels, semble
+permettre l’affirmation commune d’une production sociologique moins
+portée sur la théorie, ni sur l’objet, mais bien sur le processus d’analyse,
+i.e., sur la démarche utilisée.
+Il n’en reste pas moins vrai que cette démonstration doit se poursuivre. Quelle est la preuve que ce ne sont pas les traditions sociologiques nationales qui auraient «évolué», se seraient transformées d’écoles
+«suprêmes», de théories à portée totale, en démarches spécifiques, non
+seulement intermédiaires entre les théories et les objets, mais surtout
+appelées à servir et se servir des autres théories et objets d’étude afin
+de tendre vers une explication sociologique (dé)limitée? En un mot: les
+démarches d’analyses proposées ci-dessus ne reflètent-elle pas, après
+tout, les traditions de recherche québécoise et française lesquelles, elles
+aussi, participeraient chacune de ces démarches indépendamment de leur
+consœur d’outre-atlantique?
+Spécificités des sociologies régionales
+Selon cette étude, il n’en est rien. En effet, s’il on prend dans le détail
+les mêmes productions sociologiques au Québec d’un coté, en France
+de l’autre, les découpages typologiques ne sont plus du même ressort:
+au contraire, et sans doute comme un revers de cette production commune globalisée, les sociologies régionales restent marquées par leurs
+spécificités propres — ce qui, du reste, n’enlève rien de leur valeur, si ce
+n’est une porté explicative ou interprétative que les démarches d’analyse
+embrassent davantage.
+Au Québec, une approche ciblée sur les nouveaux objets
+environnementaux
+La sociologie Québécoise de l’environnement est l’aboutissement d’une
+quintuple influence, qui se perpétue dans les travaux contemporains.
+1. D’abord, son inspiration géographiquement déterminée par les traditions nord-américaines et en particulier le courant d’écologie humaine et sociale (Vaillancourt 1996; 2003) orienté vers une sociologie davantage empirique, voire pragmatique. Parmi ces influences
+nord-américaines, on peut se tourner précisément vers l’héritage
+étasunien des premiers développements d’une sociologie environnementale. En effet, dès les années 1970 la sociologie étasunienne institutionnalise le champ sociologique de l’environnement en
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+670
+
+2.
+
+3.
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+l’intégrant dans son association nationale, et dans le même temps
+la sociologie rurale nord-américaine se tourne vers une sociologie
+des ressources naturelles (Catton et Dunlap 1978; Dunlap et Catton 1979; Vaillancourt 1996; 2003; Buttel 1996). Cette sociologie
+de l’environnement intégrera rapidement les cursus universitaires
+québécois.
+Un autre facteur est celui de l’étude des mouvements verts. Bien que
+ce genre d’étude fut également réalisé en France et reste reconnu
+(Touraine et al. 1980), il s’est davantage ouvert aux mouvements
+sociaux en général, et non à ceux environnementaux en particulier,
+comme l’évoque très brièvement Touraine non sans une pointe de
+regret.14 Au contraire, les mouvements sociaux proches de l’écologie ont fait l’objet d’études approfondies au Québec, et ceci dans la
+durée, depuis le début des années 70 (cf. le rapport Berger en 1971;
+Vaillancourt 1982) jusqu’à nos jours (Prades et al. 1994; Vaillancourt et Perron 1998; Perron, Vaillancourt et Durand 1999), intégrant également les communautés autochtones et/ou locales comme
+acteurs à part entière pour donner une dimension interculturelle aux
+études (Tessier 1996; Raymond 1999; Babin 2003).
+La problématique des changements globaux, notamment celle des
+changements climatiques, revient fréquemment dans les études québécoises. Ceci est sans doute lié au fait que «le Canada est responsable de 3% des émissions de gaz à effet de serre dans le monde» et
+s’est engagé, avec le protocole de Kyoto, à «réduire ses émissions
+d’ici à 2012 à un niveau inférieur de 6% à ce qu’il était en 1990»
+(PNUE 2003: 21).15 Cela se traduit par de nombreux travaux sur le
+programme sur les dimensions humaines des changements globaux
+et le programme canadien des changements à l’échelle du globe
+(Vaillancourt, 1996; Perron et Vaillancourt 1999; Murphy, 2002), sur
+les concertations au sein de ce dernier (Perron et Vaillancourt 2003),
+
+14. Expliquant le choix de son objet, la lutte anti-nucléaire comme mouvement social et
+non comme changement culturel, il écrit: «Nous devons être conscient du choix fait
+au départ. Nous aurions pu interroger surtout les associations de défense de la nature
+et chercher dans les propos de leurs militants les signes d’un changement culturel.
+Nous avons au contraire réuni dans les groupes d’intervention surtout des écologistes
+politiques car nous étions à la recherche d’un conflit et d’un mouvement social plutôt
+que d’une nouvelle image de la culture, c’est à dire des relations entre une société et
+son environnement. Peut-être avons fait le mauvais choix et avons-nous mal éclairé
+le sens le plus important de la lutte anti-nucléaire. Mais, au moment où se place notre
+recherche, ce risque apparaît limité.» (Touraine et al. 1980:34).
+15. Le Geo Yearbook 2006 (PNUE 2006) va également dans ce sens. Cependant, le Canada, par sa récente proposition d’un plan «vert» semble davantage désireux de ménager
+ses pollueurs que de respecter ses engagements définis à Kyoto (cf. Pélouas 2006).
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 671
+
+sur le rôle des organisations non gouvernementales (Guilbeault et
+Vaillancourt 2003) ou encore la place des Etats-Unis d’Amérique
+dans le protocole de Kyoto (Guilbeault et Vaillancourt 2002).
+4. La dynamique heuristique que propose le développement durable et
+les réflexions concernant la gestion de l’environnement participent
+également des influences générales de la sociologie de l’environnement québécoise. Une fois mis de coté son aspect englobant des
+autres domaines, le développement durable est un champ d’étude
+propre, qui conduit à s’interroger sur les nouvelles formes de gouvernance (Gendron 2003a; Hamel 2003) et de gestion au sens large
+(Gendron 1999; Chouinard et al. 2003), mais également sur les phénomènes de standardisation (Boiral 2003) ou au contraire d’ouverture inter- et intra-culturelle (Villeneuve 1995; Barabe et al. 1995;
+Beaulieu 2001; Capitaine et Martin 2004).
+5. Enfin, les avancées des travaux en sociologie économique ne sont
+pas sans rapport avec le développement d’une approche socio-économique de l’environnement, dont Gendron (2002a; 2002b; 2003a;
+2003b) est une figure emblématique du domaine. En posant que la
+sociologie économique de l’environnement est une approche hétérodoxe en économie, Gendron (2003b:62) montre en quoi les approches classiques et néo-classiques réduisent l’analyse de l’environnement à un processus d’internalisation d’une externalité (Gendron,
+2003b:62) et proposent par exemple de privatiser l’environnement
+pour mettre un terme à la crise écologique. A la limite, l’économie
+écologique admet que la crise environnementale met au défi l’économie d’arrimer sa logique linéaire, illimité et déterministe à celle
+circulaire, limitée et chaotique de l’environnement.
+La nouvelle sociologie économique de l’environnement ouvre les
+perspectives de l’économie orthodoxe en affirmant que «les modalités
+techniques de la modernisation écologique [doivent être] étudiées à la
+lumière des rapports sociaux et de leurs conséquences sur ces rapports,
+étant entendu que ceux-ci seront également affectés par la matérialité
+de la crise» (Gendron 2002a: 62). Boidin et Zuindeau (2006) associent,
+avec quelques nuances, la sociologie économique de l’environnement à
+une analyse régulationniste de l’environnement, et rapportent que certains auteur voient dans l’environnement une véritable sixième forme
+institutionnelle au même titre que le rapport salarial, la monnaie, les formes de la concurrence, le mode d’insertion internationale et les formes
+économiques de l’État.
+Le colloque «Sociologie, économie et environnement» (ACSALF,
+2002) est significatif de l’heuristique de ce domaine pour la sociologie
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+672
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+de l’environnement. Cependant, mis à part Gendron et les membres de la
+Chaire de Responsabilité Sociale et de Développement Durable qu’elle
+dirige, les incursions de la sociologie économique en sociologie de l’environnement demeurent limitées.
+Le tableau III reprend ces cinq courants principaux.
+Tableau III : Principaux courants de la sociologie québécoise de
+l’environnement
+Ressources empiriques
+Apports complémentaires
+Buttel 1996; Catton et
+Tradition/
+Vaillancourt 1996; 2003
+Dunlap 1978; Dunlap et
+inspiration
+Catton 1979
+Perron et al. 1999; Prades
+Babin 2003; Raymond 1999; et al. 1994; Touraine et al.
+Mouvements verts
+Tessier 1996
+1980; Vaillancourt 1982;
+Vaillancourt et Perron 1998
+Guilbeault et Vaillancourt
+Murphy 2002; Perron et
+Changements
+2002; Guilbeault et VaillanVaillancourt 1999; PNUE
+globaux
+court 2003; Perron et Vaillan2003; 2006
+court 2003; Vaillancourt 1996
+Boiral 2003; Capitaine et
+Développement
+Martin 2004; Chouinard et al. Barabe et al. 1995; Beaudurable et gestion
+2003; Gendron 1999; Genlieu 2001; Villeneuve 1995
+environnementale
+dron 2003; Hamel 2003
+Sociologie
+Gendron 2003b; 2002b;
+économique de
+Gendron 2002a; 2003a
+Boidin et Zuindeau 2006
+l’environnement
+
+Ces influences marquées ont sans doute facilité l’inscription de la sociologie de l’environnement au sein de la sociologie québécoise. La tradition de l’écologie humaine et sociale liée aux apports des sociologues de
+l’environnement étasuniens ou le renouveau de la sociologie économique de l’environnement, tout cela a favorisé la constitution d’un champ
+de recherche propre, qu’illustrent tout à fait les recueils d’articles dirigés
+par Tessier et Vaillancourt (1996), Dumas et al. (1999) et Gendron et
+Vaillancourt (2003) ou le parcours de Vaillancourt (2004) et ses développements sur l’écosociologie. Les principaux thèmes de recherche, ou
+pour le moins les plus visibles, sont ceux des changements globaux et du
+changement climatique en particulier, du développement durable et de la
+gestion environnementale.
+En France, une pluralité d’héritages spécifiques
+Pour ce qui est de la sociologie française, c’est d’abord le nombre d’analyses sur la sociologie de l’environnement dans ce pays qui saute aux
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 673
+
+yeux. Celles de Kalaora (1998) de Maresca et Poquet (1996), de Aspe
+(2002), de Clayes-Mekdade (2004) ou encore Charles et Kalaora (2003),
+auxquelles il faut joindre le rapport de Larrère (1999) toujours sur une
+possible constitution d’une sociologie française de l’environnement, le
+travail de Deverre (1998) qui prend non plus en compte la sociologie
+mais l’ensemble des sciences sociales, ou encore les rapports de Mormont (Vourc’h et Mormont, 1990 ; Mormont et Mougenot 1993) et celui
+plus récent de La Branche et Warin (2004). Cet intérêt pour les domaines sociaux de l’environnement provient d’une disparité au moins aussi
+large d’origines intellectuelles et institutionnelles pour aborder les problématiques environnementales.
+Si la sociologie québécoise de l’environnement est l’héritière d’une
+trajectoire relativement ordonnée (écologie humaine et influence de la
+sociologie rurale nord-américaine), la sociologie française de l’environnement, quant à elle, ressemble davantage à un point focal au centre
+d’une diversité d’approches théoriques.
+Voici donc les caractères dominants que nous avons dégagés :
+1. D’abord, l’héritage du rural. On note la prédominance du Ladyss
+(anciennement groupe de sociologie rurale) qui prolonge l’aura
+de Mendras en se détachant peu à peu d’une sociologie du monde
+agricole pour en venir à l’environnement, comme le montre explicitement l’ouvrage Du rural à l’environnement (Mathieu et Jollivet
+1989). M. Jollivet ou J.-P. Billaud, pour s’en tenir à des membres de
+ce laboratoire, en sont de bons exemples, bien qu’ils s’en défendent
+parfois. Les travaux abordent l’environnement à travers le paysage,
+le territoire, les agricultures européennes et/ou alternatives, les impacts des techniques agricoles et agronomiques, etc. Les exemples
+de l’intégration des contraintes environnementales en agriculture
+traités par les chercheurs du CERTOP (Busca et al. 2003; Busca
+2004) et de la perception du paysage rural par Candau et Lewis
+(2004) montrent la pertinence actuelle des liens entre le rural et
+l’environnement.
+2. L’intérêt pour les processus sociaux à l’œuvre dans les transformations et consommations de «nature» est une autre source d’inspiration. On y recense par exemple les travaux de Kalaora (1993a
+[1978]) sur la forêt, non sans lien avec l’analyse de Lewis et Deuffic
+(2004) des enquêtes «forêts et société» en France, les travaux de
+Micoud (1991) sur les hauts lieux environnementaux et récemment
+sur les emboîtement d’échelle et les formes de solidarités qu’elles impulsent (Micoud 2004b), ou encore ceux de Picon (1978)
+sur l’exemple camarguais. La contribution de Lemaire (2004) sur
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+674
+
+3.
+
+4.
+
+5.
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+«l’institution imaginaire de l’environnement en Guyane française»
+participe également de ce groupe.
+Les sociologies des sciences et des controverses scientifiques autour
+de l’environnement sont aussi des objets d’étude récurrents. Deux
+grands axes sont à distinguer: les études de type ANT — actornetwork theory — où l’on mêle des acteurs de toute sorte, naturelle
+ou sociale, représentées par Callon et Latour (e.g., Callon 1986; Latour 1993). En second lieu, les études autour de la mise en directive
+de la nature, qui prennent leur essor avec les travaux sur Natura
+2000 (Rémy 1999; Pinton et al. 2003; 2007). Ces travaux proposent
+non seulement de réajuster les rapports entre expertise scientifique
+et participation citoyenne, mais sont également l’occasion de suivre
+les évolution des applications en France de la directive européenne
+Habitat.
+Dans cette catégorie, la contribution de Van Tilbeurgh (2004a;
+2004b) rapporte comment les négociations autour de la constitution d’un parc national en France sont d’abord restées l’apanage des
+scientifiques avant de s’ouvrir au reste de la société civile. Le travail
+de Ranoux (2004) sur le projet de parc en Guyanne rend compte de
+cette pluralité d’acteurs à l’œuvre et des perceptions différenciées
+des relations nature/société qu’ont ceux-ci, tout comme l’étude de
+Rémy (2004) sur la constitution de «réseaux écologiques» autour de
+la question animale.
+La sociologie du risque, maintenant associée à la figure de Beck
+([1986] 2001) est également un champ influent de la sociologie de
+l’environnement. On retiendra la spécificité des réflexions de Duclos sur le lien entre civilité et risque (Duclos 1993) et de Roqueplo
+à partir de son célèbre ouvrage sur les pluies acides et le climat (e.g.,
+Roqueplo 1993). L’examen des responsabilités à l’œuvre lors de
+l’explosion de l’usine AZF de Toulouse et du naufrage du pétrolier
+L’Erika que propose Lalo (2004) synthétise les différentes appréhensions des risques dans le temps et montre le passage d’un modèle
+de prévention à celui de précaution. Rudolf (2004) tâche également
+de rendre compte de l’heuristique de la sociologie du risque et de
+son lien étroit avec celle de l’environnement.
+Enfin, les définitions de l’interdisciplinarité et de l’environnement
+occupent à elles seules une grande part de la sociologie de l’environnement. Il s’agit de la possibilité d’existence (pratique, institutionnelle et épistémologique) d’une sociologie de l’environnement
+en sociologie (Kalaora 1993b), des frontières des sciences sociales
+avec les sciences dures (Mathieu et Jollivet 1989; Jollivet 1992),
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 675
+
+de celles de la sociologie avec la géographie, (Mathieu 1992) ou
+les autres sciences. Les contributions de Claeys-Mekdade et Vivien
+(2002) et Lewis et Deléage (2002) rappellent cette nécessaire posture interdisciplinaire de tout chercheur en environnement.
+Le tableau IV reprend l’ensemble des influences de la sociologie
+française de l’environnement:
+Tableau IV: Principales influences de la sociologie française de
+l’environnement
+Ressources empiriques Apports complémentaires
+Busca 2004; Busca et al.
+Rural
+2003; Candau et Lewis
+Mathieu et Jollivet 1989
+2004
+Transformation et/ou
+Lemaire 2004; Lewis
+Kalaora 1993a; Micoud
+consommation de la
+2004; Micoud 2004b
+1991; Picon [1978] 1988
+nature
+Ranoux 2004; Rémy
+Callon 1986; Latour
+Sociologie des sciences
+2004; Van Tilbeurgh
+1993; Pinton et al. 2003;
+et des controverses
+2004a; 2004b
+2007; Remy 1999
+Beck [1986] 2001; Duclos
+Sociologie du risque
+Lalo 2004; Rudolf 2004
+1993; Roqueplo 1993
+Jollivet 1992; Kalaora
+Claeys-Mekdade et ViInterdisciplinarité
+1993b; Mathieu 1992;
+vien 2002; Lewis 2002
+Mathieu et Jollivet 1989
+
+Ce que l’on peut retenir de ce rapide panorama français, c’est que
+la typologie qui s’est imposée pour son analyse reprend davantage de
+points de vue théoriques et historiques que de champs empiriques à part
+entière. L’environnement est alors la somme de différents axes de recherche, comprenant aussi bien le rural et l’interdisciplinarité que le risque
+et les sociologies des sciences et des techniques. Cette dispersion (ou
+dissolution) de l’objet dans différents champs de recherche semble caractéristique des approches françaises.
+Enjeux et revers de la globalisation de la sociologie
+Ainsi les sociologies française et québécoise de l’environnement sont
+bel et bien des champs ancrés dans des traditions spécifiques, qui relèvent de leurs histoires particulières. Les Québécois sont plutôt partis des
+objets nouveaux qu’a révélé la problématique environnementale quand
+les Français ont cherché à élargir tout un panel d’héritages théoriques
+préexistants. Par ailleurs l’introduction de nouveaux objets per se et non
+pour servir une visée théorique a sensiblement orienté la sociologie qué-
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+676
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+bécoise vers une plus facile acceptation de ces objets, tandis que les sociologues français sont restés dans le domaine de la confrontation entre
+héritages théoriques, au détriment de l’objet.
+Deux autres conclusions d’ordre plus général terminent cet exposé.
+La première est que la globalisation de la sociologie fait apparaître une
+sociologie moins axée sur l’élaboration de loi que sur la démonstration
+de mécanismes sociaux. Et ceci n’est pas sans lien avec un certain délitement de la société et/ou du social — pour le moins une peur de ce
+délitement — qui tendrait vers un déclin de la sociologie si celle-ci ne se
+«prenait en main» comme elle paraît le faire. Cette globalisation serait
+incarnée par le regain des théories à moyenne portée, sous la forme par
+exemple de ce qui a été appelé ici des démarches d’analyse. Et il est
+probable qu’un tel changement non seulement achève de donner à la
+sociologie son statut de science légitime et non pas fondée sur le seul
+prétexte de l’avènement des sociétés modernes. En ce sens, la sociologie
+serait moins définie par son objet (les sociétés modernes, l’Etat-Nation)
+ou les théories qui découlent de son étude, que par sa capacité à intégrer
+les transformations d’une réalité sociale toujours plus mobile, à travers
+l’usage de démarches intermédiaires, entre l’échafaudage théorique et
+l’emprise d’un objet. Il n’en reste pas moins vrai que de telles démarches
+permettent cet échafaudage et/ou cette emprise lorsque la réalité sociale
+l’exige — ou, pour prendre un argument de la sociologie des sciences,
+que la structure sociale de la science sociologique l’impose.
+Enfin, et à contre-pied de ce premier constat, les sociologies régionales restent inscrites, quant à elles, dans des traditions et modes
+d’approches spécifiques, ne reflétant pas nécessairement la sociologie
+globale, mais participant de son dynamisme. Cette analyse plaide ainsi
+pour une sociologie globale non réductionniste, c’est-à-dire qui ne se
+conjugue ni avec l’internationalisme, ni avec l’indigénisme — ni avec
+leurs phénomènes concomitants de domination, d’ethnocentrisme ou
+d’impérialisme. Les résultats proposés ici mériteraient d’être approfondis pour participer à ces débats internationalisation/indigénisation.
+Cependant, l’exposé de Berthelot (1998) sur ce thème invite à situer
+cette contribution dans une perspective consensuelle. Elle reconnaît la
+portée globale des deux sociologies (québécoise et française) prises ensembles (universalisme) sans nier leur spécificité locale (particularisme)
+et elle met en avant des démarches d’analyse visant à inscrire les productions sociologiques dans une visée explicative (rationalisme) tout en
+distinguant clairement les déterminants historiques et géographiques des
+deux approches (relativisme).
+Ainsi, ni la sociologie française ni sa consœur québécoise ne reflètent
+la démarche sociologique dans sa totalité. Ce n’est qu’en les prenants en-
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 677
+
+sembles que se dégagent les démarches d’analyse comme le reflet d’une
+sociologie globalisée. Et l’ensemble d’une sociologie globalisée ne serait qu’une typologie complète des différentes démarches d’analyses
+comme catégories dominantes de l’explication des mécanismes sociaux.
+Cette complémentarité apparente entre productions locales et définition
+globale n’est pas sans rappeler le paradoxe d’une globalisation inextricablement liée à la montée des nationalismes et des régionalismes qui
+marquent la période actuelle. Aussi, cet improbable équilibre doit-il être
+apprivoisé avec délicatesse, au risque d’écarter par trop la sociologie de
+ses sociologues.
+Références bibliographiques:
+Acot, Pascal. 1988. Histoire de l’écologie. Paris: PUF.
+ACSALF (Association Canadienne des Sociologues et Anthropologues de Langue Française). 2002. Actes de colloque «Sociologie, économie et environnement» dans le cadre du 70e Congrès de l’ACSALF, Université
+Laval, Québec, Cahier du CRISES, Hors-série n°5.
+AFS (Association Française de Sociologie). 2004. Sessions du RT 38 «Sociologie de l’environnement et des risques». Pp. 269–271 in Actes du Ier Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse, 24–27
+février 2004, AFS éditions.
+AISLF (Association International des Sociologues de Langue Française). 2004.
+Sessions du RC 23 «Sociologie de l’environnement et du développement
+durable» lors du XVIIème congrès de l’AISLF, Tour, France.
+Alphandéry, P., P. Bitoun, et Y. Dupont. 1999. L’équivoque écologique. Paris:
+La Découverte
+Aspe, Chantal. 2002. Les temps de la sociologie de l’environnement: engagement et modernité. Sociologie pratique 7(2):117–138.
+Babin, Ronald. 2003. Réappropriation communautaire de la protection de
+l’environnement en Acadie. Pp. 265–295 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la
+contestation écologiste aux défis de la gouvernance, Montréal: Presses
+Universitaires de Montréal.
+Barabe, A., J.-C. Bourgeois, et R. Trudel. 1995. L’Ecotourisme au lac SaintPierre. Ecodécision 15:91–94.
+Beaulieu, Agnès. 2001. L’Environnement, outil de lutte contre l’exclusion des
+jeunes. Possible 25(1):56–60.
+Becerra, Sylvia. 2004. La question de la participation sociale et de la coopération
+dans le domaine de la conservation de la biodiversité. In Sessions du RC
+23 «Sociologie de l’environnement et du développement durable» lors du
+XVIIème congrès de l’AISLF, Tour, France.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+678
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+Beck, Ulrich. 1998. Democracy without Enemies. Cambridge: Polity.
+——— 2001 [1986]. La société du risque. Paris: Flammarion.
+Bernier, Sandrine-Charlotte. 2004. La perception de l’environnement autour
+d’un site classé: entreprise de conscience et inertie des comportements.
+In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de l’AISLF, Tour, France.
+Berthelot, Jean-Marie. 1998. Les nouveaux défis épistémologiques de la sociologie. Sociologie et Sociétés XXX(1):23–38.
+Beuret, Jean-Eudes. 1998. Agriculture et qualité de l’espace rural: coordinations,
+conventions, médiations. Thèse de doctorat, ENSAR-SPDR, Rennes.
+——— 2003. La gestion concertée de l’espace rural: médiations locales et politiques d’appui. Pp. 21–30 in R. Billé et L. Mermet, Concertation, Décision et Environnement: Regards croisés. Vol 1. Paris: La Documentation
+Française.
+Billaud, Jean-Paul. 1994. De la solucion negociada de los conflictos a la negociacion institutional : la agricultura busca una nueva legitimitad. Agricultura
+y sociedad 71:209–242.
+Blanc, Nathalie et Jacques Lolive. Les subjectivités cosmopolitiques et la question esthétique. In communication au In Sessions du RC 23 «Sociologie
+de l’environnement et du développement durable» lors du XVIIème congrès de l’AISLF, Tour, France.
+Boltanski, Luc et Laurent Thévenot. 1991. De la justification. Paris: Gallimard.
+Boidin, B. et B. Zuindeau. 2006. Socio-économie de l’environnement et du développement durable: état des lieux et perspectives. Mondes en développement 34:7–37.
+Boiral, Olivier. 2003. La norme ISO 14001: vers une uniformisation des pratiques? Pp. 91–107 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la contestation écologiste aux
+défis de la gouvernance. Montréal: Presses Universitaires de Montréal.
+Boudes, Philippe. 2005. Environment in France: Four examples of local interaction between the Ministry and sociology. In G. Osti et L. Pellizzoni
+(eds.), Local Institution Building for the Environment: Perspectives from
+East and West. Proceedings of the International Conference of Gorizia
+(Italy), Instituto di Sociologia Internationale di Gorizia (ISIG).
+——— 2006. Les démarches des sociologies francophones de l’environnement:
+Comment faire science avec la problématique environnementale?
+Vertig’O 7(2), on http://www.vertigo.uqam.ca/
+Bozonnet, Jean-Paul. 2005. Unequal environmentalism in Europe – Revisiting
+hypotheses of affluence and social classes. Communication au VIIème
+congrès de l’Association Européenne de Sociologie (AES/ESA), Torun,
+Pologne.
+——— 2004. Environnementalisme européen et capitaux sociaux ou quel
+lien social exactement tricotent les écologistes? In Sessions du RC 23
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 679
+
+«Sociologie de l’environnement et du développement durable» lors du
+XVIIème congrès de l’AISLF, Tour, France.
+Busca, Didier. 2004. L’action publique agri-environnementale: de l’incitation volontaire à l’auto-reglementation négociée. In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème
+congrès de l’AISLF, Tour, France.
+Busca, Didier, Corinne Gendre, Denis Salles, et Marie-Christine Zelem. 2003.
+Comment intégrer les contraintes environnementales en agriculture? Pp.
+307–324 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la contestation écologiste aux défis de la
+gouvernance, Montréal: Presses Universitaires de Montréal.
+Buttel, Frederic H. 1978. Environmental sociology: A new paradigm? The American Sociologist 13:252–256.
+——— 1996. Environmental and resource sociology: Theoretical issues and opportunities for synthesis. Rural Sociology 61(1):56–76.
+——— 2000. Reflections on the potential of ecological modernization as a social
+theory. Natures Sciences Sociétés 8(1):5–12.
+Cadoret, Anne, dir. 1985. Protection de la nature, histoire et idéologie. Paris:
+L’Harmattan.
+Callon, Michel. 1986. Eléments pour une sociologie de la traduction: la domestication des coquilles Saint-Jacques et des marins-pêcheurs dans la Baie
+de Saint-Brieux. L’Année sociologique 36:169–208.
+Callon, M., P. Lascoumes, et Y. Barthe. 2001. Agir dans un monde incertain.
+Essai sur la démocratie technique. Paris: Seuil.
+Candau, Jacqueline et Nathalie Lewis. 2004. Appeler le paysage pour vivre ensemble l’espace rural: entre utopie réaliste et exercice de la domination.
+In Sessions du RT 38 «Sociologie de l’environnement et des risques».
+Actes du Ier Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse, 24–27 février 2004, AFS éditions.
+Capitaine, B. et T. Martin. 2004. La culture comme agent de DD: perspective
+autochtone sur le développement. In Sessions du RC 23 «Sociologie de
+l’environnement et du développement durable» lors du XVIIème congrès
+de l’AISLF, Tour, France.
+Catton, William R. et Riley E. Dunlap. 1978. Environmental sociology: a new
+paradigm. The American Sociologist 13:41–49.
+Champion, Emmanuelle. 2004. L’environnement et la crise écologique comme
+source de légitimité de l’entreprise transnationale: analyse du discours
+de Monsanto (1970-2002). In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de
+l’AISLF, Tour, France.
+Charles, L. et B. Kalaora. 2002. Sociologie et environnement en France: l’environnement introuvable? Écologie et Politique 27:31–57.
+——— 2003. Sociologie et environnement en France: l’environnement introuvable? Ecologie et Politique 27:31–57.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+680
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+Chouinard, O., P.-M. Desjardins, E. Forgues, et J.-P. Vanderlinden. 2003. La
+gestion environnementale du bassin versant de la baie de Caraquet. Pp.
+287–305 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la contestation écologiste aux défis de la
+gouvernance. Montréal: Presses Universitaires de Montréal.
+Claeys-Mekdade, Cécilia. 2004. La sociologie de l’environnement d’une génération à l’autre: fidélités ou infidélités des «héritièr(e)s»? Communication
+au Colloque Sciences sociales et environnement. Perspectives franco-allemandes, Strasbourg.
+Claeys-Mekdade, C. et F.-D. Vivien. 2002. Sociologie et économie face à l’environnement: du mariage forcé à l’interdisciplinarité. L’expérience de
+la méthode d’évaluation contingente. In Actes de colloque «Sociologie,
+économie et environnement» dans le cadre du 70e Congrès de l’ACSALF,
+Université Laval, Québec, Cahier du CRISES, Hors-série n°5.
+Cuin, Charles-Henry. 2000. Ce que (ne) font (pas) les sociologues. Petit essai
+d’épistémologie critique. Genève: Librairie Droz.
+Deléage Jean-Paul. 1991. Une histoire de l’écologie. Paris: Seuil.
+Deverre, Christian. 1998. La place des sciences sociales dans la problématique
+environnementale. Le courrier de l’environnement, Les dossiers de l’environnement, n°17.
+Drouin, Jean-Marc. 1991. L’écologie et son histoire. Paris: Flammarion.
+Dubet, François. 2004 Pourquoi rester «classique»? Revue du MAUSS 24:219–
+233.
+Duclos Denis. 1993. De la civilité. Ou comment les sociétés apprivoisent la puissance. Paris: La Découverte.
+——— 1999. Pour une critique écologique du naturalisme instrumental. Pp.
+149–169 in B. Dumas, C. Raymond, et J.-G. Vaillancourt (dir.), Les
+sciences sociales de l’environnement. Montréal: Presses de l’université
+de Montréal.
+Dumas, B., C. Raymond, et J.-G. Vaillancourt, dir. 1999. Les sciences sociales de
+l’environnement. Montréal: Presses de l’université de Montréal.
+Dunlap, R. E. et W.R. Catton. 1979. Environmental sociology. Annual Review of
+Sociology 5:243–273.
+Dziedzicki, Jean-Marc. 2003. Médiations environnementales: des expériences
+internationales aux perspectives dans le contexte français. Pp. 39–64 in
+R. Billé et L. Mermet (dir.), Concertation, Décision et Environnement:
+Regards croisés. vol. 1. Paris: La Documentation Française.
+Estades J. et E. Rémy. 2004. Des (é)preuves pour apprivoiser les risques. In Sessions du RT 38 «Sociologie de l’environnement et des risques». Actes du
+Ier Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse,
+24–27 février 2004, AFS éditions.
+Ewald, François. 1986. L’Etat providence. Paris: Grasset.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 681
+
+Faure, Armelle. 2003. Une expérience de concertation sur l’impact des éclusées
+en vallée de la Dordogne. Pp. 119–135 in R. Billé et L. Mermet (dir.),
+Concertation, Décision et Environnement: Regards croisés. vol. 1. Paris:
+La Documentation Française.
+Fouilland, Serge. 2004. Evolution des réglementations de l’extraction de granulats: structuration du secteur et développement du savoir-faire en matière
+de remise en état de site industriel. In Sessions du RC 23 «Sociologie de
+l’environnement et du développement durable» lors du XVIIème congrès
+de l’AISLF, Tour, France.
+Freudenburg, W.R. et R. Gramling. 1994a. Middle-range theory and cutting-edge
+sociology: A call for cumulation. Environment, Technology and Society
+76(1):3–7.
+——— 1994b. Oil in Troubled Waters. Albany, NY: State University of New
+York Press.
+Gaubert, Jany-Henry. 2004. Pour un dispositif industriel d’amélioration des méthodes et des pratiques d’environnement et de sécurité. In Sessions du RC
+23 «Sociologie de l’environnement et du développement durable» lors du
+XVIIème congrès de l’AISLF, Tour, France.
+Gauchet, Marcel. 2002. La démocratie contre elle-même. Paris: Gallimard.
+Gendron, Corinne. 1999. La gestion sociale de l’environnement. Pp. 121–131 in
+B. Dumas, C. Raymond, et J.-G. Vaillancourt (dir.), Les sciences sociales
+de l’environnement. Montréal: Presses de l’université de Montréal.
+——— 2002a. Vers une approche socio-économique de la problématique environnementale. Pp. 44–67 in Actes de colloque «Sociologie, économie et
+environnement» dans le cadre du 70e Congrès de l’ACSALF, Université
+Laval, Québec, Cahier du CRISES, Hors-série n°5.
+——— 2002b. Economie de l’environnement, économie écologique et sociologie économique de l’environnement: la nécessaire prise en compte des
+dimensions socialement construites du système économique et de la crise
+écologique. Europaea 7(1–2):187–214.
+——— 2003a. La gouvernance du développement durable dans un contexte de
+mondialisation économique. Pp. 67–77 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la
+contestation écologiste aux défis de la gouvernance. Montréal: Presses
+Universitaires de Montréal.
+——— 2003b. Fondement d’une sociologie économique de l’environnement.
+Ecologie et Politique 27:59–78.
+Gendron C. et J.-G. Vaillancourt. 2003. Développement durable et participation publique. De la contestation écologiste aux défis de la gouvernance.
+Montréal: Presses Universitaires de Montréal.
+Girard, Alain. 1962. Présentation. In Maurice Halbwachs, Morphologie Sociale.
+Paris: Alcan.
+Gramaglia, Christelle. 2002. La dénonciation publique de la pollution industrielle. Un exemple d’actions contentieuses engagées par l’association
+ANPER-TOS à l’encontre de grandes entreprises. Pp. 186–203 in Ac-
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+682
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+tes de colloque «Sociologie, économie et environnement» dans le cadre du 70e Congrès de l’ACSALF, Université Laval, Québec, Cahier du
+CRISES, Hors-série n°5.
+Guay, Louis. 1999. La modernisation écologique. Pp. 33–49 in B. Dumas, C.
+Raymond, et J.-G. Vaillancourt (dir.), Les sciences sociales de l’environnement. Montréal: Presses de l’université de Montréal.
+Guilbeault, S. et J.-G. Vaillancourt. 2002. Les impacts du retrait des Etats-Unis
+sur le protocole de Kyoto. P. 219 in Actes du colloque « Sociologie, économie et environnement » dans le cadre du 70e Congrès de l’ACSALF,
+Université Laval, Québec, Cahier du CRISES, Hors-série n°5.
+——— 2003. Les Changements climatiques et le rôle des organisations non gouvernementales. Pp. 157–171 in C. Gendron et J.-G. Vaillancourt (dir),
+Développement durable et participation publique. De la contestation
+écologiste aux défis de la gouvernance. Montréal: Presses Universitaires
+de Montréal.
+Hamel Pierre. 2003. Enjeux institutionnels et défis politiques. Pp. 377–391 in C.
+Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la contestation écologiste aux défis de la gouvernance.
+Montréal: Presses Universitaires de Montréal.
+Hannigan, John A. 1995. Environmental Sociology: A Social Constructionist
+Perspective. London: Routledge.
+Hasegawa, Koichi. [2003] 2004. Constructing Civil Society in Japan. Melbourne: Trans Pacific Press.
+Iijima, Nobuko. 1970. Industrial pollution and the community residents’ movement: the case of the Minamata disease. Shakaigaku hyōron [Japanese
+Sociological Review] 21(1):25-45.
+Jollivet, Marcel, dir. 1992. Sciences de la nature, sciences de la société. Les
+passeurs de frontières. Paris: éd du CNRS.
+Kalaora Bernard. 1993a [1978]. Le musée vert, radiographie du loisir en forêt.
+Paris: l’Harmattan.
+——— 1993b. Le sociologue et l’environnement. La longue marche vers la
+science pragmatique : arpenteur du social ou conseiller du Prince? Natures, Sciences, Sociétés 1(4):309–315.
+——— 1998. Au-delà de la nature: l’environnement. L’observation sociale de la
+nature. Paris: L’Harmattan.
+Kalberg, Stephen. 2004. Difficultés d’un consensus transnational sur une théorie
+sociologique unifiée. Revue du MAUSS 24:173–188.
+La Branche S. et P. Warin, avec la collaboration de M. Galliand-Seux et C. Gaufreteau. 2004. La «concertation dans l’environnement», ou le besoin de
+recourir à la recherche en sciences sociales. Ministère de l’Environnement et du Développement Durable, Programme Concertation, Décision,
+Environnement, INRA, rapport final.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 683
+
+Lafaye, C. et L. Thévenot. 1993. Une justification écologique? Conflits dans
+l’aménagement de la nature. Revue Française de Sociologie XXXIV(4):
+495–524.
+Lalo, Anne. 2004. Polémique et environnement. In Sessions du RT 38 «Sociologie de l’environnement et des risques». Actes du Ier Congrès de l’AFS,
+Université de Paris XIII, Campus de Villetaneuse, 24–27 février 2004,
+AFS éditions.
+Larrère, Raphael. 1999. Un projet de GIS s’appliquant à étudier les pratiques,
+les représentations et les discours concernant la nature et l’environnement? document personnel.
+Lascoumes, Pierre. 1994. L’Eco-pouvoir, environnements et politiques. Paris: La
+Découverte.
+Latour, Bruno. 1993. Petites leçons de sociologie des sciences. Paris: La Découverte, Point Seuil.
+——— 2000. Pour un nouveau bicaméralisme. Pp. 117–130 in M. Abelès et al.
+(dir.), L’environnement en perspective. Paris: L’Harmattan.
+——— 2004 [1999]. Politiques de la nature. Comment faire entrer les sciences
+en démocratie. Paris: La Découverte.
+Le Bourhis, J.-P. 2002. De la délibération à la décision: l’expérience des commissions locales de l’eau. Pp. 147–159 in R. Billé et L. Mermet (dir.),
+Concertation, Décision et Environnement: Regards croisés. vol. 1. Paris:
+La Documentation Française.
+Lemaire, Xavier. 2004. Or, mercure et cyanure. De l’exploitation aurifère en
+milieu tropical guyanais. In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de
+l’AISLF, Tour, France.
+Lepage, Laurent. 1999. Les controverses environnementales sont plutôt culturelles que scientifiques. Pp. 133–147 in B. Dumas, C. Raymond, et J.-G.
+Vaillancourt (dir.), Les sciences sociales de l’environnement. Montréal:
+Presses de l’université de Montréal.
+Leroy, Pieter. 2001. La sociologie de l’environnement en Europe: Evolution,
+champs d’action et ambivalence. Natures Sciences Sociétés 9(1):29–39.
+Lewis, N. et J.-P. Deléage. 2002. L’environnement, un objet de nature interdisciplinaire, indissociable de la donne économique. Réflexion sociologique dans le cadre de la gestion de l’eau en France. In Actes de colloque
+«Sociologie, économie et environnement» dans le cadre du 70e Congrès
+de l’ACSALF, Université Laval, Québec, Cahier du CRISES, Hors-série
+n°5.
+Lewis, N. et Ph. Deuffic. 2004. Environnement et sociologie: quelques réflexions
+épistémologiques. Etude des enquêtes «forêts et société» en France de
+1960 à 2003. In Sessions du RC 23 «Sociologie de l’environnement et
+du développement durable» lors du XVIIème congrès de l’AISLF, Tour,
+France.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+684
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+Lomborg, Bjorn. 2001. The Skeptical Environmentalist: Measuring the True
+State of the Planet. Cambridge: Cambridge University Press.
+Lucotte, M. et N. Pinsonnault. 2004. La gestion participative du risque comme
+levier de prise de décision vis-à-vis du problème du mercure au Canada.
+In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de l’AISLF, Tour, France.
+Lutzenhiser, Loren. 2002. Environmental sociology, the very idea. Organization
+and Environment 15(1):5–6.
+Maresca, Bruno et Guy Poquet, avec la collaboration de M. Fortineau et F. Le
+Huédé. 1996. Les priorités de la recherche en sciences sociales concernant l’environnement. Rapport au service de la recherche et des affaires
+économiques du Ministère de l’Environnement, Département évaluation
+des politiques publiques, Credoc.
+Marquart-Pyatt, Sandra T. 2005. Influences on environmental concern: Identifying cross-national similarities. Communication au VIIème congrès de
+l’Association Européenne de Sociologie (AES/ESA), Torun, Pologne.
+Mathieu, Nicole. 1992. Géographie et interdisciplinarité: rapport naturel ou rapport interdit? Pp. 129–154 in M. Jollivet (dir.), Sciences de la nature,
+sciences de la société. Les passeurs de frontières. Paris: éd du CNRS.
+Mathieu, N. et M. Jollivet. 1989. De la «question de la nature» à la «question de
+l’environnement» ; repères anciens pour des questions nouvelles (présentation de l’ouvrage). In N. Mathieu et M. Jollivet, Du rural à l’environnement, la question de la nature aujourd’hui. Paris: L’Harmattan.
+Mehta, M.D. et E. Ouellet, eds. 1994. Environmental Sociology. North York,
+ON: Captus Press.
+Merton, Robert K. 1973 [1942]. The Normative Structure of Science. Chap. 13
+in R.K. Merton, The Sociology of Science. Chicago et Londres: University of Chicago Press.
+Micoud, André. 1991. Des hauts lieux; la construction sociale de l’exemplarité.
+(textes rassemblés par A. Micoud). Paris: éd. du CNRS.
+——— 2001. La nébuleuse associative. In B. Maresca et al., L’Environnement,
+question social. Paris: Odile Jacob.
+——— 2003. Prendre en compte le temps du vivant. Pp. 129–140 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation
+publique. De la contestation écologiste aux défis de la gouvernance,
+Montréal: Presses Universitaires de Montréal.
+——— 2004a. De l’environnement comme objet à la gestion du vivant comme
+paradigme. In Sessions du RT 38 «Sociologie de l’environnement et des
+risques». Actes du Ier Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse, 24–27 février 2004, AFS éditions.
+——— 2004b. ‘Act local, think global’, ou comment définir de nouvelles solidarités. In Sessions du RC 23 «Sociologie de l’environnement et du
+développement durable» lors du XVIIème congrès de l’AISLF, Tour,
+France.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 685
+
+Mol, Arthur P.J. 2006. From environmental sociologies to environmental sociology: A comparison of U.S. and European environmental sociology. Organization and Environment 19(1):5–27.
+Mol, A.P.J. et G. Spaargaren. 1993. Environment, modernity and the risk-society: The apocalyptic horizon of environmental reform. International
+Sociology 8(4):431–459.
+Mormont, Marc avec la collaboration de C. Mougenot. 1993. Sciences sociales
+et environnement. Approches et conceptualisations. Rapport au service
+de la recherche du Ministère de l’Environnement, Fondation Universitaire Luxembourgeoise, Belgique.
+Murphy, Raymond. 2003. Analyse sociologique d’une tempête de verglas. Pp.
+141–154 in C. Gendron et J.-G. Vaillancourt (dir), Développement durable et participation publique. De la contestation écologiste aux défis de la
+gouvernance, Montréal: Presses Universitaires de Montréal.
+——— 2002. Sustainability or disaster: Social change and changing dynamics
+of nature. Communication lors de la conférence de l’association européenne de sociologie (AES/ESA), Murcia (Espagne).
+Pélouas, Anne. 2006. Le Canada veut abandonner le protocole de Kyoto en ménageant ses plus gros pollueurs. Le Monde 24 octobre.
+Perron B. et J.-G. Vaillancourt. 1999. Les changements climatiques. Pp. 95–119
+in B. Dumas, C. Raymond, et J.-G. Vaillancourt (dir.), Les sciences sociales de l’environnement. Montréal: Presses de l’université de Montréal.
+——— 2003. Concertation à l’intérieur du Processus national sur les changements climatiques du Canada ? Pp. 207–225 in C. Gendron et J.-G.
+Vaillancourt (dir), Développement durable et participation publique. De
+la contestation écologiste aux défis de la gouvernance. Montréal: Presses
+Universitaires de Montréal.
+Perron, B., J.-G. Vaillancourt, et C. Durand. 1999. Les Leaders de groupe verts et
+leur rapport aux institutions. Recherches sociographiques. XL(3).
+Picon, Bernard. 1988 [1978]. Espace et temps en Camargue. Marseille: Actes
+Sud.
+——— 2002. Sociologie et environnement: vingt-cinq ans d’expériences interdisciplinaires. Europaea 7(1–2):75–90.
+Pinsonnault, Nathalie. 2002. La revalorisation de la perspective écologique à
+partir du concept de «vulnérabilité». Un concept-clé pour comprendre
+l’impact des dimensions sociales et structurelles (politiques et économiques) sur les problèmes environnementaux. Pp. 88–99 in Actes de
+colloque «Sociologie, économie et environnement» dans le cadre du 70e
+Congrès de l’ACSALF, Université Laval, Québec, Cahier du CRISES,
+Hors-série n°5.
+Pinton F., P. Alphandéry, J.-P. Billaud, C. Deverre, A. Fortier, et N. Perrot. 2003.
+«Scènes locales» de concertation autour de la nature. La construction
+française du réseau Natura 2000. Paris: Ministère de l’Ecologie et du
+Développement Durable, IFB, Institut Français de la biodiversité.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+686
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+Pinton, F., P. Alphandéry, J.-P. Billaud, C. Deverre, A. Fortier, et G. Geniaux.
+2007. La construction du réseau Natura 2000 en France. Paris: Ministère
+de l’écologie, Institut français de la biodiversité (IFB)
+PNUE/UNEP. 2006. Géo Annuaire 2006, Programme des Nations unis pour
+l’Environnement.
+http://www.unep.org/geo/yearbook/yb2006/PDF/
+GYB06_FR.pdf (page consultée le 1 décembre 2006).
+——— 2003. Géo Annuaire 2003. Programme des Nations Unies pour
+l’Environnement. http://www.unep.org/geo/yearbook/yb2003/pdf.htm
+(page consultée le 1er décembre 2006).
+Potteck, Serge. 2004. Développement durable et focalisation démocratique: la
+technologie au service du citoyen? In Sessions du RC 23 «Sociologie de
+l’environnement et du développement durable» lors du XVIIème congrès
+de l’AISLF, Tour, France.
+Prades, J.A., R. Tessier, et J.-G. Vaillancourt, dir. 1994. Instituer le développement durable. Ethique de l’écodécision et sociologie de l’environnement.
+Montréal: Fides.
+Ranoux, Maëlle. 2004. Engagement et construction d’équivalence entre environnement et société: la position d’un ethnologue dans l’élaboration
+d’un projet de parc national. In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de
+l’AISLF, Tour, France.
+Raymond, Camille. 1999. L’économie, l’éthique et la politique environnementale d’entreprise. Pp. 69–94 in B. Dumas, C. Raymond, et J.-G. Vaillancourt (dir.), Les sciences sociales de l’environnement. Montréal: Presses
+de l’université de Montréal.
+Rémy, Elisabeth, éd. 1999. La mise en directive de la nature: de la directive
+Habitats aux prémices du réseau Natura 2000, Ministère de l’Environnement, Réseau Espaces Protégés. Paris: Rapport pour le ministère de
+l’Environnement DGAD/SRAE-Convention 97059.
+——— 2004. Instruments, paroles d’experts et préférences des animaux: pour
+la définition de réseaux écologiques. In communication au XVIIème
+congrès de l’AISLF, Tour, France
+Rémy, E. et P. Pelligrini. 2004. Instruments, paroles d’experts et préférences des
+animaux: pour la définition de réseaux écologiques.
+Richard-Ferroudji, A. et J. Ruffier. 2004. Discours et pratiques du développement durable. In Sessions du RC 23 «Sociologie de l’environnement et
+du développement durable» lors du XVIIème congrès de l’AISLF, Tour,
+France.
+Roqueplo, Philippe. 1993. Climat sous surveillance. Paris: Economica.
+Rosenvallon, Pierre. 1999. Le peuple introuvable. Paris: Gallimard.
+Rudolf, Florence. 2003. Représentations, normes et dispositifs techniques dans
+la mise en œuvre de la durabilité. Pp. 109–128 in C. Gendron et J.-G.
+Vaillancourt (dir.), Développement durable et participation publique. De
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Sociologie de l’environnement — Globalisation et traditions nationales 687
+
+la contestation écologiste aux défis de la gouvernance. Montréal: Presses
+Universitaires de Montréal.
+——— 2004. De l’association entre l’environnement et le risque: la fascination
+d’un monde ouvert, toujours inachevé et en train de se faire. In Sessions
+du RT 38 «Sociologie de l’environnement et des risques». Actes du Ier
+Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse,
+24–27 février 2004, AFS éditions.
+Salles, Denis. 2004. Les procédures collaboratives: démocratie et performance
+environnementale. In Sessions du RC 23 «Sociologie de l’environnement
+et du développement durable» lors du XVIIème congrès de l’AISLF,
+Tour, France.
+Sanders, David. 1994. Considérations méthodologiques sur les comparaisons entre pays dans la recherche en sciences sociales. Revue Internationale des
+Sciences Sociales 142:607–616.
+Spaargaren, G. et A.P.J. Mol. 1992. Sociology, environment and modernity: Ecological modernization as a theory of social change. Society and Natural
+Ressources 5(4):323–344.
+Sureau, Marie-Gabrielle. 2004. Le débat régional sur les risques industriels: partage ou radicalisation des points de vue? In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème
+congrès de l’AISLF, Tour, France.
+Tessier, Robert. 1996. Sociologie des médias et gestion de l’environnement: valeurs sociales et mise au programme politique. Pp. 135–148 in R. Tessier
+et J.-G. Vaillancourt (dir.), La Recherche sociale en environnement. Montréal: Presses de l’Université de Montréal.
+Tessier, R. et J.-G. Vaillancourt, dir. 1996. La Recherche sociale en environnement. Montréal: Presses de l’Université de Montréal.
+Thomas, Urs. P. 1996. Protection de l’écosystème planétaire: esquisse d’une approche institutionnelle. Pp. 121–133 in R. Tessier et J.-G. Vaillancourt
+(dir.), La Recherche sociale en environnement. Montréal: Presses de
+l’Université de Montréal.
+Touraine A., Z. Hegedus, F. Dubet, et M. Wieviorka. 1980. La prophétie antinucléaire. Paris: ed. du Seuil.
+Turner, Bryan S. 1996. Sociological theory in the tension between globalisation
+and localisation. Revue Suisse de Sociologie 22(1):19–23.
+Vaillancourt, Jean-Guy. 1982. Mouvements écologistes, énergie et environnement. Essai d’écosociologie Montréal: ed. St-Martin.
+——— 1996. Sociologie de l’environnement: de l’écologie humaine à l’écosociologie. Pp. 19–47 in R. Tessier et J.-G. Vaillancourt (dir.), La Recherche sociale en environnement. Montréal: Presses de l’Université de
+Montréal.
+——— 2003. De la sociologie environnementale à l’écosociologie. Pp 49–64 in
+C. Gendron et J.-G. Vaillancourt (dir.), Développement durable et participation publique. Montréal: PUM.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+688
+
+Canadian Journal of Sociology/Cahiers canadiens de sociologie 33(3) 2008
+
+——— 2004. Huit modèles pour mieux comprendre l’écosociologie. In Sessions
+du RC 23 «Sociologie de l’environnement et du développement durable»
+lors du XVIIème congrès de l’AISLF, Tour, France.
+Vaillancourt, J.-G. et B. Perron. 1998. L’Elargissement de la question écologique
+au Québec. Possibles 22(3–4):203–217.
+Van Tilbeurgh, Véronique. 1994. L’huître, le biologiste et l’ostréiculteur: lectures entrecroisées d’un milieu naturel. Paris: L’Harmattan.
+——— 2004a. Le processus de négociation d’un espace protégé. In Sessions
+du RT 38 «Sociologie de l’environnement et des risques». Actes du Ier
+Congrès de l’AFS, Université de Paris XIII, Campus de Villetaneuse,
+24–27 février 2004, AFS éditions.
+——— 2004b. Le rôle des dispositifs de négociation dans l’élaboration de projets environnementaux. In Sessions du RC 23 «Sociologie de l’environnement et du développement durable» lors du XVIIème congrès de
+l’AISLF, Tour, France.
+Villeneuve, Claude. 1995. Une région laboratoire pour le développement durable. Ecodécision 15: 87–90.
+Vourc’h, Anne et Marc Mormont 1990. Recherches en sciences sociales et environnement. Etat de la question et propositions, rapport au SRETIE, Secrétariat d’Etat chargé de l’environnement. Paris: Veres Consultant.
+White, Damian F. 2004. Environmental sociology and its future(s). Sociology
+38(2):389–397.
+Philippe Boudes est chercheur associé au Laboratoire Dynamiques Sociales et
+Spatiales (Ladyss-CNRS). Il a récemment terminé une thèse sur la sociologie de
+l’environnement au sein du Laboratoire d’Analyse des Problèmes Sociaux et de
+l’Action Collective (LAPSAC), Université Victor Segalen — Bordeaux II. Outre
+ses recherches portant sur la construction des domaines scientifiques, en particulier celui de la sociologie française de l’environnement, il s’intéresse aux effets,
+sur l’activité et sur la structure scientifique, de la prise en compte des logiques
+écologiques par les sciences sociales et des logiques sociales par les sciences
+naturelles. Philippe Boudes est occupé à réaliser un ouvrage intitulé Manuel de
+Sociologie de l’environnement sous la direction de R. Barbier, Ph. Boudes, J.P.
+Bozonnet, J. Candau, M. Dobré, N. Lewis et Fl. Rudolf, dont il dirige la partie introduisant les sociologies de l’environnement de différentes régions du monde.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:59:57 UTC
+All use subject to https://about.jstor.org/terms
+
+

@@ -1,0 +1,1553 @@
+CODESRIA
+La sociologie au Maghreb: Cinquante ans après
+Author(s): Tayeb Chenntouf
+Source: African Sociological Review / Revue Africaine de Sociologie , Vol. 10, No. 1 (2006),
+pp. 1-30
+Published by: CODESRIA
+Stable URL: https://www.jstor.org/stable/10.2307/afrisocirevi.10.1.1
+REFERENCES
+Linked references are available on JSTOR for this article:
+https://www.jstor.org/stable/10.2307/afrisocirevi.10.1.1?seq=1&cid=pdfreference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+CODESRIA is collaborating with JSTOR to digitize, preserve and extend access to African
+Sociological Review / Revue Africaine de Sociologie
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+Revue Africaine de Sociologie, 10, (1), 2006, pp. 1-30.
+
+Tayeb Chenntouf
+
+La sociologie au Maghreb: Cinquante ans
+après
+L’inconscient d’une discipline, c’est son histoire. – P. Bourdieu
+
+Dresser un état des lieux de la sociologie au Maghreb n’est pas chose aisée. Les
+obstacles sont nombreux et seraient même décourageants. Le premier concerne
+les instruments nécessaires à toute évaluation. Ils n’existent pas toujours ou,
+lorsqu’ils existent, ne circulent pas d’un pays à l’autre. Ce n’est que récemment
+que les documentalistes, les bibliothécaires d’un côté, les chercheurs de l’autre,
+se sont préoccupés de la marche de leur discipline. Les recensions de thèses ne
+sont pas toujours disponibles, les revues publient de manière irrégulière leurs
+tables. Les bibliographies thématique, chronologique ou institutionnelle
+restent rares et rendent impossible toute exhaustivité. Des congrès, colloques,
+séminaires se déroulent sans que les communications ne soient éditées ou,
+lorsqu’elles le sont, connaissent une diffusion restreinte.
+L’introduction de l’informatique dans l’enseignement supérieur, qui
+remonte à une dizaine d’années, est en train de bouleverser les habitudes et les
+méthodes de travail. La production scientifique sera d’accès plus facile dans
+l’avenir.
+Le second obstacle est représenté par les traditions nationales de
+l’enseignement et de la recherche sociologique. Il est difficile de parler d’une
+sociologie maghrébine, sauf à l’opposer à des sociologies d’autres aires
+culturelles. Les contextes nationaux confèrent des styles quasi-nationaux à la
+place de la sociologie et des sociologues. Trois exemples le montrent bien.
+La rupture entre la monarchie et le nationalisme au Maroc au lendemain de
+l’indépendance, range la grande majorité des intellectuels, dont des
+sociologues, dans l’opposition alors qu’ils sont en étroite symbiose avec les
+Etats en Egypte, Tunisie et Algérie jusqu’aux années 1980-1990. La mort du roi
+Hassan II, la question du Sahara occidental et la formation du premier
+gouvernement de transition présidé par A. Youssoufi rétablissent les liens entre
+les universitaires et la monarchie.
+L’Egypte et la Tunisie bénéficient d’une tradition de réforme qui remonte au
+19e siècle. Elle a touché les systèmes d’enseignement, y compris au niveau le
+plus élevé.
+La défaite militaire de 1967 devant Israël a des conséquences importantes en
+Egypte. Elle suscite de lourdes interrogations dans les universités et chez les
+intellectuels et une réorientation de la réflexion et des recherches chez de
+nombreux sociologues.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+2
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+Le troisième et dernier obstacle est relatif à la sociologie et aux sociologues
+eux-mêmes. La question de la ‘discipline’ et du ‘métier’ de sociologue n’est pas
+formulée en tant que question. Elle est intégrée dans des débats plus larges sur
+la culture, les intellectuels, les sciences sociales et humaines. Ils sont devenus
+permanents, alimentent une littérature abondante et débordent de part en part la
+sociologie et le ‘métier’ de sociologue qui ne sont apparus comme question
+particulière que ces dernières années.
+Un état des lieux classique de la sociologie s’intéresserait aux tendances de
+la recherche, à sa production, aux paradigmes, théories et méthodes utilisées,
+aux débats est écoles qui agitent la communauté des sociologues.
+L’exercice présenterait une utilité certaine mais s’avère insuffisant lorsque
+l’identité et les signalements de la discipline sont incertains. L’approche
+institutionnelle considérerait tout pratique, tout texte et tout usage public
+comme sociologique lorsqu’ils sont le résultat d’une institution ou d’un
+chercheur consacrés à la sociologie. La question de l’identité de la sociologie
+est moins, dans ce cas, celle des frontières qu’elles établit avec les autres
+sciences sociales que celle de ses rapports à des pratiques et des savoirs comme
+la religion, la politique, la morale et, en fin de compte, la ‘tradition’.1
+L’avènement et l’institutionnalisation de la sociologie sont l’objet d’une
+bibliographie abondante. P. Bourdieu est l’auteur de nombreux travaux dans ce
+domaine. 2 Ils sont un point de départ incontournable avec deux
+infléchissements nécessaires.
+L’analyse strictement internaliste de la sociologie s’avère incomplète dans
+les situations où le contexte et les facteurs extérieurs à la discipline sont lourds
+et jouent un rôle important. En second lieu, la trop grande rigidité du système
+conceptuel bourdieusien, si elle permet d’analyser la reproduction, rend moins
+compte des mutations et du changement dans la perception et le traitement des
+faits sociaux. Il est rigoureusement impossible de suivre, en étant fidèle à P.
+Bourdieu, l’émergence de la sociologie et des autres sciences sociales et
+humaines à la fin du 19e et au début du 20e siècle. Une sociologie historique de la
+sociologie (ou une histoire de la sociologie) est plus indiquée pour suivre les
+trois composantes de la sociologie: les institutions, la communauté de
+professionnels et les savoirs. Les trois sont relativement bien avancés au
+Maghreb mais l’identité de la discipline reste encore très incertaine.
+1.
+
+L’héritage colonial
+
+L’héritage colonial, dans les années 1950-1960, est inégal. Il est plus important
+en Egypte et en Algérie que dans les autres pays de la région. Il est également
+faible en matière d’institution et de formation de chercheurs mais aboutit à une
+somme respectable de savoirs et de connaissances sur les sociétés maghrébines
+qui pèsera lourdement sur l’évolution ultérieure de la sociologie.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTCUTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+3
+
+Les universités médiévales d’Al Azhar (Egypte), d’Al Quarawiyine
+(Maroc) et d’Al Zitouna (Tunisie) sont définitivement déclassées dans l’entre
+deux guerres et remplacées, sans disparaître formellement, par de nouvelles
+institutions d’enseignement et de recherche.
+L’université d’Alger est crée en 1909 en regroupant les quatre écoles
+supérieures qui existaient antérieurement: l’Ecole supérieure de médecine
+ouverte en 1857, l’Ecole supérieure des lettres, l’Ecole de droit et l’Ecole des
+sciences crées en 1879-1980.3
+L’Ecole des lettres emploie, en 1905, huit professeurs titulaires et trois
+chargés de cours pour l’enseignement de la géographie et de l’histoire de
+l’Afrique du nord, la langue et la littérature arabe, le dialecte berbère, la
+littérature persane et égyptienne, les antiquités africaines, la philosophie et
+l’histoire musulmane. Plusieurs institutions sont crées pour coordonner les
+enseignements et les recherches: l’Institut de recherche saharienne en 1937,
+l’Institut d’études islamiques en 1946, l’Institut d’études philosophiques en
+1952 et l’Institut d’études ethnologiques en 1956. Dans son autobiographie
+intellectuelle, le sociologue A. Sayed a laissé un témoignage intéressant sur
+l’enseignement et la vie d’un étudiant à l’université d’Alger dans les années
+1950.4
+En dehors de l’université, l’Institut de recherches économiques et sociales
+voit le jour en 1954.5 Le Centre de recherches anthropologiques, préhistoriques
+et ethnographiques est crée en 1956 à la suite d’importantes découvertes. Il
+prend le relais du laboratoire d’anthropologie et d’archéologie préhistorique
+crée au sein de l’Université en 1949.
+De nombreuses sociétés savantes éditent des revues et organisent des
+congrès: la Société de géographie et d’archéologie née en 1878, la Société de
+géographie d’Alger et de l’Afrique du nord qui date de 1896, La Société
+historique algérienne publie La Revue africaine dans laquelle des Algériens
+comme M. Ben Cheneb, Ben Choab, Soilah, Ben Mrad, A. Lacheraf, I. Hamet
+publient régulièrement des articles.
+Au Maroc, devenu protectorat en 1912, l’Institut des hautes études
+marocaines ouvre ses portes en 1920 pour ‘encourager les recherches
+scientifiques relatives au Maroc, propager la connaissance des langues et de la
+civilisation du Maroc et, accessoirement, préparer à certains examens de
+l’enseignement supérieur et professionnel’.6
+D’autre institutions sont crées quelques années plus tard: en 1928, le Centre
+d’études juridiques situé à Rabat et à Casablanca pour former des licenciés en
+droit et, en 1940, le Centre d’études supérieures scientifiques qui ne démarre
+qu’en 1945. Dans les années 1950, l’Ecole marocaine d’administration est
+ouverte. En dehors de l’enseignement supérieur, la Résidence générale publie
+Le Bulletin économique et social du Maroc dans lequel les études concernant la
+population marocaine sont nombreuses.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+4
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+En Tunisie, l’Ecole supérieure de langue et littérature arabe est crée en 1911
+pour préparer au brevet et au diplôme d’arabe, accessoirement aux certificats
+de la licence d’arabe que les étudiants présentaient à l’Université d’Alger.
+C’est le seul établissement de l’enseignement supérieur en Tunisie jusqu’à la
+création, après la seconde guerre mondiale, de l’Institut des hautes études
+tunisiennes qui est placé sous la tutelle scientifique de l’Université de la
+Sorbonne. L’enseignement y est réparti en quatre sections: les études
+juridiques, économiques et administratives qui préparent aux examens de la
+capacité et de la licence en droit; les études sociologiques et historiques pour
+accéder au certificat d’histoire et d’archéologie punique et aux cours d’histoire
+moderne de la Tunisie; les études philologiques et linguistiques pour la
+préparation des trois certificats de langue arabe (littérature, philologie, études
+pratiques) ainsi qu’au diplôme supérieur d’arabe. La création de la licence
+d’études sociologiques et historiques permet l’intégration de nouveaux
+enseignements et la présence d’universitaires français qui formeront la
+première génération de sociologues tunisiens.
+La Comité d’études économiques et sociales de l’Institut des hautes études
+tunisiennes publie, à partir de 1952, une revue des sciences humaines: Les
+Cahiers de Tunisie qui abordent la société tunisienne, la géographie humaine et
+sociale, l’économie régionale, l’archéologie et l’histoire. La Résidence
+générale publie, elle, dès 1946, le Bulletin économique et social de la Tunisie
+qui traite des questions économiques et culturelles.
+Ces institutions d’enseignement et de recherche reçoivent des étudiants et
+des chercheurs français dans leur quasi-totalité. Les autochtones y sont
+faiblement représentés comme le montre l’exemple de l’Algérie. Les étudiants
+algériens qui s’inscrivent à l’Université d’Alger de 1955, à 1961, c’est à dire à
+la fin de la période coloniale, se répartissent de la manière suivante:
+1353 en lettres, 1384 en droit, 525 en médecine et pharmacie et 774 en sciences. Leur
+nombre qui s’élève à 4036 représente 11,88 pourcent du total des étudiants.7 De 1870 à
+1962, un nombre infime d’Algériens ont pu soutenir une thèse de doctorat.8 A. Ben Fekar
+soutient, en 1908, à l’Université de Lyon une thèse de droit sur L’usure en droit musulman
+et des conséquences pratiques, puis, en 1910, une thèse complémentaire sur la commande
+(al qirâd) en droit musulman. M. Bencheneb est le premier Algérien a présenté une thèse à
+l’Université d’Alger, en 1922, sur Les mots turks et persans conservés dans le parler
+algérien. S. Khiat présente, en 1924, à l’Université d’Aix en Provence un travail qui est un
+Essai sur le statut personnel des Musulmans. S. Mahmassani est candidat au doctorat avec
+une thèse sur Les idées économiques d’Ibn Khaldoun. Essai historique, analytique et
+critique à l’Université de Lyon. T. Aït Amer s’est intéressé à la vente et le louage en droit
+berbère à l’université de Paris, en 1949. A. Nour présente, toujours en droit, une recherche
+sur L’agriculture algérienne autochtone et les tentatives de sa modernisation à Paris en
+1954. Enfin, en 1961, M. Cherit défend une thèse en lettres à Paris sur Les formes des
+noms arabo-musulmans.
+
+Si l’héritage colonial institutionnel et humain est faible, les savoirs et la
+connaissance des sociétés d’Afrique du nord sont plus importants. Leur intérêt
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+5
+
+provient moins des progrès réalisés dans la compréhension des sociétés que de
+la contestation dont ils font l’objet dans les années 1950-1960.
+Le Maghreb occupe une place modeste dans la formation de l’orientalisme et
+de l’islamologie en Europe. L’Egypte y joue un rôle majeur, dés la fin du 18e
+siècle, avec l’expédition de L. N Bonaparte en 1798 et la publication à Paris de
+la Description scientifique de l’Egypte rédigée par les savants qui l’ont
+accompagné.
+Cette première expérience scientifique moderne est transférée en Algérie, au
+Maroc et en Tunis. Dès l’occupation coloniale de l’Algérie en 1830, la nouvelle
+administration, cherchant à définir le statut juridique de la propriété, fait venir
+un Coran du Caire. De nombreux médecins et interprétés qui font partie de
+l’Armée d’Afrique ont participé à l’expédition d’Egypte. Enfin,
+l’administration coloniale de l’Algérie inaugure une série d’ouvrages sous le
+titre: Exploration scientifique de l’Algérie sur le modèle de la Description de
+l’Egypte.
+Le Maghreb alimente néanmoins une littérature particulière qui passe par
+trois phases successives. Au 18e siècle, les auteurs sont des voyageurs, des
+consuls, des religieux et des naturalistes. La phase de conquête militaire et de
+colonisation fait intervenir surtout les militaires, les explorateurs en direction
+du Sahara et les publicistes. Le démarrage de la lutte anti-coloniale et du
+nationalisme suscite une intervention plus marquée de la recherche et des
+universitaires.9
+Au total, les sciences sociales et humaines sont relativement absentes. La
+sociologie l’est encore plus. Les thèses soutenus à l’Université d’Alger, entre
+1880 et 1962, se répartissent par champs disciplinaires de la manière suivante:
+l’économie (39,60 pourcent) et le droit (24,40 pourcent) viennent largement en
+tête. Ils sont suivis par l’histoire (15,60 pourcent), la sociologie (11,70
+pourcent) et les études politiques (8,50 pourcent).
+Sur les 48 thèses de sociologie, 11 concernent les fellahs (paysans), les
+communautés agraires, la vie indigène et les confréries, dix les Kabyles, les
+Berbères nomades et le Mzab, huit la femme, six l’enseignement, six la
+démographie, la population et les villes, cinq portent sur les Juifs, et deux sur la
+coexistence des communautés.10 Parmi les articles publiés par La Revue
+africaine entre 1922 et 1950, 3,86 pourcent d’entre eux peuvent être considérés
+comme relevant de la sociologie au sens large.
+En Tunisie, La Revue de l’Institut des belles lettres arabes, fondé par la
+Société des pères blancs en 1927 publie plusieurs études ethnographiques. Des
+thèmes comme la famille, les mœurs et coutumes, la langue populaire, la vie
+quotidienne, le folklore et la littérature sont fréquemment traités. Après la
+seconde guerre mondiale, la même revue publie des numéros thématiques
+parallèlement aux recherches ‘d’une science académique qui s’applique au
+déchiffrement du pays’.11 L’intérêt se déplace vers la linguistique et la
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+6
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+littérature, la sociologie et l’économie, l’histoire et l’ethnographie, l’Islam et la
+mystique, l’éducation et la pédagogie.
+L’accumulation de savoirs et de connaissances au Maghreb participe peu à la
+construction de la sociologie comme discipline en France. P. Lapie qui est
+professeur au lycée de Tunis de 1893 à 1897 et prépare une étude de
+psychologie sociale sur les communautés et les civilisations tunisiennes est en
+relation avec une équipe d’universitaires en France. Il est, notamment, le
+collaborateur de E. Durkheim de l’Année sociologique. Par ailleurs des auteurs
+comme E. Masqueray, G. Hanoteau et G. Letourneux sont cités par Durkheim
+lorsqu’il traite de la division sociale du travail.
+2.
+
+L’expansion de la sociologie
+
+A l’exception de l’Egypte, la sociologie ne se développe réellement qu’à partir
+des années 1960 et les indépendances politiques. Le sociologue A. Sayed date,
+de manière précise, les premières enquêtes de terrain aux années 1957-1958.
+Elles sont coordonnées par P. Bourdieu et portent sur l’emploi, l’habitat et la
+consommation en Algérie.12
+L’héritage colonial perdure quelques années. Le premier Recteur de
+l’Université d’Alger après 1962 est A. Mandouze qui avait pris position pour
+l’indépendance de l’Algérie. Ch. A. Julien, un autre historien français, est
+sollicité par le Roi Mohammed V pour ouvrir la première Faculté des lettres et
+des sciences humaines du Maroc. L’héritage est renforcé par le recrutement de
+coopérants français pour enseigner dans les nouvelles universités.
+Les politiques scientifiques des nouveaux Etats donnent une formidable
+impulsion à la sociologie. Son âge d’or commence dans tous les pays avec la
+croissance rapide des effectifs d’enseignant-chercheurs et d’étudiants. De
+nouvelles institutions de recherche voient le jour. Les premières thèses de
+doctorats sont soutenues. L’évolution est plus rapide en Algérie que dans les
+autres pays.
+Les premières Universités sont crées en Egypte et en Algérie. Dans le
+premier pays, elle date de 1908. Le premier ouvrage de sociologie est publié en
+1924 au Caire par Nqûla13 al Haddâd qui est considéré aujourd’hui comme le
+fondateur de la sociologie dans le monde arabe.14 Le second, édité en 1949, est
+celui de Abd al Aziz Izzat; il est intitulé: ‘La sociologie et les sciences sociales’.
+La première génération de sociologue algériens est formée à l’Université
+d’Alger avant la réforme de l’enseignement supérieur de 1971 qui modifie
+profondément les programmes et les objectifs de la formation.
+Les témoignages d’une enseignante et d’un étudiant renseignent, de manière
+concrète, sur le démarrage de l’enseignement de la sociologie. M. Gadant,
+française d’origine, mariée à un membre du parti communiste algérien, arrive
+en Algérie l’année de l’indépendance. Elle enseigne la philosophie dans un
+lycée puis, de 1964 à 1967, au département de philosophie de la Faculté des
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+7
+
+lettres d’Alger où les programmes français restaient la référence obligée. M.
+Gadant enseigne à l’Université les Présocratiques, Platon, Kant, Hegel, Marx,
+Nietzsche et Althusser. Les débats, rappelle t-elle, portaient beaucoup sur
+Fanon, Sartre, le marxisme mais jamais sur la religion et les femmes.15 Les
+discours sur les modes de production, les formations sociales, le
+développement faisaient fureur. Les professeurs et les étudiants de doctorat se
+nourrissaient en grande partie de Althusser.
+Un ancien étudiant distingue deux périodes dans l’enseignement diffusé.
+Jusqu’en 1967-1968, l’enseignement de la sociologie par un professeur
+conservateur pousse les étudiants à s’inscrire en philosophie avant de fournir la
+première génération d’enseignants en sociologie. Les années 1967-1968 et
+1968-1969 sont celle de la ‘diffusion fantastique des thèses althussériennes et
+bourdieusiennes perçues comme complémentaires...’16 Bourdieu et Passeron
+ainsi que d’autres membres de l’école européenne de sociologie font de
+fréquentes interventions à l’université d’Alger.
+La réforme de 1971 se propose de mettre fin à l’université coloniale en
+créant une nouvelle université tournée vers la résolution des problèmes
+nationaux. Elle se fixe comme objectifs immédiats la formation des cadres pour
+l’administration et le développement. La priorité est donnée aux sciences et aux
+techniques alors que les sciences sociales humaines auraient pour finalité
+l’édification de la Nation.
+Techniquement, la réforme bouleverse les programmes et la pédagogie. La
+licence de sociologie est organisée en modules pendant huit semestres avec un
+tronc commun et des filières de spécialisation à partir de la troisième année. La
+liste des modules et leurs contenus sont fixés par l’arrêté ministériel du 15 juin
+1974. Les filières prévues sont celles de la sociologie du travail, de la sociologie
+rurale et urbaine, de la sociologie de l’éducation et de la culture.
+L’enseignement post-gradué est couronné par la soutenance d’un magister puis
+d’un doctorat d’Etat dont l’organisation pédagogique est fixée plus tard.17
+La continuité est plus marquée au Maroc où l’Université de Rabat est crée en
+1959. La nouvelle Faculté des lettres est le résultat de la fusion du centre
+d’études juridiques, du Centre d’études supérieures scientifiques et de l’Institut
+des Hautes Etudes marocaines en sciences sociales et humaines elle comprend
+un département de sociologie.
+L’Institut de sociologie est crée en septembre 1961 avec l’aide de
+l’UNESCO pour donner des enseignements et promouvoir la recherche. En
+raison du manque de chercheur, il assure surtout des enseignements dans deux
+sections en langues arabe et française. En 1965-1966, l’Institut compte 226
+étudiants dont 19 ont une licence et un seul un diplôme d’études supérieures.
+L’enseignement théorique pour le certificat de sociologie comprend les
+enseignements suivants: sociologie générale, histoire de la pensée
+sociologique et des théories sociologiques contemporaines, sociologie urbaine
+et rurale, sociologie juridique et sociologie politique, sociologie économique et
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+8
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+sociologie de l’entreprise. L’examen comporte les épreuves écrites et orales
+suivantes: sociologie générale, sociologie de l’Afrique et du monde musulman,
+une matière de sociologie spéciale, choisie, par le directeur de l’Institut, 35
+jours avant la session d’examen. Les autres matières font l’objet d’une épreuve
+orale seulement. Selon A. Khatibi, la priorité donnée à la formation des
+enseignants et des scientifiques ‘empêche sérieusement le développement de la
+sociologie’.18
+L’enseignement de la sociologie précède la création de l’Université en
+Tunisie. La sociologie est enseignée dès 1958 dans le cadre de l’Institut des
+hautes études de Tunis et le Centre d’études en sciences sociales. Le
+programme, défini par le décret du 14 avril 1961, répartit la licence en quatre
+certificats: études supérieures en sociologie générale, en psychologie sociale,
+en sociologie et géographie, en sociologie maghrébine et islamique.
+J. Duvignaud qui a été le directeur du Centre a fixé dans un rapport intitulé:
+‘La pratique sociologique dans un pays en développement’19 les orientations,
+les priorités et les méthodes nécessaires pour la formation de ‘cadres
+d’intervention sociologique’. Il mérite d’être cité en raison de son intérêt.
+‘La sociologie’, écrit-il, ‘doit opérer une révolution copernicienne de ses
+attitudes traditionnelles’. Elle devrait répondre aux défis que lui lancent les
+changements des structures globales, les métamorphoses de la mentalité
+collective à tous les niveaux, bref, répondre aux questions suivantes:
+- Quels sont les effets du développement sur la société prise dans son
+
+ensemble? Et cela revient à faire le bilan des changements sociaux
+intervenus depuis l’indépendance.
+- Comment la société traditionnelle, dans sa phase de développement, peut
+digérer et intégrer les problèmes nouveaux que pose le changement de
+structure? C’est l’étude des tensions socio-psychiques résultant de contacts
+entre milieux.
+- Comment se modifient les attitudes mentales à tous les niveaux de la réalité
+dans l’optique des transformations planifiées? C’est l’étude des groupes et
+des mentalités.
+Pour mener à bien ce programme, J. Duvignaud considère que toutes les
+méthodes doivent être utilisées sans dogmatisme et sans préjugés. ‘Il s’agit de
+comprendre le changement, mieux encore de répondre au défi que lance au
+sociologue les transformations de structure’. Les enquêtes de terrain doivent
+prendre trois directions: les enquêtes monographiques partielles puis l’analyse
+globale de la société dans toute sa complexité, enfin l’établissement d’un lien
+entre les deux méthodes pour analyser la réalité sociale dans sa totalité.20 Le
+rapport de J. Duvignaud formule les orientations principales de la création du
+département de sociologie et la formation de la première génération de
+sociologues tunisiens qui s’élève à une quinzaine de membres.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+9
+
+Les politiques scientifiques nationales sont aussi volontaristes dans le
+domaine de la recherche sociologique. Des centre nationaux de recherche sont
+crées dans tous les pays. La recherche elle-même se résume dans la préparation
+des thèses de doctorat. Des rencontres scientifiques, assez rares, sont
+organisées de manière ponctuelle jusque dans les années 1980-1990.
+Les expériences de créations de centre de recherche sont très proches en
+Algérie en Tunisie et au Maroc. Dans ce pays, le Centre universitaire de la
+recherche scientifique date de 1962. Il a pour mission de développer les
+sections de recherche dans les Facultés et les Instituts, de coordonner leurs
+activités, de fournir à la recherche universitaire des ressources en hommes et en
+équipement et d’orienter la recherche en fonction du développement. Il
+participe également à la formation des chercheurs et sert d’intermédiaire entre
+les universités et les organismes étranger, aide à la publication des travaux,
+facilite l’accès à la documentation et l’échange de l’information scientifique.
+La section des sciences sociales du Centre comprend trois chercheurs en
+sociologie et en économie. Elle assure la rédaction du Bulletin économique et
+social du Maroc qui accorde une place importe aux thèmes sociologiques.
+Son bilan est modeste et se limite à la publication irrégulière d’une revue très
+peu diffusée et très peu lue: La Recherche scientifique. En 1975, il est
+transformé en Institut universitaire de recherche scientifique spécialisé dans les
+sciences humaines et sociales.21 Il comprend quatre départements (histoire,
+anthropologie et sciences sociales, science et société, rapports ville –
+campagne). L’Institut a publié, en arabe et en français, plusieurs ouvrages,
+manuscrits, thèses et revues dont le Bulletin économique et social et
+Hesperis-Tamuda.
+L’Institut agronomique Hassan II est crée en 1963 et entre en fonction en
+1966. Il pour un rôle important dans la recherche sociologique au Maroc grâce à
+la présence de P. Pascon. A la suite de sa disparition accidentelle le 21 avril
+1985, le Bulletin économique et social publie, pour lui rendre hommage, un
+numéro spécial. P. Pascon a été actif dans de nombreux domaines (sociologie,
+ethnologie, histoire, droit, technologie…) et, selon le conseil de rédaction du
+Bulletin, son œuvre ‘occupe une place énorme et de premier plan, non
+seulement dans les études rurales mais aussi dans la sociologie du Maroc des
+trente dernières années’.22
+En Algérie, dans les nouvelles perspectives tracées par la réforme de
+l’enseignement supérieur est crée, en 1975, un Centre de recherche en
+économie appliquée qui devient, en 1986, Centre de recherche en économie
+appliquée au développement. En 1977, il regroupe huit équipes de recherche en
+économie rurale (13 chercheurs), éducation (seize chercheurs), technologie
+(huit chercheurs), accumulation et financement (trois chercheurs), environnement (quatre chercheurs), économie des assurances. Le Centre intègre la
+recherche sociologique avec la participation des sociologues de l’université
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+10
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+d’Alger. Il publie une revue (Les Cahiers du CREAD) et joue un rôle important
+dans l’accès à la documentation et au terrain pour les enquêtes.
+Les travaux du Centre de recherches anthropologiques, préhistoriques et
+ethnologiques sont ralentis en 1969 après le départ des chercheurs français. En
+1977, il compte 22 chercheurs dont seize préhistoriens, cinquante anthropologues, une ethno cinéaste, trois administratifs et dix-sept employés pour le
+soutien technique.
+Le Centre d’études et de recherches économiques et sociales est crée en 1962
+en Tunisie puis réorganisé en 1972. Il édite la Revue tunisienne des sciences
+sociales à partir de 1964, le Cahier d’études et de recherches économiques et
+sociales, les travaux des chercheurs et les actes des colloques. La quasi-totalité
+des recherches est faite pour le compte de l’administration et des institutions
+internationales. Il assure, avec le département de sociologie, l’essentiel de la
+production dans la discipline en Tunisie.23
+Jusque dans la décennie 1980-1990, ces Centres de recherche participent
+plus à la formation des chercheurs qu’à la recherche sociologique elle-même.
+Celle-ci est massivement située dans les Universités et consiste en la
+préparation de doctorats de 3e cycle. La quasi-inexistence d’enseignants de
+l’enseignement supérieur au moment des indépendances à eu, dans tous les
+pays, pour conséquence des recrutements massifs de personnels dans les
+années 1960-1980. Parallèlement à l’enseignement qu’ils assurent, ils
+poursuivent la préparation de thèses. Leur encadrement n’existant pas toujours
+sur place, ils sont inscrits en France pour les francisants, l’Egypte et la Syrie
+pour les arabisants.
+Les premières post-graduations (diplômes d’études approfondies) sont
+ouvertes sur place dans les années 1975-1976. La préparation et la soutenance
+de thèses de 3e cycle ou de magister sont encore plus tardives. En 1991, il
+n’existe à l’Université d’Oran qu’une post-graduation en sociologie politique
+sur les problèmes du pouvoir politique et les approches théoriques et
+méthodologiques. Un diplôme post-graduation spécialisée, à finalité
+professionnelle, est ouvert en 1993-1994.24
+Les Répertoires de thèses et mémoires25 et les catalogues des éditions
+montrent la diversité et la nature des travaux universitaires. Celui de l’Office
+des publications universitaires recense sous la rubrique sociologie, pour la
+période 1976-1988, 33 ouvrages qui sont surtout des thèses, des actes de
+colloques, des manuels et polycopiés de sociologie.26 Le catalogue de
+l’Entreprise nationale algérienne du livre fait figurer, pour les années
+1989-1991, à la rubrique sciences sociales, dix ouvrages dont cinq thèses de
+doctorat d’Etat.27
+Les rencontres scientifiques, peu fréquentes, sont organisées par les
+Ministères plutôt que par les Universités et les Centres de recherche. Les dates
+anniversaires ou le calendrier politique fournissent l’opportunité de réunions et
+de débats scientifiques.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+3.
+
+11
+
+Les mutations de la sociologie
+
+L’enseignement et la recherche en sociologie connaissent un tournant, proche
+du bouleversement, dans la décennie 1980-1990. Il est le résultat aussi bien de
+leurs dynamiques internes que du brusque changement des contextes nationaux
+et mondial. Des orientations nouvelles mettent l’accent sur la
+professionnalisation de la formation, la liaison étroite entre la recherche et le
+marché et une plus grande intégration dans les échanges scientifiques
+mondiaux.
+Les mesures prises dans l’enseignement primaire et secondaire et les
+politiques de l’enseignement supérieur appliquées après les indépendances
+produisent leurs effets dans la décennie 1980-1990. A l’exception de l’Egypte
+où la sociologie était déjà arabisée, une nouvelle génération d’étudiants
+arabisés arrive à l’Université alors que les conditions d’exercice du ‘métier’ de
+sociologues se dégradent.
+La question de la langue d’enseignement se pose avec moins d’acuité dans
+les universités égyptiennes que dans celles des autres pays où il s’agit de passer
+d’une sociologie en langue française à une sociologie en langue arabe.
+Le Maroc et la Tunisie qui font, dans un premier temps, le choix du
+bilinguisme, procèdent à l’arabisation graduelle de l’enseignement supérieur.
+En fait, dans le domaine des sciences sociales, dont la sociologie, le processus
+et le résultat sont identiques dans les trois pays. L’arabisation de la sociologie
+est le produit, à la fois, de l’arabisation des enseignements primaire et
+secondaire et, plus directement, de l’enseignement supérieur lui-même. Le cas
+de l’Algérie est tout à fait représentatif de l’ensemble de la région.
+En 1966-1967, la première année de l’école primaire est complètement
+arabisée. La seconde année l’est en 1967-1968. En septembre 1971, la
+philosophie, l’histoire, l’éducation civique et morale ne sont plus enseignées
+qu’en langue arabe dans l’enseignement secondaire général et technique.
+En 1973-1974, à l’école primaire, les trois premières années et le tiers des
+trois années suivantes sont arabisées. Dans l’enseignement moyen, un tiers des
+classes des trois premières années est arabisé mais les matières scientifiques
+sont enseignées en français. En quatrième année, toutes les matières sont
+enseignées en arabe sauf les mathématiques, la géographie et les sciences
+naturelles. Dans les lycées, pour les filières littéraires, les premières et seconde
+AS sont complètements arabisées. En troisième AS, toutes les matières sont
+enseignées en langue arabe sauf les mathématiques et la géographie.
+Un second tournant intervient en 1979. Avec l’application du projet d’école
+fondamentale, le processus d’arabisation totale est enclenché. Il touche
+l’enseignement secondaire en 1986 et l’Université en septembre 1989 avec
+l’arrivée de la première promotion de bacheliers arabisés dans toutes les
+filières.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+12
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+La philosophe et l’histoire sont complètement arabisées dés 1971 et la
+réforme de l’enseignement supérieur. En 1978, 32 pourcent des étudiants des
+sciences sociales poursuivent leur formation en langue arabe. A la suite de la
+conférence nationale de juillet 1980, les textes portant arabisation de la
+première année des sciences sociales, juridiques, politiques, économiques et de
+l’information est arabisée. Le régime des deux sections arabisée et francisée
+disparaît et, au cours de l’année 1983-1984, l’arabisation de tous les diplômes
+(tronc commun et spécialités de la licence) est parachevée. L’année suivante,
+95 pourcent des étudiants en sciences sociales étudient en langue arabe.28
+La production de la sociologie s’effectue en langue arabe dans les mêmes
+années avec l’arrivée de sociologues formés en dans cette langue qui
+soutiennent des thèses de magister pour être recrutés.
+A l’université de Tunis, la production sociologique en arabe qui était
+quasi-inexistante dans la décennie 1970-1980, s’élargit pour devenir, dés la
+décennie 1980-1990 majoritaire. Elle est trois fois plus importante que les
+publications en langue française ans la décennie 1990-2000. Sur la totalité des
+textes sociologiques écrits en 1970 et 2002, la répartition et la suivante: 31
+pourcent en langue française et 69 pourcent en langue arabe. Les publications
+du CERES (Revue Tunisie des sciences sociales et Cahiers du CERES)
+recensées en 1997 en sont un autre indice. Les premiers articles en langue arabe
+apparaissent dans la Revue tunisienne des sciences sociales en 1980 dans le
+numéro 63.29
+Le colloque sur Sociologie et Société en Algérie à Oran (4-6 mais 2002)
+enregistre la profonde modification des rapports entre les deux langues: sur 34
+communications, 11 sont présentées en français. Les colloques antérieurs de
+1984, 1986 et 1996 à Oran et à Alger s’étaient déroulés majoritairement en
+langue française.30
+Les conditions de travail se sont, elles aussi, modifiées dans le sens d’une
+nette dégradation relevée par les enseignants, les experts et les syndicats.
+Les conséquences de la démocratisation de l’enseignement primaire et
+secondaire ont été peu anticipées ou tardivement au niveau de l’enseignement
+supérieur. Elles touchent brutalement toutes les universités de la région dans la
+décennie 1980-1990 avec l’arrivée de cohortes nombreuses d’étudiants dont
+les profils ont changé.
+La gestion des Universités et des Centres de recherche fait peu de place à la
+documentation, aux ouvrages récents et aux revues académiques. Les
+bibliothèques accueillent un nombre infime d’étudiants dont l’essentiel de la
+formation se résume dans le cours magistral donné par le professeur dans un
+amphithéâtre.
+La préparation des thèses par les enseignants s’effectue dans des conditions
+difficiles. En sociologie, la durée de préparation est proche de quinze années.
+De nombreux enseignants renoncent à terminer leurs thèses ou abandonnent
+l’université. La fragilité de la formation reçue, l’absence de documentation, la
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+13
+
+quasi-impossibilité des enquêtes de terrain qui sont strictement réglementées
+sont autant d’obstacles à surmonter.
+Au plan matériel, les traitements versés en Algérie et en Egypte sont
+insuffisants et poussent les enseignants vers les fonctions administratives
+mieux rémunérées et vers le cumul avec des activités hors de l’Université pour
+améliorer les revenues.
+Dans tous les pays, une plus grande liberté académique est revendiquée par
+les enseignants et les syndicats.
+L’évolution interne de la discipline est accélérée par les importantes modifications des contextes nationaux et mondial. Sous la pression du Fonds
+monétaire international et de la Banque mondiale, une nouvelle politique de
+l’enseignement supérieur est appliquée. Elle se répercute sur l’enseignement et
+la recherche en sociologie: les formations sont professionnalisée alors que la
+recherche doit répondre aux besoins du marché.
+La crise que traverse tous les pays de la région à la fin de la décennie
+1980-1990 est d’abord et avant tout locale. Elle est celle de la construction
+nationale dont le développement économique n’est qu’un aspect.
+L’avènement sur la scène politique, y compris par la violence, des
+mouvements islamistes suscite des interrogations nouvelles. L’application des
+plans d’ajustement structurel a des conséquences dramatiques sur l’emploi et le
+niveau de vie. Dans les relations internationales, la chute du mur de Berlin en
+1989 puis la dissolution de l’URSS et du bloc socialiste réduisent la marge de
+manœuvre des Etats. Le nouveau monde est dorénavant dominé par une
+puissance unique.
+La crise se traduit concrètement par une relative libéralisation politique des
+régimes autoritaires et l’instauration de l’économie de marché dans les pays où
+elle n’existait pas (Egypte, Algérie). En 1985, le rapport Ben Dhia sur
+l’enseignement supérieur tunisien parle de ‘fracture universitaire’ et fait un
+constat critique en soulignant la détérioration de l’enseignement primaire et
+secondaire, la politisation de l’espace universitaire et l’insuffisance des
+ressources financières. Le rapport de la Banque mondiale, daté de 1998
+recommande, en ne retenant que les mesures qui affectent la sociologie de faire
+baisser les effectifs des filières littéraires et des sciences humaines, de
+professionnaliser les formations, de séparer l’enseignement supérieur de la
+recherche scientifique, de créer une catégorie d’universitaires se consacrant
+exclusivement à l’enseignement.31
+La réforme de l’enseignement supérieur tunisien est achevée le 31 décembre
+2003. En Algérie, elle est entrée en application dans dix établissements en
+2003-2004 et doit être appliquée progressivement. L’enseignement de la
+sociologie, comme celui des autres disciplines, obéit à un nouveau schéma.
+La réforme, dite L.M.D, vise l’amélioration de la qualité de la formation,
+l’harmonisation du système de formation avec le reste du monde, la création de
+parcours de formation diversifiés et adaptés, la facilité de la mobilité et
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+14
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+l’orientation des étudiants, la mise en place de dispositifs d’accompagnement
+des étudiants, la capitalisation et la transférabilité des acquis, le développement
+de la formation tout au long de la vie, à côté de la formation initiale, l’ouverture
+de l’université et des formations sur le monde extérieur, la promotion de
+l’autonomie des établissements. Au plan pédagogique, la nouvelle architecture
+des enseignements est articulée en trois paliers: le niveau licence (L) correspond à un cycle de formation de trois années après le baccalauréat, le niveau
+master (M) à deux années supplémentaires après la licence, le doctorat (D) à
+deux années supplémentaires après la licence, le doctorat (D) à trois années
+après le master. L’enseignement est semestrialité en unités d’enseignement:
+fondamentales lorsqu’elles regroupent les matières de base d’une discipline
+donnée, méthodologiques lorsqu’elles offrent l’apprentissage des outils
+pédagogiques comme les mathématiques, les langues étrangères,
+l’informatique, la recherche documentaire et de découverte lorsqu’il s’agit de
+matières relevant d’autres spécialités ou champs disciplinaires pour renforcer
+la culture universitaire et faciliter les passerelles de réorientation. La formation
+peut-être à vocation académique en débouchant sur le master et le doctorat ou
+professionnelle lorsqu’elle est qualifiante et orientée vers le monde du travail.
+Enfin, il faut noter que parmi les unités de découverte, des thèmes tels que
+l’histoire et la philosophie des sciences, les enjeux de société, le sport, la culture
+et l’engagement associatif, la culture scientifique sont proposés à l’ensemble
+des étudiants.32
+La réorientation de la recherche est aussi importante que celle de
+l’enseignement. Dans ce domaine également, la sociologie connaît de
+nombreux changements. Tous les pays de la région adoptent des Programmes
+nationaux de recherche (PNR) pour définir les priorités, assurer, en principe, le
+financement et la création de laboratoires de recherche.33
+La loi du 22 août 1998 portant loi d’orientation et de programme
+quinquennal de la recherche scientifique et le développement technologique
+définit, en Algérie, 31 programmes nationaux dont un consacré à la population
+et à la société et un second aux sciences humaines. De nombreux autres
+programmes incluent la dimension sociologique: l’habitat, la santé, l’éducation
+et la formation, la jeunesse et les sports, la culture et la communication, la
+linguistique. Ils sont pris en charge par les nouveaux laboratoires crées au sein
+des Universités et dans les Centres crées au sein des Universités et dans les
+Centres de recherche.
+L’annuaire publié par l’ANDRU en 200534 recense les laboratoires crées
+dans les Universités et donne le dernier état des lieux de la recherche
+sociologique en Algérie. Le recensement effectué à partir des mots-clés:
+sociologie, population, anthropologie, ethnologie et démographie permet de
+faire deux constats.
+- Les laboratoires de sociologie sont crées massivement dans les
+départements de sociologie: trois à l’université de Constantine, une à Alger,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+15
+
+deux à Oran, une à Oran, cinq à Annaba, une à Batna, une a Bejaïa , une à
+Chlef et trois à Tlemcen.
+- La recherche sociologique s’effectue dans les universités les plus
+importantes (Oran, Alger, Constantine, Annaba). A l’exception de Tlemcen
+et de Biskra, elle est moins présente dans les Centres universitaires et les
+universités de création plus récente. Elle est totalement absente dans les
+Universités scientifiques et technologiques (Alger, Oran, Boumerdes,
+Blida).
+- L’analyse par domaines et thèmes des projets et des équipes de recherche fait
+ressortir un véritable éclatement de la discipline.
+Le Programme national de recherche Population et société comprend 19 projets
+de recherche répartis dans quatre centres situés à Alger et Oran. Il couvre les
+domaines suivants: villes et espaces, espace rural; famille, femme et société;
+mobilité sociale; travail et emploi; savoirs, expression et imaginaires. Les
+résultats des recherches effectuées dans le cadre du PNR ont fait l’objet de
+journées scientifiques organisées par le CRASC les 21 et 22 février 2005.35
+Les besoins en formation de chercheurs et d’enseignants restent, sauf en
+Egypte, relativement aigus. La croissance rapide des effectifs des étudiants
+demande de nouveaux recrutements dans tous les pays. En Algérie, leur
+nombre a été multiplié par six dans les années 1970-1980. Il doit doubler d’ici à
+2008 pour atteindre le million d’étudiants en 2001. Par ailleurs, le déficit en
+enseignants de haut niveau (professeur et maître de conférence) doit être
+comblé. En 2004-2005, sur un total de 23,500 enseignants du supérieur en
+Algérie, 15 pourcent seulement sont de rang magistral.36 Le taux est encore plus
+bas dans les sciences sociales et la sociologie. Selon le ministre de
+l’enseignement supérieur, l’Algérie doit recruter 25,000 nouveaux enseignants
+avant l’année 2008 pour être aux normes internationales.37 en 2004, le
+recrutement de 600 professeurs étrangers est lancé.
+Un nouveau programme de formation massive débute en 2003-2004.
+L’Algérie octroie 500 bourses à l’étranger tous les ans à des enseignants
+effectuant des recherches universitaires et à ceux qui préparent des doctorats
+d’Etat sur place. L’objectif est de former 2,600 enseignants avant l’horizon
+2008.38
+Les écoles doctorales sont une nouvelle formule de formation de jeunes
+enseignants-chercheurs. Elles se multiplient dans tous les pays de la région
+depuis les années 2000. Elles mettent en réseau des universités locales et
+étrangères et s’adressent à des doctorants pour une formation initiale ou un
+perfectionnement. Les écoles doctorales qui regroupent des étudiants à
+l’échelle régionale sont de plus en plus nombreuses.
+Enfin, la formation est également assurée par des Universités étrangères
+implantées localement. L’annonce de la création d’une université
+franco-tunisienne est faite le 2 avril 2005. L’Algérie envisage un projet
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+16
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+identique dés octobre 2002. La future université franco-algérienne est conçue
+comme un réseau d’établissements des deux pays avec, au cœur du dispositif,
+des établissements pilotes porteurs d’expériences appelées à se diffuser dans
+toute l’Algérie.
+En Egypte et au Maroc, la présence des Universités étrangères est plus
+ancienne.39 Elles sont surtout américaines. L’Université américaine du Caire,
+dont le projet date de 1914, est fondée par des groupes missionnaires et
+incorporée, le 5 octobre 1920, sous la loi du district de Columbia (Washington).
+L’enseignement supérieur démarre en 1925 dans le cadre d’une Faculté des
+lettres et des sciences. Aujourd’hui, les sciences sociales et humaines,
+notamment la sociologie et l’anthropologie, occupent une place importante
+dans les programmes. Des nombreux diplômes de post-graduation (master et
+PhD) sont soutenus chaque année par des étudiants égyptiens ou étrangers.
+Al Akhawayn University, localisée à Ifrane au Maroc, plus récente, compte
+une Faculté des humanités et des sciences sociales. Elle assure, au niveau de la
+licence, des enseignements sur la communication, les ressources humaines
+pour le développement et les études internationales. Au niveau du master, un
+programme d’études internationales et de diplomatie est proposé. Le personnel
+enseignant comprend aussi bien des Américains que des étrangers.
+Dans le domaine de la recherche, la coopération internationale est encore
+plus dense. Après un affaiblissement dans les années 1960-1980, elle s’est
+considérablement intensifiée et diversifiée. Des Centres de recherche en
+sciences sociales sont en activité dans tous les pays.
+Les Universités américaines en Egypte et au Maroc, poursuivent,
+parallèlement à la formation, des programmes de recherche. Les fondations
+étrangères, totalement absentes auparavant, entament leurs premières activités.
+La coopération algéro-française a beaucoup décliné en raison de la politique
+des visas et de la violence armée dans les années 1990. Elle est l’objet d’une
+relance ambitieuse. Le Comité mixte d’évaluation et de programmation lance,
+en 1986, un programme de recherche et de formation doctorale. En octobre
+2003, il a sélectionné 126 projets dont 33 nouveaux. Le Haut conseil
+franco-algérien, universitaire et de recherche, qui prend la relève, est crée le 29
+novembre 2003. Il a pour objectifs, d’aider à la mise en place de formations
+professionnalisantes, à la mise en œuvre de formations doctorales et
+post-doctorales pour la formation des enseignants-chercheurs et la réalisation
+de projets de recherche communs.
+Les sciences sociales et humaines, considérées comme un secteur fortement
+déficitaire, sont retenues comme une priorité. Un fonds de solidarité prioritaire
+démarre en 2004 pour une période de trois ans pour développer les échanges
+entre jeunes chercheurs et enseignants. L’Algérie souhaite également une plus
+grande ouverture à l’international, notamment au cadre euro-méditerranéen.
+Les universités étrangères localisées dans la région son un autre canal de
+coopération en matière de recherche. Le Centre de recherches sociales rattaché
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+17
+
+à l’université américaine du Caire est fondé et organisé grâce à une donation de
+la Fondation Ford. Il a pour vocation l’étude des phénomènes sociaux au
+Moyen-Orient, la formation des étudiants aux techniques de recherche sociale
+et d’encourager les projets de recherche sociale au Moyen-Orient. Il
+s’intéresse, en particulier, aux problèmes d’urbanisation et d’industrialisation
+et aux problèmes sociaux crées par les mouvements migratoires. Il regroupe
+actuellement 14 chercheurs égyptiens et étrangers. Les enseignants-chercheurs
+et les étudiants de la Faculté des humanités et des sciences sociales de Al
+Ahaqawayn University, au Maroc, sont les auteurs de nombreuses publications
+dans les revues académiques. Quelques exemples, parmi d’autres, donnent idée
+de l’éventail couvert par les travaux. M. Willis publie un article sur ‘Algérian
+Terrorism: Domestic and International Links’ dans le South African Journal of
+International Affairs (vol. 10, no. 2, Winter/Spring 2003), puis un second sur
+‘Marroco’s Islamists and the Legislative Election of 2002: The Strange Case of
+the Party that did not Want to Win’, dans Mediterranean Politics (vol. 9, no. 1,
+winter 2004). D. Maghraoui est l’auteur d’une contribution sur French Civilization and Its Discontents: Nationalism, colonialism, Race (Rowman and
+Little Field. Pub Inc, 2003).
+Le troisième canal de recherche en coopération est représenté par les Centres
+de recherche eux aussi localisés dans la région. Les deux réseaux les plus
+importants sont français et américains et couvrent tous les pays.
+Le Centre d’études et de documentation économiques, juridiques et sociales
+a été crée au Caire par l’accord de coopération franco-égyptien de 1968.
+Pluridisciplinaire, ses travaux portent sur l’Egypte et le Soudan contemporains
+dans toutes les disciplines des sciences sociales et humaines. Le Centre encadre
+les jeunes chercheurs pendant la préparation de leur doctorat, élabore des
+études lorsque des demandes d’expertise lui sont adressées. Il met en œuvre,
+avec des partenaires égyptiens, soudanais, français et européens huit
+programmes de recherche: autobiographies politiques, fabrique des élections,
+migrations entre les deux rives du Sahara, modernisation et modernité des
+sciences, patrimoines en partages, souci du citoyen, Soudan post-naivasha, un
+SIG pour le sud Soudan et archives. Son directeur A. Roussillon a publié
+plusieurs travaux sur la sociologie de la sociologie égyptienne et islamique.
+Le centre Jacques Berque pour les études en sciences sociales et humaines
+est crée à Rabat en 1999 pour promouvoir des recherches en partenariat au
+Maroc et en Mauritanie dans les domaines des sciences sociales, de la réforme
+économique, des villes et de l’urbanisme, de l’aménagement du territoire, des
+sociétés, de l’Islam et de la politique. Il a deux programmes en cours (Lire et
+comprendre le Maghreb et ville et espaces) alors que d’autres sont à l’étude
+(culture et patrimoine, systèmes éducatifs, anthropologie du Maghreb, les
+réformes: économie, justice, institutions politiques).
+La coopération avec les Etats-Unis s’est renforcée depuis deux décades et
+joue maintenant un rôle appréciable dans la recherche et la formation des
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 U76 12:34:56 UTC
+All use subject to https://about.jstor.org/terms
+
+18
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+chercheurs. Deux Centres se trouvent à Tanger et à Tunis depuis les années
+1980. La création d’un Centre américain pour les études maghrébines est
+prévue en Algérie. Il sera localisé à l’Université d’Oran pour servir de trait
+d’union entre les chercheurs maghrébins et américains dans le domaine des
+sciences sociales et humaines.40
+Le dernier lieu de production de la recherche est celui des fondations
+étrangères. Deux fondations allemandes (F. Ebert et K. Adenauer) sont
+présentes dans tous les pays de la région. Elles organisent, en partenariat avec
+les Centres de recherche nationaux des programmes de recherche et
+interviennent également auprès de partenaires de la société civile (associations
+et syndicats).
+La Fondation du roi Saoud Abd Al Aziz, dont le siège est à Casablanca, au
+Maroc, est entièrement consacrée aux sciences sociales et humaines
+maghrébines. C’est une institution privée documentaire, scientifique et
+culturelle crée répondre aux besoins en information et en documentation
+ressentis par la communauté des chercheurs et des opérateurs. Elle sert la
+recherche scientifique et représente, dans la région, la plus importante institution consacrée à l’information et à la documentation en sciences sociales.41
+Son Centre de documentation fournit des services de recherche
+bibliographique de la reproduction en Internet et à distance avec un accès à des
+bases de données internationales. Elle élabore elle-même des banques de
+données et des bibliographies. Sa revue semestrielle de recherche et de
+bibliographie présente les acquisitions de la bibliothèque et des articles. La
+Fondation a édité, en décembre 2005, un ouvrage et un compact disc qui
+recense, de manière systématique, les publications en langue arabe, française et
+anglaise sur le ‘Maghreb dans les sciences sociales’. Ses activités scientifiques
+et culturelles annuelles sont devenus un espace de débats actifs au Maroc et
+dans toute la région.
+Au terme de ce parcours de prés d’un demi-siècle, où en est la sociologie
+aujourd’hui au Maghreb? Existe-t-elle? Produit-elle et renouvelle t-elle les
+savoirs? Existe-il une communauté professionnelle de sociologues? Les usages
+publics de la recherche font-ils de la sociologie, une discipline utile
+socialement? Dans tous ces domaines, l’identité de la sociologie est
+incertaine.42
+La professionnalisation et la communautarisation, processus récents, sont
+fragiles. Le statut des sociologues, comme celui des autres spécialistes des
+sciences sociales, est bouleversé par la crise des années 1980-1990. La relative
+homogénéité antérieure éclate pour donner quatre figures du sociologue.
+Certains font leur entrée en politique dans les partis crées suite aux
+libéralisations politiques et se consacrent à leurs nouvelles fonctions. D’autres,
+tout en restant à l’Université, pratiquent l’expertise au profit des entreprises
+privées et des organismes nationaux et internationaux (FMI, BM, PNUD,
+UNESCO). La troisième trajectoire est celle de l’émigration vers les Université
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+19
+
+et les Centres de recherche en Europe et aux Etats-Unis. Les départs sont plus
+nombreux en Algérie que dans les autres pays à cause de la violence et des
+assassinats dans les années 1990-2000. Les universitaires et les chercheurs qui
+restent en fonction s’orientent dans des conditions difficiles, vers la
+professionnalisation. Ils font de l’enseignement et de la recherche leurs seules
+activités et ont pour ambition d’exercer les règles du ‘métier’ de sociologue.
+Leur communautarisation fait l’objet de nombreuses tentatives. Ils sont à
+l’origine de la création d’associations nationales et régionales. Ils se regroupent
+plus rarement autour des revues. Les syndicats sont maintenant plus nombreux
+mais la syndicalisation est relativement faible. En fait, les sociologues, comme
+l’ensemble des intellectuels, restent profondément divisés, les conflits
+l’emportant sur les collaborations et le travail collectif. La reconnaissance et la
+légitimité passent moins par les proches collègues que par les institutions et les
+chercheurs au niveau international.
+Les usages publics de la sociologie font eux-mêmes débat. La demande de
+sociologie est d’abord et avant tout celle des Etats.43
+Elle est moins la reconnaissance du travail sociologique que la recherche de
+la légitimation des Etats. Ceux-ci disposent de leurs propres institutions pour la
+collecte de l’information statistique et les enquêtes de terrain. Ils font, par
+ailleurs, appel à l’expertise étrangère. La demande locale de sociologie est
+plutôt l’illustration et la confirmation des discours tenus par le ‘leadership’. Les
+affinités entre les Etats et les sociologues sont très fortes jusqu’à la crise des
+années 1980-1990.
+Elle révèle au grand jour l’absence des intellectuels dont les sociologues.
+Elle est vivement ressentie devant la stagnation du développement, la
+mondialisation néo-libérale, l’irruption des mouvements islamistes et de la
+violence. Le phénomène islamiste a été pour les sociologues une grandes
+surprise. Certains, procèdent à leur auto-critique et reconnaissent s’être peu
+intéressés antérieurement à l’Islam et à la religion Globalement, ils sont
+sommés d’expliquer la crise et de suggérer les voies les plus pertinentes pour en
+sortir. Le regard et l’intérêt des sociologues doivent alors se tourner vers la
+société et l’analyse de ses multiples dynamiques.
+Enfin, les savoirs sociologiques, menacés de disparition, demeurent
+incertains. Dans l’enseignement, leur simple reproduction se dégrade de plus
+en plus. Les pères fondateurs de la discipline (M. Weber, E. Durkheim et K.
+Marx) ne sont pas toujours connus. Les règles du ‘métier’ de sociologues sont
+insuffisamment connues et pratiquées. Les Etats et les entreprises mettent en
+question la formation des étudiants au nom de l’adéquation de la formation et
+de l’emploi.
+Dans le domaine de la recherche, les sociologues procèdent, dès les années
+1950-1960, à la critique des méthodes et savoirs de la sociologie coloniale, de
+l’islamologie et de l’orientalisme. Le 24 e Congrès de l’Association
+internationale de sociologie, qui se déroule à Alger en 1974, condamne
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+20
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+l’ethnologie coloniale.44 L’article de A. Abd al Malek sur la crise de
+l’orientalisme est lu par tous les sociologues.45 L’ouvrage de E. Saïd est traduit
+en arabe et en français quelques années plus tard.46 Cette critique se poursuit
+aujourd’hui. Elle déconstruit la sociologie dominante et ne doit pas être
+sous-estimée malgré ses accents polémiques.
+Elle précède les essais de fondation d’une sociologie en correspondance
+avec les données de la société et de la culture de la région. Ils s’orientent dans
+trois directions qui se chevauchent. Dans une première approche, la sociologie,
+comme l’histoire, doit être décolonisée. Le retour à Ibn Khaldoun s’inscrit dans
+cette perspective. Son œuvre fournirait les concepts susceptibles d’expliquer le
+passé du Maghreb et les blocages du présent.47 Dans la seconde approche, il
+s’agit, comme le suggèrent A. Khatibi48 d’élaborer une sociologie arabe. Deux
+thèses soutenues dans des universités américaines s’inspirent de cette
+approche: celles de A. Hammoudi49 et de H. Sharabi.50 Dans la dernière la plus
+récente, l’objectif serait de fonder une sociologie islamique.51 Elle est plus
+active en Egypte que dans les autres pays de la région.
+Le défi auquel font face la sociologie et les sociologues a toutes les chances
+de perdurer dans le proche avenir. La fondation de cette discipline des sciences
+sociales est encore à faire. Elle passe par la vigoureuse critique de la tradition
+religieuse et politique.
+Notes
+1.
+
+2.
+
+3.
+
+Sur la question des frontières entre les disciplines, se reporter à I. Wallerstein.
+L’héritage de la sociologie in Sociétés contemporaines, 1999, n° 33-34, pp
+159-194, et I. Wallerstein, J.M. Blanquer, S. Blanquer, Ouvrir les sciences
+sociales: Rapport de la Commission Gublenkian pour la restructuration des
+sciences sociales. Paris, Descartes et Cie, 1996.
+‘Le Champ scientifique’, ARSS, n° 2-3, 1976, pp 88-104 ;’Quelques propriétés
+des champs’ in Questions de sociologie, Paris, Minuit, 1984, pp. 113-120;
+‘Sociologie de la croyance et croyances des sociologues’, Arch de sc social des
+religions, 63/1, janvier mars 1987, pp 155-161; Homo Academicus, Paris, Minuit,
+1984; L. Gauthier, voir également J. C. I. Chamboredon, ‘Sociologie de la
+sociologie et intérêt sociaux des sociologues’, ARSS n° 2, 1975, pp. 2-77, et E.
+Danteill, ‘P Bourdieu et la religion. Synthèse critique d’une synthèse critique’,
+Arch de sc social des religions, 118, avril-juin 2002, pp. 5-19.
+Sur l’Université d’Alger, voir J. Melia. L’épopée intellectuelle de l’Algérie.
+Histoire de l’université d’Alger, Alger, Maison du Livre, 1950 ; L. Paoli,
+‘L’enseignement supérieur à Alger’, Revue africaine vol 49, n° 258-259, 3e 4e tri
+1950, pp. 406-436; République française. GGA, Université d’Alger,
+Cinquantenaire 1909-1959; X. Yacono, ‘Pour une histoire de l’Université
+d’Alger’, Revue africaine n° 468-469, 1961, pp. 377-392; Ed., Doutté, ‘L’œuvre
+scientifique de l’Ecole des lettres d’Alger’, Revue Africaine vol 49, n° 258-259,
+1950, pp. 438-446; L. Gauthier, ‘A l’aube de notre école supérieur des lettres in
+Cinquantenaire de la Faculté des lettres d’Alger (1881-1931)’, Revue africaine,
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+21
+
+1932, pp. 217-323. Sur les sociétés savantes: Jugne, ‘L’œuvre scientifique des
+sociétés savantes algériennes et tunisiennes’, Revue africaine, 1905, pp. 463-485,
+et J. M. Malarkey, ‘The Dramatic Structure of Scientific Discovery in Colonial
+Algeria: a critique of the Journal of the Société archéologique de Constantine
+(1853-1870)’, in Connaissances du Maghreb, Paris, CNRS, 1984.
+4.
+
+Histoire et recherche identitaire, suivi d’un entretien avec H. Arfaoui. Paris, ed.
+Bouchène, 2002.
+
+5.
+
+‘Rapport sur l’organisation à Alger d’un centre d’étude scientifiques du
+développement économique et social et d’un Institut de recherches économiques
+et sociales’, et IRESA, ‘Un an de recherches à l’Institut de recherches
+économiques et sociales d’Alger’, Alger, 1955.
+
+6.
+
+M. Kluche, op cité, p. 16.
+
+7.
+
+G. Pervillé, Les étudiants algériens de l’université française 1880-1962, Paris,
+CNRS, 1984, pp. 29-30.
+
+8.
+
+Relevé effectué à partir de la liste publiée par F. Leimdorfer, Discours académique
+et colonisation. Thèmes de recherche sur l’Algérie pendant la période coloniale,
+1992, pp. 287-299.
+
+9.
+
+Les ‘Sciences coloniales’ ont fait l’objet de nombreux colloques au Maghreb et en
+Europe. Se reporter, parmi les publications les plus récentes, à: Connaissances du
+Maghreb, sciences sociales et colonisation, Paris, CNRS, 1984; Sciences de
+l’homme et conquête coloniale, Constitution et usages des sciences humaines en
+Afrique, Paris, Presses de l’ENS, 1980; D. Rivet, ‘Exotisme et pénétration
+scientifique: l’effort de découverte du Maroc par les Français au début du XXe
+siècle’, in Connaissances du Maghreb, op cité, pp. 95-109.
+
+10. Tableaux figurant dans l’ouvrage de F. Leimdorfer op cité, pp. 271-272. Les thèses
+et la sociologie sont abordées dans les ouvrages suivants: M. Dinstel, ‘List of
+French Doctoral Dissertations on Africa 1884-1961’, Boston, 1966; ‘Répertoire
+des mémoires et thèses consacrés au Maghreb’, Cahiers de la Méditerranée, 1979;
+V. Karady, ‘Notes sur les thèses de doctorat consacrées à l’Afrique dans les
+universités françaises de 1884 à 1961’, in Informations en sciences sociales, 11
+(1), 1972, pp. 65-80; F. Leimdorfer, ‘Objets de la sociologie coloniale, l’exemple
+algérien’, in Revue Tiers-monde, T XII, n° 90, 1982, pp. 279-295; J. Berque, ‘Cent
+vingt-cinq ans de sociologie maghrébine’, Annales E.S.C., n° 3, sept 1956, pp.
+296-324.
+11. A. Selmi, ‘L’émergence d’un champ scientifique: l’ethnosociologie et la
+sociologie de Tunisie (1881-1970)’, Gradhiva, 2001, n°29, pp. 43-57.
+12. Op cité, pp. 58-59.
+13. La sociologie, Le Caire, imp moderne, 1er volume en 1924, 2e volume en 1925.
+14. Pour une présentation critique de l’ouvrage qui eut une forte influence, se reporter
+à F. Maatouk, Les contradictions de la sociologie arabe, Paris, l’Harmattan, 1992,
+pp. 83-97.
+15. Parcours d’une intellectuelle en Algérie. Nationalisme et anti-colonialisme dans
+les sciences sociales, Paris, l’Harmattan, 1995.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+22
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+16. ‘D’une articulation à l’autre: les trois périodes d’une sociologie en Algérie’, in
+Bourquia et N.Hopkins (eds.), Le Maghreb: Approches des mécanismes
+d’articulation, Casablanca, Al Kalam, 1991, pp. 7-30, et Société algérienne et
+sciences humaines, Naqd, Alger 2001, pp. 13-44.
+17. Sur le contexte politique et les enjeux de la reforme, se reporter à Dj Labidi,
+Science et pouvoir en Algérie. De l’indépendance au 1er Plan de la recherche
+scientifique 1962-1974, Alger, OPU, 1992, et M. Benachenou, Vers l’Université
+algérienne. Réflexions sur une stratégie universitaire, Alger, OPU, 1980; D.
+Glasman, J. Kremer, ‘Essai sur l’Université et les cadres en Algérie’, Paris, CNRS,
+1978.
+18. ‘Bilan de la sociologie au Maroc’, Rabat, Association des sciences de l’homme,
+1967.
+19. 1962.
+20. A. Selmi, op cité.
+21. M. Kleiche, ‘La recherche scientifique au Maroc. Histoire et institutions’, in R.
+Waast et J. Gaillard, La science en Afrique à l’aube du 21e siècle, Paris, IRD, 2002.
+22. P. Pascon, ‘30 ans de sociologie au Maroc’, BESM, n° 155-156, janvier 1986; voir
+en particulier un texte de P. Pascon, ‘La sociologie pour quoi faire?’, (pp. 59-70),
+qui devait servir d’introduction à un manuel de sociologie rurale, daté de 1979.
+23. A. Dhifi (Coordination et actualisation), Liste des publications du CERES.
+1964-1997, Tunis, 1997, imprimerie officielle.
+24. Université d’Oran, Annuaire de la post-graduation, Année universitaire
+1993-1994.
+25. Chenntouf Tayeb, (ed.), Répertoire des thèses et mémoires concernant l’Algérie,
+Alger, imp off., 1977, et Centre de la Méditerranée moderne et contemporaine
+(Université de Nice), Répertoire des mémoires – thèses consacrés au Maghreb,
+Nice,1979.
+26. Alger, OPU, 1989.
+27. Alger, ENAL, 1991.
+28. Chronologie et chiffres cités par Kh. Taleb Ibrahimi. Les Algériens et leur (s)
+langue (s), Alger, El Hikma, 1995. Pour l’arabisation, se reporter aux ouvrages de
+G. Geneste, L’arabisation des sciences sociales et humaines en Algérie
+1980-1982, une étape décisive dans l’histoire de l’université, Thèse de 3e cycle en
+sciences de l’éducation, université de Lyon 2; A. Mazouni, ‘L’arabisation en
+Algérie’, Lamalif, 1973, n° 58; Ch. Souriau. ‘La politique algérienne de
+l’arabisation’, AAN, 1972; S. Hamzaoui, ‘L’arabisation, problème idéologique’,
+Revue Tunisienne des sciences sociales, 1976, n° 44; M. Kilani, ‘Langue et
+domination. De la relation coloniale à la relation de dépendance’, Rev europ des sc
+social, 1977, t 15, n° 40; A. Helmy-Ibrahim, ‘Fonctions et niveaux de langue dans
+la communication sociale en Egypte’, Peuples méditerranéens 1978 n° 5; et A.
+Moatassime, Langage et politique au Maghreb. Contribution à une politique
+linguistique dans les systèmes pédagogiques maghrébins. A la lueur d’une étude
+sur les langues à l’école dans ses rapports avec l’évolution politique au Maroc de
+1957 à 1977, Thèse de doctorat d’Etat, université de Paris 1.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+23
+
+29. Insaniyat, janvier 2005, n° 25, pp. 11-26.
+30. A. Lakjaa (coord), Sociologie et Société en Algérie, Alger, Casbah ed., 2004.
+31. K. Ben Kahla, ‘L’université tunisienne face au dilemne universalité –
+mondialisation Réflexions sur une fracture universitaire’, AAN, t xl, 2002.
+32. Note d’orientation relative à la mise en œuvre de la réforme de l’enseignement
+supérieur, janvier 2004; voir également Ministère de l’enseignement supérieur et
+de la recherche scientifique, Réorganisations des enseignements supérieurs,
+novembre 2001.
+33. Annuaire des laboratoires de recherche scientifique universitaire. Sans nom
+d’éditeur ou d’imprimeur.
+34. Les auteurs de l’Annuaire rappellent néanmoins que cette première édition n’est
+pas exhaustive, tous les laboratoires n’ayant pas répondu à l’enquête Pour le
+Maroc et la Tunisie, voir ‘50 ans de développement humain et perspective’, 2025,
+Document de synthèse du rapport général et Vers l’instauration de la société du
+savoir. La nouvelle réforme du système éducatif tunisien. Programme pour la mise
+en œuvre du projet ‘Ecole pour demain’ (2002-2007). Tunis, octobre 2002.
+35. Document présentant les résumés des communications, février 2005.
+36. Soit 3442 dont 1408 avec le grade de professeur.
+37. Note d’orientation relative à la mise en œuvre de la réforme de l’enseignement
+supérieur, janvier 2004.
+38. Allocution du Ministre de l’enseignement supérieur à la conférence nationale des
+universités, 23 janvier 2005.
+39. J. J. Waardenburg, Les universités dans le monde arabe actuel, Paris, La Haye,
+Mouton, 1966, 2 vols.
+40. Le Quoditien, 7-11-2005.
+41. Son site Internet a fréquemment été mis a contribution pour cet état des lieux de la
+sociologie au Maghreb.
+42. Sur les questions abordées dans la conclusion, voir Chenntouf Tayeb, ‘Les
+intellectuels dans la crise 1988-2004’, in Chenntouf Tayeb (coordonnateur),
+L’Algérie face à la mondialisation, Ouvrage à paraître dans la série des livres du
+CODESRIA, Dakar.
+43. Cl. Chaulet, ‘La sociologie au service du développement’, rétrospective, in A
+Lakjaa, Sociologie et société, op cité pp. 65-72.
+44. Acte du 24e Congrés de sociologie, Alger, OPU, 1977, 2 vols.
+45. ‘La crise de l’orientalisme’, Diogène, n° 54, 1962, pp. 7-28.
+46. ‘L’Orientalisme, l’Orient crée par l’Occident’, Paris, Le Seuil, 1980.
+47. Discours sur l’histoire universelle. Al Muqaddima (traduit par V. Monteil),
+Beyrouth, 1967, 3 vols.
+48. ‘Sociologie du monde arabe. Positions’, Bull économique et social du Maroc, n°
+126, pp. 1-10.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+24
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+49. Maitres et disciples. Genèse et fondements des pouvoirs autoritaires dans les pays
+arabes Essai d’anthopologie politique, Casablanca-Paris, Toubkal-Maisonneuve
+et Larose, 2001.
+50. Neopatriachy: A Theory of Distorted Change in Arab Society, traduit et publié
+sous le titre Néopatriareat, Alger, ed. Marinoor, 1995.
+51. A. Roussillon, La pensée islamique contemporaine, Paris, Téraédre, 2005.
+
+Documentation et bibliographie
+La documentation sur la sociologie est essentiellement institutionnelle. Les
+Ministère et les universités sont à l’origine de nombreux documents comme les
+discours officiels, les statistiques, les programmes d’enseignement et de
+recherche. Les résultats de la recherche sont partiellement édités. Plusieurs
+Sites Internet permettent l’accès à l’information relative à la sociologie. Pour le
+Maghreb, les plus fournis sont ceux de la Fondation du Roi Saoud ibn abd al
+Aziz dont le siège est à Casablanca au Maroc, de Arab Social Sciences
+Research en arabe, anglais et français et celui de l’Institut de recherches pour le
+Développement (France) qui a réalisé, en 2001-2003, une enquête sur la
+science en Afrique a l’aube du 21e siècle sous la direction de R. Waast et J.
+Gaillard. Pour les études sur la sociologie, outre les notes cités en référence, se
+reporter aux travaux suivants:
+1.
+
+Ouvrages généraux sur la sociologie
+
+R.W Green, (ed.), Protestantism, capitalism and Science. The Weber Thesis Controversy, Lexington, Heath, 1973.
+L. Voye, Sociologie: construction du monde, construction d’une discipline, Louvain la
+Neuve, De Boeck et Larcier, 1997.
+J. M. Berthelot, Sociologie: épistémologie d’une discipline: textes fondamentaux,
+Bruxelles, De Boeck-Université, 2000.
+G. Lefebre, Sociologie de Marx, Paris, PUF, 1974.
+G. Busino (dir), ‘Sociologie et sociologues pour quoi faire’, Revue européene des
+sciences sociales, n° 122, 2002.
+G. Ballandier (dir), ‘Sociologie inactuelle, sociologie actuelle’, Cahier. Int de socio,
+2000.
+S. Delzecaux, N. Elias, Une sociologie des processus, Paris, l’Harmattan, 2002.
+N. Elias, Qu’est-ce que la sociologie?, La Tour d’Aigue, ed de l’Aube, 1986.
+C. Colliot-thélène et J. F. Kervégan, De la société à la sociologie, Paris, ed de l’ENS,
+2002.
+P. J. Simon, Eléments pour une histoire de la sociologie, Presses univ de Rennes, 1987.
+N. Elias, Engagement et distanciation: contributions à une sociologie de la
+connaissance, (traduit de l’allemand), Paris, Fayard, 1993.
+Saint Haber, Habermas et la sociologie, Paris, PUF, 1998.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+25
+
+J. P. Durand, La sociologie de Marx, Paris, La Découverte, 1995.
+G. Busino, ‘Idées et faits: pour une critique de la pratique sociologique et des théories
+sociales, pour une sociologie historique’, Revue européene des sciences sociales,
+n° 48, 1979.
+G. Busino, La permanence du passé: questions d’histoire de la sociologie et
+d’épistémologie sociologique, Genève, Droz, 1986.
+Saint Kalberg, La sociologie historique comparative de M. Weber, (traduit de
+l’anglais), Paris, La Découverte, 2002.
+Cl. Grignon, J.C. Passeron, Le Savant et le populaire: misérabilisme et populisme en
+sociologie et en littérature, Paris, Le Seuil, 1989.
+Revue d’histoire moderne et contemporaine, (n° spécial, 1999), ‘Les historiens et la
+sociologie de P. Bourdieu’.
+G. Ballandier, ‘Les métamorphose de la sociologie allemande’, Cahiers inter de socio,
+1999.
+J. Lojkine, (s l d), Les sociologues critiques du capitalisme, Paris, PUF, 2002.
+P. J. Simon, ‘Sociologie et réforme sociale’, in Sciences humaines, juin - juillet 1999, n°
+25.
+J. Gaillard, ‘La naissance difficile des communautés scientifiques’, in J. J. Salmon, F.
+Sagesti, C. Sachs-Jantet (dir), La Quête incertaine, Paris, Economica – The United
+Nations University, 1994, pp. 213-249.
+X. Polanco (dir), ‘Naissance et développement de la science-monde. Production et
+reproduction des communautés scientifiques en Europe et en Amérique latine’,
+Paris, La Découverte-Conseil de l’Europe-UNESCO,1989.
+L. Roulan. L’Etat et la science, Paris, CNRS, 1987.
+R. Waast (dir), Les sciences hors de l’Occident au XXe siècle, Paris, ed de l’ORSTOM,
+1996, 7 vols.
+R. Aron, Les étapes de la pensée sociologique, Paris, Gallimard, 1967.
+P. Wagner, ‘Les sciences sociales et l’Etat en Europe continentale: la structuration
+politique du discours disciplinaire’, RISS, 1989, vol 41, n° 4, pp. 523-541.
+UNESCO-MSH, Les sciences sociales dans le monde, Paris, 2001.
+‘Nouveaux travaux en histoire de la sociologie’, in Revue d’histoire des sciences
+humaines, 2005, n° 13.
+J. Szacki, ‘Réflexions sur l’histoire de la sociologie’, RISS, 1981, 33, 2, pp. 270-281.
+Bulletin de la société française pour l’histoire des sciences de l’hommes, n° 19,
+février 2000.
+R. Waast et J. Gaillard, La science en Afrique à l’aube du 21e siècle, Paris, IRD, 2002.
+
+2.
+
+La sociologie au Maghreb
+
+J J. Waardenburg, Les universités dans le monde arabe, Paris-La Haye, Mouton-EPHE,
+1996.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+26
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+R. Bourquia et N. Hopkins (eds.), Le Maghreb. Approches des mécanismes
+d’articulation, Rabat, Al Kalam, 1991.
+M. Arkoun, ‘Discours islamiques, discours orientalistes et pensée scientifique’, in B.
+Lewis, E. Leites et M. Case (eds.), As Others See Us: Mutual Perceptions, East and
+West, Princeton, 1985.
+S. F. Alatas, ‘The Sacralization of the Social Sciences: a critique of an Emerging
+Theme in the Academic Discourse’, Arch de Science sociale des religions, juillet –
+septembre 1995, n° 91.
+J. Berque, ‘125 ans de sociologie maghrébine’, Annales ESC, n° 3, vol XI.
+A. Bouhdiba, ‘Pour une sociologie militante in Etudes de sociologie tunisienne’, Bull
+de recherche sociale, 1970, pp. 7-10.
+J. Fonkoué, Différence et identité. Les sociologues africains face à la sociologie, Paris,
+Silex, 1985.
+A. Mahé, K. Bendana, Savoirs du lointain et sciences sociales, Saint Denis, ed.
+Bouchère, 2004.
+J. M. Ela, Restituer l’histoire aux sociétés africaines. Promouvoir les sciences sociales
+en Afrique, Paris, L’Harmattan, 1994.
+M. Mamdani, ‘L’intelligentsia, l’Etat et les mouvements sociaux’, in M. Diouf et M.
+Mamdani (eds.), Liberté académique en Afrique, Dakar, CODESRIA, 1994.
+M. Kerrou, ‘Etre sociologue dans le monde arabe ou comment le savant épouse le
+politique’, Peuples méditerranéens, n° 54-55, jan- juin 1991, pp. 247-268.
+R. Ouahes, La science et la technologie dans les Etats arabes à l’horizon 2000, Paris,
+UNESCO, 1988.
+M. Brondino et T. Labib, Gramsci dans le monde arabe, Tunis, Alif, 1994.
+M. Arkoun, ‘Quelques tâches de l’intellectuel musulman aujourd’hui’, Cahiers de la
+Méditerrannée, n° 37, 1988, pp. 1-35.
+A. Laroui, La crise des intellectuels arabes, traditionalisme on historicisme, Paris,
+Maspéro, 1974.
+al Bichri et autres, Les intellectuels et le pouvoir. Syrie, Egypte, Tunisie, Algérie, Le
+Caire, CEDEJ, 1986.
+J. C. Vatin, (s l d), Connaissances du Maghreb: sciences sociales et colonisation, Paris,
+CNRS, 1984.
+Peuples méditerranéens, 1990, n°50, ‘L’orientalisme’, (n° spécial).
+Th. Obenga, Le sens de la lutte contre l’africanisme euro-centriste, Paris, Karthala,
+2001.
+J. M. Ela, Les sciences sociales à l’épreuve de l’Afrique: les enjeux épistémologiques
+de la mondialisation, Dakar, CODESRIA, 1988.
+L. Ben Salem, ‘Sociologie et anthropologie’, in Femmes tunisiennes et production
+scientifique, Tunis, CREDIF, 1997.
+L. Ben Salem, ‘Intérêt des analyses en termes de segmentarité pour l’étude des sociétés
+du Maghreb’, ROMM, 1982, n° 33.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+27
+
+L. Ben Salem et D. Mahfoudh Draoui, Modernité et pratiques sociologiques, Tunis,
+CPU, 2000.
+M. N. Bourguet, B. Lepetit, D. Nordman, M. Sinarellis (dir), L’invention scientifique
+de la Méditerranée. Egypte, Algérie, Morée. Paris, EHSS, 1998.
+Cahiers de Jussieu (Université de Paris 7), ‘Le mal de voir’, Paris, UGE, 1976.
+A. Labdaoui, Intellectuels d’Orient. Intellectuels d’Occident, Paris, L’Harmattan,
+1996.
+A. Labdaoui, Les nouveaux intellectuels arabes, Paris, L’Harmattan, 1993.
+J. Berque (s l d), Bibliographie de la culture arabe contemporaine, Paris,
+Sinbad-pressse de l’UNESCO, 1981.
+Collectif, Sciences sociales et l’avenir de l’Afrique, Dakar, CODESRIA, 2005.
+L. Ben Salem, ‘Le dilemme de la construction de la sociologie au Maghreb’, In A.
+Mahé K. Bendana, Savoirs du lointain et sciences sociales, Saint-Denis, 2005.
+F. Chevaldonne, ‘Mondialisation et orientalisme’, in Nouveaux enjeux culturels au
+Maghreb, Paris, CNRS, 1998, pp. 267-276.
+D. Nordman et J. P Raison, Sciences de l’homme et conquête coloniale, constitution et
+usages des sciences humaines en Afrique (XIXe-XXes), Paris, Presses de l’ENS,
+1980.
+Réforme de l’enseignement supérieur, Recueil de textes Alger, MESRS, 1971.
+A. Mandouze, ‘Problèmes actuels de l’université algérienne’, in F. Perroux, Problèmes
+de l’Algérie indépendante, Paris, PUF, 1963.
+M. Haddab, ‘Arabisation de l’enseignement des sciences et mutations dans le champ
+socio-linguistique en Algérie’, AAN, 1985.
+R. Bellil, ‘La domestication du savoir sur la société’, AAN, 1985, t XXIV.
+M. Ariba, ‘L’université, ses missions et l’imposition d’une politique. Aperçu sur le
+contexte algérien d’hier et d’aujourd’hui. Permanence et actualité des enjeux’,
+AAN, 2002, t XL.
+D. Liabès, ‘Objet donné, objet construit: positions épistémologiques’, in Débats et
+critiques, Alger, INEAP, 1981, n° 5.
+A. El Kenz, N. Bourenane, Dj Liabes, ‘Impérialisme scientifique et libertés
+académiques. Genèse, fondements et enjeux’, Les Cahiers du CREAD, 1er, 1992,
+n° 29, pp. 89-107.
+D. Glasman, J. Kremer, ‘Essai sur l’université et les cadres en Algérie’, Paris CNRS
+1978.
+A. Henni, ‘La mise en œuvre de l’option scientifique et technique en Algérie. Le
+système d’enseignement et de formation’, Alger, CREAD, 1987.
+M. Bennachenou, Vers l’université algérienne. Réflexions sur une stratégie
+universitaire, Alger, OPU, 1980.
+Dj. Labidi, Science et pouvoir en Algérie. De l’indépendance au 1er plan de la
+recherche scientifique, Alger, OPU, 1992.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+28
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+Université d’Oran, Colloque sur les sciences sociales aujourd’hui, (26-29 mai 1984),
+Alger, OPU, 1986.
+M. Ghlamallah, (s l d), ‘Les enseignants universitaires algériens. Conditions, attitudes
+et pratiques Professionnelle, Alger, CREAD, 2005.
+Y. Ferfera et M. Tefiani, (eds.), Formation pédagogique et pratiques d’enseignement
+dans le supérieur Problématique, état des lieux et expériences, Alger, CREAD,
+2005.
+M. Ghlamallah (dir), ‘Les enseignants universitaires’, Les Cahiers du CREAD, n°
+62-63, 2003.
+Dj. Guerid, ‘L’Université entre Etat et société’, in Dj Guerid, L’université aujourd’hui,
+Oran-Cread, 1998.
+A. Kadri. ‘Le système universitaire dans la décennie 80’, Naqd n°5,1993, pp. 74-90.
+Dj. Guérid, ‘Société algérienne et sciences humaines’, Naqd, mais 2001.
+H. Karoui et A. Zghal, ‘La décolonisation et la recherche en sciences sociales. Le cas de
+la Tunisie’ Die Welt, 1975, n° 2.
+D. Mahfoudh-Draoui, ‘Essai d’analyse critique des recherches sociologiques pendant
+la période coloniale en Tunisie’, Hesperis-Tamuda,1988-1989, vol 26-27.
+M. Ben Salem, ‘Le statut de ‘l’acteur social’ dans la sociologie tunisienne’,
+Correspondance, février 1998, n° 49.
+S. Hamzaoui, ‘L’arabisation, problème idéologique’, RISS, 1976, n° 4.
+L. Ben Salem, ‘Démocratisation de l’enseignement en Tunisie. Essai d’analyse du
+milieu d’origine des étudiants tunisiens’, Revue tunisie en sciences sociales, n° 16,
+mais 1969, pp. 81-135.
+M. Ben Slimane, ‘Discours et parcours des réformes universitaires tunisiennes, in
+Réformes universitaires et mutations socio-culturelles, M. Ben Slimane et N. Dhari
+(dir), Tunis, Epigraph, 2001.
+L. Guitier, ‘L’université tunisienne: histoire d’une normalisation’, Les Cahiers de
+l’Orient, 1997, n° 46.
+‘L’Université et les transformations sociales’, Cahiers du CERES, 1992, n° 3.
+M. Lelong, L’ réforme de l’enseignement supérieur en Tunisie’, IBLA, 1969, n°123,
+pp. 171-176.
+F. Siino, ‘La science tunisienne: au cœur du discours, aux marges de la société?’,
+Monde arabe Maghreb-Machrek, n° 157, juillet -septembre 1997.
+K. Taamallah, ‘Enseignement supérieur en Tunisie: inégalité et reproduction sociale’,
+Revue tunisienne des sciences sociales, 1987, n° 88-91, pp. 303-326.
+Banque mondiale, ‘L’enseignement supérieur en Tunisie: enjeux et avenir ‘Les
+rapports économiques de la Banque mondiale 1998.
+K. Bendana, ‘Diplôme et université en Tunisie dans les années cinquante’, in V.Geisser
+(dir), Diplômés maghrébins d’ici et d’ailleurs, trajectoires sociales et itinéraires
+migratoires.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+LA SOCIOLOGIE AU MAGHREB: CINQUANTE ANS APRÈS
+
+29
+
+A. Ben Dhia, ‘L’université tunisienne: le temps des questions, l’âge des nouvelles
+options’, Publication du MESRS, Tunis 1985.
+K. Ben Kahla, ‘L’université Tunisie face au dilemme université-mondialisation:
+réflexions sur la ‘fracture universitaire’, AAN, 2002 t xl.
+S. Ben Sedrine, ‘Gagnants et perdants de la transition libérale – L’insertion
+professionnelle des diplômés en Tunisie’, in V. Geisser (dir).
+F. Siino, ‘L’université tunisienne banalisée. Mise à niveau libérale et dépolitisation’,
+AAN, t XL, 2002.
+F. Siino, Science et pouvoir dans la Tunisie contemporaine, Paris, Karthala, 2004.
+N. Khoury, ‘De la production sociologique dans l’Egypte actuellement’, Revue
+Tiers-monde, avril-juin 1982, vol 23, n° 90, pp. 389-396.
+N. Farah Ramsis, ‘Société civile et liberté de recherche en Egypte’, in M. Diouf et M.
+Mamdani (eds.), Liberté académique en Afrique, Dakar,CODESRIA, 1994.
+I. Sonallah Amerikanli, ‘Un automne à San Francisco’, Le Caire, Dar al Mustaqbal al
+Arabi, 2003; en français chez Actes-sud/Sinbad, 2005.
+Ch. D. Smith, ‘The crisis of orientation, the Shift of Egyptians intellectuals to Islamic
+Subjects in 1930s’, International Journal of Middle East Studies, 1977, n° 4, pp.
+382-410.
+A. Helmy Ibrahim, ‘Fonctions et niveaux de langue dans la communication sociale en
+Egypte’, Peuples méditerranéens, N°5, 1978.
+A. Roussillon, ‘Durkheimisme et réformisme: fondation identitaire de la sociologie en
+Egypte’, Arabica, 1996.
+A. Roussillon, ‘La représentation de l’identité par les discours fondateurs de la
+sociologie turque et égyptienne: Zia Gokalp et Ali abd al Wahid Wafi’, in Dossier
+CEDEJ Modernisation et mobilisation sociale, II Egypte – Turquie, 1992.
+A. Roussillon, Projet et traditions scientifique: aux origines de la socio égyptienne in
+d’Un Orient à l’autre, vol II: Identifications, Paris, CNRS, 1991.
+A. Roussillon, ‘Sociologie égyptienne, arabe, islamique: l’approfondissement du
+paradigme réformiste’, in Peuples méditerranéens, n° 54, 55, 1991.
+A. Roussillon, ‘Intellectuels en crise dans l’Egypte contemporaine’, in G. Kepel et Y
+Richard (s l d ), Intellectuels et militants de l’Islam contemporain Paris, Le Seuil,
+1990.
+A. Roussillon, Sciences sociales et réformisme: une sociologie de l’Egypte éternelle.
+Post face de l’histoire que je porte sur mon dos mémoires, Le Caire CEDEJ 1989.
+A. Roussillon, ‘Savoirs réformistes et politiques en Egypte au tournant des années
+1940’, Genèses n°, sept 1999, pp. 55-80.
+A. Roussillon, Réforme sociale et identité: essai sur l’émergence de l’intellectuel et du
+champ politique modernes en Egypte, Casablanca, ed du Fennec, 1998.
+M. Zeghal, ‘Gardiens de l’islam. Les Oulemas d’Al Azhar’, Presses de Sc. Pr. 1996.
+A. Khatibi et A. Ezzine, Sciences humaines et sociales au Maroc: études et arguments,
+Rabat, IURS; 1998, vol. 1.
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+30
+
+REVUE AFRICAINE DE SOCIOLOGIE 10(1)
+
+P. Pascon, ‘30 ans de sociologie au Maroc: textes anciens et inédits’, BESM, 1986.
+A. Khatibi, ‘Bilan de la sociologie au Maroc’, Rabat, Association des sciences de
+l’homme, 1967.
+E. Gérard et M. Kleiche, ‘Les sciences humaines et sociales au Maroc’, Rabat, Centre J.
+Berque, 2002.
+Université Mohammed V, La sociologie marocaine contemporaine. Bilan et perspectives, Rabat, 1988, (en arabe et en français).
+
+Tayeb Chenntouf
+Tour Bel-Air Appt 142
+Rue Jonher. Oran, Algérie
+Fax: 213 41-41-34-12
+Email: tayebchen@yahoo.fr
+
+This content downloaded from
+185.25.195.104 on Tue, 20 Apr 2021 13:58:57 UTC
+All use subject to https://about.jstor.org/terms
+
+
