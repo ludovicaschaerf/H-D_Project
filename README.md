@@ -1,8 +1,9 @@
 # Tracing Swiss National Sentiment in Newspapers
+
 Repository for the DH-412 course project.
 By Aurel Maeder, Ludovica Schaerf, Michal Bien.
 
-## Organisation of the repository 
+## Organisation of the repository
 
 ```
 .
@@ -13,12 +14,16 @@ By Aurel Maeder, Ludovica Schaerf, Michal Bien.
 |  |  +-- ... 
 +-- baseline_sociology
 |  +-- ...
++-- newspapers_propaganda
+|  +-- ...
++-- city_term_list_analysis
+|  +-- ...
 +-- aurel_data_preprocessing_tfidf.ipynb (to rename)
 +-- N-grams Sociology of Nation.ipynb 
 +-- README.md
 ```
 
-The ipython notebook instances each contain the corpus loading, preprocessing and tfidf vectorization for each of the three corpus based extractions (still need propaganda one). (need a notebook containing the city names searches). Each of the notebooks, in addition, contains the plots obtained from querying the words into the impresso website, under the [ngrams tab](https://impresso-project.ch/app/search/ngrams?sq=CgcYCSoDR0RMCgIYAgoOEAIYByABKgZuYXRpb24%3D). The remaining folders contain the data loaded by the notebooks. 
+The ipython notebook instances each contain the corpus loading, preprocessing and tfidf vectorization for each of the three corpus based extractions (still need propaganda one). (need a notebook containing the city names searches). Each of the notebooks, in addition, contains the plots obtained from querying the words into the impresso website, under the [ngrams tab](https://impresso-project.ch/app/search/ngrams?sq=CgcYCSoDR0RMCgIYAgoOEAIYByABKgZuYXRpb24%3D). The remaining folders contain the data loaded by the notebooks.
 
 ## Project Abstract
 
