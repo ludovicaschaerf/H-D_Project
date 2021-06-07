@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+spacy
+tei_reader
+sklearn
+tqdm
+nltk
+gensim
+pyLDAvis
+Pillow
+wordcloud

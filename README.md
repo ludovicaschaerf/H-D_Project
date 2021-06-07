@@ -11,6 +11,7 @@ By Aurel Maeder, Ludovica Schaerf, Michal Bien.
 |  +-- corpus_analysis       - target and reference corpora used for TF-IDF extraction
 |  +-- longitudinal_analysis - token frequency lists extracted from Impresso
 +-- src                      - notebook used for each part of the analysis
++-- requirements.txt         - python environment requirements to run the notebooks
 +-- README.md
 ```
 
