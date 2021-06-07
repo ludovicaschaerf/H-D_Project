@@ -1,0 +1,4 @@
+https://mbien-public.s3.eu-central-1.amazonaws.com/dh-412/french.csv
+https://mbien-public.s3.eu-central-1.amazonaws.com/dh-412/german.csv
+https://mbien-public.s3.eu-central-1.amazonaws.com/dh-412/tokens_french.pickle
+https://mbien-public.s3.eu-central-1.amazonaws.com/dh-412/tokens_german.pickle

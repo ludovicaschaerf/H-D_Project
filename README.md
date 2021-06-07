@@ -7,19 +7,10 @@ By Aurel Maeder, Ludovica Schaerf, Michal Bien.
 
 ```
 .
-+-- swiss_history_books
-|  +-- Der_Geschichten_schweizerischer_Eidgenos.pdf
-|  +-- Der_Geschichten_schweizerischer_Eidgenos.txt
-+-- data_sociology
-|  |  +-- ... 
-+-- baseline_sociology
-|  +-- ...
-+-- newspapers_propaganda
-|  +-- ...
-+-- city_term_list_analysis
-|  +-- ...
-+-- aurel_data_preprocessing_tfidf.ipynb (to rename)
-+-- N-grams Sociology of Nation.ipynb 
++-- data                     - data files and data links used for the analysis
+|  +-- corpus_analysis       - target and reference corpora used for TF-IDF extraction
+|  +-- longitudinal_analysis - token frequency lists extracted from Impresso
++-- src                      - notebook used for each part of the analysis
 +-- README.md
 ```
 
