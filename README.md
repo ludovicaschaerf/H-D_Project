@@ -1,4 +1,4 @@
-# Tracing Swiss National Sentiment in Newspapers
+# Tracing Swiss National Identity in Newspapers
 
 Repository for the DH-412 course project.
 By Aurel Maeder, Ludovica Schaerf, Michal Bien.
