@@ -1,0 +1,10 @@
+The reference corpus files are to big as to upload them to github.
+If you want to reproduce the results please find the reference corpora here:
+
+
+German reference corpus:
+Berlin-Brandenburgischen Akademie der Wissenschaften (2021). Deutsches textarchiv.grundlage für ein referenzkorpus der neuhochdeutschen sprache. Available athttps://www.deutschestextarchiv.de/(2021/04/22).
+
+
+Frenche reference corpus:
+Bibliothèque nationale de France (2018). Très grande bibliothèque. Available athttp://api.bnf.fr/documents-de-gallica-produits-au-format-tei-par-obvil(2021/04/22).
